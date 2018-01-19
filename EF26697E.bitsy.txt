@@ -1,0 +1,172 @@
+         -A MOTH STORY-                                          Last weekend, I tripped up to an uncle's cottage with family.    It had been a long time - maybe a year - since I'd been there.   (I've never really been much of a cottage-goer)                  Some people went out on the lake - swimming, boating, etc.       I spent most of the day sitting in a lawn chair not doing much.  I met some new people, and also my brother's new puppy.          I remember the puppy's name, but not the people.                 That trip, together with this   prompt made me realize:          I don't see moths anymore.                                       They must be around - I used to see them when I was younger.     Flying around gardens, clinging to window screens at night...    I remember chasing white cabbage moths around in the backyard.   I don't spend time in gardens   these days though.               I don't look out the windows as often as I should.               I tell myself "that's not that  bad; I go for walks sometimes".  But I don't see moths walking   along city streets at noon.      Maybe I'm just not paying enough attention to insects?          
+
+# BITSY VERSION 3.5
+
+! ROOM_FORMAT 1
+
+PAL 0
+64,0,64
+0,0,0
+219,216,176
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,f,c,c,c,c,c,c,c,c,c,c,c,c,g,0
+0,d,a,a,a,a,a,a,a,a,a,a,a,a,i,0
+0,d,a,a,a,a,a,a,a,a,a,a,a,a,i,0
+0,e,b,b,b,b,b,b,b,b,b,b,b,b,h,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+END 0 4,4
+END 0 3,4
+END 0 3,5
+END 0 4,5
+END 0 5,5
+END 0 5,4
+END 0 3,3
+END 0 4,3
+END 0 5,3
+END 0 3,2
+END 0 4,2
+END 0 5,2
+END 0 3,1
+END 0 4,1
+END 0 5,1
+PAL 0
+
+TIL a
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL b
+11111111
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL c
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+11111111
+
+TIL d
+00001111
+00001111
+00001111
+00001111
+00001111
+00001111
+00001111
+00001111
+
+TIL e
+00001111
+00001111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL f
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00001111
+00001111
+
+TIL g
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11110000
+11110000
+
+TIL h
+11110000
+11110000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL i
+11110000
+11110000
+11110000
+11110000
+11110000
+11110000
+11110000
+11110000
+
+SPR A
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 0 4,2
+
+SPR a
+00000000
+00000000
+00010000
+01111100
+01101100
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00010000
+00010000
+00010000
+00010000
+00000000
+00000000
+POS 0 4,4
+
+DLG a
+I'm not a cat
+
+END 0
+Maybe I should just look out the windows more often than I do.  
+

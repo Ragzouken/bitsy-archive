@@ -1,0 +1,181 @@
+Pac-Man Reconciliation
+
+# BITSY VERSION 3.3
+
+! ROOM_FORMAT 1
+
+PAL 0
+0,0,0
+0,0,255
+255,255,0
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b,a,a,a,a,a,a,a,a,a,a,a,a,a,a,d
+c,0,0,0,0,0,0,0,0,0,0,0,0,0,0,c
+c,0,b,0,a,a,a,a,a,a,a,a,0,d,0,c
+c,0,c,0,0,0,0,0,0,0,0,0,0,c,0,c
+c,0,e,a,d,0,b,0,a,d,0,b,a,f,0,c
+c,0,0,0,0,0,c,0,0,c,0,0,0,0,0,c
+e,a,a,0,c,0,e,a,a,f,0,c,0,a,a,f
+0,0,0,0,c,0,0,0,0,0,0,c,0,0,0,0
+b,a,a,0,e,a,a,a,a,a,a,f,0,a,a,d
+c,0,0,0,0,0,0,0,0,0,g,g,0,g,g,c
+c,0,b,0,a,d,0,b,d,0,b,a,0,d,g,c
+c,0,c,0,0,c,0,c,c,0,c,0,0,c,g,c
+c,0,e,a,0,0,0,e,f,0,0,0,a,f,g,c
+c,0,0,0,0,c,0,0,0,0,c,g,g,g,0,c
+e,a,a,a,a,a,a,a,a,a,a,a,a,a,a,f
+WAL a,b,c,d,e,f
+EXT 0,8 0 15,8
+EXT 15,8 0 0,8
+END undefined 9,10
+END undefinee 7,10
+PAL 0
+
+TIL a
+00000000
+11111111
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+
+TIL b
+00000000
+00111111
+01100000
+01000000
+01000000
+01000000
+01000001
+01000011
+
+TIL c
+01000010
+01000010
+01000010
+01000010
+01000010
+01000010
+01000010
+01000010
+
+TIL d
+00000000
+11111100
+00000110
+00000010
+00000010
+00000010
+10000010
+11000010
+
+TIL e
+01000011
+01000001
+01000000
+01000000
+01000000
+01100000
+00111111
+00000000
+
+TIL f
+11000010
+10000010
+00000010
+00000010
+00000010
+00000110
+11111100
+00000000
+
+TIL g
+00000000
+00000000
+00000000
+00011000
+00011000
+00000000
+00000000
+00000000
+
+SPR A
+00111000
+01111100
+10010010
+10110110
+11111110
+11001110
+11111110
+10101010
+>
+00111000
+01111100
+10010010
+11011010
+11111110
+11100110
+11111110
+10101010
+POS 0 8,6
+
+SPR a
+00111100
+01110110
+11111111
+11111000
+11111000
+11111111
+01111110
+00111100
+>
+00000000
+00111100
+01110110
+11111111
+11111000
+11111111
+01111110
+00111100
+POS 0 8,10
+
+SPR b
+00011000
+00010000
+01111100
+11110110
+11111010
+11111010
+01111100
+00111000
+
+SPR c
+00111000
+01111100
+11111110
+11111110
+11111110
+01111100
+00111000
+00000000
+POS 0 14,14
+
+DLG a
+"Hey Pac Man! I'm tired of all this chasing. I can't even remember why it started. I'm sorry. How about we just bury hatchett and get along?"
+
+DLG c
+Waits patiently for something to happen... unfortunately nothing does... no synthtic beeps, boops or flashing visuals in recognition of a life-bending power-up. What did you expect to achieve from that?
+
+END 0
+
+
+END undefined
+"Hey Pac Man! I'm tired of all this chasing. I can't even remember why it started. I'm sorry. How about we just bury hatchet and get along?" "Ghost, you are honourable!" responds Pac-Man. "In fact, I love you... I have always loved you... your lemonish skin and searching eyes drew me towards you. Let us leave this place and make a big yellow love commune somewhere."
+
+END undefinee
+"Hey Pac Man! I'm tired of all this chasing. I can't even remember why it started. I'm sorry. How about we just bury the hatchet and get along?" "Hmm! An appraoch from the rear!" Pac-Man responds. "I do not trust your sneaky entrance. I shall bring down a rain of half-digested Pac-Pellets upon you in response!"
+

@@ -1,0 +1,1541 @@
+A WJHolly Game
+
+# BITSY VERSION 4.0
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME exterior
+68,68,68
+158,158,158
+255,255,255
+
+PAL 1
+NAME interior
+158,158,158
+68,68,68
+255,255,255
+
+ROOM 0
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,u,i,i,i,u,i,i,i,p,q,q,s,r,i
+h,j,t,k,h,j,t,k,h,h,l,m,o,m,n,k
+f,g,f,f,f,g,f,f,f,g,f,f,f,f,g,f
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,b,a,a,a,a,c,0,0,b,a,a,a,a,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e,d,d,d,e,d,d,d,e,d,d,d,e,d,d,d
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME outside
+WAL e,d,h,i,j,k,l,m,n,p,q,r,t,u,s
+EXT 12,7 1 8,10
+PAL 0
+
+ROOM 1
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,z,z,z,z,1b,z,z,12,14,15,i,i,i
+i,i,w,19,0,0,0,0,0,0,13,17,16,y,i,i
+i,i,v,18,0,1a,0,0,0,0,0,0,0,x,i,i
+i,w,0,0,0,0,0,0,0,0,0,0,0,0,y,i
+i,v,0,0,0,0,0,0,10,0,0,0,0,0,x,i
+i,i,i,i,i,i,i,i,11,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,11
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+NAME foyer_a
+WAL i,v,w,x,y,z,12,14,15,18,19,1a,s
+EXT 8,11 0 12,8
+EXT 7,6 2 3,11
+PAL 1
+
+ROOM 2
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,z,1b,z,z,z,1c,1d,z,z,z,1b,z,11,11
+11,w,0,0,0,0,0,0,0,0,0,0,0,0,y,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+NAME hallway_a
+WAL v,w,x,y,z,11,1c,1d,s
+EXT 3,10 1 7,7
+EXT 12,10 3 7,8
+PAL 1
+
+ROOM 3
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,z,1b,z,z,11,11,11,11,11,11
+11,11,11,11,11,w,0,0,0,0,y,11,11,11,11,11
+11,11,11,11,11,v,1e,1f,0,1h,1g,11,11,11,11,11
+11,11,11,11,w,0,0,0,0,0,0,y,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+NAME man_a
+WAL 11,v,w,y,x,z,1e,1f,1g,s
+EXT 7,7 2 12,11
+EXT 9,10 4 9,10
+PAL 1
+
+ROOM 4
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,z,1b,z,z,11,11,11,11,11,11
+11,11,11,11,11,w,0,0,0,0,y,11,11,11,11,11
+11,11,11,11,11,v,1e,1f,0,1h,1g,11,11,11,11,11
+11,11,11,11,w,0,0,0,0,0,0,y,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+NAME man_b
+WAL 11,v,w,y,x,z,1e,1f,1g,s
+EXT 7,7 5 12,4
+PAL 1
+
+ROOM 5
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,z,1b,z,z,z,1i,1j,z,z,z,1b,z,11,11
+11,w,0,0,0,0,0,0,0,0,0,0,0,0,y,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+NAME hallway_b
+WAL v,w,x,y,z,11,1c,1d,1i,1j,s
+EXT 12,3 6 7,8
+EXT 3,3 9 7,7
+PAL 1
+
+ROOM 6
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,z,1b,z,z,11,11,11,11,11,11
+11,11,11,11,11,w,0,0,0,0,y,11,11,11,11,11
+11,11,11,11,11,v,1e,1f,0,1h,1g,11,11,11,11,11
+11,11,11,11,w,0,0,0,0,0,0,y,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+NAME man_c
+WAL 11,v,w,y,x,z,1e,1f,1g,s
+EXT 7,7 5 12,4
+PAL 1
+
+ROOM 7
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,z,1b,z,z,z,1i,1k,z,z,z,1b,z,11,11
+11,w,0,0,0,0,0,0,0,0,0,0,0,0,y,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+NAME hallway_c
+WAL v,w,x,y,z,11,1c,1d,1i,1j,1k,s
+EXT 12,3 8 7,8
+EXT 3,3 a 7,7
+PAL 1
+
+ROOM 8
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,z,1b,z,z,11,11,11,11,11,11
+11,11,11,11,11,w,0,0,0,0,y,11,11,11,11,11
+11,11,11,11,11,v,0,0,0,0,x,11,11,11,11,11
+11,11,11,11,w,0,0,0,0,0,0,y,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+NAME man_d
+WAL 11,v,w,y,x,z,1e,1f,1g,s
+EXT 7,7 7 12,4
+PAL 1
+
+ROOM 9
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,z,z,z,z,1b,z,z,12,14,15,i,i,i
+i,i,w,19,0,0,0,0,0,0,13,17,16,y,i,i
+i,i,v,1l,0,1a,0,0,0,0,0,0,0,x,i,i
+i,w,0,0,0,0,0,0,0,0,0,0,0,0,y,i
+i,v,0,0,0,0,0,0,10,0,0,0,0,0,x,i
+i,i,i,i,i,i,i,i,11,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,11
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+NAME foyer_b
+WAL i,v,w,x,y,z,12,14,15,18,19,1a,1l,s
+EXT 8,11 b 12,8
+EXT 7,6 7 3,4
+PAL 1
+
+ROOM a
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,z,z,z,z,1b,z,z,z,z,z,i,i,i
+i,i,w,19,0,0,0,0,0,0,0,0,0,y,i,i
+i,i,v,1l,0,0,0,0,0,0,0,0,0,x,i,i
+i,w,0,0,0,0,0,0,0,0,0,0,0,0,y,i
+i,v,0,0,0,0,0,0,10,0,0,0,0,0,x,i
+i,i,i,i,i,i,i,i,11,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,11
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+NAME foyer_c
+WAL i,v,w,x,y,z,12,14,15,18,19,1a,1l,s
+EXT 8,11 b 12,8
+EXT 7,6 7 3,4
+PAL 1
+
+ROOM b
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+i,i,u,i,i,i,u,i,i,i,p,q,q,s,r,i
+h,j,t,k,h,j,t,k,h,h,l,0,o,m,n,k
+f,g,f,f,f,g,f,f,f,g,f,f,f,f,g,f
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,b,a,a,a,a,c,0,0,b,a,a,a,a,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e,d,d,d,e,d,d,d,e,d,d,d,e,d,d,d
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME for_sale
+WAL e,d,h,i,j,k,l,m,n,p,q,r,t,u,s
+EXT 12,7 a 8,10
+END 0 0,8
+END 0 0,9
+END 0 0,10
+END 0 0,11
+END 0 15,8
+END 0 15,9
+END 0 15,10
+END 0 15,11
+PAL 0
+
+TIL 10
+00000000
+00000000
+00000000
+00000000
+00000000
+00111100
+01111110
+00000000
+NAME undefined
+
+TIL 11
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL 12
+10011001
+10100101
+11001011
+11010011
+11000011
+11011011
+01011010
+11011011
+NAME undefined
+
+TIL 13
+01000010
+01111110
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 14
+10111111
+10100000
+10110000
+10110111
+10110000
+10110111
+00110000
+11110111
+NAME undefined
+
+TIL 15
+11111001
+00011001
+00001101
+11110101
+00000101
+11110101
+00000100
+11110111
+NAME undefined
+
+TIL 16
+00000100
+11111100
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 17
+00110000
+00011111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 18
+01001010
+01001010
+01001110
+01111110
+11111110
+11111010
+10010000
+10010000
+>
+01001110
+01001110
+01001110
+01111110
+11111110
+11111010
+10010000
+10010000
+NAME undefined
+
+TIL 19
+00000000
+00000000
+00100010
+00010100
+00011000
+00111110
+01110110
+01001110
+NAME undefined
+
+TIL a
+00000000
+00000000
+00000000
+11111111
+11111111
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL b
+00000000
+00000000
+00000000
+00000000
+00000001
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL c
+00000000
+00000000
+00000000
+10000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL d
+11111111
+00000000
+11111111
+11111111
+11111111
+11111111
+11111111
+00000000
+NAME undefined
+
+TIL e
+11111111
+00000000
+11110111
+11101111
+11011111
+10111111
+01111111
+00000000
+NAME undefined
+
+TIL f
+00000000
+00000000
+11111111
+11111111
+11111111
+11111111
+00000000
+11111111
+NAME undefined
+
+TIL g
+00000000
+00000000
+11110111
+11101111
+11011111
+10111111
+00000000
+11111111
+NAME undefined
+
+TIL h
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+10101010
+00000000
+NAME undefined
+
+TIL i
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL j
+11111111
+11111111
+11111111
+11111111
+11111111
+11110111
+10011010
+00000000
+NAME undefined
+
+TIL k
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11011101
+00000000
+NAME undefined
+
+TIL l
+10000000
+10100000
+10100110
+10100110
+10100000
+10100000
+00000000
+00000000
+NAME undefined
+
+TIL m
+00000000
+00000000
+00111100
+00111100
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL n
+00000001
+00000101
+01100101
+01100101
+00000101
+00000101
+00000000
+00000000
+NAME undefined
+
+TIL o
+00000000
+00111100
+00111100
+00111100
+00111100
+00111100
+00111100
+00000000
+NAME undefined
+
+TIL p
+11111111
+11111111
+11111111
+11111111
+11111100
+11110000
+11000000
+00000000
+NAME undefined
+
+TIL q
+11111111
+11111111
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL r
+11111111
+11111111
+11111111
+11111111
+00111111
+00001111
+00000011
+00000000
+NAME undefined
+
+TIL s
+11000001
+11100011
+11100011
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL t
+11100111
+11100111
+11100111
+11100111
+11100111
+11100111
+11000101
+00000000
+NAME undefined
+
+TIL u
+11100111
+10000001
+11100111
+10000001
+11100111
+11100111
+11100111
+11100111
+NAME undefined
+
+TIL v
+11110000
+11110000
+11100000
+11100000
+11000000
+11000000
+10000000
+10000000
+NAME undefined
+
+TIL w
+11111111
+11111111
+11111110
+11111110
+11111100
+11111100
+11111000
+11111000
+NAME undefined
+
+TIL x
+00001111
+00001111
+00000111
+00000111
+00000011
+00000011
+00000001
+00000001
+NAME undefined
+
+TIL y
+11111111
+11111111
+01111111
+01111111
+00111111
+00111111
+00011111
+00011111
+NAME undefined
+
+TIL z
+10011001
+10011001
+10011001
+10011001
+10011001
+10011001
+00000000
+11111111
+NAME undefined
+
+TIL 1a
+00000110
+00001001
+00010011
+00110011
+01110111
+10000111
+10000111
+11111100
+NAME undefined
+
+TIL 1b
+11111111
+11000011
+11000011
+11000011
+11001011
+11000011
+11000011
+11111111
+NAME undefined
+
+TIL 1c
+11111111
+10000000
+10011000
+10010000
+10111000
+11111111
+00000000
+11111111
+NAME undefined
+
+TIL 1d
+11111111
+00000001
+00011001
+00001001
+00011101
+11111111
+00000000
+11111111
+NAME undefined
+
+TIL 1e
+00111110
+01000010
+01000010
+10000110
+10000110
+11111110
+11111100
+10001000
+NAME undefined
+
+TIL 1f
+00000000
+01110000
+01110000
+00100000
+11110000
+11110000
+01000000
+11100000
+NAME undefined
+
+TIL 1g
+11111111
+10011111
+11111111
+10001111
+01000111
+01111111
+01000101
+00000001
+NAME undefined
+
+TIL 1h
+00000000
+00000001
+00000001
+00000001
+00000001
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 1i
+11111111
+10000000
+10000000
+10000000
+10000000
+11111111
+00000000
+11111111
+NAME undefined
+
+TIL 1j
+11111111
+00000001
+00001101
+00001001
+00011101
+11111111
+00000000
+11111111
+NAME undefined
+
+TIL 1k
+11111111
+00000001
+00000001
+00000001
+00000001
+11111111
+00000000
+11111111
+NAME undefined
+
+TIL 1l
+01001110
+01001110
+01001110
+01111110
+11111110
+11111010
+10010000
+10010000
+NAME undefined
+
+SPR A
+00011100
+00011100
+00011000
+00110100
+00110100
+00111110
+00011110
+00011000
+POS 0 2,9
+
+SPR a
+00111000
+00111000
+00110000
+01111000
+01111000
+01111000
+00110000
+00110000
+DLG SPR_0
+POS 3 10,10
+
+SPR b
+00111000
+00111000
+00110000
+01111000
+01111100
+01110000
+00110000
+00110000
+DLG SPR_1
+POS 4 10,10
+
+SPR d
+00000000
+00010000
+01111100
+01111100
+00010000
+01111100
+00010000
+00010000
+DLG SPR_2
+POS b 11,7
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG ITM_0
+
+DLG SPR_0
+dummy
+
+DLG ITM_0
+You found a nice warm cup of tea
+
+DLG null
+"""
+{sequence
+  - Thank you for coming. I needed to get something off of my chest. Please stay a while and listen.
+  - When I was younger, a teenager, I had four friends.
+  - It was a long time ago.
+  - Aaron, Rob, Sam, and Christian.
+  - Aaron was the skateboarder kid, but he had other talents.
+  - Aaron could play the guitar really quite well. Girls loved him.
+  - He, Rob, Sam, and I would sit at the park and he would play.
+  - Sam could play guitar as well, but not quite as well.
+  - Sam had... {shk}difficulties{shk} in his life.
+  - Socializing didn't come easy to Sam, and when it came to guitar he would be somewhat competitive.
+  - We would goad him on. It was funny when Sam would get mad.
+  - He would kick the floor and make loud grunts.
+  - Sam was really small, skeleton-thin. Nobody was afraid of him.
+  - We would laugh at his frustration, but we were still his friends.
+  - One day, we all went to the school after sundown.
+  - We had decided to play paintball on school grounds.
+  - That was where I met Christian, a friend of Rob's.
+  - We ran around the school for hours, until 3 in the morning.
+  - We had to leave, but we couldn't find Sam.
+  - The sun was coming up when he popped out of a garbage can.
+  - He riddled us with paintballs and proclaimed himself "Ninja master."
+  - We were all pretty pissed, but Rob was furious.
+  - Rob stomped on Sam's skateboard, snapping it in half.
+  - Rob is this big Irish guy, always liked to drink and pick fights.
+  - This was different, though. Rob wasn't play mad- this was real.
+  - Sam tried to pick a fight with Rob and Rob broke his nose.
+  - We found out later that Sam was on meth that night.
+  - It's weird, none of us talked to him about it.
+  - We just treated it like it was an adult decision to {wvy}do meth{wvy}.
+  - We were only 16 years old and we just thought he was being stupid.
+  - Stupid Sam. Typical Sam.
+  - I didn't talk to Sam for a while after that.
+  - I spent most of my time with Aaron. He was my closest friend.
+  - We would spend nights at a time playing Medal of Honor at his place.
+  - I helped to build him a computer and we would play Counter-Strike.
+  - Those were care-free days.
+  - At some point I started being more withdrawn.
+  - You see, I always saw myself as this artist.
+  - I would write poetry, paint portraits, yadda yadda.
+  - I thought that, in order to survive as an artist, I needed to be a hermit.
+  - Cast everyone out of your life, and then become {wvy}artist supreme.{wvy}
+  - This lasted for a couple years until I got my first real girlfriend.
+  - You don't need to know much about her, but it didn't last long.
+  - I had been so withdrawn, and felt wanted for the first time.
+  - I kinda cracked, and turned to Aaron to get my mind off of things.
+  - We were in our late teens now, and I started drinking really heavily.
+  - I realized how bad it had gotten, but felt that I {shk}needed it.{shk}
+  - I would drink half of a bottle of whiskey a day before noon.
+  - Aaron saw this and got me into weed to get me away from alcohol.
+  - During this time I got reconnected with Rob and Christian.
+  - Rob hadn't changed at all, but I got to know Christian better.
+  - He was younger than us by a couple years.
+  - He would always ask questions. Really energetic.
+  - Aaron was annoyed by him, but I found his search for knowledge inspiring.
+  - I had been taking classes at the community college so I would relay whatever info I could to Christian.
+  - He soaked it up like a sponge.
+  - Christian was from the really, really bad side of town.
+  - The side of town where everybody sells pills, takes pills, or both.
+  - He would ask to borrow money from me and pay me back in double.
+  - He was pushing {shk}Vicodin and Adderall{shk} and I was his investor.
+  - I tried to teach him some of the stuff I knew about computers.
+  - He would catch on so fast, I figured he had a future in it.
+  - One day he totally fell off the map. His parents kicked him out.
+  - Turns out he was going out with this girl that they didn't like.
+  - The girl Christian was going out with was from a certain family.
+  - Her family was really well known for being deep in {shk}shit{shk}.
+  - {shk}Shit{shk} is what we called meth.
+  - That made methheads {shk}"shitheads."{shk}
+  - He and she were homeless after that, and hard to keep track of.
+  - I started thinking about the future, but Aaron and Rob didn't.
+  - They seemed totally content with smoking pot all day long.
+  - We were in our early twenties now. This couldn't be our lives forever.
+  - I quit smoking pot, got my act together, and got a job.
+  - Around this time, Sam started trying to reconnect with me.
+  - Sam had gone in and out of the military since we last spoke.
+  - He hadn't done meth since I last spoke to him...
+  - ...but he sounded more paranoid than ever.
+  - He unloaded onto me all of the shit he had gone through.
+  - His step-dad beat him routinely, his mother didn't care.
+  - He tried every drug under the sun to cope.
+  - He was so skinny because he never ate, trying to disappear.
+  - He had attempted suicide multiple times by overdose.
+  - Now he was a changed man, he assured me.
+  - He had his own place, had stable work, had his own truck.
+  - It didn't take long for that paint to peel though.
+  - He would ramble on and on about the {wvy}afterlife{wvy}.
+  - He said he would have {wvy}72 wives in a big mansion{wvy}.
+  - {wvy}There would be a room in that mansion just for me{wvy}.
+  - {wvy}So he could come and talk to me and I could read to his wives{wvy}.
+  - Again, I don't know how this didn't set off red flags.
+  - My friend was showing every sign of being mentally unhinged, but I didn't react at all.
+  - Maybe I was just too caught up in my own shit. Maybe I already figured Sam was doomed to insanity.
+  - Things got worse, though.
+  - Every other week he would tell me about a new diet he found online.
+  - First it was a strict mushroom diet.
+  - Then it was bread and vinegar.
+  - Then he insisted that hydration was a myth and {shk}stopped drinking water{shk}.
+  - This is a guy who jogged at least {shk}10 miles a day{shk}.
+  - Eventually it reached its natural conclusion: he {shk}stopped eating{shk}.
+  - He would walk around wheezing, insisting that air sustained him.
+  - He would eat three olives every five days. Said it was all he needed.
+  - Aaron was talking to Sam at this point as well.
+  - Unlike me, Aaron would ridicule Sam for these ridiculous diets.
+  - Sam insisted that he was on a {wvy}higher level of understanding{wvy}.
+  - We weren't {wvy}enlightened enough to understand his ways{wvy}.
+  - One night Sam began sending me text messages.
+  - He was away from home and hyperventilating.
+  - He said that he was positive that {wvy}somebody was trying to murder him{wvy}.
+  - As the conversation drew on I realized that he was having a nervous breakdown.
+  - Sam was at boot camp for retraining and insisted the other soldiers {shk}wanted to kill him{shk}.
+  - I tried to calm him down for hours but he was talking in circles.
+  - Eventually I cracked and told him to {shk}shut up{shk}.
+  - Sam never spoke to me again.
+  - By this point I was spending most of my time with Aaron.
+  - Rob had driven across the country to connect with some of his family.
+  - Aaron was spending a lot of his time on that side of town Christian came from.
+  - Aaron was a smart kid, was in honors classes, but couldn't find work.
+  - I blamed it on his constantly being high, but I think it was more than that.
+  - I think he never mentally left high school and sabotaged himself.
+  - Getting work meant that he was a {shk}grown up{shk}.
+  - Meant those simple times we played Counter-Strike were {shk}over{shk}.
+  - He started getting withdrawn and seemed constantly tired.
+  - He would take lots of naps and was constantly borrowing money.
+  - I didn't really have many friends left at this point, so I stuck by him.
+  - I even tried to get Aaron jobs every now and then.
+  - My girlfriend at the time was not a fan of Aaron.
+  - She thought he was on hard drugs and was taking advantage of me.
+  - She was right.
+  - One day I caught Aaron stealing from me.
+  - I learned he had been stealing from me for months.
+  - Hundreds of dollars.
+  - I tried to get him to come clean, gave him every out.
+  - He denied it up and down.
+  - There was video proof of him stealing from me.
+  - I filed a report with the police.
+  - Aaron didn't dispute it at that point.
+  - He tried a different lie: that he needed the money for detox meds.
+  - I asked around and everybody confirmed that he was on opiates.
+  - He wasn't detoxing, and I wasn't the only person he was stealing from.
+  - Ten years of friendship ended.
+  - {shk}I didn't talk to Aaron ever again.{shk}
+  - It was just my girlfriend and me for years after that.
+  - I didn't have any friends. I stopped trusting people.
+  - One day, in my late 20's, I met up with Rob again.
+  - Rob was working as a salesman, good dignified work.
+  - He asked why I wasn't at Christian's wake.
+  - {shk}I didn't even know Christian had died.{shk}
+  - He was selling heroine by the park and got jumped.
+  - He was beaten to death and left on the train tracks.
+  - The obituary read as an {wvy}accident{wvy}.
+  - {shk}He was only 22 years old.{shk}
+  - He was dead for so long and nobody told me.
+  - Christian's meth addict girlfriend became a born-again.
+  - She still posts every day on social media about how {wvy}Christian watches down on her from heaven.{wvy}
+  - He was so smart. So much potential. So much energy.
+  - {shk}So much life to live.{shk}
+  - Rob also told me that he had been in contact with Aaron.
+  - Aaron moved out of state after I filed the report on him.
+  - He seemed to clean up his act, but every now and then he returns.
+  - When Aaron returns he falls right back into the same habits.
+  - He told people that I was a paranoid nut who falsely accused him.
+  - I would be mad, but everybody knew better.
+  - They had all caught Aaron stealing from them too.
+  - Rob moved away a couple months later. {clr2}I'm alone now.{clr2}
+  - I work so often that I can't even paint or write poetry.
+  - I don't know if I even want to.
+  - Life is... weird, you know?
+  - Perhaps Sam was always doomed to insanity.
+  - Christian seemed to have so much potential but made the wrong choices.
+  - Aaron was smart, talented, charming, but wasted it all.
+  - Rob was a dumb, angry drunk who got his shit together.
+  - I'm a neurotic, emotionally unstable artist. Why didn't I break down?
+  - Why didn't I get killed on the street?
+  - Why didn't I become an addict and compulsive liar?
+  - Why am I here and Aaron, Sam, and Christian aren't?
+  - Can I really say that I made it?
+  - I spent so many years trying to hone a craft.
+  - I spent so many years trying to be a responsible adult.
+  - Now all that I want is to go back in time.
+  - Aaron betrayed me but I want to play Medal of Honor with him again.
+  - Sam lost his mind but I want to hear him play guitar against Aaron again.
+  - Rob is a busy salesman but I want to have too many drinks with him again.
+  - Christian... {shk}fuck, I just don't want for Christian to be dead.{shk}
+  - But I'm stuck here, like a nightmare of quicksand.
+  - I know where I want to go but it just keeps getting farther away.
+  - Those times when we would just kick back and waste time...
+  - ...back when we had time to waste...
+  - ...
+  - {shk}...{shk}
+  - I'll never be able to go back.
+  - Back then everything felt okay. Things didn't feel like this.
+  - I didn't feel alone. I didn't feel hopeless.
+  - All I have to look forward to is a TV dinner and another day at work.
+  - At work all I have to look forward to is going home.
+  - One day I'll be too old to keep working at the factory.
+  - I barely make enough money to make rent, I don't have any savings.
+  - No other job will call me back.
+  - I'm not just stuck moving forward in life, I'm stuck moving forward in {shk}THIS life.{shk}
+  - Then one day things won't be able to go on. So they won't.
+  - ...
+  - There were a lot of opportunities to change things.
+  - Don't feel bad for me. I know that this is my fault.
+  - I'll live with this now. Or I won't. It's okay.
+  - Things don't need to be so dramatic.
+  - Perhaps I'll adopt a pseudo-philosophical view of my life.
+  - I'll say that my old life lives on in my memories.
+  - Aaron with his innocence, Sam with his mind, Christian with his life.
+  - All alive in my memories.
+  - ...hey, thanks for listening. Is it okay if I tell one more story?
+  - A few years ago I was driving to work.
+  - On the freeway, no more than five cars ahead of me, a girl walked out.
+  - She was hit and killed immediately, caused a huge jam.
+  - As we all apathetically drove by slowly to go to work, I saw her.
+  - No more than 21 years old, wearing a college tee.
+  - Now she was dead. Gone.
+  - The woman who hit her was in hysterics.
+  - This girl walked out onto the road and ended her life, ruining another.
+  - Leaving the exit there was a car in front of me swerving.
+  - The car ran a red light and was t-boned in the intersection.
+  - The car was full of passengers.
+  - I stopped my car and walked over to help.
+  - The driver had exited the vehicle and sat calmly on the sidewalk.
+  - I helped pull a bloodied woman out of the wreckage.
+  - Her left arm was shredded. She was screaming something at me.
+  - I thought it was nonsense, but then I understood her.
+  - She was screaming, {shk}{wvy}"MY BABY!"{wvy}{shk}
+  - Another good samaritan pulled a baby seat from the car.
+  - The baby didn't look hurt, but wasn't crying.
+  - In case you don't know about babies, if they're not crying, it's bad.
+  - I didn't have enough time though, there was one more passenger.
+  - The passenger side was smashed.
+  - Inside was a woman, sobbing, incoherent.
+  - She was cut almost completely in half by the folded door.
+  - This woman was certainly not going to make it.
+  - The man who had hit the car was okay save for a broken wrist.
+  - The driver didn't say anything or move from the spot on the sidewalk.
+  - I left as the fire trucks came with the jaws of life.
+  - I was tense all day at work.
+  - At lunch I decided to eat outside, behind the building.
+  - Cold, night air. I had seen two deaths on the road, needed this.
+  - Then I heard yelling.
+  - Right across the street from me a fight had broken out.
+  - Two guys in hoodies were yelling at each other.
+  - Next thing I knew I was hearing loud {shk}bangs{shk}.
+  - One of the men had shot the other {shk}five times in the chest{shk}.
+  - I called 911.
+  - The police didn't arrive for 45 minutes.
+  - The body had been {shk}dragged away{shk}.
+  - The police told me they'd look into it and drove away.
+  - I had seen a {shk}suicide{shk}, an {shk}accidental death{shk}, and a {shk}murder{shk}.
+  - {wvy}All in the same day.{wvy}
+  - I quit the next day.
+  - That was my first job.
+  - I had only worked there for a month.
+  - I had no idea how bad a month-long employment looks on a resume.
+  - Might as well have written "{wvy}non-reliable{wvy}" under skills.
+  - I'm only working where I am now because, well, they hire everybody.
+  - Teenagers, the elderly, convicts, whatever.
+  - If you can do labor, you can work there.
+  - It's really weird. It's like being in purgatory.
+  - The job is brainless, repetition for twelve hours a day.
+  - But everybody there seems... hopeless.
+  - It feels like they've all given up.
+  - Everybody there is there to stay. Myself included.
+  - We didn't make it in life, so we're re-purposed as gears for a big machine.
+  - A big machine that is, slowly but surely, becoming a monopoly.
+  - When I moved out and got my own place, I remember thinking.
+  - I thought: {wvy}why am I the only one of my friends who grew up?{wvy}
+  - Now all I think is: {shk}I wish I never grew up.{shk}
+  - But that's life.
+  - I have to harden up.
+  - This is what life is.
+  - Life is pain.
+  - Life is hardship.
+  - Everybody knows it.
+  - Everybody deals with it.
+  - Why should I just sit around acting sorry for myself.
+  - What kind of bullshit is that?
+  - I'm not special. I'm not better than my coworkers.
+  - {wvy}Deserve{wvy} has nothing to do with it.
+  - People who criticize this draining lifestyle are just whiners.
+  - That's me: I'm being a {wvy}whiner{wvy}.
+  - I just have to... I just have to...
+  - {shk}I just have to accept that this is my life and it won't get better.{shk}
+  - Every now and then I'll save up some vacation time.
+  - I'll spend a couple days away from home, in another country maybe.
+  - Except that I won't.
+  - What am I going to do in Paris?
+  - Just sit and think about work?
+  - Fly to Spain and think of how much debt I'm getting into?
+  - I know exactly what I'm going to do with my vacation time.
+  - I'm going to sit at home and watch TV.
+  - I'll be so bored that I'll miss my boring job.
+  - {shk}What do I want?!{shk}
+  - {shk}{wvy}I don't know what I want out of life!{wvy}{shk}
+  - I don't have the time or money to date.
+  - I don't have the time or money to go to school.
+  - I don't have the time or money to paint.
+  - I crumple up every poem I ever write.
+  - I'm just... alone.
+  - I think that's all I'll ever be.
+  - Sam is insane, Aaron a pill popper, Christian a corpse...
+  - ...and I'm alone.
+  - ...
+  - {shk}...{shk}
+  - {shk}I can't live like this.{shk}
+  - {shk}I'm not going to live like this.{shk}
+  - {shk}I refuse to die an unfulfilled, lonely man.{shk}
+  - {shk}My mind is in tact. I'm not an addict. I'm ALIVE.{shk}
+  - I know what I have to do.
+  - Thank you.
+}
+"""
+
+DLG SPR_1
+"""
+{sequence
+  - Thank you for coming. I needed to get something off of my chest. Please stay a while and listen.
+  - When I was younger, a teenager, I had four friends.
+  - It was a long time ago.
+  - Aaron, Rob, Sam, and Christian.
+  - Aaron was the skateboarder kid, but he had other talents.
+  - Aaron could play the guitar really quite well. Girls loved him.
+  - He, Rob, Sam, and I would sit at the park and he would play.
+  - Sam could play guitar as well, but not quite as well.
+  - Sam had... {shk}difficulties{shk} in his life.
+  - Socializing didn't come easy to Sam, and when it came to guitar he would be somewhat competitive.
+  - We would goad him on. It was funny when Sam would get mad.
+  - He would kick the floor and make loud grunts.
+  - Sam was really small, skeleton-thin. Nobody was afraid of him.
+  - We would laugh at his frustration, but we were still his friends.
+  - One day, we all went to the school after sundown.
+  - We had decided to play paintball on school grounds.
+  - That was where I met Christian, a friend of Rob's.
+  - We ran around the school for hours, until 3 in the morning.
+  - We had to leave, but we couldn't find Sam.
+  - The sun was coming up when he popped out of a garbage can.
+  - He riddled us with paintballs and proclaimed himself "Ninja master."
+  - We were all pretty pissed, but Rob was furious.
+  - Rob stomped on Sam's skateboard, snapping it in half.
+  - Rob is this big Irish guy, always liked to drink and pick fights.
+  - This was different, though. Rob wasn't play mad- this was real.
+  - Sam tried to pick a fight with Rob and Rob broke his nose.
+  - We found out later that Sam was on meth that night.
+  - It's weird, none of us talked to him about it.
+  - We just treated it like it was an adult decision to {wvy}do meth{wvy}.
+  - We were only 16 years old and we just thought he was being stupid.
+  - Stupid Sam. Typical Sam.
+  - I didn't talk to Sam for a while after that.
+  - I spent most of my time with Aaron. He was my closest friend.
+  - We would spend nights at a time playing Medal of Honor at his place.
+  - I helped to build him a computer and we would play Counter-Strike.
+  - Those were care-free days.
+  - At some point I started being more withdrawn.
+  - You see, I always saw myself as this artist.
+  - I would write poetry, paint portraits, yadda yadda.
+  - I thought that, in order to survive as an artist, I needed to be a hermit.
+  - Cast everyone out of your life, and then become {wvy}artist supreme.{wvy}
+  - This lasted for a couple years until I got my first real girlfriend.
+  - You don't need to know much about her, but it didn't last long.
+  - I had been so withdrawn, and felt wanted for the first time.
+  - I kinda cracked, and turned to Aaron to get my mind off of things.
+  - We were in our late teens now, and I started drinking really heavily.
+  - I realized how bad it had gotten, but felt that I {shk}needed it.{shk}
+  - I would drink half of a bottle of whiskey a day before noon.
+  - Aaron saw this and got me into weed to get me away from alcohol.
+  - During this time I got reconnected with Rob and Christian.
+  - Rob hadn't changed at all, but I got to know Christian better.
+  - He was younger than us by a couple years.
+  - He would always ask questions. Really energetic.
+  - Aaron was annoyed by him, but I found his search for knowledge inspiring.
+  - I had been taking classes at the community college so I would relay whatever info I could to Christian.
+  - He soaked it up like a sponge.
+  - Christian was from the really, really bad side of town.
+  - The side of town where everybody sells pills, takes pills, or both.
+  - He would ask to borrow money from me and pay me back in double.
+  - He was pushing {shk}Vicodin and Adderall{shk} and I was his investor.
+  - I tried to teach him some of the stuff I knew about computers.
+  - He would catch on so fast, I figured he had a future in it.
+  - One day he totally fell off the map. His parents kicked him out.
+  - Turns out he was going out with this girl that they didn't like.
+  - The girl Christian was going out with was from a certain family.
+  - Her family was really well known for being deep in {shk}shit{shk}.
+  - {shk}Shit{shk} is what we called meth.
+  - That made methheads {shk}"shitheads."{shk}
+  - He and she were homeless after that, and hard to keep track of.
+  - I started thinking about the future, but Aaron and Rob didn't.
+  - They seemed totally content with smoking pot all day long.
+  - We were in our early twenties now. This couldn't be our lives forever.
+  - I quit smoking pot, got my act together, and got a job.
+  - Around this time, Sam started trying to reconnect with me.
+  - Sam had gone in and out of the military since we last spoke.
+  - He hadn't done meth since I last spoke to him...
+  - ...but he sounded more paranoid than ever.
+  - He unloaded onto me all of the shit he had gone through.
+  - His step-dad beat him routinely, his mother didn't care.
+  - He tried every drug under the sun to cope.
+  - He was so skinny because he never ate, trying to disappear.
+  - He had attempted suicide multiple times by overdose.
+  - Now he was a changed man, he assured me.
+  - He had his own place, had stable work, had his own truck.
+  - It didn't take long for that paint to peel though.
+  - He would ramble on and on about the {wvy}afterlife{wvy}.
+  - He said he would have {wvy}72 wives in a big mansion{wvy}.
+  - {wvy}There would be a room in that mansion just for me{wvy}.
+  - {wvy}So he could come and talk to me and I could read to his wives{wvy}.
+  - Again, I don't know how this didn't set off red flags.
+  - My friend was showing every sign of being mentally unhinged, but I didn't react at all.
+  - Maybe I was just too caught up in my own shit. Maybe I already figured Sam was doomed to insanity.
+  - Things got worse, though.
+  - Every other week he would tell me about a new diet he found online.
+  - First it was a strict mushroom diet.
+  - Then it was bread and vinegar.
+  - Then he insisted that hydration was a myth and {shk}stopped drinking water{shk}.
+  - This is a guy who jogged at least {shk}10 miles a day{shk}.
+  - Eventually it reached its natural conclusion: he {shk}stopped eating{shk}.
+  - He would walk around wheezing, insisting that air sustained him.
+  - He would eat three olives every five days. Said it was all he needed.
+  - Aaron was talking to Sam at this point as well.
+  - Unlike me, Aaron would ridicule Sam for these ridiculous diets.
+  - Sam insisted that he was on a {wvy}higher level of understanding{wvy}.
+  - We weren't {wvy}enlightened enough to understand his ways{wvy}.
+  - One night Sam began sending me text messages.
+  - He was away from home and hyperventilating.
+  - He said that he was positive that {wvy}somebody was trying to murder him{wvy}.
+  - As the conversation drew on I realized that he was having a nervous breakdown.
+  - Sam was at boot camp for retraining and insisted the other soldiers {shk}wanted to kill him{shk}.
+  - I tried to calm him down for hours but he was talking in circles.
+  - Eventually I cracked and told him to {shk}shut up{shk}.
+  - Sam never spoke to me again.
+  - By this point I was spending most of my time with Aaron.
+  - Rob had driven across the country to connect with some of his family.
+  - Aaron was spending a lot of his time on that side of town Christian came from.
+  - Aaron was a smart kid, was in honors classes, but couldn't find work.
+  - I blamed it on his constantly being high, but I think it was more than that.
+  - I think he never mentally left high school and sabotaged himself.
+  - Getting work meant that he was a {shk}grown up{shk}.
+  - Meant those simple times we played Counter-Strike were {shk}over{shk}.
+  - He started getting withdrawn and seemed constantly tired.
+  - He would take lots of naps and was constantly borrowing money.
+  - I didn't really have many friends left at this point, so I stuck by him.
+  - I even tried to get Aaron jobs every now and then.
+  - My girlfriend at the time was not a fan of Aaron.
+  - She thought he was on hard drugs and was taking advantage of me.
+  - She was right.
+  - One day I caught Aaron stealing from me.
+  - I learned he had been stealing from me for months.
+  - Hundreds of dollars.
+  - I tried to get him to come clean, gave him every out.
+  - He denied it up and down.
+  - There was video proof of him stealing from me.
+  - I filed a report with the police.
+  - Aaron didn't dispute it at that point.
+  - He tried a different lie: that he needed the money for detox meds.
+  - I asked around and everybody confirmed that he was on opiates.
+  - He wasn't detoxing, and I wasn't the only person he was stealing from.
+  - Ten years of friendship ended.
+  - {shk}I didn't talk to Aaron ever again.{shk}
+  - It was just my girlfriend and me for years after that.
+  - I didn't have any friends. I stopped trusting people.
+  - One day, in my late 20's, I met up with Rob again.
+  - Rob was working as a salesman, good dignified work.
+  - He asked why I wasn't at Christian's wake.
+  - {shk}I didn't even know Christian had died.{shk}
+  - He was selling heroine by the park and got jumped.
+  - He was beaten to death and left on the train tracks.
+  - The obituary read as an {wvy}accident{wvy}.
+  - {shk}He was only 22 years old.{shk}
+  - He was dead for so long and nobody told me.
+  - Christian's meth addict girlfriend became a born-again.
+  - She still posts every day on social media about how {wvy}Christian watches down on her from heaven.{wvy}
+  - He was so smart. So much potential. So much energy.
+  - {shk}So much life to live.{shk}
+  - Rob also told me that he had been in contact with Aaron.
+  - Aaron moved out of state after I filed the report on him.
+  - He seemed to clean up his act, but every now and then he returns.
+  - When Aaron returns he falls right back into the same habits.
+  - He told people that I was a paranoid nut who falsely accused him.
+  - I would be mad, but everybody knew better.
+  - They had all caught Aaron stealing from them too.
+  - Rob moved away a couple months later. {clr2}I'm alone now.{clr2}
+  - I work so often that I can't even paint or write poetry.
+  - I don't know if I even want to.
+  - Life is... weird, you know?
+  - Perhaps Sam was always doomed to insanity.
+  - Christian seemed to have so much potential but made the wrong choices.
+  - Aaron was smart, talented, charming, but wasted it all.
+  - Rob was a dumb, angry drunk who got his shit together.
+  - I'm a neurotic, emotionally unstable artist. Why didn't I break down?
+  - Why didn't I get killed on the street?
+  - Why didn't I become an addict and compulsive liar?
+  - Why am I here and Aaron, Sam, and Christian aren't?
+  - Can I really say that I made it?
+  - I spent so many years trying to hone a craft.
+  - I spent so many years trying to be a responsible adult.
+  - Now all that I want is to go back in time.
+  - Aaron betrayed me but I want to play Medal of Honor with him again.
+  - Sam lost his mind but I want to hear him play guitar against Aaron again.
+  - Rob is a busy salesman but I want to have too many drinks with him again.
+  - Christian... {shk}fuck, I just don't want for Christian to be dead.{shk}
+  - But I'm stuck here, like a nightmare of quicksand.
+  - I know where I want to go but it just keeps getting farther away.
+  - Those times when we would just kick back and waste time...
+  - ...back when we had time to waste...
+  - ...
+  - {shk}...{shk}
+  - I'll never be able to go back.
+  - Back then everything felt okay. Things didn't feel like this.
+  - I didn't feel alone. I didn't feel hopeless.
+  - All I have to look forward to is a TV dinner and another day at work.
+  - At work all I have to look forward to is going home.
+  - One day I'll be too old to keep working at the factory.
+  - I barely make enough money to make rent, I don't have any savings.
+  - No other job will call me back.
+  - I'm not just stuck moving forward in life, I'm stuck moving forward in {shk}THIS life.{shk}
+  - Then one day things won't be able to go on. So they won't.
+  - ...
+  - There were a lot of opportunities to change things.
+  - Don't feel bad for me. I know that this is my fault.
+  - I'll live with this now. Or I won't. It's okay.
+  - Things don't need to be so dramatic.
+  - Perhaps I'll adopt a pseudo-philosophical view of my life.
+  - I'll say that my old life lives on in my memories.
+  - Aaron with his innocence, Sam with his mind, Christian with his life.
+  - All alive in my memories.
+  - ...hey, thanks for listening. Is it okay if I tell one more story?
+  - A few years ago I was driving to work.
+  - On the freeway, no more than five cars ahead of me, a girl walked out.
+  - She was hit and killed immediately, caused a huge jam.
+  - As we all apathetically drove by slowly to go to work, I saw her.
+  - No more than 21 years old, wearing a college tee.
+  - Now she was dead. Gone.
+  - The woman who hit her was in hysterics.
+  - This girl walked out onto the road and ended her life, ruining another.
+  - Leaving the exit there was a car in front of me swerving.
+  - The car ran a red light and was t-boned in the intersection.
+  - The car was full of passengers.
+  - I stopped my car and walked over to help.
+  - The driver had exited the vehicle and sat calmly on the sidewalk.
+  - I helped pull a bloodied woman out of the wreckage.
+  - Her left arm was shredded. She was screaming something at me.
+  - I thought it was nonsense, but then I understood her.
+  - She was screaming, {shk}{wvy}"MY BABY!"{wvy}{shk}
+  - Another good samaritan pulled a baby seat from the car.
+  - The baby didn't look hurt, but wasn't crying.
+  - In case you don't know about babies, if they're not crying, it's bad.
+  - I didn't have enough time though, there was one more passenger.
+  - The passenger side was smashed.
+  - Inside was a woman, sobbing, incoherent.
+  - She was cut almost completely in half by the folded door.
+  - This woman was certainly not going to make it.
+  - The man who had hit the car was okay save for a broken wrist.
+  - The driver didn't say anything or move from the spot on the sidewalk.
+  - I left as the fire trucks came with the jaws of life.
+  - I was tense all day at work.
+  - At lunch I decided to eat outside, behind the building.
+  - Cold, night air. I had seen two deaths on the road, needed this.
+  - Then I heard yelling.
+  - Right across the street from me a fight had broken out.
+  - Two guys in hoodies were yelling at each other.
+  - Next thing I knew I was hearing loud {shk}bangs{shk}.
+  - One of the men had shot the other {shk}five times in the chest{shk}.
+  - I called 911.
+  - The police didn't arrive for 45 minutes.
+  - The body had been {shk}dragged away{shk}.
+  - The police told me they'd look into it and drove away.
+  - I had seen a {shk}suicide{shk}, an {shk}accidental death{shk}, and a {shk}murder{shk}.
+  - {wvy}All in the same day.{wvy}
+  - I quit the next day.
+  - That was my first job.
+  - I had only worked there for a month.
+  - I had no idea how bad a month-long employment looks on a resume.
+  - Might as well have written "{wvy}non-reliable{wvy}" under skills.
+  - I'm only working where I am now because, well, they hire everybody.
+  - Teenagers, the elderly, convicts, whatever.
+  - If you can do labor, you can work there.
+  - It's really weird. It's like being in purgatory.
+  - The job is brainless, repetition for twelve hours a day.
+  - But everybody there seems... hopeless.
+  - It feels like they've all given up.
+  - Everybody there is there to stay. Myself included.
+  - We didn't make it in life, so we're re-purposed as gears for a big machine.
+  - A big machine that is, slowly but surely, becoming a monopoly.
+  - When I moved out and got my own place, I remember thinking.
+  - I thought: {wvy}why am I the only one of my friends who grew up?{wvy}
+  - Now all I think is: {shk}I wish I never grew up.{shk}
+  - But that's life.
+  - I have to harden up.
+  - This is what life is.
+  - Life is pain.
+  - Life is hardship.
+  - Everybody knows it.
+  - Everybody deals with it.
+  - Why should I just sit around acting sorry for myself.
+  - What kind of bullshit is that?
+  - I'm not special. I'm not better than my coworkers.
+  - {wvy}Deserve{wvy} has nothing to do with it.
+  - People who criticize this draining lifestyle are just whiners.
+  - That's me: I'm being a {wvy}whiner{wvy}.
+  - I just have to... I just have to...
+  - {shk}I just have to accept that this is my life and it won't get better.{shk}
+  - Every now and then I'll save up some vacation time.
+  - I'll spend a couple days away from home, in another country maybe.
+  - Except that I won't.
+  - What am I going to do in Paris?
+  - Just sit and think about work?
+  - Fly to Spain and think of how much debt I'm getting into?
+  - I know exactly what I'm going to do with my vacation time.
+  - I'm going to sit at home and watch TV.
+  - I'll be so bored that I'll miss my boring job.
+  - {shk}What do I want?!{shk}
+  - {shk}{wvy}I don't know what I want out of life!{wvy}{shk}
+  - I don't have the time or money to date.
+  - I don't have the time or money to go to school.
+  - I don't have the time or money to paint.
+  - I crumple up every poem I ever write.
+  - I'm just... alone.
+  - I think that's all I'll ever be.
+  - Sam is insane, Aaron a pill popper, Christian a corpse...
+  - ...and I'm alone.
+  - ...
+  - {shk}...{shk}
+  - {shk}I can't live like this.{shk}
+  - {shk}I'm not going to live like this.{shk}
+  - {shk}I refuse to die an unfulfilled, lonely man.{shk}
+  - {shk}My mind is in tact. I'm not an addict. I'm ALIVE.{shk}
+  - I know what I have to do.
+  - Thank you.
+}
+"""
+
+DLG SPR_2
+For Sale
+
+END 0
+Thank you for everything.
+
+VAR a
+42

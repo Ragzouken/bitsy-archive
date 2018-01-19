@@ -1,0 +1,1314 @@
+You arrive at a party.
+
+# BITSY VERSION 4.0
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME room palette
+102,102,102
+191,191,191
+255,255,255
+
+ROOM 0
+0,0,0,0,0,15,0,13,0,0,0,0,0,0,0,0
+0,0,10,z,16,1b,14,12,11,17,z,17,11,z,y,0
+0,m,b,1e,1d,a,1e,a,1d,a,a,1d,1d,c,19,0
+0,18,e,0,0,0,0,j,0,k,0,0,0,d,1a,0
+0,m,e,0,0,0,0,0,0,0,0,0,0,1f,19,0
+0,o,e,0,0,0,0,0,0,0,0,k,0,d,t,0
+0,n,e,0,0,0,0,0,0,0,0,0,0,d,x,0
+0,m,e,0,0,0,0,0,0,0,0,0,0,1f,1a,0
+0,l,e,0,0,0,0,0,0,0,0,0,0,d,1a,0
+0,o,e,0,0,0,0,0,0,0,0,0,0,1f,u,v
+0,l,e,0,0,0,0,h,g,1h,h,h,1h,i,1h,w
+0,o,e,0,0,0,0,f,f,f,f,1g,f,f,f,1c
+0,p,e,0,0,0,0,f,f,f,f,f,f,f,f,1b
+0,n,e,0,0,0,0,f,1g,f,f,f,1g,f,f,1b
+s,q,i,1h,h,h,1h,f,f,f,f,f,f,f,f,1c
+r,1c,f,f,f,1g,f,1g,f,f,1g,f,f,1g,f,1c
+NAME party room
+WAL e,d,c,b,a,h,i,1f,1e,1d,f,1g,1h
+END undefined 8,10
+PAL 0
+
+TIL 10
+00000000
+00000000
+00000000
+00000000
+00110001
+01001110
+10000000
+10010001
+NAME undefined
+
+TIL 11
+00000000
+01111000
+10000100
+00100010
+00000001
+00001000
+00000000
+01000001
+NAME undefined
+
+TIL 12
+10000100
+00000010
+00100001
+00000000
+00000000
+01000000
+00000010
+00001000
+NAME undefined
+
+TIL 13
+00000000
+00000000
+00000000
+00000000
+00000000
+00110000
+01001000
+10010100
+NAME undefined
+
+TIL 14
+11110000
+00001011
+00000100
+00000000
+01000010
+00000000
+00010000
+00000000
+NAME undefined
+
+TIL 15
+00000000
+00000000
+00000000
+00000000
+00000000
+00010000
+00101100
+11000011
+NAME undefined
+
+TIL 16
+00000001
+00001110
+00010000
+00010001
+01100000
+10000000
+00000100
+00000000
+NAME undefined
+
+TIL 17
+00001000
+00010110
+00010001
+00100000
+01000000
+10000100
+00000000
+01000001
+NAME undefined
+
+TIL 18
+00000100
+00001010
+00010000
+00001001
+00010000
+00001000
+00000100
+00000010
+NAME undefined
+
+TIL 19
+00001000
+00100100
+00000010
+00000010
+10000001
+00010010
+00000010
+01000100
+NAME undefined
+
+TIL a
+01000000
+00000000
+11111111
+01010101
+01010101
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL b
+01000100
+00000000
+00011111
+00010101
+01010101
+00011000
+00010000
+00011000
+NAME undefined
+
+TIL c
+01000000
+00000000
+11110010
+01010000
+01010000
+00110100
+00010000
+00110010
+NAME undefined
+
+TIL d
+00010000
+00110010
+00010000
+00110000
+00010000
+00110100
+00010000
+00110000
+NAME undefined
+
+TIL e
+00010000
+01011000
+00010000
+00011000
+00010000
+10011000
+00010000
+00011000
+NAME undefined
+
+TIL f
+10111101
+01000011
+10110100
+10101101
+10011001
+10110101
+01000010
+11011101
+NAME undefined
+
+TIL g
+00000000
+10000001
+10000001
+11111111
+10011001
+10110101
+01000011
+11011110
+NAME undefined
+
+TIL h
+00000000
+11111111
+10110101
+10101101
+10011001
+10110101
+01000011
+11011110
+NAME undefined
+
+TIL i
+00010000
+11111111
+10110101
+10101101
+10011001
+10110101
+01000011
+11011110
+NAME undefined
+
+TIL j
+00000000
+00001000
+00001000
+00001000
+00001111
+00001001
+00001001
+00000000
+NAME undefined
+
+TIL k
+00000000
+00000000
+00010000
+00010000
+00010000
+11110000
+10010000
+10010000
+NAME undefined
+
+TIL l
+00010010
+00100000
+00010000
+00001000
+00010001
+00001000
+00000100
+00000100
+NAME undefined
+
+TIL m
+00000001
+00000010
+00000010
+00000100
+00001000
+00000100
+00000101
+00001000
+NAME undefined
+
+TIL n
+00001000
+00001010
+00010000
+00001000
+00000101
+00000100
+00000100
+00000010
+NAME undefined
+
+TIL o
+00001010
+00000100
+00000010
+00000101
+00000100
+00000010
+00000100
+00001001
+NAME undefined
+
+TIL p
+00000100
+00001000
+00010001
+00100000
+01000100
+00100000
+00100000
+00010010
+NAME undefined
+
+TIL q
+00000100
+00001000
+00010000
+00100001
+00100000
+11000000
+00010000
+00000010
+NAME undefined
+
+TIL r
+00001000
+10010000
+01101000
+00000000
+00000010
+10000000
+00010000
+00000001
+NAME undefined
+
+TIL s
+00000000
+00000000
+00000000
+00000000
+00000001
+00000010
+00000100
+00001001
+NAME undefined
+
+TIL t
+00001000
+00100100
+00000100
+00000010
+00000010
+00001001
+00000010
+10000001
+NAME undefined
+
+TIL u
+01001000
+00000100
+00000100
+00000010
+00100010
+00000001
+00001000
+10000000
+NAME undefined
+
+TIL v
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11000000
+00110000
+NAME undefined
+
+TIL w
+00001000
+01000100
+00000010
+00000010
+00000001
+00101001
+00000000
+00000000
+NAME undefined
+
+TIL x
+00000010
+01000010
+00000001
+00001010
+00000010
+01000010
+00000100
+00001000
+NAME undefined
+
+TIL y
+00000000
+00000000
+00000000
+00000000
+11000000
+00100000
+00010000
+00010000
+NAME undefined
+
+TIL z
+00000000
+00000000
+00011000
+11100100
+00000010
+00101001
+00000000
+00000010
+NAME undefined
+
+TIL 1a
+00101000
+00001000
+00010000
+10100000
+00100000
+00100000
+10010000
+00001000
+NAME undefined
+
+TIL 1b
+00000000
+00100000
+00000010
+00000000
+00000000
+00010000
+00000000
+00000010
+NAME undefined
+
+TIL 1c
+00000000
+00100000
+00000000
+00000000
+00000100
+00000000
+01000000
+00000000
+NAME undefined
+
+TIL 1d
+00000010
+00000000
+11111111
+01010101
+01010101
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 1e
+00000000
+00001000
+11111111
+01010101
+01010101
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 1f
+00010000
+00110100
+00010000
+00110000
+00010010
+00110000
+00010000
+00110100
+NAME undefined
+
+TIL 1g
+10101101
+01000011
+10110100
+10101101
+10011000
+10110101
+01000010
+01011101
+NAME undefined
+
+TIL 1h
+00000000
+11111111
+00110101
+10101101
+10011000
+10110101
+01000011
+11011110
+NAME undefined
+
+SPR A
+00000000
+00011100
+00011100
+00001000
+00111110
+01011101
+00011100
+00010100
+>
+00011100
+00011100
+00001000
+00111110
+01011101
+00011100
+00010100
+00010100
+POS 0 8,9
+
+SPR a
+00011000
+00011000
+01001000
+00111100
+00011100
+00011100
+00010100
+00010100
+>
+00011000
+00011000
+00101000
+00111100
+00011100
+00011100
+00010100
+00010100
+DLG SPR_0
+POS 0 4,7
+
+SPR b
+00011000
+00011000
+01010000
+01111100
+00111010
+00111000
+00101000
+00101000
+>
+00011000
+00011000
+00010000
+01111110
+01111000
+00111000
+00101000
+00101000
+DLG SPR_3
+POS 0 3,7
+
+SPR c
+01001010
+00110100
+01011000
+00010000
+01111110
+00111100
+00111100
+00000000
+DLG SPR_2
+POS 0 3,3
+
+SPR d
+00000000
+01010010
+00100100
+00011010
+00010000
+01111110
+00111100
+00111100
+DLG SPR_1
+POS 0 12,3
+
+SPR e
+00000011
+00000011
+00000010
+00000110
+00000111
+00101110
+00010010
+00000010
+>
+00000110
+00000110
+00000100
+00001111
+00001110
+00001111
+00001010
+00001010
+DLG SPR_5
+POS 0 11,9
+
+SPR f
+11000000
+11000000
+01000000
+01100000
+11100000
+01110000
+01010000
+01010000
+>
+01100000
+01100000
+00100000
+11110000
+01110000
+11110000
+01010000
+01010000
+DLG SPR_4
+POS 0 12,9
+
+SPR g
+00000000
+00000000
+00000000
+01111110
+00011000
+00011000
+00011000
+00000000
+DLG SPR_6
+POS 0 10,5
+
+SPR h
+00000000
+00000000
+01111110
+00011000
+00011000
+00011000
+00000000
+00000000
+DLG SPR_7
+POS 0 10,3
+
+SPR i
+00000000
+00000000
+00000000
+01111110
+00011000
+00011000
+00011000
+00000000
+DLG SPR_8
+POS 0 8,3
+
+SPR j
+00000000
+00000000
+01010100
+11010100
+11111100
+00110000
+00110000
+00110000
+>
+00000000
+10000000
+10010100
+00010100
+11111100
+00110000
+00110000
+00110000
+DLG SPR_9
+POS 0 8,5
+
+SPR k
+00000110
+00000110
+00000100
+00001111
+00001110
+00001110
+00001010
+00001010
+>
+00000110
+00000111
+00000100
+00001111
+00001110
+00001110
+00001010
+00001010
+DLG SPR_a
+POS 0 7,5
+
+SPR l
+00000000
+00011100
+00011100
+01001000
+00111110
+00011100
+00010100
+00010100
+>
+00000000
+00011100
+00011100
+00101000
+00111110
+00011100
+00010100
+00010100
+DLG SPR_b
+POS 0 4,9
+
+SPR m
+00100110
+00100110
+01110010
+00011111
+00000111
+00000111
+00000101
+00000101
+>
+00000000
+00100110
+00100110
+01110010
+00011111
+00000111
+00000111
+00000101
+DLG SPR_c
+POS 0 10,7
+
+SPR n
+00000000
+00011000
+00011000
+00001010
+01111110
+00011100
+00010100
+00010100
+>
+00000000
+00001100
+00001100
+00101000
+00111111
+00011100
+00010100
+00010100
+DLG SPR_d
+POS 0 5,5
+
+SPR o
+00000000
+00001100
+00001100
+00101010
+00111110
+00011100
+00010100
+00010100
+>
+00000000
+00011000
+00111010
+00101010
+00011100
+00011100
+00010100
+00010100
+DLG SPR_e
+POS 0 4,5
+
+SPR p
+00110000
+00110000
+00011000
+00011100
+00111100
+00011100
+00010100
+00010100
+>
+00000000
+00110000
+00110000
+00011000
+00111100
+00011100
+00011100
+00010100
+DLG SPR_f
+POS 0 11,3
+
+SPR q
+00000000
+01010010
+00100100
+00011000
+00010000
+01111110
+00111100
+00111100
+DLG SPR_g
+POS 0 3,13
+
+SPR r
+00000000
+00011000
+00011000
+01010100
+01111100
+00111000
+00101000
+00101000
+>
+00000000
+00000000
+00011000
+00011000
+01010100
+01111100
+00111000
+00101000
+DLG SPR_h
+POS 0 6,11
+
+SPR s
+00000011
+00000011
+00000001
+00000011
+00000011
+00000011
+00000101
+00000101
+>
+00000011
+00000011
+00000001
+00000011
+00000011
+00000011
+00000101
+00001001
+DLG SPR_i
+POS 0 6,13
+
+SPR t
+00110000
+00110000
+00100000
+01110000
+01110000
+01110000
+01010000
+01010000
+>
+01100000
+01100000
+00100000
+01110000
+01110000
+01110000
+01010000
+01010000
+DLG SPR_j
+POS 0 6,8
+
+SPR u
+00111000
+00111000
+01010000
+01111100
+00111100
+00111000
+00101000
+00101000
+>
+00000000
+00111000
+00111000
+01010000
+01111100
+00111100
+00111000
+00101000
+DLG SPR_k
+POS 0 4,3
+
+SPR v
+00011000
+00011000
+00010000
+00111000
+00111100
+00111000
+00101000
+00101000
+>
+00000000
+00011000
+00011000
+00010000
+00111000
+00111100
+00111000
+00101000
+DLG SPR_m
+POS 0 3,12
+
+SPR w
+00011000
+00011000
+00001000
+00011100
+00111100
+00011100
+00010100
+00010100
+>
+00011000
+00011000
+00001000
+00111100
+00011100
+00011100
+00010100
+00010100
+DLG SPR_l
+POS 0 4,12
+
+ITM 0
+00000000
+00000000
+00011000
+00010000
+00011000
+00010000
+00000000
+00000000
+NAME friends
+DLG ITM_0
+
+DLG SPR_0
+"""
+{cycle
+  - "And I was like, 'Did you see his clothes?' I mean what was he thinking with that outfit?"
+  - "There's no way I would ever be seen in public like that. So trashy."
+  - "She looks too skinny. She needs to eat more."
+  - "They can't be serious. That hair style is super ugly."
+  - "Honestly I would totally cheat on them too. They seem more like 'good friend' material."
+  - "I swear he only owns one shirt."
+  - "Are you listening to our conversation?"
+  - "Who invited you?"
+}
+"""
+
+DLG ITM_0
+You found a friend.
+
+DLG SPR_1
+"""
+{cycle
+  - You greet the shrub, but it only rustles in the wind.
+  - You think you see the shrub judging your hair style.
+  - It's just a shrub.
+  - It's Just a shrub.
+  - It's just a shrub.
+}
+"""
+
+DLG SPR_2
+"""
+{shuffle
+  - The shrub doesn't seem interested in talking.
+  - It's just a shrub.
+}
+"""
+
+DLG SPR_3
+"""
+{cycle
+  - "I think he'd be better off if he just went home."
+  - "I'm only here to hook up with someone hot."
+  - "Yeah, I don't think they know how that looks." 
+    *laughter*
+  - "There's no way she can drink more than one of those."
+}
+"""
+
+DLG SPR_4
+"""
+{cycle
+  - "Mmm mm Mmmmmm"
+  - {rbw}*Kissing noises*{rbw}
+}
+"""
+
+DLG SPR_5
+"""
+{cycle
+  - {wvy}*Kissing noises*{wvy}
+  - "Oh yeah baby!"
+  - *Giggles*
+  - {wvy}*Kissing noises*{wvy}
+  - *Heavy breathing*
+}
+"""
+
+DLG SPR_6
+"""
+{cycle
+  - People seem to be avoiding this table.
+  - This table seems empty. 
+  - Maybe you have something in your teeth...
+  - This table seems empty.
+  - Maybe it's your scent. 
+    
+    Did you put on a spray?
+    
+    You showered, right?
+  - You imagine the table has some sort of force field around it that is protecting you from vampires.
+    Sadly that must mean everyone here is a vampire.
+  - This table is very empty.
+  - You thought you saw someone looking at you...
+    But they were looking at a chair near you instead.
+  - You close your eyes for a second and breath in the cool ocean air.
+    
+    Some people would pay top dollar for a moment like this.
+  - This table seems empty...
+    
+    You are filled with determination.
+  - You take a moment to look around at the wide variety of people attending this party.
+    
+    Even though none of them notice you,
+    You are still slightly amazed that one little party was able to connect such a diverse cast of souls.
+}
+"""
+
+DLG SPR_7
+"""
+{cycle
+  - The table stares back at you.
+  - It's just a table.
+  - It's just a table.
+  - It's just a table.
+  - It's just a table...
+}
+"""
+
+DLG SPR_8
+"""
+{cycle
+  - Looks like somebody spilled their drink.
+  - The floor is a little wet around this table.
+  - You hope you didn't step in any of the liquid.
+  - You watch a little trail of liquid snake its way across the table away from the main puddle.
+    
+    It winds left and right, branching off into smaller streams at several points.
+    
+    The main stream splits around the bottom of a single peanut that someone has dropped on the table.
+    You follow the trail with your eyes until it reaches the edge of the table and forms another small puddle. 
+    The liquid seems to be queuing in anticipation of the fall.
+    Slowly, one-by-one the little droplets of liquid release themselves from the group, setting off into the night.
+    Free from the confines of structure,
+    they are now able to choose their own destiny.
+    You remember the puddle on the ground and try to avoid getting any on your shoes.
+  - You wonder why nobody has bothered to clean up this mess.
+}
+"""
+
+DLG SPR_9
+"""
+{cycle
+  - There are several bottles lined up on this table.
+  - Looks like someone has been doing some {wvy}heavy{wvy} drinking tonight.
+  - The horderves on this table also look pretty tasty.
+}
+"""
+
+DLG SPR_a
+"""
+{cycle
+  - *Drinking sounds*
+  - "Gotta keep going!"
+  - "Gotta get {shk}AMPED{shk}!"
+  - "Light beer is my jam."
+  - *Drinking sounds*
+  - "I think I saw my ex earlier."
+  - "Chug chug chug-a-lug!"
+  - "Woo! You feelin good? I'm feelin good!"
+}
+"""
+
+DLG SPR_b
+"""
+{cycle
+  - "Oh... I wasn't waving at you..."
+  - "Still not waving at you."
+  - "Hey! Over here!"
+  - "Can you please move? I'm trying to get their attention."
+  - *Furious waving*
+}
+"""
+
+DLG SPR_c
+"""
+{cycle
+  - "Sorry, this drink is spoken for."
+  - *Humming noises*
+  - "Please excuse me, I'm waiting for someone."
+  - "Go find your own drink."
+}
+"""
+
+DLG SPR_d
+"""
+{cycle
+  - "I just wanna dance with my friends!"
+  - "This is my jam!"
+  - {shk}"INTERGALACTIC. PLANETARY. PLANETARY. INTERGALACTIC."{shk}
+  - "Feel the music!"
+  - {shk}"WHO LET THE DOGS OUT?!"{shk}
+  - "Can't stop, won't stop!"
+  - {shk}"Here we go for the hundredth time,
+    Hand grenade pins in every line,
+    
+    Throw em up and let somethin shine,
+    Going outta my..."
+    {shk}
+  - "I can't wait for the drop!"
+  - {wvy}"I'm boombastic, Mr. Fantastic..."{wvy}
+  - "BASS IN MAH FACE!"
+  - {shk}"WANNA HEAR A GOOD JOKE?
+    
+    NOBODY SPEAK, NOBODY GET CHOKED!"{shk}
+  - {shk}"HAVE FE DROP DE BOMB PON DEM-A!"{shk}
+}
+"""
+
+DLG SPR_e
+"""
+{cycle
+  - "Par-tay!"
+  - {wvy}"Suckin too hard on your lollipop, oh love's gonna get you down!"{wvy}
+  - "This DJ it killin it!"
+  - {wvy}"Dancing slow and in turn,
+    
+    I love you Audrey Hepburn.
+    
+    Steal your statue back and then fall in love..."{wvy}
+  - {wvy}"Poor Leno..."{wvy}
+  - "I've been dancing for hours!"
+  - {wvy}"Lions make you brave,
+    
+    Giants give you faith,
+    
+    Death is a charade.
+    
+    You don't have to feel safe to feel unafraid."{wvy}
+  - "Just let loose!"
+  - {wvy}"...Your batteries low,
+    
+    Did you crash again?
+    
+    Robotboy, do you need a friend?"
+    {wvy}
+}
+"""
+
+DLG SPR_f
+"""
+{cycle
+  - "I don't wanna sell you death sticks."
+  - "Go home kid."
+  - "You look like a narc."
+  - "Get outta here before you draw too much attention."
+}
+"""
+
+DLG SPR_g
+"""
+{cycle
+  - It's just a shrub.
+  - The shrub looks lonely.
+  - You reach out to comfort the shrub, but stop yourself.
+    Anyone could be watching...
+  - It's just a shrub.
+  - It's just a shrub.
+  - It's just a shrub.
+  - It's just a lonely shrub.
+}
+"""
+
+DLG SPR_h
+"""
+{cycle
+  - "Go away."
+  - "Nobody likes you, ya know."
+  - "Why are you here?"
+  - "Who invited you?"
+}
+"""
+
+DLG SPR_i
+"""
+{cycle
+  - I'm pretty sure you are purple.
+    
+    Maybe I'm purple.
+    
+    What actually {wvy}is{wvy} purple though?
+    
+    Like... really.
+  - I'm not upside-down...
+    
+    You're upside down!
+  - Hey do I have a cricket in my ear?
+    I swear there's a cricket in there.
+    The chirps are unbearable.
+  - I should get another drink.
+  - That guy in the corner has the {rbw}best{rbw} stuff.
+}
+"""
+
+DLG SPR_j
+"I'm pretty sure I'm lost."
+
+DLG SPR_k
+"""
+{cycle
+  - "I'm just here for the view."
+  - "I don't really know anyone here...
+    I don't really care to know anyone here."
+  - "The way the moon dances on the waves is truly mesmerizing.
+    It's like someone cast a spell that just hung around in the air...
+    
+    Forever dancing...
+    
+    I just want to leap over this rail into its cold embrace.
+    I'd let it carry me off to whatever magical land it comes from.
+    
+    I'm not really tied down to this reality."
+  - "The stars make me smile."
+}
+"""
+
+DLG SPR_l
+"""
+{cycle
+  - "Hulk Hogan could take Ant Man any day of the week."
+  - "That would be true, but the Beholder gets Petrification Ray..."
+  - "The movie version basically ruined the entire story."
+  - "In my opinion, the lightsaber is a pretty weak weapon."
+  - "Blue... no... {wvy}YELLOW{wvy}!"
+}
+"""
+
+DLG SPR_m
+"""
+{cycle
+  - "Ant Man is a super hero... Hulk Hogan is just a guy."
+  - "I'll roll you like a d20 in a second..."
+  - "The only good way to enjoy the story of Harry Potter is through the films. There's just too much exposition in the books."
+  - "Your Klingon translation sucks."
+  - "Knock him out the box luke, knock him out!"
+}
+"""
+
+END 0
+
+
+END undefined
+It's ok to leave. Sometimes it's good to be alone. Travel safe!
+
+VAR drinks
+0
+s

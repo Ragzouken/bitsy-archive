@@ -1,0 +1,820 @@
+A Broken Pirate's Cursed Heart (A Bilge & Moon Romance by G_G)
+
+# BITSY VERSION 3.5
+
+! ROOM_FORMAT 1
+
+PAL 0
+0,0,192
+255,255,0
+255,255,255
+
+PAL 1
+0,0,0
+255,0,0
+255,255,0
+
+PAL 2
+255,255,0
+0,192,0
+192,0,192
+
+PAL 3
+0,0,255
+192,192,192
+192,0,0
+
+PAL 4
+192,192,192
+0,0,0
+192,0,0
+
+PAL 5
+192,0,192
+0,255,0
+0,255,255
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,19,19,19,0,0,0,0
+0,0,0,0,0,j,0,0,0,0,j,0,19,0,j,0
+19,0,0,0,j,j,0,19,j,0,0,0,0,0,19,0
+0,0,0,j,j,0,0,0,0,0,0,0,j,0,0,19
+0,0,0,0,0,0,0,19,j,j,0,0,0,0,0,0
+0,j,j,0,0,19,0,0,0,0,0,19,0,0,19,0
+19,0,j,j,0,19,0,j,0,j,0,0,19,j,0,0
+0,0,0,0,0,0,j,0,0,0,0,19,0,0,0,19
+0,0,0,19,0,0,0,0,0,j,0,0,0,0,0,j
+0,j,0,0,19,j,0,0,j,j,0,19,0,j,j,0
+19,0,0,0,0,0,j,j,0,0,0,0,0,j,0,0
+0,0,0,j,0,0,0,0,0,0,j,0,0,0,0,0
+0,19,0,0,0,19,0,19,0,19,19,0,j,0,19,0
+0,0,j,0,0,0,j,0,0,0,0,0,0,0,0,0
+0,0,0,19,0,0,19,0,j,0,0,19,0,j,0,0
+0,0,19,0,0,0,0,0,19,0,0,0,19,0,0,0
+WAL j,i,d,c,b,h,19
+EXT 4,6 5 4,6
+EXT 11,11 6 11,11
+EXT 0,0 7 15,15
+PAL 4
+
+ROOM 2
+0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,i,i,i,i,i,i,i,0,0,0,0
+0,0,0,0,i,i,i,i,i,i,i,i,i,0,0,0
+0,0,0,i,i,0,i,i,i,i,i,0,i,i,0,0
+0,0,0,i,i,0,0,i,i,i,0,0,i,i,0,0
+0,0,0,i,i,i,i,i,i,i,i,i,i,i,0,0
+0,0,0,i,i,i,i,i,i,i,i,i,i,i,0,0
+0,0,0,i,i,i,i,0,i,0,i,i,i,i,0,0
+0,0,i,0,i,i,i,i,i,0,0,i,i,0,0,0
+0,i,i,0,0,i,i,i,i,i,0,0,0,0,i,0
+0,0,i,i,0,i,0,i,0,i,0,i,0,i,i,i
+0,0,0,0,0,i,i,0,i,0,i,i,0,0,0,0
+0,0,0,i,i,0,i,i,i,i,i,0,0,i,0,0
+0,i,i,i,i,0,0,0,0,0,0,0,i,i,i,i
+0,0,i,0,0,0,0,0,0,0,0,0,0,0,i,0
+WAL i,d,c,b,h,j,19
+EXT 12,0 4 8,5
+PAL 1
+
+ROOM 3
+q,h,12,13,18,12,11,13,11,13,12,11,12,13,13,n
+z,h,0,0,0,0,0,0,0,0,0,0,0,b,0,14
+y,h,0,0,0,0,0,0,0,h,0,0,c,d,0,15
+10,h,0,0,0,0,c,d,c,0,0,0,b,c,d,16
+z,0,h,b,h,c,0,b,d,0,d,0,d,0,0,15
+y,0,0,0,0,0,0,0,0,0,d,0,0,0,0,14
+y,0,0,0,0,0,0,d,b,0,0,0,0,h,0,16
+k,0,b,c,0,d,0,c,0,0,0,h,0,0,0,15
+z,0,0,b,0,0,0,0,0,c,0,0,0,c,0,14
+y,0,0,0,0,0,c,0,b,d,c,0,0,b,d,15
+k,0,0,0,d,0,b,0,c,0,0,0,b,d,c,16
+y,0,d,c,b,0,0,0,0,0,0,0,0,0,d,15
+10,0,b,b,d,c,0,0,h,0,h,0,0,0,0,15
+z,c,d,0,c,b,d,0,0,0,0,0,c,0,h,15
+k,0,0,0,0,0,0,0,0,0,b,d,b,d,0,14
+k,p,w,x,p,o,l,n,p,w,x,x,w,w,m,w
+WAL d,c,b,h,j,19
+EXT 4,0 4 4,9
+PAL 2
+
+ROOM 4
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,r,k,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,l,0,0,0,0,j,0,0,0,j,j,0
+0,0,0,0,0,0,t,0,0,0,0,0,0,0,0,0
+0,j,0,0,0,0,n,m,m,o,s,0,0,0,0,0
+0,0,j,0,0,0,0,o,u,k,0,0,0,0,0,0
+0,0,0,0,0,0,0,r,o,l,m,o,0,0,0,0
+0,0,0,0,0,t,0,0,0,0,l,n,s,0,0,0
+0,0,r,m,p,o,t,0,0,0,0,0,0,0,j,0
+0,0,0,n,u,m,k,0,j,0,0,0,0,0,0,j
+0,0,0,0,n,k,0,0,0,0,0,0,t,0,0,0
+0,0,0,0,0,0,0,0,0,r,p,m,k,0,0,0
+0,0,0,j,0,0,0,0,0,r,o,l,q,0,0,0
+0,0,j,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,j,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WAL d,c,b,h,j,19
+EXT 4,9 3 4,0
+EXT 8,5 2 12,0
+EXT 15,15 0 0,0
+PAL 0
+
+ROOM 5
+0,0,0,0,0,0,0,0,0,19,19,19,0,0,0,0
+0,0,0,0,0,j,0,0,0,0,j,0,19,0,j,0
+19,0,0,0,j,j,0,19,j,0,0,0,0,0,19,0
+0,0,0,j,j,0,0,0,0,0,0,0,j,0,0,19
+0,0,0,0,0,0,0,19,j,j,0,0,0,0,0,0
+0,j,j,0,0,19,0,0,0,0,0,19,0,0,19,0
+19,0,j,j,0,19,0,j,0,j,0,0,19,j,0,0
+0,0,0,0,0,0,j,0,0,0,0,19,0,0,0,19
+0,0,0,19,0,0,0,0,0,j,0,0,0,0,0,j
+0,j,0,0,19,j,0,0,j,j,0,19,0,j,j,0
+19,0,0,0,0,0,j,j,0,0,0,0,0,j,0,0
+0,0,0,j,0,0,0,0,0,0,j,0,0,0,0,0
+0,19,0,0,0,19,0,19,0,19,19,0,j,0,19,0
+0,0,j,0,0,0,j,0,0,0,0,0,0,0,0,0
+0,0,0,19,0,0,19,0,j,0,0,19,0,j,0,0
+0,0,19,0,0,0,0,0,19,0,0,0,19,0,0,0
+WAL j,i,d,c,b,h,19
+EXT 0,0 7 15,15
+PAL 4
+
+ROOM 6
+0,0,0,0,0,0,0,0,0,19,19,19,0,0,0,0
+0,0,0,0,0,j,0,0,0,0,j,0,19,0,j,0
+19,0,0,0,j,j,0,19,j,0,0,0,0,0,19,0
+0,0,0,j,j,0,0,0,0,0,0,0,j,0,0,19
+0,0,0,0,0,0,0,19,j,j,0,0,0,0,0,0
+0,j,j,0,0,19,0,0,0,0,0,19,0,0,19,0
+19,0,j,j,0,19,0,j,0,j,0,0,19,j,0,0
+0,0,0,0,0,0,j,0,0,0,0,19,0,0,0,19
+0,0,0,19,0,0,0,0,0,j,0,0,0,0,0,j
+0,j,0,0,19,j,0,0,j,j,0,19,0,j,j,0
+19,0,0,0,0,0,j,j,0,0,0,0,0,j,0,0
+0,0,0,j,0,0,0,0,0,0,j,0,0,0,0,0
+0,19,0,0,0,19,0,19,0,19,19,0,j,0,19,0
+0,0,j,0,0,0,j,0,0,0,0,0,0,0,0,0
+0,0,0,19,0,0,19,0,j,0,0,19,0,j,0,0
+0,0,19,0,0,0,0,0,19,0,0,0,19,0,0,0
+WAL j,i,d,c,b,h,19
+EXT 0,0 8 15,15
+PAL 4
+
+ROOM 7
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,r,k,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,l,0,0,0,0,j,0,0,0,j,j,0
+0,0,0,0,0,0,t,0,0,0,0,0,0,0,0,0
+0,j,0,0,0,0,n,m,m,o,s,0,0,0,0,0
+0,0,j,0,0,0,0,o,1a,k,0,0,0,0,0,0
+0,0,0,0,0,0,0,r,o,l,m,o,0,0,0,0
+0,0,0,0,0,t,0,0,0,0,l,n,s,0,0,0
+0,0,r,m,p,o,t,0,0,0,0,0,0,0,j,0
+0,0,0,n,17,m,k,0,j,0,0,0,0,0,0,j
+0,0,0,0,n,k,0,0,0,0,0,0,t,0,0,0
+0,0,0,0,0,0,0,0,0,r,p,m,k,0,0,0
+0,0,0,j,0,0,0,0,0,r,o,l,q,0,0,0
+0,0,j,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,j,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WAL d,c,b,h,j,19
+END undefined 4,9
+PAL 4
+
+ROOM 8
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,r,k,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,l,0,0,0,0,j,0,0,0,j,j,0
+0,0,0,0,0,0,t,0,0,0,0,0,0,0,0,0
+0,j,0,0,0,0,n,m,m,o,s,0,0,0,0,0
+0,0,j,0,0,0,0,o,1a,k,0,0,0,0,0,0
+0,0,0,0,0,0,0,r,o,l,m,o,0,0,0,0
+0,0,0,0,0,t,0,0,0,0,l,n,s,0,0,0
+0,0,r,m,p,o,t,0,0,0,0,0,0,0,j,0
+0,0,0,n,17,m,k,0,j,0,0,0,0,0,0,j
+0,0,0,0,n,k,0,0,0,0,0,0,t,0,0,0
+0,0,0,0,0,0,0,0,0,r,p,m,k,0,0,0
+0,0,0,j,0,0,0,0,0,r,o,l,q,0,0,0
+0,0,j,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,j,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WAL d,c,b,h,j,19
+END undefinee 4,9
+PAL 5
+
+TIL 10
+10000000
+10000000
+11000000
+11000000
+11100000
+11110000
+11100000
+10000000
+
+TIL 11
+11111111
+11001001
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL 12
+11111111
+11111111
+01111110
+00011000
+00000000
+00000000
+00000000
+00000000
+
+TIL 13
+11111111
+01110110
+00100000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL 14
+00000001
+00000011
+00000111
+00000011
+00000011
+00000001
+00000001
+00000001
+
+TIL 15
+00000011
+00000001
+00000001
+00000011
+00000111
+00000011
+00000011
+00000011
+
+TIL 16
+00000011
+00000111
+00001111
+00000111
+00000011
+00000011
+00000111
+00000011
+
+TIL 17
+11110111
+10111101
+11011011
+01100111
+11100110
+11011011
+10111101
+11101111
+>
+11110111
+10111101
+11011011
+01100111
+11100110
+11011011
+10111101
+11101111
+
+TIL 18
+11111111
+11000011
+01111110
+01000010
+01111110
+01000010
+01111110
+00000000
+
+TIL 19
+00000000
+00000100
+00000100
+01001010
+01001010
+10101001
+10010001
+00000000
+
+TIL a
+10111010
+01001100
+11111010
+10101010
+10111110
+01100100
+10111010
+00000000
+
+TIL b
+00111000
+01001100
+10111110
+11010110
+11101110
+01010100
+00111000
+00000000
+
+TIL c
+00111000
+01001100
+10111010
+11010110
+11001110
+01000100
+00111000
+00000000
+
+TIL d
+00111000
+01010100
+10111010
+10100010
+10111010
+01010100
+00111000
+00000000
+
+TIL e
+01111100
+11101110
+11101110
+10101010
+11000110
+11101110
+01111100
+00000000
+>
+01111100
+11111110
+11111110
+11111110
+11111110
+11111110
+01111100
+00000000
+
+TIL f
+01111100
+10000010
+10000010
+10000010
+10000010
+10000010
+01111100
+00000000
+
+TIL g
+01111100
+11101110
+11110110
+10000010
+11110110
+11101110
+01111100
+00000000
+>
+01111100
+11111110
+11111110
+11111110
+11111110
+11111110
+01111100
+00000000
+
+TIL h
+00110110
+11011001
+10110101
+01010010
+01011000
+00011000
+00011100
+00001110
+
+TIL i
+00111000
+01010100
+01101100
+00111000
+11000110
+00111000
+11000110
+00000000
+
+TIL j
+01000000
+01000000
+10100100
+10101010
+10101010
+10010001
+10000001
+00000000
+
+TIL k
+01111000
+01110000
+11100000
+11100000
+11110000
+11110000
+11111000
+11111000
+
+TIL l
+11111111
+11111111
+00111111
+00111111
+01111111
+01111110
+00110000
+00000000
+
+TIL m
+00000000
+10000000
+11100000
+11100000
+11000001
+11001111
+11111111
+11111111
+
+TIL n
+11111110
+11111111
+11111111
+01111111
+01111111
+00011111
+00000111
+00000001
+
+TIL o
+11001111
+11111111
+11111111
+11111111
+11111010
+11110110
+11100100
+11100000
+
+TIL p
+00000011
+00000011
+01001111
+01101111
+11111111
+11111111
+11111111
+11111111
+
+TIL q
+11110000
+10110000
+11100000
+11000000
+10100000
+00000000
+00000000
+00000000
+
+TIL r
+00000000
+00000000
+00000000
+00000001
+00000011
+00000111
+00000011
+00000001
+
+TIL s
+00000000
+10000000
+11010000
+11111000
+11110000
+11000000
+00000000
+00000000
+
+TIL t
+00000000
+00000000
+00000000
+00000000
+00000000
+00001000
+00011100
+00111100
+
+TIL u
+00001000
+01000010
+00100100
+10011000
+00011001
+00100100
+01000010
+00010000
+
+TIL v
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL w
+00000000
+00000000
+00000000
+00000000
+00000000
+00000011
+11100111
+11111111
+
+TIL x
+00000000
+00000000
+00000000
+00000000
+00000001
+00000001
+10100011
+11111111
+
+TIL y
+11000000
+11000000
+11100000
+11110000
+11110000
+11100000
+11000000
+11000000
+
+TIL z
+10000000
+10000000
+11000000
+11000000
+11110000
+11100000
+10000000
+10000000
+
+TIL 1a
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+SPR A
+01111100
+11111110
+01000010
+01010100
+01000000
+10111011
+10000000
+00001000
+>
+00111110
+01111111
+01000010
+00101010
+00000010
+11011101
+00000001
+00010000
+POS 4 4,1
+
+SPR b
+00000000
+01111010
+11111101
+00000000
+11111101
+11001101
+11101101
+11111101
+POS 3 6,2
+
+SPR c
+00111100
+01111110
+00000000
+00101010
+00000010
+00111100
+00000100
+00111000
+>
+00111100
+01111110
+00000000
+00101010
+00000010
+00111100
+00111100
+00000000
+POS 2 8,8
+
+SPR f
+00000000
+00000000
+00000000
+10000001
+11000011
+01111110
+00111100
+00000000
+>
+00000000
+00000000
+00000000
+11000001
+01100011
+00111111
+00011110
+00000000
+POS 3 9,12
+
+SPR h
+00111000
+00011100
+00011100
+00111000
+10010011
+11111111
+10101010
+01111100
+>
+00110000
+00111000
+00111000
+00110000
+10010011
+11111111
+10101010
+01111100
+POS 4 2,3
+
+SPR i
+11000011
+10100101
+01011010
+00100100
+00100100
+01011010
+10100101
+11000011
+POS 2 10,0
+
+SPR j
+00110000
+00111000
+00111000
+10110000
+10010011
+11111111
+10010010
+01111100
+>
+00111000
+00011100
+00011100
+10111000
+10010011
+11111111
+10010010
+01111100
+POS 4 14,13
+
+SPR k
+11000011
+10100101
+01011010
+00100100
+00100100
+01011010
+10100101
+11000011
+POS 0 2,1
+
+SPR l
+11001011
+01001010
+01010010
+01010001
+00111110
+01111111
+10101010
+10011100
+>
+00110010
+01010100
+01010100
+10101010
+10111110
+01111111
+00101010
+00011100
+POS 5 4,8
+
+SPR m
+01001000
+10010001
+00000010
+00000000
+01001001
+10010010
+00000000
+00100100
+>
+00100000
+01000100
+00001000
+00100101
+01001010
+00000000
+00101000
+01010000
+POS 6 11,13
+
+DLG a
+Lately... [at night/in bed], I've been thinking about the person....
+
+DLG c
+Yellow Billie and I greet each other with the usual cliched range of piratey "Arrs!" "Yarrs!" and "Ayes!". Billie tells me of a merchant ship, Ocean Dreamer which is reportedly in the South-Eastern Sea transporting the fabled Golden Dionysian Goblet back to its Greek homeland. "It's been missing all these years - no harm in it being missing for a bit longer, hey?" suggests Billie with a rascally look in their eyes, "Especially if we can make a bit of money from it ourselves, hey?" I nod and smile a rascally smile back at their suggestion, but Billie can see I'm distracted. "What's on your mind buccaneer?" comes their question. I can't answer honestly and reply with "Aww! Nothing really, just feeling a bit down at the moment. You know, it's been a bit rainy recently and that always affects me. Think I can feel a bit of a cold coming on too," I sniff. Billie nods. "Arr! Summer colds and dour weather. I gets it! It's enough to put a permanent frown on the face of the laughing Gorgon of Old Madiz.... but this treasure I'm talking about is worth following up on, mate, isn't it! Isn't it?." I think for a moment and then, this time, agree in a way that convinces both myself and Billie that I'll go after it.
+
+DLG f
+Tonight, as I lay in my hammock, my mind can only focus on one thing... the abandoned Crimson Serpent. But it wasn't the abandoned ship itself that distracts me... just the dread of the loss of a single life. One life in particular. Not someone I'd known, but someone I'd noticed. The first time I'd seen them they were aboard The Crimson Serpent. The captain was retiring and wanted the vessel to go to another worthy of the role... so I'd been headhunted by a pirate recruitment agency for the job. I agreed to go to the interview on board the ship and meet the crew, even though I knew I'd probably turn  down the post - I wasn't keen on the pay, terms and conditions and employment benefits..... As I boarded the ship a crew member caught my eye - I didn't get a clear view of them, but the first thing I saw was a pair of orange flip-flops on their feet. "Arr! That's a bold fashion statement for a pirate," I thought. I tried to get a better look at them, but I could not get a clear view. All I saw was the side of a face in shadow, the edge of their mouth, dark hair to the nape of their neck and in that moment I felt something odd PING! inside me. Why? I don't know. They should have blended into the background by rights, and a bright pair of flip-flops shouldn't have been enough to keep my attention, but there was something about them that did...... I never saw them again after that, but I thought about them often for a while after that meeting and wondered about them... Who they were? Man? Woman? I did not know their gender. ... and I so wanted our paths to cross again... but they never did, and eventually that unexpected feeling left me and I went on about my pirating business in the usual way... But now I had been reminded of them and it felt like a hole had appeared inside me, and our paths would never cross... even though I now longed for that to happen.
+
+DLG g
+X marks the spot - info point
+
+DLG h
+Boarding the pirate galleon, The Crimson Serpent, I don't find a single soul aboard. It has a strange aura about this abandoned vessel. There are no signs of anything untoward happening and it's as if the entire crew had suddenly evaporated into the atmosphere, leaving their posts, duties and loot behind. I was sure something terrible had happened to them all, and despite the coldness of my ruthless pirate soul I felt a piece of my heart crumble.... and then I proceeded to steal the loot off the ship, stowed it on my own marauder vessel and left The Crimson Serpent to its own fate.
+
+DLG b
+Back at my hideout I'd normally settle in for a night of enjoying the cliche of showering myself in the gold and loot I'd acquired after years of raids on merchant ships & children's piggy banks, but tonight it held no joy for me. My mind was distracted.
+
+DLG i
+I find myself on Dead Men's Island, the burial site of all pirates, and also the hideout of fellow pirate, Yellow Billie. Billie's a stay-at-home pirate these days, but can sniff treasure from one end of the ocean to the other. So Billie points me in the direction of treasure, I find it, bag it and we split the takings. I know Billie will have a treasure tip for me again, today.
+
+DLG j
+After a days sailing on a heading towards the South-Eastern Sea, I catch sight of the Ocean Dreamer and soon gain ground on it. I ready myself for a fierce battle as I approach - one that will end in my securing the fabled Dionysian Goblet as my reward. But again, even before I approach, I can see the vessel is abandoned. Climbing aboard, not a soul is to be found above or below decks. No signs of struggle and also no signs of the goblet either. This is all very curious. The voice in my head is telling me to go further south-easterly, and even though I have heard tales of sea-monsters, treacherous reefs, whirl-pools and angry sea-gods in those south-easterly open waters, I know the answer to this mystery lies in that direction.
+
+DLG k
+Sailing on I enter the cursed south-eastern open waters. Grey murk beneath me, pierced only by ominous shards of razor like rocks, and a blood red shadow cast from them.
+
+DLG l
+A deadly sea monster rises from the grey murk and boards my vessel! Though not so deadly as it thinks. I defeat it with strong thrusts, hacks and slashes of my sword. As I push my final deadly blow through it, its last meal vacates its quivering stomach - in a pool of ooze I see a glow of orange. My curiosity gets the better of me, and dipping my blade into the mess I hook and pull out what looks like the remains of a bright orange flip-flop. I feel a stab in my own heart. Staring at it I think that surely it couldn't belong to the object of my obsession, but deep inside I know it's true. I feel nothing, but an overwhelming desire to return home.
+
+DLG m
+A strange haze appears in front of my ship. I try to steer away from it, but it follows my shift in direction. It envelops me. I feel nothing except an overwhelming desire to return home.
+
+END 0
+
+
+END undefined
+I am home. I am empty. I have been empty since I destroyed that monster... since I found that item that would have been inconsequential in other situations. It isn't inconsequential and I can do nothing to take this pain away... at this time. I know it will pass, but not just yet. I'll lie here looking at the stars in the night and clouds in the day waiting for the pain and emptiness to leave me.... To be continued... Maybe!
+
+END undefinee
+I am home, though it feels like a strange home to me now - as if the haze is still enveloping me. I wait. I don't know what I'm waiting for, but ever since I encountered that mist I felt as if I should be here and just wait... for something. I lie in my hammock staring at the stars at night and the clouds in the day... and yes, wait, though I'm not sure what for... To be continued... Maybe!
+

@@ -1,0 +1,783 @@
+
+Gritsy Bitsy Teeny Weeny Yellow Anti-Slip Machiney
+
+# BITSY VERSION 4.5
+
+! ROOM_FORMAT 1
+
+PAL 0
+255,248,244
+215,235,255
+239,219,2
+
+ROOM 2
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,b,b,b,b,a,a,a,a,a,a,a,a,a,a,a
+i,g,0,0,g,h,a,a,a,a,a,a,a,a,a,a
+i,g,0,0,g,h,a,a,a,a,a,a,a,a,a,a
+i,g,0,0,g,b,b,b,b,b,b,b,b,b,b,b
+i,g,0,0,0,d,d,d,d,d,d,d,d,d,d,d
+i,g,0,0,g,c,c,c,c,c,c,c,c,c,c,c
+i,g,0,0,g,h,a,a,a,a,a,a,a,a,a,a
+i,g,0,0,g,h,a,a,a,a,a,a,a,a,a,a
+i,g,0,0,g,h,a,a,a,a,a,a,a,a,a,a
+a,c,c,c,c,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+ITM 0 6,7
+ITM 0 5,7
+ITM 0 7,7
+ITM 0 8,7
+ITM 0 9,7
+ITM 0 10,7
+ITM 0 11,7
+ITM 0 12,7
+ITM 0 13,7
+ITM 0 14,7
+ITM 0 15,7
+ITM 2 2,4
+ITM 2 3,4
+ITM 2 2,5
+ITM 2 3,5
+ITM 2 2,6
+ITM 2 3,6
+ITM 2 2,8
+ITM 2 2,9
+ITM 2 3,9
+ITM 2 2,10
+ITM 2 3,10
+ITM 2 3,11
+ITM 2 2,7
+ITM 2 3,7
+ITM 2 3,8
+ITM 2 2,11
+EXT 15,7 3 0,7
+PAL 0
+
+ROOM 3
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,t,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,0
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,f,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+ITM 0 1,7
+ITM 0 2,7
+ITM 0 3,7
+ITM 0 4,7
+ITM 0 5,7
+ITM 0 6,7
+ITM 0 7,7
+ITM 0 8,7
+ITM 0 9,7
+ITM 0 10,7
+ITM 0 11,7
+ITM 0 12,7
+ITM 0 13,7
+ITM 0 14,7
+ITM 0 15,7
+EXT 15,7 4 0,7
+PAL 0
+
+ROOM 4
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,u,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+b,b,b,b,b,b,b,j,l,h,a,a,a,a,a,a
+d,d,d,d,d,d,d,k,l,h,a,a,a,a,a,a
+c,c,c,c,c,c,c,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+ITM 0 1,7
+ITM 0 2,7
+ITM 0 3,7
+ITM 0 4,7
+ITM 0 5,7
+ITM 0 6,7
+ITM 0 7,7
+ITM 0 7,8
+ITM 0 7,9
+ITM 0 7,10
+ITM 0 7,11
+ITM 0 7,12
+ITM 0 7,13
+ITM 0 7,14
+ITM 0 7,15
+EXT 7,6 0 0,0
+EXT 7,15 6 7,0
+PAL 0
+
+ROOM 6
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,h,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,l,b,b,b,b,b,b,b
+a,a,a,a,a,a,i,j,o,n,n,n,n,n,n,n
+a,a,a,a,a,a,i,p,m,m,m,m,m,m,m,m
+a,a,a,a,a,a,a,c,c,c,c,c,c,c,c,c
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+ITM 0 7,1
+ITM 0 7,2
+ITM 0 7,3
+ITM 0 7,4
+ITM 0 7,5
+ITM 0 7,6
+ITM 0 7,7
+ITM 0 7,8
+ITM 0 8,8
+ITM 0 9,8
+ITM 0 10,8
+ITM 0 11,8
+ITM 0 12,8
+ITM 0 13,8
+ITM 0 14,8
+ITM 0 15,8
+ITM 0 15,7
+ITM 0 14,7
+ITM 0 13,7
+ITM 0 11,7
+ITM 0 12,7
+ITM 0 10,7
+ITM 0 9,7
+ITM 0 8,7
+ITM 0 8,6
+ITM 0 8,5
+ITM 0 8,4
+ITM 0 8,3
+ITM 0 8,2
+ITM 0 8,1
+ITM 0 8,0
+EXT 15,8 7 0,8
+PAL 0
+
+ROOM 7
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g
+m,m,m,m,m,m,m,m,m,q,q,q,q,q,q,q
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+ITM 0 1,8
+ITM 0 2,8
+ITM 0 3,8
+ITM 0 4,8
+ITM 0 5,8
+ITM 0 6,8
+ITM 0 7,8
+ITM 0 7,7
+ITM 0 6,7
+ITM 0 5,7
+ITM 0 2,7
+ITM 0 3,7
+ITM 0 4,7
+ITM 0 1,7
+ITM 0 0,7
+ITM 0 8,7
+ITM 0 9,7
+ITM 0 10,7
+ITM 0 11,7
+ITM 0 12,7
+ITM 0 13,7
+ITM 0 14,7
+ITM 0 15,7
+EXT 15,7 8 0,7
+PAL 0
+
+ROOM 8
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+g,g,g,g,g,g,g,s,r,r,r,r,r,r,r,r
+q,q,q,q,q,q,s,m,m,m,m,m,m,m,m,m
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+ITM 0 1,7
+ITM 0 2,7
+ITM 0 3,7
+ITM 0 4,7
+ITM 0 5,7
+ITM 0 8,8
+ITM 0 9,8
+ITM 0 10,8
+ITM 0 11,8
+ITM 0 12,8
+ITM 0 13,8
+ITM 0 15,8
+ITM 0 14,8
+ITM 1 6,7
+EXT 15,8 9 0,8
+PAL 0
+
+ROOM 9
+a,a,a,a,t,t,t,t,t,t,t,a,a,a,a,a
+a,a,a,a,i,v,v,v,v,v,h,a,a,a,a,a
+a,a,a,a,i,e,0,0,0,0,h,a,a,a,a,a
+a,a,a,a,i,v,v,v,v,v,h,a,a,a,a,a
+a,a,a,a,a,c,i,j,h,c,a,a,a,a,a,a
+a,a,a,a,a,a,i,j,h,a,a,a,a,a,a,a
+b,b,b,b,b,b,b,j,b,b,b,b,b,b,b,b
+g,g,g,g,g,g,g,k,r,g,g,g,g,g,g,g
+m,m,m,m,m,m,m,m,m,q,m,m,m,m,m,m
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+ITM 0 1,7
+ITM 0 1,8
+ITM 0 2,8
+ITM 0 2,7
+ITM 0 0,7
+ITM 0 3,8
+ITM 0 3,7
+ITM 0 4,7
+ITM 0 4,8
+ITM 0 5,8
+ITM 0 5,7
+ITM 0 6,7
+ITM 0 6,8
+ITM 0 7,8
+ITM 0 7,7
+ITM 0 9,7
+ITM 0 10,8
+ITM 0 10,7
+ITM 0 11,7
+ITM 0 11,8
+ITM 0 12,8
+ITM 0 12,7
+ITM 0 13,7
+ITM 0 13,8
+ITM 0 14,8
+ITM 0 14,7
+ITM 0 15,7
+ITM 0 15,8
+ITM 0 7,6
+ITM 0 7,5
+ITM 0 7,4
+ITM 0 8,8
+ITM 3 7,3
+END 0 7,3
+PAL 0
+
+TIL a
+11011111
+11111101
+11111110
+11111111
+01111111
+11111111
+11011011
+11111111
+
+TIL b
+11111111
+11111101
+10111111
+11111111
+11101011
+10111011
+11010110
+01010110
+WAL true
+
+TIL c
+10101001
+10111101
+11111111
+11010111
+10111111
+11111111
+11111010
+11011111
+WAL true
+
+TIL d
+00000000
+11111111
+00000000
+00000000
+00000000
+00110011
+00000000
+01110100
+WAL false
+
+TIL e
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL f
+11111111
+10101110
+10001110
+10001101
+11000011
+11000011
+11011011
+11111111
+
+TIL g
+00000000
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+WAL false
+
+TIL h
+01111111
+00111101
+11111111
+01010111
+11111111
+11110111
+00111011
+11011111
+WAL true
+
+TIL i
+11111010
+10111111
+11101000
+11111111
+11111110
+11110111
+11111011
+11011100
+WAL true
+
+TIL j
+01000001
+01000001
+01000000
+01000000
+01000001
+01000001
+01000000
+01000000
+WAL false
+
+TIL k
+01000001
+11000000
+00000001
+01000001
+00000001
+01000000
+00000001
+01000000
+WAL false
+
+TIL l
+00000010
+00000010
+00000010
+00000010
+00000010
+00000010
+00000010
+00000010
+WAL true
+
+TIL m
+11001100
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+WAL false
+
+TIL n
+00000000
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+WAL true
+
+TIL o
+00000010
+00000011
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+WAL true
+
+TIL p
+01000000
+01000000
+01000000
+01000000
+01000000
+01000000
+00111111
+00000000
+WAL false
+
+TIL q
+01111000
+11010100
+11111110
+11111110
+01101100
+00000000
+11111111
+00000000
+WAL true
+
+TIL r
+00000000
+00011110
+00101011
+01111111
+01111111
+00110110
+00000000
+00000000
+WAL true
+
+TIL s
+00110100
+01111010
+11011000
+11111000
+10110010
+01110001
+01100100
+10000000
+WAL false
+
+TIL t
+01111110
+00000000
+01111110
+00000000
+01111110
+01010100
+01110110
+00000000
+WAL true
+
+TIL u
+11101111
+11010111
+11101111
+11010111
+10111011
+11010111
+11101111
+11111111
+
+TIL v
+00000010
+00000010
+00000010
+00000010
+00000010
+00000010
+00000010
+00000010
+WAL false
+
+SPR A
+00000000
+00000000
+00111000
+00101000
+01101001
+11111111
+11111111
+01101101
+>
+00000000
+00000000
+00000000
+00111000
+00101000
+01101001
+11111111
+11111111
+POS 2 1,7
+
+SPR a
+00000000
+00000000
+00011100
+00010100
+10010110
+11111111
+11111111
+10110110
+DLG SPR_0
+POS 4 7,6
+
+SPR b
+00000000
+00000000
+00111000
+00101000
+01101001
+11111111
+11111111
+01101101
+DLG SPR_1
+POS 2 1,10
+
+SPR c
+00000000
+00000000
+00011100
+00010100
+10010110
+11111111
+11111111
+10110110
+DLG SPR_2
+POS 2 4,4
+
+SPR d
+00000000
+00000000
+00011100
+00010100
+10010110
+11111111
+11111111
+10110110
+DLG SPR_3
+POS 2 4,9
+
+SPR e
+00000000
+00000000
+00011100
+00010100
+10010110
+11111111
+11111111
+10110110
+DLG SPR_4
+POS 2 4,10
+
+SPR f
+00000000
+00000000
+00111000
+00101000
+01101001
+11111111
+11111111
+01101101
+DLG SPR_5
+POS 2 1,4
+
+SPR g
+11111000
+10001001
+11111000
+00100001
+00100000
+01110000
+00000000
+00000000
+>
+11111000
+10001000
+11111000
+00100000
+00100000
+01110000
+00000000
+00000000
+DLG SPR_6
+POS 7 8,8
+
+ITM 0
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME snow
+DLG ITM_0
+
+ITM 1
+00000000
+00000111
+00000111
+00001110
+00001100
+00011000
+00010000
+00100000
+>
+00001001
+00000110
+00001001
+00001011
+00011110
+00011000
+00011000
+00100000
+DLG ITM_1
+
+ITM 2
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME carpark
+DLG ITM_2
+
+ITM 3
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME cafe
+DLG ITM_3
+
+DLG SPR_0
+David Plowie
+
+DLG SPR_1
+Brad Grit
+
+DLG SPR_2
+Gritney Spears
+
+DLG SPR_3
+Mr Plow
+
+DLG SPR_4
+The Subzero Hero
+
+DLG SPR_5
+Usain Salt
+
+DLG SPR_6
+{shk}Accident ahead{shk}
+
+DLG ITM_0
+"""
+{
+  - {item "snow"} == 1 ?
+    These roads aren't going to grit themselves!
+  - else ?
+
+}
+"""
+
+DLG ITM_1
+"""
+A fire! The snow from your plow extinguishes the car fire ... ( {rbw}YouTube it{rbw} ) ... 
+
+Luckily no one is hurt and have already escaped. You push the cars to the side of the road to clear a path for traffic.
+"""
+
+DLG ITM_2
+"""
+{
+  - {item "carpark"} == 1 ?
+    In winter 2017 Doncaster Council ran a twitter poll to name two new road gritters to their current fleet of {wvy}punny{wvy} gritters.
+  - else ?
+
+}
+"""
+
+DLG ITM_3
+"""
+{
+  - {item "cafe"} == 1 ?
+
+  - else ?
+
+}
+"""
+
+END 0
+Nice work keeping our roads safe this winter, you are a hero! 
+
+VAR a
+42
+
+

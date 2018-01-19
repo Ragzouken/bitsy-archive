@@ -1,0 +1,860 @@
+
+The Fox's Coat - a short tale (by G_G 2018)
+
+# BITSY VERSION 4.5
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME IceBlue & green
+198,236,245
+80,176,66
+207,64,32
+
+PAL 1
+NAME White & teal
+133,212,201
+249,252,246
+186,94,57
+
+PAL 2
+NAME NOT USED
+231,248,254
+61,138,45
+217,208,202
+
+PAL 3
+NAME Fox ghost
+48,50,51
+109,162,109
+179,113,91
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,c,0,a,g,e,j,a,j,a,j,h,0,0,0
+0,f,e,0,0,h,0,0,g,j,0,g,b,e,0,0
+0,b,0,h,0,0,0,0,0,0,0,0,0,c,0,0
+0,a,0,0,0,0,0,j,h,0,0,0,0,f,h,0
+0,j,0,0,0,0,0,0,b,c,j,0,0,g,a,0
+0,a,0,0,0,f,b,0,g,f,0,0,0,0,g,0
+0,j,0,b,0,0,0,0,0,g,c,0,0,0,0,0
+0,a,0,0,0,e,0,0,0,0,g,0,0,f,h,a
+0,j,e,0,f,j,a,0,0,d,0,0,0,e,0,0
+0,g,j,0,g,0,b,0,0,0,0,0,0,a,0,0
+0,0,b,0,e,0,f,a,g,a,c,h,0,b,0,0
+0,0,g,a,j,0,0,0,0,0,0,c,a,f,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Map1
+ITM 1 12,6
+ITM 0 12,11
+EXT 3,1 2 12,13
+EXT 15,7 3 0,3
+PAL 0
+
+ROOM 1
+0,m,q,r,q,0,0,q,r,q,0,q,r,0,q,0
+l,n,0,0,q,q,r,0,s,0,q,0,s,r,q,q
+0,n,k,k,q,0,q,q,r,s,s,q,s,q,s,q
+l,m,0,0,0,n,0,r,q,0,q,0,q,q,0,s
+0,m,0,l,l,n,k,q,q,0,0,m,0,0,q,s
+l,t,f,q,r,m,0,0,0,l,l,t,k,k,s,q
+0,m,0,0,q,t,k,k,0,0,0,n,0,0,0,q
+l,m,k,0,0,n,q,q,l,l,l,m,k,k,k,q
+q,n,q,l,l,m,0,0,0,0,g,n,q,s,0,q
+0,m,q,r,q,t,k,k,k,0,0,m,0,q,r,s
+l,m,h,0,0,n,0,0,q,l,l,m,h,s,q,0
+q,n,0,0,l,m,f,0,0,s,q,t,q,r,q,r
+s,n,k,k,q,m,k,k,0,0,0,m,0,0,0,0
+q,t,q,s,q,n,q,q,l,l,l,m,k,k,k,k
+0,m,0,0,0,m,0,0,0,0,0,n,0,0,0,0
+o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
+NAME Tree
+EXT 0,14 2 4,9
+PAL 1
+
+ROOM 2
+g,a,b,j,e,j,b,h,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,a,e,b,j,b,h,0,0,0
+f,c,j,e,0,0,f,b,0,0,0,0,a,0,0,0
+b,j,0,0,0,j,e,0,0,0,0,0,0,c,0,0
+a,0,0,e,a,c,0,0,0,0,j,a,0,0,e,0
+e,0,0,g,0,0,0,0,0,f,c,0,0,0,b,0
+c,0,0,0,0,0,0,0,0,b,0,0,0,0,a,0
+a,0,j,a,b,e,0,0,0,a,0,f,a,b,f,0
+g,e,b,0,0,0,b,h,0,g,b,c,0,0,0,0
+0,c,0,0,w,0,a,b,0,0,0,g,a,0,0,0
+0,a,0,0,0,0,e,0,0,0,0,0,0,b,0,0
+f,j,0,f,a,b,0,0,b,c,b,h,0,c,0,0
+b,0,0,e,0,0,0,a,0,0,0,a,0,a,0,0
+e,0,0,0,0,0,0,c,0,0,0,e,0,f,0,0
+g,a,j,0,0,0,b,0,0,0,0,0,0,0,0,0
+0,0,0,b,e,a,0,0,0,0,0,0,0,0,0,0
+NAME Map2
+ITM 2 10,7
+EXT 4,9 1 0,14
+EXT 0,1 4 14,11
+EXT 12,13 0 3,1
+PAL 0
+
+ROOM 3
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+j,b,a,e,0,f,c,e,b,e,0,0,0,0,0,0
+g,0,0,g,b,e,0,0,0,g,c,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,e,h,0,0,0
+f,j,e,0,0,f,j,a,h,0,0,0,c,0,0,0
+0,b,0,a,b,0,0,0,0,0,j,0,a,0,0,0
+0,e,0,0,0,0,f,a,j,0,0,0,b,0,0,0
+0,c,0,0,f,b,0,0,b,h,0,0,j,0,0,0
+0,j,0,0,a,0,0,0,0,c,a,b,e,0,0,0
+0,g,0,0,0,0,e,0,0,0,j,a,0,0,0,0
+0,0,b,0,0,0,a,0,a,0,0,0,c,0,0,0
+0,0,g,e,b,a,c,j,b,0,0,b,0,0,0,0
+0,0,0,0,0,0,0,0,0,c,e,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Map3
+EXT 0,3 0 15,7
+PAL 3
+
+ROOM 4
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,10,x,y,0,0,0,0,0,a,0
+0,0,0,0,0,z,y,0,0,z,y,z,f,j,b,0
+0,0,0,0,0,z,y,0,0,0,0,0,a,e,j,0
+0,0,0,z,0,0,0,0,0,0,0,j,b,j,e,0
+0,0,z,0,0,0,0,0,0,0,0,g,g,f,c,0
+0,0,z,y,0,0,0,0,0,0,0,0,0,e,f,0
+0,0,0,z,z,10,x,z,y,z,y,f,0,0,0,0
+0,0,0,0,0,a,0,0,0,0,z,e,f,b,h,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Village
+EXT 14,11 5 0,1
+PAL 1
+
+ROOM 5
+g,a,b,j,e,j,b,h,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,a,e,b,j,b,h,0,0,0
+f,c,j,e,0,0,f,b,0,0,0,0,a,0,0,0
+b,j,0,0,0,j,e,0,0,0,0,0,0,c,0,0
+a,0,0,e,a,c,0,0,0,0,j,a,0,0,e,0
+e,0,0,g,0,0,0,0,0,f,c,0,0,0,b,0
+c,0,0,0,0,0,0,0,0,b,0,0,0,0,a,0
+a,0,j,a,b,e,0,0,0,a,0,f,a,b,f,0
+g,e,b,0,0,0,b,h,0,g,b,c,0,0,0,0
+0,c,0,0,w,0,a,b,0,0,0,g,a,0,0,0
+0,a,0,0,0,0,e,0,0,0,0,0,0,b,0,0
+f,j,0,f,a,b,0,0,b,c,b,h,0,c,0,0
+b,0,0,e,0,0,0,a,0,0,0,a,0,a,0,0
+e,0,0,0,0,0,0,c,0,0,0,e,0,f,0,0
+g,a,j,0,0,0,b,0,0,0,0,0,0,0,0,0
+0,0,0,b,e,a,0,0,0,0,0,0,0,0,0,0
+NAME Map2 copy
+EXT 4,9 1 0,14
+EXT 0,1 4 14,11
+EXT 12,13 6 3,1
+PAL 1
+
+ROOM 6
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,v,c,0,a,g,e,j,a,j,a,j,h,v,v,v
+v,f,e,0,0,h,0,0,g,j,0,g,b,e,v,v
+v,b,0,h,0,0,0,0,0,0,0,0,0,c,v,v
+v,a,0,0,0,0,0,j,h,0,0,0,0,f,h,v
+v,j,0,0,0,0,0,0,b,c,j,0,0,g,a,v
+v,a,0,0,0,f,b,0,g,f,0,0,0,0,g,j
+v,j,0,b,0,0,0,0,0,g,c,0,0,0,0,0
+v,a,0,0,0,e,0,0,0,0,g,0,0,f,e,c
+v,j,e,0,f,j,a,0,0,d,0,0,0,e,v,v
+v,g,j,e,g,0,0,0,0,0,0,0,0,v,v,v
+v,v,v,v,c,0,f,b,g,a,c,h,v,v,v,v
+v,v,v,v,v,b,v,v,v,v,v,g,v,v,v,v
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+NAME Map1 copy
+ITM 1 5,10
+EXT 3,1 2 12,13
+EXT 15,7 7 0,3
+PAL 1
+
+ROOM 7
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+j,b,a,e,v,f,c,e,b,e,v,v,v,v,v,v
+g,0,0,g,b,e,0,0,0,g,c,v,v,v,v,v
+0,0,0,0,0,0,0,0,0,0,0,e,h,v,v,v
+f,j,e,0,0,f,j,a,h,0,0,0,c,v,v,v
+v,b,0,a,b,0,0,0,0,0,j,0,a,v,v,v
+v,e,0,0,0,0,f,a,j,0,0,0,b,v,v,v
+v,c,0,0,f,b,0,0,b,h,0,0,j,v,v,v
+v,j,0,0,a,0,0,0,0,c,a,b,e,v,v,v
+v,g,0,0,0,0,e,0,0,0,j,a,v,v,v,v
+v,v,b,0,0,0,a,0,a,0,0,b,v,v,v,v
+v,v,g,e,b,a,c,j,b,0,0,b,v,v,v,v
+v,v,v,v,v,v,v,v,v,c,e,v,v,v,v,v
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+NAME Map3 copy
+EXT 0,3 0 15,7
+END 0 9,10
+PAL 1
+
+TIL 10
+00000000
+00000000
+00000000
+01010100
+11111110
+01010100
+11111110
+01000100
+WAL true
+
+TIL a
+01011001
+00011100
+11001100
+11100100
+01110100
+00111110
+00000011
+01110001
+WAL true
+
+TIL b
+11000011
+00000100
+01010001
+00111100
+01111000
+00111110
+10101100
+00001010
+WAL true
+
+TIL c
+01000011
+01100000
+10001010
+10111100
+00011110
+01111100
+00110101
+01010001
+WAL true
+
+TIL d
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL e
+00110000
+11011100
+10000000
+10101110
+00100000
+01101011
+11001000
+10001000
+WAL true
+
+TIL f
+00000110
+00011100
+00111010
+01100110
+00001100
+11000000
+00000000
+00000000
+WAL true
+
+TIL g
+00100000
+00110101
+00011010
+00110101
+00001111
+00000010
+00000000
+00000000
+WAL true
+
+TIL h
+10000000
+01000000
+10100000
+01100000
+11010000
+01010000
+01101000
+00110000
+WAL true
+
+TIL i
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL j
+00100010
+10000010
+00110110
+01111100
+01100101
+01001100
+00011100
+00011000
+WAL true
+
+TIL k
+00000000
+00101000
+01010101
+11111010
+10101111
+01011010
+00100101
+00000000
+WAL true
+
+TIL l
+00000000
+00010100
+10101010
+01011111
+11111010
+01010100
+10100000
+00000000
+WAL true
+
+TIL m
+10110110
+10110110
+10111110
+11011111
+11010110
+11110110
+11010110
+01010110
+
+TIL n
+11010110
+10010110
+11011010
+11111011
+10111010
+10110110
+10110110
+10110100
+
+TIL o
+10011010
+11111111
+11111111
+11111101
+10111111
+11110111
+11111111
+11111111
+WAL true
+
+TIL p
+00000011
+10000110
+11001100
+00111000
+00011000
+01101100
+11000011
+10000001
+WAL true
+
+TIL q
+00000000
+00000000
+00000000
+00000000
+00000000
+00100000
+00000000
+00000000
+WAL true
+
+TIL r
+00000000
+01000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+WAL true
+
+TIL s
+00000000
+00000000
+00000000
+00001000
+00000000
+00000000
+00000000
+00000000
+
+TIL t
+10111100
+11111111
+10101010
+00101010
+01010100
+01010101
+11111111
+01110110
+>
+11111111
+10101010
+00101010
+00000000
+00000000
+01010100
+01010101
+11111111
+WAL true
+
+TIL u
+00000000
+00000000
+00000000
+00000001
+00000010
+01000100
+00101000
+00010000
+
+TIL v
+01000000
+00100101
+10010010
+01000001
+00100100
+10000010
+01001001
+00100100
+>
+10000000
+01001010
+00100101
+10000010
+01001000
+00000101
+10010010
+01001000
+WAL true
+
+TIL w
+00001000
+00011100
+00101010
+00011100
+00101010
+01011101
+01101011
+00001000
+
+TIL x
+10000000
+00011100
+10111110
+11111111
+10101111
+11111111
+10101001
+11111001
+>
+00000000
+10011100
+10111110
+11111111
+10101111
+11111111
+10101001
+11111001
+WAL true
+
+TIL y
+00010000
+00000000
+00010000
+00111100
+01111110
+01111110
+01001010
+01111010
+>
+00000000
+00010000
+00010000
+00111100
+01111110
+01111110
+01001010
+01111010
+WAL true
+
+TIL z
+00000000
+00000000
+00000000
+00101010
+01111111
+00101010
+01111111
+00101010
+WAL true
+
+SPR A
+01100110
+00111100
+00101100
+00011010
+00111110
+01111100
+00110100
+00100000
+>
+01100110
+00111100
+00110100
+01011000
+01111100
+00111110
+00101100
+00000100
+POS 0 3,4
+
+SPR a
+00100100
+01111100
+11010100
+00111000
+11111101
+00111111
+01101100
+00001000
+>
+00100100
+00111110
+00101011
+00011100
+10111111
+11111100
+00110110
+00010000
+DLG SPR_0
+POS 3 10,11
+
+SPR c
+01011000
+11011010
+11011011
+11011011
+11011001
+11011011
+11011011
+11011011
+DLG SPR_a
+POS 0 2,3
+
+SPR d
+00000000
+01100110
+10011001
+11011101
+10011001
+01100110
+00000000
+00000000
+>
+00000000
+01100110
+10011001
+10111011
+10011001
+01100110
+00000000
+00000000
+DLG SPR_2
+POS 1 1,0
+
+SPR e
+00010000
+11111110
+10100110
+11111110
+10010010
+11111110
+00010000
+00010000
+DLG SPR_3
+POS 0 5,5
+
+SPR f
+00000001
+00001000
+00000000
+00000100
+00010000
+00000000
+00100010
+00000000
+DLG SPR_4
+POS 3 9,11
+
+SPR g
+00011100
+00111101
+00101001
+00111110
+00001000
+00011100
+00010100
+00010000
+>
+00011100
+01011110
+01001010
+00111110
+00001000
+00011100
+00010100
+00000100
+DLG SPR_5
+POS 4 9,10
+
+SPR h
+00011100
+00111111
+00101001
+00111110
+00001000
+00011100
+00010100
+00010000
+>
+00011100
+01111110
+01001010
+00111110
+00001000
+00011100
+00010100
+00000100
+DLG SPR_6
+POS 4 7,7
+
+SPR i
+00111100
+01111110
+11111111
+11111111
+11111111
+10001001
+10001001
+11111001
+DLG SPR_7
+POS 4 4,8
+
+SPR j
+00100100
+01111100
+11010100
+00111000
+11111101
+00111111
+01101100
+00001000
+>
+00100100
+00111110
+00101011
+00011100
+10111111
+11111100
+00110110
+00010000
+DLG SPR_8
+POS 7 10,11
+
+SPR k
+01011000
+11011010
+11011011
+11011011
+11011001
+11011011
+11011011
+11011011
+DLG SPR_9
+POS 6 2,3
+
+SPR l
+00010000
+11111110
+10100110
+11111110
+10010010
+11111110
+00010000
+00010000
+DLG SPR_b
+POS 2 9,10
+
+ITM 0
+00000000
+00010000
+01010100
+00111000
+11101110
+00111000
+01010100
+00010000
+>
+00000000
+01101100
+10101010
+11000110
+00000000
+11000110
+10101010
+01101100
+NAME glistening object
+DLG ITM_0
+
+ITM 1
+00000000
+01100110
+00110011
+01110011
+01100110
+01101010
+11011011
+11010101
+>
+00000100
+10000010
+11000110
+01100110
+01101100
+11001110
+10111011
+11010101
+NAME fire
+DLG ITM_2
+
+ITM 2
+00000000
+00000110
+01101101
+11011111
+11110110
+01101101
+00001111
+00000110
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME berries
+DLG ITM_1
+
+DLG SPR_0
+The bear found the fox (hurrah!), in the darkest part of thee wood, but it looked miserable. The bear could see that it wasn't quite itself. "Where is your lovely warm coat, my friend?" the bear asked. "I'm so pleased to see you bear. My coat has been taken & I'm so cold & winter is coming," the fox replied. "Please get it back for me."
+
+DLG SPR_2
+At the top of the tallest tree the bear could see everything beyond the great wood, and to the west could see a village. "Maybe I'll find fox's coat there," it said to itself.
+
+DLG SPR_3
+The bear was unhappy. It looked forward to its weekly visits from its friend the fox, but the fox had not visited for so long. "I should go & find out what has happened to the fox," the bear said to itself & picking a direction at random headed off to the east.
+
+DLG SPR_4
+"Oh my! Why is there blood on the ground?" asked the bear in surprise.
+
+DLG ITM_0
+Hey! You're supposed to be looking for your friend the fox, not collecting glistening objects.
+
+DLG ITM_1
+"""
+{sequence
+  - Hey! Stop getting distracted by food!
+  - How do you know those berries aren't poisonous?
+}
+"""
+
+DLG SPR_5
+"""
+{sequence
+  - "BEAAAAARRRRRR!" the villager screamed. "VILLAGEEEEEERRRRR!" the bear screamed.
+  - I'm not such a bad bear, you know!" said the bear.
+}
+"""
+
+DLG SPR_6
+"Let's see you dance, bear!" said the villager as they played their giant harmonica. "Not today," replied the bear. "I've come to find my friend's coat." "Try that shop over there," replied the helpful villager. "It's got some of the finest warm fur coats around."
+
+DLG SPR_7
+"FINEST ANIMAL FUR" read the sign above the shop door. This made the bear very angry. It burst into the shop, gave the furrier a taste of their own medicine, rescued fox's coat and sped back to his cold friend.
+
+DLG SPR_8
+"My lovely warm coat!" the fox cried with joy. "Thank you bear, my wonderful friend. I will be warm again. Thank you! Thank you! Thank you my wonderful friend!" the fox repeated. "I will never forget you." And with that, now it was reunited with its coat, the spirit of the fox faded into the winter air... and the bear was left alone as the sun rose.
+
+DLG SPR_9
+Home.
+
+DLG SPR_a
+Home.
+
+DLG ITM_2
+"""
+{sequence
+  - The fire burned brightly & the bear picked up a branch to act as a torch to guide his way as the sky grew darker with the approaching winter.
+  - The bear's torch was fading, so it picked up another burning branch from the fire to guide it back to its friend & to build a warming fire for them both once there.
+}
+"""
+
+DLG SPR_b
+"How on Earth will I find fox's coat?" the bear asked itself sadly. Then in a flash of inspiration thought, "I'll climb the tallest tree in the middle of the wood & maybe I'll see it from there."
+
+END 0
+"My lovely warm coat!" the fox cried with joy. "Thank you bear, my wonderful friend. I will be warm again. Thank you! Thank you! Thank you my wonderful friend!" the fox repeated. "I will never forget you." And with that, now it was reunited with its coat, the long deceased spirit of the fox faded into the winter air... and the bear was left alone as the sun rose.
+
+VAR a
+42
+
+

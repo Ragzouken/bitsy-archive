@@ -1,0 +1,458 @@
+The Creature Lives
+
+# BITSY VERSION 4.0
+
+! ROOM_FORMAT 1
+
+PAL 0
+191,3,2
+148,0,0
+254,239,110
+
+ROOM 0
+a,a,a,a,a,a,a,a,a,0,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,0,a,a,a,a,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+0,0,0,0,0,0,0,0,0,0,f,e,e,e,e,e
+a,a,0,0,0,0,0,0,0,0,e,e,e,e,e,e
+a,a,0,b,a,c,0,0,0,0,e,e,e,e,e,e
+a,a,0,a,a,a,0,0,a,0,e,e,e,e,e,e
+a,a,0,a,d,a,e,e,e,e,e,e,e,e,e,e
+a,a,0,0,0,e,e,e,e,e,e,e,e,e,e,e
+a,a,a,a,a,e,e,e,e,e,e,e,e,e,e,e
+NAME start
+WAL a,b,c,e,f
+EXT 9,1 1 9,13
+EXT 0,9 4 14,9
+PAL 0
+
+ROOM 1
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,a,a,a,a,a,a,a,0,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,0,a,a,a,a,a,a
+NAME laughing_crowd
+WAL a
+EXT 9,14 0 9,2
+EXT 15,6 2 1,6
+PAL 0
+
+ROOM 2
+a,a,a,a,a,a,a,a,a,a,a,e,e,e,e,e
+a,a,a,a,a,a,a,a,a,a,a,e,e,e,e,e
+a,a,0,0,0,0,0,0,0,0,e,e,e,e,e,e
+a,a,0,0,0,0,0,0,0,0,e,e,e,e,e,e
+a,a,0,0,0,0,0,0,0,0,e,e,e,e,e,e
+a,a,0,0,0,0,0,0,0,0,e,e,e,e,e,e
+0,0,0,0,0,0,0,0,0,0,e,e,e,e,e,e
+a,a,0,0,0,0,0,0,0,0,e,e,e,e,e,e
+a,a,0,0,0,0,0,0,0,0,e,e,e,e,e,e
+a,a,0,0,0,0,0,0,0,0,e,e,e,e,e,e
+a,a,0,0,0,0,0,0,0,0,e,e,e,e,e,e
+a,a,0,0,0,0,0,0,0,0,e,e,e,e,e,e
+a,a,0,0,0,0,0,0,0,0,e,e,e,e,e,e
+a,a,0,0,0,0,0,0,0,0,e,e,e,e,e,e
+a,a,a,a,a,a,a,a,a,a,a,e,e,e,e,e
+a,a,a,a,a,a,a,a,a,a,a,e,e,e,e,e
+NAME the other swamp
+WAL a,e
+ITM 0 6,10
+EXT 0,6 1 14,6
+PAL 0
+
+ROOM 4
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,0,0,0,0,a,a,a,a,a,a
+a,e,e,e,e,0,0,0,0,0,a,a,a,a,a,a
+e,e,e,e,e,0,0,0,0,0,0,a,a,a,a,a
+e,e,e,e,g,0,0,0,0,0,0,a,a,a,a,a
+e,e,0,0,0,0,0,0,0,0,0,a,a,0,a,a
+e,e,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+e,e,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+e,e,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e,e,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+e,e,e,e,0,0,0,0,0,0,0,0,0,a,a,a
+e,e,e,e,a,a,a,0,0,0,0,a,a,a,a,a
+e,e,e,e,a,a,a,a,a,a,a,a,a,a,a,a
+e,e,e,e,e,e,a,a,a,a,a,a,a,a,a,a
+e,e,e,e,e,e,a,a,a,a,a,a,a,a,a,a
+NAME The Creature
+EXT 15,9 0 1,9
+END 0 4,5
+PAL 0
+
+TIL a
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL b
+00011111
+00111111
+01111111
+01111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL c
+11110000
+11111100
+11111110
+11111110
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL d
+11111111
+11111111
+11111111
+11111111
+11111111
+10000001
+10000001
+10000001
+NAME undefined
+
+TIL e
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+>
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+NAME undefined
+
+TIL f
+00000010
+00010101
+00101010
+01010101
+00101010
+01010101
+00101010
+01010101
+NAME undefined
+
+TIL g
+00100100
+01111110
+11111111
+01011010
+01011010
+11111111
+01100110
+00111100
+NAME undefined
+
+SPR A
+00100100
+01111110
+01111110
+01011010
+11011011
+01111110
+11100111
+00111100
+POS 0 4,4
+
+SPR a
+00111000
+00111000
+00111000
+00011000
+00111110
+00011100
+00011100
+00010100
+>
+00000000
+00111000
+00111000
+00111000
+00011100
+00111110
+00011100
+00010100
+DLG SPR_0
+POS 0 8,12
+
+SPR b
+00000000
+00111000
+00111000
+01111100
+01111110
+00111100
+01111110
+01000010
+>
+00000000
+00000000
+00111000
+00111010
+01111100
+01111100
+01111110
+01000010
+DLG SPR_1
+POS 1 5,11
+
+SPR c
+11111111
+10111101
+10111101
+10111101
+11111111
+10000001
+11000011
+11111111
+>
+11111111
+10111101
+10111101
+11111111
+10000001
+10000001
+11000011
+11111111
+DLG SPR_2
+POS 1 7,8
+
+SPR d
+11111111
+10111101
+10111101
+10111101
+11111111
+10000001
+11000011
+11111111
+>
+11111111
+10111101
+10111101
+11111111
+10000001
+10000001
+11000011
+11111111
+DLG SPR_3
+POS 1 4,5
+
+SPR e
+11111111
+10111101
+10111101
+10111101
+11111111
+10000001
+11000011
+11111111
+>
+11111111
+10111101
+10111101
+11111111
+10000001
+10000001
+11000011
+11111111
+DLG SPR_4
+POS 1 10,4
+
+SPR f
+00111000
+00111000
+00111000
+00011000
+00111110
+00011100
+00011100
+00010100
+>
+00000000
+00111000
+00111000
+00111000
+00011100
+00111110
+00011100
+00010100
+DLG SPR_5
+POS 2 3,4
+
+SPR g
+00000000
+00111000
+00111000
+01111100
+01111110
+00111100
+01111110
+01000010
+>
+00000000
+00000000
+00111000
+00111010
+01111100
+01111100
+01111110
+01000010
+DLG SPR_6
+POS 2 5,12
+
+SPR h
+11111111
+10111101
+10111101
+10111101
+11111111
+10000001
+11000011
+11111111
+>
+11111111
+10111101
+10111101
+11111111
+10000001
+10000001
+11000011
+11111111
+DLG SPR_7
+POS 2 8,7
+
+SPR i
+10111101
+10000001
+10011101
+10111001
+10011101
+10111001
+10000001
+10111101
+DLG SPR_8
+POS 0 4,14
+
+SPR j
+11011011
+10000001
+10000001
+10100101
+00100100
+10000001
+00011000
+11000011
+DLG SPR_9
+POS 4 6,7
+
+ITM 0
+00000000
+01111000
+01001000
+01001000
+01111100
+00001000
+00001100
+00000000
+NAME housekey
+DLG ITM_0
+
+DLG ITM_0
+The key to the creature's house.
+
+DLG SPR_0
+"""
+I heard the creature.{
+  - {item "0"} == 1 ?
+    Very nice of you to go get the {wvy}key{wvy}.
+}
+"""
+
+DLG SPR_1
+They say he fell into the swamp?
+
+DLG SPR_2
+HAHAHAHAHAHA! We never liked her though, to be honest. Never, not me anyways.
+
+DLG SPR_3
+Nobody even liked him. Haha.
+
+DLG SPR_4
+The creature was a loser. Nobody like 'em!
+
+DLG SPR_5
+You tried to talk those people, yeah? That's nice.
+
+DLG SPR_6
+I appreciate that you tried to help them get back on their feet.
+
+DLG SPR_7
+HAH! Hehehehehe. You should be in a swamp too.
+
+DLG SPR_8
+"""
+You need the {wvy}key {wvy}to enter the swamp.{shuffle
+  - You see, the creature is locked inside.
+  - You can't talk to the creature and see if they're okay without the {wvy}key{wvy}.
+}{
+  - {item "0"} == 1 ?
+    {shk}{rbw}{wvy}Oh!{wvy}{rbw}{shk}
+    You have the key! The creature says come in. 
+    
+    You talk to the creature! They tell you that they like living in the swamp and wish the other kids would stop bullying them.
+    
+    They want you to go find their shadow toy, that's what they said!
+}
+"""
+
+DLG SPR_9
+"""
+What.
+"""
+
+END 0
+We hope you helped the creature.

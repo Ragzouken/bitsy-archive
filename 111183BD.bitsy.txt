@@ -1,0 +1,504 @@
+I'm running late!          Better find a seat.
+
+# BITSY VERSION 3.7
+
+! ROOM_FORMAT 1
+
+PAL 0
+255,255,255
+0,0,0
+0,0,0
+
+ROOM 0
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g
+g,g,g,g,g,g,h,0,0,i,g,g,g,g,g,g
+g,g,g,g,g,g,b,0,0,b,g,g,g,g,g,g
+g,g,g,g,g,g,b,0,0,b,g,g,g,g,g,g
+g,g,g,g,g,g,b,0,0,b,g,g,g,g,g,g
+g,g,g,g,g,g,b,0,0,b,g,g,g,g,g,g
+g,g,g,g,g,g,b,0,0,b,g,g,g,g,g,g
+g,g,g,g,g,g,l,0,0,f,g,g,g,g,g,g
+g,g,g,g,g,g,b,0,0,b,g,g,g,g,g,g
+g,g,g,g,g,g,b,0,0,b,g,g,g,g,g,g
+g,g,g,g,g,g,b,0,0,b,g,g,g,g,g,g
+g,g,g,g,g,g,b,0,0,b,g,g,g,g,g,g
+g,g,g,g,g,g,b,0,0,b,g,g,g,g,g,g
+g,g,g,g,g,g,b,0,0,b,g,g,g,g,g,g
+g,g,g,g,g,g,k,0,0,j,g,g,g,g,g,g
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g
+WAL g,h,i,j,k
+END 0 6,3
+PAL 0
+
+TIL b
+00000000
+00000000
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+
+TIL d
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL f
+00000000
+00000001
+00000000
+00000000
+00000000
+00000000
+00000001
+00000000
+
+TIL g
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL h
+11111111
+11111100
+11110000
+11100000
+11000000
+11000000
+10000000
+10000000
+
+TIL i
+11111111
+00111111
+00001111
+00000111
+00000011
+00000011
+00000001
+00000001
+
+TIL j
+00000001
+00000001
+00000011
+00000011
+00000111
+00001111
+00111111
+11111111
+
+TIL k
+10000000
+10000000
+11000000
+11000000
+11100000
+11110000
+11111100
+11111111
+
+TIL l
+00000000
+10000000
+00000000
+00000000
+00000000
+00000000
+10000000
+00000000
+
+SPR A
+00000000
+00010000
+00000000
+00111000
+00111000
+00010000
+00101000
+00101000
+>
+00000000
+00000000
+00010000
+00000000
+00111000
+00111000
+00010000
+00101000
+POS 0 9,7
+
+SPR a
+00000000
+00000010
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_0
+POS 0 9,5
+
+SPR b
+00000000
+00100100
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_1
+POS 0 6,6
+
+SPR c
+00000000
+01000000
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_2
+POS 0 9,9
+
+SPR d
+00000000
+01000000
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_3
+POS 0 6,10
+
+SPR e
+00000000
+01000000
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_4
+POS 0 9,6
+
+SPR f
+00000000
+01001001
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_5
+POS 0 6,12
+
+SPR g
+00000000
+00010100
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_6
+POS 0 9,13
+
+SPR h
+00000000
+00000000
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_7
+POS 0 9,12
+
+SPR i
+00000000
+00000000
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_8
+POS 0 6,5
+
+SPR j
+00000000
+01000000
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_9
+POS 0 6,4
+
+SPR k
+00000000
+01000000
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_a
+POS 0 9,3
+
+SPR l
+00000000
+01000010
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_b
+POS 0 9,4
+
+SPR m
+00000000
+01000010
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_c
+POS 0 9,2
+
+SPR n
+00000000
+00000000
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_d
+POS 0 9,8
+
+SPR o
+00000000
+01000010
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_e
+POS 0 6,8
+
+SPR p
+00000000
+01000000
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_f
+POS 0 9,11
+
+SPR q
+00000000
+01000100
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_g
+POS 0 6,13
+
+SPR r
+00000000
+01000000
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_h
+POS 0 6,2
+
+SPR s
+00000000
+00000010
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_i
+POS 0 6,9
+
+SPR t
+00000000
+00000010
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_j
+POS 0 9,10
+
+SPR u
+00000000
+01000010
+00000000
+11100111
+11111111
+11111111
+11111111
+00000000
+DLG SPR_k
+POS 0 6,11
+
+SPR v
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+DLG SPR_l
+POS 0 5,7
+
+SPR w
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+DLG SPR_m
+POS 0 10,7
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+DLG ITM_0
+
+DLG ITM_0
+You got a cup of tea! Nice.
+
+DLG SPR_1
+These seats are occupied by a student couple. They're having a heated discussion over which professor has the best butt.
+
+DLG SPR_0
+There's an elderly man sitting in the window seat. He's wearing brown khakis and a matching plaid shirt. The back of the shirt is emblazoned with a cursive crimson script reading "DENIM ATTITUDE".                I think I'll skip this one.
+
+DLG SPR_2
+There's a free seat by this passenger, but they've got headphones on and haven't made eye contact. I want to sit, but not so badly that I want to break the social contract by speaking to them.
+
+DLG SPR_3
+This guy looks perfectly normal but for some reason this whole area of the train stinks of peanut butter??? Gross.
+
+DLG SPR_4
+The spot next to this lady is open, but she's asleep. I don't want to disturb her.
+
+DLG SPR_5
+There are three teenagers sharing these two seats. Probably breaks some safety regulation but not like anyone's going to stop them.
+
+DLG SPR_6
+These two are - oh I should probably give them some privacy!
+
+DLG SPR_7
+This spot looked empty, but there's actually someone lying down across the seats. They're not even asleep, what the heck!
+
+DLG SPR_8
+The seats in this row are stuck and won't fold down. Might as well stay in the aisle if I'm going to stand.
+
+DLG SPR_9
+There's a woman in this row haphazardly drinking from a bottle of soda. There are some damp patches on her legs and the seat next to her. No thanks.
+
+DLG SPR_a
+There's a pile of groceries bags on the seat next to this man.   I don't think there's enough room for me to squeeze in.
+
+DLG SPR_b
+Both of these passengers are listening to music and drumming on their laps. They aren't even remotely in sync.
+
+DLG SPR_c
+They're speaking to each other in a language I don't know.   The one on the left is laughing. Maybe they're telling jokes?
+
+DLG SPR_d
+These seats near the doors are reserved for people who need them more than I do.
+
+DLG SPR_e
+A father and his daughter are sitting here. The girl is loudly exclaiming that they are, in fact, on a train.
+
+DLG SPR_f
+This guy has his legs up on the back of the seat in front of him and is making no motion of letting me through.              Kinda rude...
+
+DLG SPR_g
+There's an instrument case in the seat next to this person.   It looks heavy, and much too large to let another person in.
+
+DLG SPR_h
+There's a seat free here, but the cushion is missing! I think I'd rather stand than try to get comfortable on bare springs.
+
+DLG SPR_i
+Oh, this is the same person I sat next to last week! They were yelling on their phone the whole time, better keep looking.
+
+DLG SPR_j
+I thought there was an open seat here, but there's actually a service dog waiting here patiently! I'd pet it, but you're not supposed to do that.
+
+DLG SPR_k
+A middle-aged woman is decrying the local government and their handling of the transit system while her fellow passenger feigns interest with a few nods and "mm-hmms".
+
+DLG SPR_l
+There's no platform on that side of this station.
+
+DLG SPR_m
+I'm not going to leave just because I can't find a seat!
+
+END 0
+Ahh - finally!
+

@@ -1,0 +1,1065 @@
+Jacques
+
+# BITSY VERSION 4.2
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME sea
+104,86,74
+189,204,87
+244,241,174
+
+PAL 1
+NAME treetops
+136,210,255
+189,204,87
+255,255,255
+
+PAL 2
+NAME sky
+41,198,231
+243,241,242
+255,247,242
+
+PAL 3
+NAME sunset
+193,210,213
+223,172,162
+255,255,255
+
+PAL 4
+NAME stars
+96,75,74
+255,155,106
+169,211,224
+
+ROOM 0
+c,0,0,0,0,0,0,0,0,d,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,d,0,0,e,0,0,0
+0,0,0,0,0,0,0,b,a,c,0,0,d,0,0,0
+0,0,0,0,0,b,a,c,0,0,0,0,d,0,0,0
+0,0,0,0,e,c,0,0,0,0,0,0,d,0,0,0
+0,0,0,0,d,0,0,0,0,0,0,0,d,0,0,0
+0,0,0,0,d,0,0,0,0,0,b,a,c,0,0,0
+0,0,0,0,d,0,0,0,0,a,c,0,0,0,0,0
+0,0,0,0,d,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,d,0,0,0,0,0,0,0,0,0,0,0
+0,0,b,a,c,0,0,0,a,c,0,0,0,0,b,a
+0,a,c,0,0,0,0,0,0,0,0,0,0,a,c,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,e,0,0,0,0,0,0,0,0,0
+0,0,0,e,0,0,d,0,e,0,0,0,0,e,0,0
+e,0,0,d,0,0,d,0,d,0,0,0,0,d,e,0
+NAME sea bed
+WAL c,a,o
+EXT 9,0 2 9,15
+PAL 0
+
+ROOM 1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,l,s,r,r,0,0,0,0,0,0,0,0,l,0,0
+r,s,g,g,g,p,0,0,b,s,r,s,r,r,p,s
+NAME canopy
+WAL o
+EXT 7,0 3 7,15
+EXT 8,0 3 7,15
+EXT 6,15 2 6,0
+EXT 7,15 2 7,0
+EXT 8,15 2 8,0
+PAL 1
+
+ROOM 2
+c,0,0,0,j,c,0,0,0,0,0,0,0,0,0,j
+0,l,0,0,0,l,0,0,0,0,l,0,0,0,0,0
+l,0,0,0,0,0,0,o,0,0,l,0,0,0,0,0
+0,l,0,0,p,0,q,o,p,0,0,0,l,0,o,p
+p,0,0,q,g,g,g,o,g,g,p,0,0,q,o,g
+g,g,o,g,g,g,g,o,g,g,g,o,g,g,o,g
+g,g,o,g,g,g,g,o,g,g,g,o,g,g,o,g
+g,g,o,g,g,g,g,o,g,g,g,o,g,g,o,g
+g,g,o,g,g,g,g,o,g,g,g,o,g,g,o,g
+g,g,o,g,g,g,g,o,g,g,g,o,g,g,o,g
+g,g,o,g,g,g,g,o,g,g,g,0,g,g,0,g
+n,n,n,n,n,e,n,n,n,e,n,n,e,n,n,n
+0,0,0,0,0,d,0,0,0,d,0,0,d,0,0,0
+0,d,0,0,0,d,0,0,0,d,0,0,d,0,d,0
+0,d,0,0,0,0,0,0,0,d,0,0,0,0,d,0
+0,0,0,0,0,0,0,0,0,d,0,0,0,0,0,0
+NAME forest
+WAL g
+ITM 0 7,10
+EXT 9,15 0 9,0
+EXT 7,0 1 7,15
+PAL 0
+
+ROOM 3
+t,g,g,g,g,g,i,0,0,0,t,g,g,g,g,g
+0,j,n,h,f,k,0,0,0,0,0,j,h,g,g,k
+0,0,0,0,0,0,0,0,0,0,0,0,0,n,c,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,q,s,p,0,0
+0,b,s,r,p,0,0,0,0,0,0,c,h,k,0,0
+0,o,j,k,n,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,m,0,0,0,0,0,0,0,0
+NAME sky
+EXT 8,0 4 8,15
+EXT 7,0 4 7,15
+EXT 7,15 1 7,0
+EXT 8,15 1 8,0
+EXT 9,0 4 9,15
+PAL 2
+
+ROOM 4
+q,g,g,g,g,g,g,k,c,0,n,h,g,g,g,r
+g,g,i,j,h,h,i,0,0,0,0,o,j,h,k,h
+i,k,0,0,0,0,0,0,0,0,0,0,0,0,0,l
+0,0,b,q,p,0,0,0,0,0,0,0,0,0,0,0
+0,0,n,j,t,g,p,0,0,0,0,0,0,0,0,0
+0,0,0,0,j,f,h,r,0,0,0,0,l,b,a,0
+r,p,0,0,0,0,0,0,j,r,p,q,g,k,0,c
+p,n,l,0,0,0,0,0,0,0,0,0,n,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,q,s,r,s,r,p,l,0,b,s,r,p,l,0
+0,0,t,s,k,f,k,0,0,0,o,t,g,g,g,r
+0,0,0,k,0,0,0,0,0,0,0,0,j,n,k,n
+0,0,0,0,0,0,0,0,0,0,b,0,0,0,0,0
+0,0,b,0,0,0,0,0,0,0,j,h,p,b,s,r
+q,s,g,k,0,0,0,0,0,0,0,0,t,i,c,s
+g,f,0,0,0,0,0,0,0,0,0,0,0,q,s,i
+NAME sunset
+EXT 8,0 5 7,15
+EXT 9,0 5 8,15
+EXT 7,15 3 7,0
+EXT 8,15 3 7,0
+PAL 3
+
+ROOM 5
+0,0,0,0,y,0,0,0,v,0,0,0,0,0,v,0
+0,u,0,0,0,0,0,0,0,u,0,0,0,0,0,y
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,v,b,s,w,y,0,0,0,0,b,x,s,r,w,l
+s,s,s,k,c,0,v,0,y,v,c,j,c,0,0,u
+k,n,c,0,0,y,0,y,u,v,0,0,0,0,v,0
+y,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,v,u,0,0,0,0,0,0,0,0,v,x,r,w,b
+0,0,0,0,0,y,0,0,0,y,u,a,n,0,j,n
+v,0,0,v,0,u,0,y,0,0,0,0,0,v,0,y
+0,b,s,k,0,0,0,b,w,v,0,0,0,0,0,0
+s,i,k,y,o,s,s,g,g,g,r,w,0,0,0,0
+c,v,0,v,q,g,g,g,r,h,g,g,r,u,v,0
+0,0,x,s,g,i,g,g,g,r,p,t,g,p,w,x
+s,s,g,g,k,x,g,g,g,g,g,g,g,g,g,g
+g,g,g,k,x,g,i,g,g,i,f,h,g,g,g,i
+NAME stars
+EXT 7,15 4 7,0
+EXT 8,15 4 8,0
+PAL 4
+
+TIL a
+00000000
+00000001
+00011111
+00110010
+01101000
+11100000
+10000010
+00100000
+
+TIL b
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+00000111
+00001110
+
+TIL c
+01111100
+11000000
+10101000
+00000001
+01000000
+00000000
+00000000
+00000000
+
+TIL d
+00011000
+00110000
+00110000
+00011000
+00001100
+00001100
+00001100
+00011000
+
+TIL e
+11111111
+10111010
+00110000
+10011001
+00001100
+01001100
+00011000
+00011000
+
+TIL f
+11111111
+11111111
+11111111
+10011110
+01000100
+00001001
+00100000
+00000000
+
+TIL g
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL h
+11111111
+11111111
+11111111
+10010111
+01000011
+00010101
+00000001
+00000000
+
+TIL i
+11111111
+11111111
+11111111
+11111111
+11000010
+10101000
+10000000
+00100000
+
+TIL j
+01111111
+11111111
+00111111
+01001111
+00000000
+00100100
+00000000
+00000000
+
+TIL k
+11111110
+11111111
+11111100
+11101000
+01000010
+00010000
+10000000
+00000000
+
+TIL l
+00000000
+00000000
+00000000
+01100000
+00100000
+00000010
+00000110
+00000000
+
+TIL m
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL n
+11111111
+10111010
+00110000
+10011001
+00000000
+01000000
+00000000
+00000000
+
+TIL o
+00000000
+00000010
+00001000
+00000000
+00000010
+00000010
+00000010
+00001000
+
+TIL p
+00000000
+00000000
+00010000
+10100000
+10000100
+11000010
+11111000
+11111111
+
+TIL q
+00000000
+00001000
+00000101
+00000001
+00000011
+00010011
+01001111
+00011111
+
+TIL r
+00000000
+11000000
+11100000
+10110100
+11011111
+11111011
+11111101
+11111111
+
+TIL s
+00000000
+00000101
+00001011
+10101101
+01111111
+11010111
+11111011
+11111111
+
+TIL t
+00111111
+10101111
+00111111
+00010111
+10011110
+00001011
+00010111
+00000011
+
+TIL u
+00000000
+01000000
+00000010
+00001000
+00011100
+00001000
+00000000
+00000010
+>
+00000000
+01000000
+00000010
+00010100
+00001000
+00010100
+00000000
+00000010
+
+TIL v
+00000000
+00000000
+00000000
+00000000
+00000010
+00000000
+00010000
+00000000
+
+TIL w
+00000000
+00000000
+00000000
+01000000
+00000000
+11010000
+11111110
+11111111
+
+TIL x
+00000000
+00000101
+00000011
+00011111
+00101111
+01111111
+11111111
+11111111
+
+TIL y
+00000000
+01000000
+00000000
+00000000
+00000000
+00000000
+00000001
+00000000
+
+SPR A
+00000000
+01000010
+11000011
+10010101
+11011011
+00111100
+01000010
+00100100
+>
+00000000
+00000000
+01000010
+11010111
+10011001
+11111111
+00100100
+01000010
+POS 0 1,10
+
+SPR a
+00000000
+00001000
+01100000
+01100010
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00110100
+00110000
+00001000
+00000000
+00000000
+00000000
+DLG SPR_0
+POS 0 12,0
+
+SPR b
+00000000
+00001001
+00001001
+00001111
+10111010
+01111111
+01111111
+01110101
+DLG SPR_1
+POS 2 2,10
+
+SPR c
+00000000
+00000000
+00000000
+01111110
+10011001
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+01100110
+10011001
+00011000
+00000000
+00000000
+00000000
+DLG SPR_2
+POS 3 11,8
+
+SPR d
+00000000
+00100000
+00111000
+01110000
+00010000
+00000010
+00000111
+00000010
+>
+00000000
+00010000
+01110000
+00111000
+00100000
+00000101
+00000010
+00000101
+DLG SPR_3
+POS 5 9,6
+
+SPR e
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+DLG SPR_4
+POS 5 7,0
+
+ITM 0
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+DLG ITM_0
+
+DLG ITM_0
+hey... where are you going?
+
+DLG SPR_0
+"""
+{
+  - starcandy == 1 ?
+    Jacques!
+    
+    Is... is this {wvy}star candy{wvy} really for me?
+    That means so much to me.
+    
+    Wait... where did you go today?
+    
+    ...
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    It's OK. You can tell me later.
+    
+    Bye.
+    
+    Go to bed.
+  - else ?
+    Hi Jacques!
+    
+    Listen...
+    
+    I'm proud of you for making it out of the house today.
+    You don't need to say anything.
+    
+    I know some days it's difficult for you and that's ok.
+    I'll still talk to you often even if you don't want to 
+    answer. 
+    
+    Or if you can't answer.
+    
+    I won't hold it against you if you don't talk to me for a long 
+    time. 
+    
+    I know you need space.
+    
+    Anyway...
+    
+    What are you gonna do with your day? Are you going to go and explore? There's so much possibility in the world!
+    But don't beat yourself up
+    if you wanna go home again.
+    There's always tomorrow.
+    
+    And when there's no tomorrow it won't matter anyway.
+    Sorry for getting bleak there.
+    
+    If you go somewhere can you bring me back something nice?
+    If you want to I mean.
+}
+"""
+
+DLG SPR_1
+"""
+hey jack
+
+yeah, yeah, jacques... whatever.
+
+you're too damn sensitive.
+"""
+
+DLG SPR_2
+"""
+{
+  - starcandy == 1 ?
+    I hope you had a good time here.
+    Tell your friends!
+    It's always nice to have visitors.
+  - else ?
+    Hey... what's your name?
+    What are your pronouns?
+    My name is {shk}{clr3}.*`{clr3}{shk}.
+    
+    I've never seen someone like you up here before.
+    We're not so different, you and I.
+    Actually, we are kinda different.
+    But that's cool too.
+    
+    I hope you have a nice time here.
+}
+"""
+
+DLG SPR_3
+"""
+{clr3}my child/.
+
+I love you/.
+
+I know you/.
+I do not know you/.
+you were with me
+when I was not with you/.
+you found me
+when I lost you/.
+there is no before now/.
+there was an after/.
+{shk}.{shk}.{shk}.{shk}.{shk}.{shk}.{shk}.{shk}...{shk}.{shk}.{shk}.{shk}...{shk}.{shk}.{shk}.{shk}...{shk}.{shk}.....{shk}.{shk}.{shk}.{shk}
+
+please take this/.
+
+{clr3}You take the {wvy}star candy{wvy}.{clr3} {starcandy = 1}
+
+you need not visit me again/.
+I am with you now/.{clr3}
+"""
+
+DLG SPR_4
+"""
+{clr3}everything has to come to an end/.
+you've done enough today/.{clr3}
+"""
+
+VAR starcandy
+0

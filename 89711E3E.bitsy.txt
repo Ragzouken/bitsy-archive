@@ -1,0 +1,16075 @@
+
+  Realm of the {shk}Dread{shk} Sorceress {wvy}{clr1}_______________________________{wvy}{clr1}
+
+# BITSY VERSION 4.3
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME fishtail_top
+177,216,139
+10,36,6
+113,80,66
+
+PAL 1
+NAME map
+0,128,192
+24,29,78
+0,0,87
+
+PAL 2
+NAME lair
+227,70,2
+97,35,35
+246,246,246
+
+PAL 3
+NAME viking
+104,168,164
+39,30,24
+183,60,0
+
+PAL 4
+NAME viking B
+104,168,164
+39,30,24
+104,168,164
+
+PAL 5
+NAME creepy
+56,56,56
+141,141,141
+56,56,56
+
+PAL 6
+NAME undersea1
+39,102,133
+24,26,39
+105,105,105
+
+PAL 7
+NAME undersea2
+29,89,103
+32,36,53
+66,66,66
+
+PAL 8
+NAME undersea3
+22,68,80
+29,29,29
+29,29,29
+
+PAL 9
+NAME hall
+146,114,103
+0,0,0
+216,196,126
+
+PAL a
+NAME tower
+190,210,214
+246,246,246
+12,6,62
+
+PAL b
+NAME tower_B
+190,210,214
+246,246,246
+190,210,214
+
+PAL c
+NAME cat
+255,190,125
+90,56,44
+255,255,157
+
+PAL d
+NAME pit
+10,36,6
+10,36,6
+10,36,6
+
+PAL e
+NAME lake
+38,72,115
+18,1,86
+231,254,254
+
+PAL f
+NAME cave
+189,87,66
+47,23,24
+248,112,1
+
+PAL g
+NAME ghost-town
+254,193,92
+83,0,0
+255,255,255
+
+PAL h
+NAME hotel
+169,168,187
+23,27,64
+255,255,255
+
+PAL i
+NAME factory
+106,164,170
+45,39,80
+217,234,232
+
+PAL j
+NAME gallery
+200,223,200
+88,95,80
+255,255,255
+
+PAL k
+NAME storm
+50,47,68
+92,92,92
+255,255,255
+
+PAL l
+NAME calm sea
+196,219,216
+82,60,35
+229,229,229
+
+PAL m
+NAME grove
+82,141,73
+12,56,18
+210,171,13
+
+PAL n
+NAME sorceress
+102,56,43
+23,15,13
+23,15,13
+
+ROOM 0
+4g,4j,4f,4i,4g,4e,1e,3e,2d,4b,4e,4g,4h,4i,4h,4i
+4m,4n,4k,49,4a,49,3z,3d,40,41,42,4b,4a,4b,4i,4g
+49,4l,49,1q,1l,3x,3k,j,k,l,43,3x,46,29,4b,4h
+1q,3v,3x,1j,h,i,3l,3m,d,1e,3c,3a,39,47,4c,4g
+3y,g,3w,3f,3h,3i,3p,m,45,1j,35,3b,38,37,4d,4f
+1n,3x,3q,3g,3j,3n,3o,n,44,q,34,31,33,36,48,4c
+4f,4a,4b,3t,e,14,13,2y,o,p,2z,30,32,s,1s,4c
+4e,4f,4g,4b,3r,2d,12,2q,2r,2w,2t,2u,2x,d,1m,49
+4g,4h,4i,4e,4b,1h,11,2n,2o,25,2s,2v,t,2m,49,4g
+nj,4g,4h,4g,4c,3q,e,16,17,2e,2g,2l,u,1s,4b,4f
+4g,4h,4f,49,1f,2d,27,15,1z,2i,2j,2k,v,20,1n,4b
+4i,4g,4c,1e,18,1g,29,e,1v,2h,21,10,z,c,1s,4c
+4g,4e,1q,b,1d,19,1h,2a,24,26,22,1y,y,w,1x,4c
+4e,4c,1p,1b,1a,d,1j,1f,2b,23,2d,1u,x,1r,1w,49
+4g,4e,4b,1o,1c,1k,49,4e,40,2c,4e,1n,1l,1t,1e,49
+4h,4f,4b,1n,1l,1m,4a,4g,4f,4h,4g,4f,41,4a,4a,4e
+NAME map
+WAL 8m
+EXT 4,14 2 1,1
+EXT 4,12 3 1,1
+EXT 11,12 a 1,1
+EXT 7,1 n 1,14
+EXT 9,8 p 5,9
+EXT 11,5 1 1,1
+EXT 1,3 0 1,5
+EXT 1,5 0 1,3
+EXT 0,4 0 2,4
+EXT 2,4 0 0,4
+EXT 7,6 x 2,13
+EXT 0,9 14 1,1
+EXT 10,3 16 1,1
+EXT 1,4 1b 8,8
+PAL 1
+
+ROOM 1
+a,0,0,0,0,8m,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,8m,0,0,0
+0,0,8m,0,0,0,0,0,0,0,0,0,0,0,8m,0
+0,0,0,0,0,0,0,0,8m,0,0,0,0,0,0,0
+ho,hq,hp,hr,hs,hp,ht,hp,hu,hp,hv,hv,hw,hx,hp,hq
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,i2,i1,i0,i1,i0,i0,i0,i1,i1,i0,i0,i3,a3,a3
+i1,i0,i4,io,0,0,0,0,8m,0,0,0,0,i4,i1,i1
+in,0,8m,0,0,0,0,0,ia,ib,ic,0,0,in,8m,0
+0,io,0,0,0,8m,i6,i7,i9,ih,id,0,8m,0,0,io
+0,0,0,0,0,io,i5,i8,ig,if,ie,io,0,0,0,0
+in,0,0,0,0,0,ii,ij,ik,il,im,in,0,0,io,0
+0,0,0,0,0,0,0,0,0,i4,0,0,0,0,0,0
+hr,hy,0,8m,0,io,0,0,0,0,0,8m,0,0,hz,hr
+a3,a3,hs,hv,hq,hp,hq,hv,hw,hp,hq,hw,hu,hr,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+NAME lake
+WAL 8m,i5,i6,i7,i8,i9,id,ie,if,ih,ig,ii,ij,ik,il,im
+ITM f 2,2
+ITM f 5,0
+ITM f 8,3
+ITM f 12,1
+ITM f 14,2
+ITM g 2,8
+ITM g 5,9
+ITM g 8,7
+ITM g 12,9
+ITM g 14,8
+ITM g 11,13
+ITM g 3,13
+EXT 0,0 0 11,5
+EXT 9,8 v 1,1
+EXT 0,8 0 10,5
+EXT 15,8 0 12,5
+PAL e
+
+ROOM 2
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,5n,0,0,0,0,0,0,0,5o,0,0
+0,0,0,0,5f,5g,5i,5g,5h,0,0,0,0,0,0,0
+0,0,0,0,5k,0,51,0,0,0,0,0,0,0,0,0
+0,0,0,0,5k,0,53,4w,54,4v,4u,56,0,0,0,0
+0,0,0,0,5l,0,52,4s,4t,0,4s,4t,0,0,0,0
+0,0,0,0,5m,0,53,4s,4t,0,4s,4t,0,0,0,0
+0,0,0,0,0,0,52,4r,50,55,4z,4y,0,0,0,0
+4o,4o,4o,4o,4o,4o,53,4o,4o,52,4o,4o,4o,4o,4o,4o
+4p,4p,4p,4p,4p,4p,52,4p,4p,53,4p,4p,4p,4p,4p,4p
+0,0,5s,5r,5q,5v,53,5r,5q,52,5r,5v,5q,5r,5v,5w
+4p,5t,0,60,5e,5d,52,5d,5d,53,5d,5c,0,60,5z,0
+5u,0,60,62,5a,0,57,5j,5x,57,5j,5b,62,5q,0,5v
+5p,0,5z,0,5a,58,58,59,58,59,58,5b,5y,5y,5y,5y
+0,0,0,0,61,0,60,0,5q,0,0,0,62,0,0,0
+NAME cat tower
+WAL 53,57,51,52,5n,5f,5g,5h,5i,8m
+ITM 1 4,8
+EXT 0,0 0 4,14
+EXT 15,14 3 0,11
+PAL c
+
+ROOM 3
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,6i,0,6i,0,72,0,0,0,0,0,7t
+7c,76,7a,0,0,6j,6m,6n,0,71,0,0,0,7t,7s,7e
+7d,78,7b,7a,0,6k,6q,6p,6y,6z,0,0,0,7e,79,7u
+7e,7f,79,7b,0,6l,6o,6r,75,73,0,0,0,7u,7w,7a
+7i,7g,7h,79,0,0,6s,6u,6v,6w,0,0,0,7v,7d,7b
+0,7q,0,7j,0,65,6t,63,63,6x,64,0,7c,7x,7e,79
+7p,7o,7p,7j,4o,66,67,67,67,67,68,4o,7d,7e,7i,7h
+7q,0,7r,7j,8l,69,6b,6b,6b,6b,6a,8l,7e,7i,7q,7q
+7o,7p,7m,7j,0,6c,6d,6d,6d,6d,6e,8j,80,84,85,84
+7n,7n,7l,7k,0,6f,6g,6g,6g,6g,6h,0,80,83,7z,83
+0,0,0,0,0,0,0,0,0,8i,0,0,81,82,7y,82
+86,86,86,0,0,60,0,0,0,0,0,0,0,0,0,0
+87,88,89,0,0,0,0,8e,8h,8k,0,0,7t,7s,0,0
+8a,8a,8a,8b,0,8i,0,8f,8g,8j,8i,7t,8c,8d,7s,60
+0,62,0,5w,0,0,0,0,0,0,7t,8c,7e,79,8d,7s
+NAME Meu-town
+WAL 53,57,51,52,5n,5f,5g,5h,5i,6i,6j,6k,6l,6m,6n,6o,6p,6q,6r,6s,6t,6u,6v,6w,6x,6y,70,71,72,74,75,64,65,66,68,69,6a,6c,6d,6e,7b,79,7s,7e,87,88,89,8a,8d,8e,8f,8g,8b,8c,86,81,82,7z,80,7x,7v,7u,7t,7q,7p,7o,7m,7k,7i,7h,7g,7d,78,7n,76,7j,73,8m
+EXT 0,0 0 4,12
+EXT 0,11 2 15,14
+EXT 9,3 4 15,3
+EXT 8,13 5 8,14
+EXT 2,10 6 7,14
+EXT 14,11 8 8,14
+PAL c
+
+ROOM 4
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8q,0,8o,0,0,0,8p,0,8r,8m,8m,0,0,0,0
+8m,0,0,0,0,0,0,0,0,0,8m,8m,8n,8m,8m,8m
+8m,0,0,0,0,0,0,0,0,0,8m,8m,8n,0,0,8m
+8m,0,0,0,0,94,0,0,0,0,8m,8m,8m,8m,8n,8m
+8m,8y,8x,8x,8z,93,0,8z,8y,93,8m,8m,0,0,8n,8m
+8m,0,0,0,0,0,0,0,0,0,8m,8m,8n,8m,8m,8m
+8m,8y,8x,90,8x,93,0,8z,8x,93,8m,8m,8n,0,0,8m
+8m,0,0,0,0,0,0,0,0,0,8m,8m,8m,8m,8n,8m
+8m,8z,8x,8y,93,0,92,0,92,0,0,0,0,0,8n,8m
+8m,8t,8v,8u,0,0,0,0,0,0,0,0,0,0,8n,8m
+8m,8s,8w,8s,91,0,0,0,0,0,0,0,0,0,8n,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+NAME Cat Hideout
+WAL 8m,8s,8t,8u,8v,8x,8y,8z,90,91
+ITM 2 5,5
+EXT 15,3 3 10,3
+PAL 2
+
+ROOM 5
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,95,95,95,8m,8m,8m,95,95,8m,8m,95,8m,8m,95,8m
+8m,95,8m,8m,95,8m,95,8m,8m,95,8m,95,8m,8m,95,8m
+8m,95,95,95,8m,8m,95,8m,8m,95,8m,8m,95,95,8m,8m
+8m,95,8m,8m,95,8m,95,8m,8m,95,8m,95,8m,8m,95,8m
+8m,95,95,95,8m,8m,8m,95,95,8m,8m,95,8m,8m,95,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,95,95,95,95,8m,8m,95,95,95,8m,8m,95,8m,95,8m
+8m,95,8m,8m,8m,8m,95,8m,8m,8m,8m,8m,95,8m,95,8m
+8m,95,95,95,8m,8m,8m,95,95,8m,8m,8m,95,8m,95,8m
+8m,95,8m,8m,8m,8m,8m,8m,8m,95,8m,8m,8m,8m,8m,8m
+8m,95,95,95,95,8m,95,95,95,8m,8m,8m,95,8m,95,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,8m,0,0,8m,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,8m,0,0,8m,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+NAME Box
+WAL 8m,8s,8t,8u,8v,8x,8y,8z,90,91
+EXT 8,13 3 8,12
+PAL 2
+
+ROOM 6
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8m,8m,9p,9k,9r,0,0,0,9r,9r,9r,8m,8m,8m,8m
+8m,8m,8m,0,9k,9i,9i,0,9i,9i,9i,9i,8m,8m,8m,8m
+8m,8m,8m,9j,96,96,96,96,96,96,96,96,8m,8m,8m,8m
+8m,8m,8m,97,97,97,98,97,97,97,97,97,8m,8m,8m,8m
+8m,8m,8m,0,0,9i,99,9a,9b,9h,0,0,8m,8m,8m,8m
+8m,8m,8m,9g,0,9i,9c,0,9d,9i,0,9l,8m,8m,8m,8m
+8m,8m,8m,9l,0,9g,9c,0,9d,9i,9h,0,8m,8m,8m,8m
+8m,8m,8m,0,0,9i,9c,0,9d,9i,0,0,8m,8m,8m,8m
+8m,8m,8m,9g,0,9i,9c,0,9d,9h,0,0,8m,8m,8m,8m
+8m,8m,8m,0,0,9i,9c,0,9d,9i,0,9h,8m,8m,8m,8m
+8m,8m,8m,0,9g,9i,9c,0,9d,9h,0,0,8m,8m,8m,8m
+8m,8m,8m,9g,0,9i,9c,0,9d,9i,0,0,8m,8m,8m,8m
+8m,8m,8m,9m,0,9g,9c,0,9d,9i,9h,0,8m,8m,8m,8m
+8m,8m,8m,0,0,0,0,9f,9e,9i,0,0,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8m,8m,8m,8m,8m,8m
+NAME Saucer
+WAL 8m,9g,9i,97,9k,9p
+ITM 0 3,2
+EXT 7,13 7 7,13
+EXT 6,13 7 6,13
+EXT 8,11 7 8,11
+EXT 7,11 7 7,11
+EXT 8,9 7 8,9
+EXT 7,9 7 7,9
+EXT 6,7 7 6,7
+EXT 7,7 7 7,7
+EXT 8,5 7 8,5
+EXT 7,5 7 7,5
+EXT 7,15 3 2,11
+PAL c
+
+ROOM 7
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8m,8m,9q,9k,9r,0,0,0,9r,9r,9r,8m,8m,8m,8m
+8m,8m,8m,9p,9k,9i,9i,0,9i,9i,9i,9i,8m,8m,8m,8m
+8m,8m,8m,9j,96,96,96,96,96,96,96,96,8m,8m,8m,8m
+8m,8m,8m,97,97,97,98,97,97,97,97,97,8m,8m,8m,8m
+8m,8m,8m,0,0,9i,99,9a,9b,9o,0,0,8m,8m,8m,8m
+8m,8m,8m,9n,0,9i,9c,0,9d,9i,0,9l,8m,8m,8m,8m
+8m,8m,8m,9l,0,9n,9c,0,9d,9i,9o,0,8m,8m,8m,8m
+8m,8m,8m,0,0,9i,9c,0,9d,9i,0,0,8m,8m,8m,8m
+8m,8m,8m,9n,0,9i,9c,0,9d,9o,0,0,8m,8m,8m,8m
+8m,8m,8m,0,0,9i,9c,0,9d,9i,0,9o,8m,8m,8m,8m
+8m,8m,8m,0,9n,9i,9c,0,9d,9o,0,0,8m,8m,8m,8m
+8m,8m,8m,9n,0,9i,9c,0,9d,9i,0,0,8m,8m,8m,8m
+8m,8m,8m,9m,0,9n,9c,0,9d,9i,9o,0,8m,8m,8m,8m
+8m,8m,8m,0,0,0,0,9f,9e,9i,0,0,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8m,8m,8m,8m,8m,8m
+NAME Saucer_Bad
+WAL 8m,9g,9i,97,9k,9p
+EXT 4,3 3 2,11
+EXT 7,15 3 2,11
+PAL c
+
+ROOM 8
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,0,0,0
+0,0,0,a5,a6,a6,a6,a6,a6,a6,7z,a6,a5,0,0,0
+0,0,0,a5,a6,a6,a6,a6,a6,a6,7y,a6,a5,0,0,0
+0,0,0,a5,a7,a3,a3,a3,a3,a3,a3,a3,a5,0,0,0
+0,0,a5,a5,a4,a4,a4,a3,a3,a4,a4,a4,a5,0,0,0
+0,0,a5,a5,9u,9v,9w,9x,9y,9z,a0,a1,a5,0,0,0
+0,0,a5,a5,9t,9t,9t,a3,a3,9s,9s,9s,a5,0,0,0
+0,0,0,a5,a3,a3,a9,a3,a3,a3,a3,a3,a5,0,0,0
+0,0,0,a5,a3,a3,a3,a3,a3,a3,a3,a8,a5,0,0,0
+0,0,0,a5,a4,a4,a4,a3,a3,a4,a4,a4,a5,0,0,0
+0,0,0,a5,9t,9t,9t,a3,a3,9s,9s,9s,a5,0,0,0
+0,0,0,a5,9t,9t,9t,a3,a3,9s,9s,9s,a5,0,0,0
+0,0,0,a5,a3,a3,a3,a3,a3,a3,a3,a9,a5,0,0,0
+0,0,0,a5,a7,a3,a3,a3,a3,a3,a3,a3,a5,0,0,0
+0,0,0,a5,a5,a5,a5,a5,a3,a5,a5,a5,a5,0,0,0
+NAME twinery
+WAL 9j,9t,9s,8m,a5,a6,9u,9v,9w,9z,a0,a1,a4
+EXT 8,6 8 1,6
+EXT 1,5 8 8,5
+EXT 7,6 8 0,6
+EXT 0,5 8 7,5
+EXT 1,7 8 8,7
+EXT 0,7 8 7,7
+EXT 10,3 9 10,3
+EXT 8,15 3 14,12
+PAL 5
+
+ROOM 9
+a3,a3,a3,a3,a3,a3,a3,a3,a6,a6,a6,a6,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a6,a6,a6,a6,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,0,0,0,0,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,0,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,0,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a4,a4,a4,a3,a3,a4,a4,a4,a3,a3,a3,a3
+a3,a3,a3,a3,9u,9v,9w,9x,9y,9z,a0,a1,a3,a3,a3,a3
+a3,a3,a3,a3,9t,9t,9t,a3,a3,9s,9s,9s,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a9,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a8,a3,a3,a3,a3
+a3,a3,a3,a3,a4,a4,a4,a3,a3,a4,a4,a4,a3,a3,a3,a3
+a3,a3,a3,a3,9t,9t,9t,a3,a3,9s,9s,9s,a3,a3,a3,a3
+a3,a3,a3,a3,9t,9t,9t,a3,a3,9s,9s,9s,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a9,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+NAME twinery_office
+WAL 9j,9t,9s,8m,a5,a6,a3
+ITM 3 11,2
+EXT 10,4 8 10,4
+PAL 2
+
+ROOM 10
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8q,8r,8q,8r,8q,8r,8q,8r,8q,8r,8q,8r,8q,8r,8m
+8m,0,0,0,0,lf,lg,lg,lg,lh,0,0,0,0,0,8m
+8m,lf,lg,lh,0,lm,lt,lu,lv,li,0,lf,lg,lh,0,8m
+8m,lm,0,li,0,lm,lw,lx,ly,li,0,lm,m0,li,0,8m
+8m,ll,lk,lj,0,ll,lk,lk,lk,lj,0,lm,lz,li,0,8m
+8m,0,lf,lg,lg,lh,0,lf,lg,lg,lh,ll,lk,lj,0,8m
+8m,0,lm,q7,q5,li,0,lm,he,0,li,0,0,0,0,8m
+8m,0,lm,qa,0,li,0,lm,hd,hc,li,0,0,0,0,8m
+8m,0,ll,lk,lk,lj,0,ll,lk,lk,lj,lf,lg,lh,0,8m
+8m,0,0,0,lf,lg,lh,lf,lg,lh,0,lm,hn,li,0,8m
+8m,0,0,0,lm,ln,li,lm,ls,li,0,ll,lk,lj,0,8m
+8m,lb,lc,0,ll,lk,lj,ll,lk,lj,0,0,0,0,0,8m
+8m,ld,le,0,0,0,0,0,0,0,0,0,0,0,0,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+NAME gallery
+WAL 8m
+ITM o 2,4
+EXT 1,13 x 1,6
+EXT 12,5 11 1,14
+EXT 12,4 12 1,1
+PAL j
+
+ROOM 11
+mv,mf,a3,a3,a3,a3,a3,a3,hs,mw,mv,0,0,mv,0,mw
+0,mp,a3,mf,a3,a3,mk,ml,mm,0,0,0,0,0,mt,mt
+0,mo,mk,ml,mm,mn,hq,0,0,hv,mf,0,0,0,mu,ml
+0,mw,0,0,0,0,a3,hx,0,a3,a3,0,0,mw,nc,n8
+0,mr,hr,ho,0,mf,a3,a3,0,a3,mh,0,0,ms,0,0
+0,0,ml,mq,0,e8,a3,a3,mg,e4,e9,0,0,0,0,0
+0,0,nc,0,0,e8,a3,a3,e4,e9,mj,0,0,0,0,0
+0,n8,0,0,m4,e8,a3,e4,a3,mi,hs,0,0,0,0,0
+0,0,0,m2,m5,m6,m7,m3,m6,m9,m6,m2,m8,0,0,0
+4o,4o,4o,m3,mb,m4,m5,m6,m4,m6,m7,m3,ma,4o,4o,4o
+4p,me,m2,m7,mb,m6,m4,m2,mb,0,m2,m6,m4,mc,me,4p
+me,m4,m5,m4,m2,m7,0,m3,m5,0,m3,0,m8,md,me,me
+me,9i,m6,mb,m3,m5,m4,m4,0,m2,m4,m7,m5,m4,9i,me
+0,0,me,9i,m2,mb,m5,m4,m7,m8,0,m4,m6,9i,me,0
+0,4p,0,me,9i,m4,9i,9i,m5,9i,9i,9i,me,0,0,0
+m1,0,0,0,4p,0,4p,4p,0,4p,4p,4p,0,0,0,0
+NAME WestBeaconBase
+WAL 9i,ml,mk,mm,mn,mp,mq,mr,ms,mt,mu,mv,mw
+ITM p 1,12
+ITM p 3,13
+ITM p 4,14
+ITM q 6,14
+ITM r 14,12
+ITM r 7,14
+ITM r 9,14
+ITM q 10,14
+ITM p 11,14
+ITM p 13,13
+ITM s 12,0
+ITM s 12,1
+ITM t 12,2
+ITM t 11,0
+ITM u 15,15
+EXT 0,15 10 12,5
+EXT 11,0 11 11,7
+EXT 12,1 11 12,7
+EXT 12,2 11 12,7
+PAL k
+
+ROOM 12
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,e5
+0,0,0,0,0,0,0,0,0,0,0,0,e5,e5,e5,e5
+0,0,0,n2,n3,ho,hw,a2,0,0,0,0,0,0,0,0
+0,0,n2,n3,a3,8m,mz,n0,n1,0,0,nb,0,0,0,0
+0,n2,n3,na,a3,mz,8m,8m,n0,n1,0,0,0,0,0,0
+0,mx,8m,8m,mz,8m,n7,8m,8m,n0,n1,n8,0,0,0,0
+0,0,mx,my,n0,8m,8m,n9,8m,8m,n0,n1,0,0,0,0
+0,0,nc,0,mx,n0,8m,na,n7,8m,8m,n0,mn,0,mw,0
+e5,e5,0,0,0,mx,n0,8m,8m,n7,mh,ja,n4,n5,mf,0
+e5,0,0,0,0,0,mx,n0,8m,8m,jc,0,mp,my,mk,0
+0,0,mw,0,0,0,0,mx,n0,j9,0,0,0,mv,0,0
+0,0,ms,0,0,0,0,0,mx,0,0,n8,0,0,0,0
+0,0,0,0,n8,0,0,0,nc,0,0,0,mw,0,e5,e5
+0,0,0,0,0,0,0,0,0,0,n2,n5,mf,0,0,0
+0,0,0,0,0,n6,mf,0,0,0,mo,my,mt,0,0,0
+0,0,n4,n5,n6,n3,mg,0,0,0,nc,0,0,0,0,0
+NAME WestBeaconTop
+WAL n4,n5,n6,ms,mv,mw,mg
+EXT 0,0 10 12,4
+PAL k
+
+ROOM 13
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,nq,nk,nk,nk,nk,nk,nk,nk,nk,nk,nk,nk,nl
+0,0,nr,np,p6,p6,p6,p6,p6,p6,p6,p6,0,p6,0,nm
+0,0,ns,0,0,0,0,0,0,0,oq,ox,0,0,0,nm
+0,0,ns,0,0,0,on,oo,0,ou,or,oz,0,0,0,nm
+ny,nk,nx,0,0,ok,oi,0,0,ot,op,oy,0,0,0,nm
+o1,o0,o0,0,ok,oj,om,0,0,ov,os,ow,0,0,0,nm
+o1,o0,o0,0,oe,of,ol,0,0,0,p0,oc,ob,o9,0,nm
+nz,no,nw,0,0,o2,og,oa,p3,oa,od,p1,p1,o8,0,nm
+0,0,ns,0,0,o3,p2,jj,jj,jj,jj,jj,jj,o7,0,nm
+0,0,ns,0,0,0,o4,pb,o5,o5,o5,pb,o5,o6,0,nm
+0,0,nu,nt,0,a3,0,pc,0,0,0,pc,a3,0,0,nm
+0,0,0,nv,no,a3,no,no,no,no,no,no,a3,no,no,nn
+p6,p6,p6,p6,p6,a3,a3,a3,a3,a3,a3,a3,a3,p6,p6,p6
+p6,p6,p6,p6,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,p6,p6
+NAME bottle1
+WAL nn,nk,no,nm,nl,ns,nq,nr,nu,nv,nw,a3,p6
+ITM x 4,3
+ITM x 5,3
+ITM x 6,3
+ITM x 7,3
+ITM x 8,3
+ITM x 9,3
+ITM x 10,3
+ITM x 11,3
+ITM x 13,3
+EXT 0,0 15 4,8
+EXT 10,9 17 1,12
+EXT 11,9 17 1,12
+PAL h
+
+ROOM 14
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,5o,0,0,0,0,0,5o,0,0,0,0
+0,0,0,0,0,0,5o,0,0,0,5o,0,0,0,e5,e5
+0,0,0,0,0,0,0,0,0,0,0,0,e5,e5,e5,e5
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5o
+e5,e5,0,0,0,0,0,0,mf,0,0,0,0,0,0,0
+0,0,0,0,0,hy,hv,hw,e4,nd,0,0,nf,ng,nh,0
+0,0,0,0,m4,e8,a3,e4,a3,mi,hs,0,ne,0,0,0
+e5,e5,e5,m2,m5,m6,m7,m3,m6,m9,m6,m2,m8,e5,e5,e5
+4o,4o,4o,m3,mb,m4,m5,m6,m4,m6,m7,m3,ma,4o,4o,4o
+4p,4p,m2,m7,mb,m6,m4,m2,mb,0,m2,m6,m4,mc,4q,4q
+i4,m4,m5,m4,m2,m7,0,m3,m5,0,m3,0,m8,md,i4,0
+0,i0,m6,mb,m3,m5,m4,m4,0,m2,m4,m7,m5,m4,ni,i4
+0,i4,i1,i0,m2,mb,m5,m4,m7,m8,i0,m4,m6,i0,0,0
+4q,4p,0,me,i1,m4,i0,i1,m5,i0,i4,i0,me,4p,0,4p
+0,0,0,0,4p,i0,i4,4p,i0,4p,4p,4p,0,0,0,0
+NAME West Ruins
+WAL 9i,ml,mk,mm,mn,mp,mq,mr,ms,mt,mu,mv,mw,m2,m3,m8,m9,ma,mb,m4
+ITM v 9,11
+EXT 0,0 0 0,9
+PAL c
+
+ROOM 15
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,dr,dr,dr,dr,dr,dr,dr,dr,dr,dr,a3
+a3,a3,a3,a3,dr,0,0,0,0,0,0,0,0,0,0,a3
+a3,a3,a3,dr,0,0,0,0,0,0,du,0,0,0,0,a3
+a3,a3,dr,0,0,0,0,cj,ck,0,0,0,cj,ck,cj,a3
+a3,dr,0,8y,p9,90,0,ch,ci,0,dv,0,ch,ci,ch,a3
+a3,0,8z,8x,8y,8z,0,ch,ci,0,0,0,ch,ci,ch,a3
+cb,0,8y,8y,8x,8x,0,cf,cg,0,0,0,cf,cg,cf,a3
+cb,0,0,0,0,0,0,0,d7,0,0,0,pa,0,a3,a3
+cb,0,0,0,0,0,0,0,da,db,db,db,dc,0,a3,a3
+cb,0,0,0,0,0,0,0,p5,p6,p6,p6,p7,0,a3,a3
+d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+NAME ship cabin1
+WAL a3,d8,da,db,dc,p5,p7
+ITM w 5,13
+EXT 0,10 16 9,8
+EXT 0,11 16 9,8
+EXT 0,12 16 9,8
+EXT 0,13 16 9,8
+EXT 4,8 13 1,1
+PAL g
+
+ROOM 16
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,5o,0,5o,0,0
+0,0,0,5o,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,oq,ox,0,0,0,0
+0,5o,0,0,0,0,on,oo,0,ou,or,oz,0,0,0,0
+0,0,0,0,0,ok,oi,0,0,ot,op,oy,0,0,0,0
+0,0,0,0,ok,oj,om,0,0,ov,os,ow,0,0,0,0
+0,0,0,0,oe,of,ol,0,0,0,p0,oc,ob,o9,0,0
+hr,hs,ht,hq,0,o2,og,oa,p3,oa,od,p1,p1,o8,0,hz
+4o,4o,4o,4o,4o,p4,p2,jj,jj,jj,jj,jj,jj,o7,4o,4o
+4p,4p,4p,4p,4p,bv,bw,bw,bw,bw,bw,bw,bw,bw,4p,4p
+4q,4q,4q,4q,4q,4q,4q,4q,4q,4q,4q,4q,4q,4q,4q,4q
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4p,4p,4p,4p,4p,4p,4p,4p,4p,4p,4p,4p,4p,4p,4p,4p
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Boney Lass
+WAL nn,nk,no,nm,nl,ns,nq,nr,nu,nv,nw
+EXT 0,0 0 10,3
+EXT 10,9 15 1,12
+EXT 11,9 15 1,12
+PAL l
+
+ROOM 17
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,dr,dr,dr,dr,dr,dr,dr,dr,dr,dr,a3
+a3,a3,a3,a3,dr,0,0,0,0,0,0,0,0,0,0,a3
+a3,a3,a3,dr,0,0,0,0,0,0,dv,0,0,0,0,a3
+a3,a3,dr,0,0,0,0,cj,ck,0,0,0,cj,ck,cj,a3
+a3,dr,0,90,p9,8z,0,ch,ci,0,du,0,ch,ci,ch,a3
+a3,0,8y,8x,8y,8z,0,ch,ci,0,0,0,ch,ci,ch,a3
+cb,0,8y,8y,8x,8x,0,cf,cg,0,0,0,cf,cg,cf,a3
+cb,0,0,0,0,0,0,0,dm,0,0,0,d7,0,a3,a3
+cb,0,0,0,0,0,0,0,da,db,db,db,dc,0,a3,a3
+cb,0,0,0,0,0,0,0,p5,p6,p6,p6,e0,e1,a3,a3
+d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+NAME ship cabin2
+WAL a3,d8,da,db,dc,p5,p7,e1
+ITM y 7,13
+EXT 0,10 13 9,8
+EXT 0,11 13 9,8
+EXT 0,12 13 9,8
+EXT 0,13 13 9,8
+EXT 4,8 18 1,1
+PAL 3
+
+ROOM 18
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,nq,nk,nk,nk,nk,nk,nk,nk,nk,nk,nk,nk,nl
+0,0,nr,np,p6,p6,p6,p6,p6,p6,p6,p6,0,p6,0,nm
+0,0,ns,0,0,0,0,0,0,0,oq,ox,0,0,0,nm
+0,0,ns,0,0,0,on,oo,0,ou,or,oz,0,0,0,nm
+ny,nk,nx,0,0,ok,oi,0,0,ot,op,oy,0,0,0,nm
+o1,o0,o0,0,ok,oj,om,0,0,ov,os,ow,0,0,0,nm
+o1,o0,o0,0,oe,of,ol,0,0,0,p0,oc,ob,o9,0,nm
+nz,no,nw,0,0,o2,og,oa,p3,oa,od,p1,p1,o8,0,nm
+0,0,ns,0,0,o3,p2,jj,jj,jj,jj,jj,jj,o7,0,nm
+0,0,ns,0,0,0,o4,pb,o5,o5,o5,pb,o5,o6,0,nm
+0,0,nu,nt,0,a3,0,pc,0,0,0,pc,a3,0,0,nm
+0,0,0,nv,no,a3,no,no,no,no,no,no,a3,no,no,nn
+p6,p6,p6,p6,p6,a3,a3,a3,a3,a3,a3,a3,a3,p6,p6,p6
+p6,p6,p6,p6,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,p6,p6
+NAME bottle2
+WAL nn,nk,no,nm,nl,ns,nq,nr,nu,nv,nw,a3,p6
+ITM x 4,3
+ITM x 5,3
+ITM x 6,3
+ITM x 7,3
+ITM x 8,3
+ITM x 9,3
+ITM x 10,3
+ITM x 11,3
+ITM x 13,3
+EXT 0,0 17 4,8
+EXT 10,9 19 1,12
+EXT 11,9 19 1,12
+PAL h
+
+ROOM 19
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,dr,dr,dr,dr,dr,dr,dr,dr,dr,dr,a3
+a3,a3,a3,a3,dr,0,0,0,0,0,0,0,0,0,0,a3
+a3,a3,a3,dr,0,0,0,0,0,0,0,0,0,0,0,a3
+a3,a3,dr,0,0,0,0,cj,ck,0,0,0,cj,ck,cj,a3
+a3,dr,0,8x,p9,8x,0,ch,ci,0,0,0,ch,ci,ch,a3
+a3,0,8x,8x,8x,8x,0,ch,ci,0,0,0,ch,ci,ch,a3
+cb,0,8x,8x,8x,8x,0,cf,cg,0,0,0,cf,cg,cf,a3
+cb,0,0,0,0,0,0,0,0,0,0,0,0,0,a3,a3
+cb,0,0,0,0,0,0,0,da,db,db,db,dc,0,a3,a3
+cb,0,0,0,0,0,0,0,p5,p6,p6,p6,p7,0,a3,a3
+d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,d8,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+NAME ship cabin3
+WAL a3,d8,da,db,dc,p5,p7,e1
+ITM z 10,11
+EXT 0,10 18 9,8
+EXT 0,11 18 9,8
+EXT 0,12 18 9,8
+EXT 0,13 18 9,8
+EXT 4,8 18 1,1
+PAL i
+
+ROOM a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,b7,b8,0,0,0,0,0,0,0,0,ar,av,0,0,0
+0,b9,ba,0,0,az,b1,b1,b1,b0,0,as,aw,bn,0,0
+0,0,bb,b6,0,b2,b2,b2,b2,b2,bo,at,ax,bj,0,0
+0,0,bc,b5,b3,b4,b3,b3,b3,b3,b3,au,ay,bk,0,0
+4o,4o,4o,be,bg,ad,bi,bi,bi,bi,bi,al,am,bm,4o,4o
+4q,4q,4q,4q,bf,ad,bh,bh,bh,bh,bh,an,ap,c1,4q,4q
+4p,0,0,0,4p,ad,0,4p,0,c1,ak,ao,aq,ak,0,4p
+0,aa,ab,ac,ab,ac,ab,ab,ac,ab,c2,al,am,c3,ab,ab
+0,ag,ah,ad,ag,ah,ag,ah,ad,ag,al,an,ap,am,ah,ag
+0,bp,bt,bz,bz,bz,c0,0,ad,0,al,ao,aq,am,0,0
+0,br,bu,bs,bs,bs,by,0,ad,0,al,al,am,am,0,4p
+4p,0,bv,bw,bw,bw,bx,4p,ac,ab,c2,al,am,c3,a5,0
+0,0,0,0,0,0,0,0,ag,ae,ai,ai,ai,ai,aj,0
+0,0,4q,0,4q,0,0,0,0,4q,0,0,0,4p,0,0
+NAME viking
+WAL aj,ae,ag,ah,ai,ak,al,am,an,ao,ap,aq,as,at,au,aw,ax,ay,az,b0,b1,b2,b3,b5,b7,b8,b9,ba,bb,bc,be,bf,bg,bh,bi,bj,bk,bm,bo,bn,bp,br,bs,bt,by,bv,bu,bw,bx,c0,c1,a5
+EXT 10,9 b 10,0
+EXT 13,9 b 13,0
+EXT 15,9 0 12,12
+EXT 10,13 c 2,14
+EXT 3,11 d 4,4
+EXT 5,5 k 2,8
+EXT 0,0 0 11,12
+PAL 3
+
+ROOM b
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,bq,bq,bq,bq,0,0
+0,b7,b8,0,0,0,0,0,0,0,0,ar,av,0,0,0
+0,b9,ba,0,0,az,b1,b1,b1,b0,0,as,aw,bn,0,0
+0,0,bb,b6,0,b2,b2,b2,b2,b2,bo,at,ax,bj,0,0
+0,0,bc,b5,b3,b4,b3,b3,b3,b3,b3,au,ay,bk,0,0
+4o,4o,4o,be,bg,ad,bi,bi,bi,bi,bi,al,am,bm,4o,4o
+4q,4q,4q,4q,bf,ad,bh,bh,bh,bh,bh,an,ap,c1,4q,4q
+4p,0,0,0,4p,ad,0,4p,0,c1,ak,ao,aq,ak,0,4p
+0,aa,ab,ac,ab,ac,ab,ab,ac,ab,c2,al,am,c3,ab,ab
+0,ag,ah,ad,ag,ah,ag,ah,ad,ag,al,an,ap,am,ah,ag
+0,bp,bt,bz,bz,bz,c0,0,ad,0,al,ao,aq,am,0,0
+0,br,bu,bs,bs,bs,by,0,ad,0,al,al,am,am,0,4p
+4p,0,bv,bw,bw,bw,bx,4p,ac,ab,c2,al,am,c3,0,0
+0,0,0,0,0,0,0,0,ag,ae,ai,ai,ai,ai,aj,0
+0,0,4q,0,4q,0,0,0,0,4q,0,0,0,4p,0,0
+NAME viking_B
+WAL aj,ae,ag,ah,ai,ak,al,am,an,ao,ap,aq,as,at,au,aw,ax,ay,az,b0,b1,b2,b3,b5,b7,b8,b9,ba,bb,bc,be,bf,bg,bh,bi,bj,bk,bm,bo,bn,bp,br,bs,bt,by,bv,bu,bw,bx,c0,c1,bq
+EXT 9,0 a 9,9
+EXT 14,0 a 14,9
+PAL 4
+
+ROOM c
+a3,a3,a3,a3,a3,8q,c4,c4,c4,c4,8r,a3,a3,a3,a3,a3
+a3,8q,0,8r,a3,0,co,0,0,co,0,a3,8q,0,8r,a3
+a3,0,0,0,cq,0,0,dz,e2,0,0,cq,0,0,0,a3
+a3,c7,0,0,0,0,e0,e1,e3,dz,0,0,0,cn,cr,a3
+a3,c7,c4,c4,c4,c4,c4,c4,c4,c4,c4,c4,c4,c4,c4,a3
+a3,c7,0,cj,ck,0,0,cj,ck,0,0,cj,ck,0,0,a3
+a3,c7,0,ch,ci,0,0,ch,ci,0,0,ch,ci,0,0,a3
+a3,c7,0,cf,cg,0,0,cf,cg,0,0,cf,cg,0,0,a3
+a3,c7,0,0,0,0,0,0,0,0,0,0,0,0,c7,a3
+a3,c5,c5,c5,c5,c4,c4,c4,c4,c4,c4,c6,c6,c6,c7,a3
+a3,0,0,0,0,0,0,cj,ck,0,0,0,0,0,c7,a3
+a3,0,0,0,cl,0,0,ch,ci,0,0,cl,0,0,c7,a3
+a3,0,0,0,cm,0,0,cf,cg,0,0,cm,0,0,c7,a3
+a3,cc,cd,0,0,0,0,0,0,0,0,0,0,0,c7,a3
+a3,ca,cb,0,ce,ce,ce,ce,ce,c9,0,c8,0,0,c7,a3
+cs,cs,cs,cs,cs,cs,cs,cs,cs,cs,cs,cs,cs,cs,cs,cs
+NAME Church
+WAL a3,c4,c5,c6,c8,cn,cs,e2,e1,e0,e3,dz
+ITM 4 11,13
+ITM 4 9,13
+ITM 4 7,12
+ITM 4 10,5
+ITM 4 13,6
+ITM 4 5,7
+ITM 4 9,7
+ITM 4 12,10
+ITM 4 2,5
+ITM 4 8,1
+EXT 1,14 a 9,13
+PAL 3
+
+ROOM d
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,c6,c6,c6,c6,c6,c6,c6,c6,c6,a3,a3,a3
+a3,a3,a3,a3,0,0,co,0,co,0,co,0,0,a3,a3,a3
+a3,a3,a3,a3,7m,0,co,0,co,0,co,0,0,a3,a3,a3
+a3,a3,a3,a3,7l,0,0,0,0,e0,e1,0,c7,a3,a3,a3
+a3,a3,a3,a3,c6,c6,c6,c6,c6,c6,c6,c6,c7,a3,a3,a3
+a3,a3,a3,a3,0,0,du,0,du,0,du,0,c7,a3,a3,a3
+a3,a3,a3,a3,0,0,0,0,0,0,0,0,c7,a3,a3,a3
+a3,a3,a3,a3,cw,0,d7,0,c7,0,0,dz,c7,a3,a3,a3
+cs,cs,cs,cs,cs,cs,cs,cs,c7,cs,cs,cs,cs,cs,cs,cs
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,4p,0,0,cp,c7,cp,0,0,0,c1,0,0
+0,cu,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,4p,0,0,ct,0
+0,0,4q,0,0,cv,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+NAME boat
+WAL a3,cs,cp,c6,cw
+EXT 8,15 e 8,0
+EXT 4,4 a 3,10
+PAL 3
+
+ROOM e
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,4p,0
+0,0,0,0,4q,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,cv,0,0
+0,cu,0,0,0,0,0,cp,c7,cp,0,0,cv,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,4q,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,ct,0,0,cp,c7,cp,0,0,0,0,ct,0
+0,4p,0,0,0,0,0,cp,c7,cp,0,0,0,ct,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,ct,0
+0,0,cu,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,4q,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+NAME undersea1
+WAL cp,d4,c6
+EXT 8,5 g 8,5
+EXT 8,0 d 8,15
+PAL 6
+
+ROOM g
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,4p,0
+0,0,0,0,4q,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,cv,0,0
+0,cu,0,0,0,0,0,cp,c7,cp,0,0,cv,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,4q,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,ct,0,0,cp,c7,cp,0,0,0,0,ct,0
+0,4p,0,0,0,0,0,cp,c7,cp,0,0,0,ct,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,ct,0
+0,0,cu,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,4q,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+NAME undersea2
+WAL cp
+EXT 8,11 i 8,11
+EXT 8,4 e 8,4
+PAL 7
+
+ROOM i
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,4p,0
+0,0,0,0,4q,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,cv,0,0
+0,cu,0,0,0,0,0,cp,c7,cp,0,0,cv,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,4q,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,ct,0,0,cp,c7,cp,0,0,0,0,ct,0
+0,4p,0,0,0,0,0,cp,c7,cp,0,0,0,ct,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,ct,0
+0,0,cu,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,4q,0,0,cp,c7,cp,0,0,0,0,0,0
+0,0,0,0,0,0,0,cp,c7,cp,0,0,0,0,0,0
+NAME undersea3
+WAL cp
+EXT 8,10 g 8,10
+EXT 8,15 j 8,0
+PAL 8
+
+ROOM j
+0,0,0,0,0,0,0,bq,c7,bq,0,0,0,0,0,0
+0,0,0,0,4q,0,0,bq,c7,bq,0,cu,0,0,0,0
+0,4p,0,0,0,0,0,bq,c7,bq,0,0,0,0,0,0
+0,0,0,0,ct,0,0,bq,c7,bq,0,0,0,0,cv,0
+0,0,0,ct,0,0,0,bq,c7,bq,0,0,0,cv,cv,0
+0,0,ct,0,0,0,0,bq,c7,bq,0,0,cv,cv,cv,0
+0,0,0,ct,0,0,0,bq,c7,bq,0,0,0,cv,0,0
+0,4q,0,0,0,0,0,bq,c7,bq,0,0,0,0,0,0
+0,0,0,0,0,cu,0,bq,c7,bq,0,0,0,0,0,4q
+0,0,0,0,0,0,0,bq,c7,bq,0,4p,0,0,0,0
+0,cv,0,0,0,bq,bq,bq,c7,bq,bq,bq,bq,0,0,0
+0,0,0,bq,bq,0,0,0,c7,0,0,0,0,bq,0,0
+0,0,bq,0,0,0,0,0,c7,0,0,d5,0,0,bq,0
+0,0,cy,0,0,0,0,0,c7,d4,d0,d3,0,0,bq,0
+2p,cz,cx,cz,d6,cy,cz,a2,c7,a2,d1,d2,0,cz,cy,cz
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+NAME mermaid
+WAL bq,a3,cx,cy,d0,d1,d2,d3,d5,d6,d4
+ITM 5 12,14
+EXT 8,0 i 8,15
+PAL 8
+
+ROOM k
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,dt,dt,dt,a3,dt,dt,dt,dt,dt,dt,a3,dt,dt,dt,a3
+a3,0,dy,0,dt,0,0,0,0,0,0,dt,0,dy,0,a3
+a3,0,0,0,0,0,dw,0,dw,0,0,0,0,0,0,a3
+a3,0,0,0,du,0,dx,du,dx,0,du,0,0,dq,dp,a3
+a3,cc,cd,0,dv,0,0,dv,0,0,dv,0,ds,dn,do,a3
+a3,ca,cb,0,0,0,0,de,df,dg,0,0,0,dr,dr,a3
+a3,ca,cb,0,dm,dl,0,dd,0,dh,dk,di,0,dl,dy,a3
+a3,ca,cb,0,da,db,db,db,db,db,db,dj,db,dc,0,a3
+a3,d8,d8,d8,d8,d8,d8,d8,d8,d8,d9,d8,d8,d8,d8,a3
+a3,a3,a3,a3,a3,a3,8m,8m,a3,a3,8m,a3,a3,a3,a3,a3
+a3,a3,8m,8m,8m,8m,8m,a3,a3,a3,8m,a3,8m,8m,a3,a3
+a3,8m,8m,a3,8m,a3,a3,a3,a3,a3,8m,a3,a3,8m,a3,a3
+a3,a3,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,a3,a3
+a3,a3,a3,a3,a3,a3,a3,8m,8m,8m,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+NAME hall
+WAL a3,d8,dn,do,dp,dq,ds,e2,dz,e0,e1,e3,di
+ITM 6 12,6
+EXT 8,13 k 10,13
+EXT 7,10 l 7,10
+EXT 8,14 k 7,14
+EXT 1,8 a 5,6
+PAL 9
+
+ROOM l
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+a3,d8,d8,d8,d8,d8,d8,d8,d8,d8,0,d8,d8,d8,d8,a3
+a3,dz,dz,e0,e1,dz,0,0,dz,e2,0,dz,e0,e1,dz,a3
+a3,dz,0,0,0,0,0,dq,dp,e3,0,dz,0,0,e2,a3
+a3,0,0,dz,0,e0,e1,dn,do,dz,0,e0,e1,0,e3,a3
+a3,dz,0,0,0,0,0,0,4e,0,0,0,0,0,dz,a3
+a3,dq,dp,dz,e0,e1,dz,0,4f,0,dq,dp,dq,dp,dz,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+NAME underhall
+WAL a3,d8,dn,do,dp,dq,ds,e2,dz,e0,e1,e3
+ITM 7 6,10
+EXT 6,11 k 6,11
+PAL 9
+
+ROOM m
+0,0,0,0,0,cp,cp,a3,ea,a3,cp,0,0,0,0,0
+0,0,0,0,0,cp,0,8m,eb,a3,cp,0,0,0,5o,0
+0,0,0,0,0,cp,0,e4,e8,a3,cp,0,0,0,0,0
+0,0,0,0,0,cp,8m,e9,eh,a3,cp,0,e5,e5,e5,e5
+e5,e5,e5,e5,e5,cp,eg,ee,a3,a3,cp,0,cp,0,0,0
+0,0,0,5o,0,cp,e8,a3,a3,a3,cp,0,0,cp,cp,0
+0,0,0,0,0,cp,ef,a3,a3,a3,cp,cp,0,0,cp,cp
+0,5o,0,0,0,cp,cp,a3,a3,a3,cp,cp,cp,0,0,cp
+0,0,0,0,0,0,cp,a3,a3,8m,0,cp,cp,cp,0,0
+0,0,0,0,0,0,cp,a3,a3,a3,ad,cp,0,cp,cp,cp
+e5,e5,e5,e5,0,0,cp,a3,a3,a3,ad,cp,0,0,0,0
+0,0,0,0,0,0,cp,a3,a3,a3,ad,cp,0,0,0,0
+4o,4o,4o,4o,4o,4o,4o,8m,8m,8m,ad,4o,4o,4o,4o,4o
+4p,4p,4p,4p,4p,4p,4p,8m,e4,e6,e7,4p,4p,4p,4p,4p
+m1,0,0,0,0,0,0,e4,a3,a3,a3,0,0,ed,0,0
+ec,ec,ec,ec,ec,ec,ec,ec,ec,ec,ec,ec,ec,ec,ec,ec
+NAME tower_B
+WAL a3,e6,e9,e8,e7,e5,cp,ec,4o,ef,eh,ee,eg
+EXT 11,2 n 6,2
+EXT 15,8 n 10,8
+PAL b
+
+ROOM n
+0,0,0,0,0,cp,cp,a3,ea,a3,cp,0,0,0,0,0
+0,0,0,0,0,cp,0,8m,eb,a3,cp,0,0,0,5o,0
+0,0,0,0,0,cp,0,e4,e8,a3,cp,0,0,0,0,0
+0,0,0,0,0,cp,8m,e9,eh,a3,cp,0,e5,e5,e5,e5
+e5,e5,e5,e5,e5,cp,eg,ee,a3,a3,cp,0,cp,0,0,0
+0,0,0,5o,0,cp,e8,a3,a3,a3,cp,0,0,cp,cp,0
+0,0,0,0,0,cp,ef,a3,a3,a3,cp,cp,0,0,cp,cp
+0,5o,0,0,0,cp,cp,a3,a3,a3,cp,cp,cp,0,0,cp
+0,0,0,0,0,0,cp,a3,a3,8m,0,cp,cp,cp,0,0
+0,0,0,0,0,0,cp,a3,a3,a3,ad,cp,0,cp,cp,cp
+e5,e5,e5,e5,0,0,cp,a3,a3,a3,ad,cp,0,0,0,0
+0,0,0,0,0,0,cp,a3,a3,a3,ad,cp,0,0,0,0
+4o,4o,4o,4o,4o,4o,4o,8m,8m,8m,ad,4o,4o,4o,4o,4o
+4p,4p,4p,4p,4p,4p,4p,8m,e4,e6,e7,4p,4p,4p,4p,4p
+m1,0,0,0,0,0,0,e4,a3,a3,a3,0,0,ed,0,0
+ec,ec,ec,ec,ec,ec,ec,ec,ec,ec,ec,ec,ec,ec,ec,ec
+NAME tower
+WAL a3,e6,e9,e8,e7,e5,cp,ec,4o,ef,eh,ee,eg
+EXT 9,8 m 14,8
+EXT 6,3 m 11,3
+EXT 0,14 0 7,1
+EXT 8,1 o 8,7
+PAL a
+
+ROOM o
+a,0,0,e5,e5,e5,e5,e5,e5,e5,e5,e5,e5,e5,e5,0
+0,0,0,0,0,0,0,0,0,0,e5,e5,e5,e5,e5,e5
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e5,e5,e5,e5,0,0,0,0,ej,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,a3,a3,ei,0,0,0,0,0,0
+0,0,0,0,el,em,0,a3,a3,ei,0,0,el,em,0,0
+0,0,0,0,ek,0,0,8m,ea,ei,0,0,ek,0,0,0
+0,0,0,0,ek,0,0,8m,eb,ei,0,0,ek,0,0,0
+0,0,0,0,e6,e6,e6,e6,e6,e6,e6,e6,e6,0,0,0
+0,0,0,0,0,0,0,eh,eh,eh,0,0,0,0,0,0
+e5,e5,0,0,0,0,0,a3,a3,a3,0,0,0,e5,e5,0
+e5,e5,e5,e5,e5,0,0,a3,a3,a3,0,0,0,0,0,0
+0,0,0,0,0,0,0,a3,a3,a3,0,0,0,0,0,0
+0,0,0,0,0,0,0,a3,a3,a3,0,0,0,0,0,0
+0,0,0,0,0,0,0,a3,a3,a3,0,e5,e5,e5,e5,e5
+e5,e5,e5,e5,e5,e5,e5,a3,a3,a3,e5,e5,e5,e5,e5,e5
+NAME tower_top
+WAL a3,e6,e9,e8,e7,e5,cp,ec,4o,ef,eh,ee,eg,ek
+ITM 8 5,7
+EXT 0,0 0 7,1
+EXT 8,6 n 8,1
+PAL a
+
+ROOM p
+fy,fy,fy,fy,fy,fy,fy,fy,fy,fy,fy,fy,fy,fy,fy,fy
+fy,62,0,fy,fy,fy,fy,fy,fy,fy,fy,fy,fy,fy,fy,fy
+fy,0,fx,fw,0,0,0,8i,0,0,0,0,0,fy,fy,fy
+0,fs,ft,ff,0,en,eo,f3,f4,et,eu,0,0,5z,fy,fy
+0,fs,ft,fv,0,eq,fj,ep,es,fi,ev,0,0,0,0,fy
+0,fk,fl,fu,0,0,er,ex,ey,ew,fh,0,0,62,fy,fy
+0,fm,fn,fq,8i,0,f9,f0,ez,f8,ff,0,8i,0,0,60
+0,g0,g0,0,0,0,fa,f1,f2,f7,ff,0,0,8i,0,0
+g0,g0,g0,g0,g0,0,fb,f5,f5,f6,ff,0,g0,g0,g0,g0
+0,0,0,0,g0,0,fc,fd,fd,fe,fg,0,g0,60,0,0
+0,8i,0,0,g0,g0,g0,g0,g0,g0,g0,g0,g0,0,0,0
+0,0,62,0,0,0,0,0,0,0,0,0,0,0,fo,fr
+0,fz,fz,fz,fz,fz,fz,fz,fz,fz,fz,g2,0,0,fp,fq
+0,fz,fz,fz,fz,fz,fz,fz,fz,fz,fz,fz,fz,fz,fz,g1
+0,fz,fz,fz,fz,fz,fz,fz,fz,fz,fz,fz,g1,g1,g1,g1
+0,0,0,0,0,0,0,0,0,0,0,0,0,g1,g1,g1
+NAME fishtail_top
+WAL eo,en,ep,eq,er,es,et,eu,ev,ew,ex,ey,ez,f0,f1,f2,f5,f6,f7,f8,f9,fa,fb,fo,5z,fy,fs,ft,fk,fl,g2
+ITM 9 1,12
+EXT 0,8 0 8,8
+EXT 15,8 0 10,8
+EXT 14,12 r 14,4
+PAL 0
+
+ROOM q
+0,0,0,0,0,g3,eo,f3,f4,et,eu,0,0,0,0,0
+0,0,0,0,0,eq,fj,g4,g5,fi,g7,0,0,0,0,0
+0,gg,gh,0,0,0,er,ex,g9,g8,0,0,0,0,gl,0
+go,gi,gj,gp,gf,0,gc,gb,ga,gd,0,gf,0,gn,gk,0
+gm,gq,gr,gm,ge,ge,ge,ge,ge,ge,ge,ge,ge,gm,8n,ge
+8m,gq,gr,8n,0,gt,gw,hj,hj,h4,gs,0,0,0,8n,8m
+8m,hn,0,8n,8m,8m,gx,0,hi,h5,h6,8m,8m,8m,8n,8m
+8m,8m,8m,8n,8m,gy,0,0,0,0,h7,8m,8q,0,8n,8m
+hk,8m,8m,8n,8m,gz,0,hi,0,0,h8,8m,e2,ff,8n,8m
+8m,8q,0,8n,8m,h0,0,0,0,hi,h9,8m,e3,dz,8n,8m
+8m,0,gu,8n,8m,8m,h1,hf,hh,hg,ha,8m,8m,8m,8n,8m
+8m,8n,c7,8n,8m,8m,h2,he,0,hb,8m,8q,gv,gv,8n,8m
+8m,8n,8m,8m,hk,8m,0,h3,hd,hc,8m,gv,gv,gv,8n,8m
+8m,8n,8m,8m,a3,8m,hl,hl,hl,hl,8m,gv,gv,gv,8n,8m
+8m,8n,gt,8m,gs,0,0,0,0,0,8m,gv,gv,gv,8n,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+NAME fishtail_full
+WAL eo,en,ep,eq,er,es,et,eu,ev,ew,ex,ey,ez,f0,f1,f2,f5,f6,f7,f8,f9,fa,fb,fo,5z,fy,fs,ft,fk,fl,g2,g3,ge,gm,8m,dz,e2,e3,gv,a3,hl,c8
+ITM c 8,14
+ITM b 7,14
+ITM d 9,14
+ITM e 5,14
+EXT 2,14 q 4,14
+EXT 4,14 q 2,14
+EXT 1,3 p 1,6
+EXT 2,3 p 2,6
+EXT 14,3 p 15,12
+EXT 5,5 q 10,5
+EXT 10,5 q 5,5
+EXT 6,5 q 10,5
+EXT 9,5 s 5,5
+PAL 0
+
+ROOM r
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,gl,0
+0,0,0,0,0,0,0,0,0,0,0,gf,0,gn,gk,0
+ge,ge,ge,ge,ge,ge,ge,ge,ge,ge,ge,ge,ge,gm,8n,ge
+8m,a3,a3,a3,a3,a3,a3,a3,8m,a3,gs,0,0,0,8n,8m
+8m,a3,a3,a3,a3,a3,a3,a3,8m,8m,8m,8m,8m,8m,8n,8m
+8m,8m,8m,a3,8m,a3,a3,a3,a3,a3,a3,8m,8q,0,8n,8m
+hk,8m,8m,a3,8m,a3,a3,a3,a3,a3,a3,8m,e2,ff,8n,8m
+8m,a3,a3,a3,8m,a3,a3,a3,a3,a3,a3,8m,e3,dz,8n,8m
+8m,a3,a3,a3,8m,a3,a3,a3,a3,a3,a3,8m,8m,8m,8n,8m
+8m,a3,a3,a3,8m,8m,a3,a3,a3,a3,8m,8q,gv,gv,8n,8m
+8m,a3,a3,8m,hk,8m,a3,a3,a3,a3,8m,gv,gv,gv,8n,8m
+8m,a3,8m,8m,a3,8m,a3,a3,a3,a3,8m,gv,gv,gv,8n,8m
+8m,a3,a3,a3,a3,a3,a3,a3,a3,a3,8m,gv,gv,gv,8n,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+NAME fishtail1
+WAL eo,en,ep,eq,er,es,et,eu,ev,ew,ex,ey,ez,f0,f1,f2,f5,f6,f7,f8,f9,fa,fb,fo,5z,fy,fs,ft,fk,fl,g2,g3,ge,gm,8m,dz,e2,e3,gv,hl
+EXT 14,3 p 15,12
+EXT 10,5 s 5,5
+PAL 0
+
+ROOM s
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,gg,gh,0,0,0,0,0,0,0,0,0,0,0,gl,0
+go,gi,gj,gp,gf,0,0,0,0,0,0,gf,0,gn,gk,0
+gm,gq,gr,gm,ge,ge,ge,ge,ge,ge,ge,ge,ge,gm,8n,ge
+8m,gq,gr,8n,0,gt,a3,8m,8m,a3,gs,0,0,0,8n,8m
+8m,0,0,8n,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8n,8m
+8m,8m,8m,8n,8m,a3,a3,a3,a3,a3,a3,8m,8q,0,8n,8m
+hk,8m,8m,8n,8m,a3,a3,a3,a3,a3,a3,8m,e2,ff,8n,8m
+8m,8q,0,8n,8m,a3,a3,a3,a3,a3,a3,8m,e3,dz,8n,8m
+8m,0,gu,8n,8m,a3,a3,a3,a3,a3,a3,8m,8m,8m,8n,8m
+8m,8n,c7,8n,8m,8m,a3,a3,a3,a3,8m,8q,gv,gv,8n,8m
+8m,8n,8m,8m,hk,8m,a3,a3,a3,a3,8m,gv,gv,gv,8n,8m
+8m,8n,8m,8m,a3,8m,a3,a3,a3,a3,8m,gv,gv,gv,8n,8m
+8m,8n,gt,8m,a3,a3,a3,a3,a3,a3,8m,gv,gv,gv,8n,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+NAME fishtail2
+WAL eo,en,ep,eq,er,es,et,eu,ev,ew,ex,ey,ez,f0,f1,f2,f5,f6,f7,f8,f9,fa,fb,fo,5z,fy,fs,ft,fk,fl,g2,g3,ge,gm,dz,e2,e3,gv,hl,8m
+EXT 1,3 p 1,6
+EXT 2,3 p 2,6
+EXT 14,3 p 15,12
+EXT 2,14 t 1,7
+EXT 5,5 s 10,5
+EXT 10,5 s 5,5
+EXT 6,5 s 10,5
+EXT 9,5 s 5,5
+PAL 0
+
+ROOM t
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8m,8m,hk,8m,8m,8m,8m,8m,8m,8m,8m,8m,hk,8m,8m
+8m,8m,8m,8m,8m,8m,8m,8m,hk,8m,8m,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8m,8m,du,0,0,0,0,0,0,0,0,du,8m,8m,8m
+8m,8m,8m,0,0,0,0,0,0,0,du,0,0,8m,8m,8m
+8m,8m,8m,co,co,co,co,0,0,0,0,0,0,8m,8m,8m
+a,0,0,co,0,0,co,0,0,du,du,du,0,8m,8m,8m
+8m,8m,8m,0,0,0,co,0,du,0,0,0,du,8m,8m,8m
+8m,8m,8m,0,0,0,co,0,du,0,0,0,du,8m,8m,8m
+8m,8m,8m,0,0,0,co,0,du,0,co,0,du,8m,hk,8m
+8m,8m,8m,0,0,0,co,0,0,0,co,0,0,8m,8m,8m
+8m,8m,8m,du,0,0,co,co,co,co,co,0,du,8m,8m,8m
+8m,8m,8m,0,0,0,0,0,0,0,0,0,0,8m,8m,8m
+8m,8m,8m,8m,hk,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,hk,8m,8m,8m
+NAME path of darkness
+WAL 8m
+ITM a 3,5
+ITM a 4,5
+ITM a 5,5
+ITM a 6,5
+ITM a 7,5
+ITM a 7,6
+ITM a 7,7
+ITM a 7,8
+ITM a 7,9
+ITM a 7,10
+ITM a 7,11
+ITM a 8,11
+ITM a 9,11
+ITM a 9,10
+ITM a 9,9
+ITM a 9,8
+ITM a 10,8
+ITM a 11,8
+ITM a 11,9
+ITM a 11,10
+ITM a 11,11
+ITM a 11,12
+ITM a 12,11
+ITM a 3,8
+ITM a 4,7
+ITM a 4,8
+ITM a 5,7
+ITM a 5,8
+ITM a 3,9
+ITM a 3,10
+ITM a 3,11
+ITM a 4,11
+ITM a 5,11
+ITM a 5,10
+ITM a 5,9
+ITM a 4,10
+ITM a 4,12
+ITM a 5,12
+ITM a 8,7
+ITM a 8,6
+ITM a 8,5
+ITM a 8,4
+ITM a 7,4
+ITM a 6,4
+ITM a 5,4
+ITM a 4,4
+ITM a 9,4
+ITM a 9,5
+ITM a 9,6
+ITM a 10,6
+ITM a 11,6
+ITM a 11,5
+ITM a 11,4
+ITM a 10,4
+ITM a 12,5
+ITM a 12,6
+ITM a 12,7
+ITM a 3,13
+ITM a 4,13
+ITM a 5,13
+ITM a 6,13
+ITM a 7,13
+ITM a 8,13
+ITM a 9,13
+ITM a 10,13
+ITM a 11,13
+ITM a 12,13
+EXT 3,4 u 7,0
+EXT 12,4 u 7,0
+EXT 10,5 u 7,0
+EXT 9,7 u 7,0
+EXT 10,7 u 7,0
+EXT 11,7 u 7,0
+EXT 8,8 u 7,0
+EXT 8,9 u 7,0
+EXT 8,10 u 7,0
+EXT 12,8 u 7,0
+EXT 12,9 u 7,0
+EXT 12,10 u 7,0
+EXT 12,12 u 7,0
+EXT 3,12 u 7,0
+EXT 10,9 q 6,14
+EXT 0,7 s 1,14
+PAL d
+
+ROOM u
+8m,8m,8m,8m,8m,8m,8m,db,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8m,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8n,0,gu,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8n,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8n,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8n,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8n,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8n,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8n,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8n,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8n,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8n,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,0,8m,8m,8n,8m,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8q,0,0,0,8n,8r,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,0,hm,0,0,8n,0,8m,8m,8m,8m
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+NAME pit
+WAL 8m
+EXT 7,1 u 7,3
+EXT 7,4 u 7,7
+EXT 7,9 u 7,14
+EXT 12,2 s 2,10
+PAL 0
+
+ROOM v
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,it,iu,it,iu,it,iu,it,iu,0,0,0,0
+0,0,0,0,a3,8q,8r,8q,8r,8q,8r,a3,0,0,0,0
+0,0,0,0,iv,iy,iy,iy,iy,iy,iy,iv,0,0,0,0
+hq,hq,ix,0,iw,a2,a2,a2,a2,a2,a2,iw,ix,hu,ht,hr
+a3,a3,a3,a3,a3,ir,0,0,0,0,0,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,is,ir,0,0,0,0,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,0,is,ir,0,0,0,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,0,0,is,ir,0,0,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,0,0,0,is,ir,0,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,0,0,0,0,iq,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,0,0,0,iq,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,0,0,iq,a3,a3,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,0,iq,a3,8q,8r,a3,a3,a3,a3,a3,a3
+NAME lake_top
+WAL a3,it,iu
+EXT 5,15 w 5,0
+EXT 0,0 1 9,8
+EXT 0,5 1 9,8
+EXT 15,5 1 9,8
+PAL e
+
+ROOM w
+a3,a3,a3,a3,a3,ad,0,0,8m,8m,0,a3,a3,a3,a3,a3
+a3,a3,a3,j9,j8,ad,0,0,8m,8m,0,a3,a3,a3,a3,a3
+a3,a3,j9,0,0,ad,0,0,8m,8m,0,ja,jb,jc,a3,a3
+a3,a3,0,jf,jg,ad,0,0,8m,8m,0,j1,0,jd,je,a3
+j9,j8,0,0,0,iz,ir,0,8m,8m,0,j1,jg,0,0,a3
+0,0,0,0,0,j1,is,ir,8m,8m,0,j1,0,0,0,jb
+0,0,0,0,0,j1,0,is,j0,8m,0,j1,0,jf,0,0
+0,0,0,0,0,j1,0,0,is,j0,0,j1,0,0,0,0
+0,0,jg,0,0,j1,it,iu,0,is,ir,j1,0,0,0,0
+0,0,0,0,0,j1,8m,8m,0,0,j2,j1,0,0,0,0
+jf,0,0,0,0,j1,8m,8m,0,j2,j4,j1,0,0,0,0
+0,0,0,0,0,j1,8m,8m,j2,j4,0,j1,0,0,jg,0
+0,0,0,0,0,j1,8m,j3,j4,0,0,j1,0,0,0,0
+0,0,c8,0,0,j1,j3,j5,0,0,e0,e1,0,0,0,0
+0,0,iz,j6,j6,j6,j6,j6,j6,j6,j6,j6,j6,j7,0,0
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+NAME lake_bottom
+WAL a3,iz,j6,j7,c8
+ITM h 13,13
+ITM i 0,15
+ITM i 1,15
+ITM i 2,15
+ITM i 3,15
+ITM i 4,15
+ITM i 5,15
+ITM i 6,15
+ITM i 7,15
+ITM i 8,15
+ITM i 9,15
+ITM i 10,15
+ITM i 11,15
+ITM i 12,15
+ITM i 13,15
+ITM i 14,15
+ITM i 15,15
+EXT 5,0 v 5,15
+PAL f
+
+ROOM x
+a9,a3,a3,a3,k5,jh,jh,jh,k5,a3,ju,ju,ju,ju,a3,a3
+jj,jj,jj,jz,js,jh,jh,jh,js,a9,ju,ju,ju,ju,a3,a9
+k4,k4,k4,k0,js,jh,jh,jh,js,a3,jh,jh,jh,jh,a3,a3
+k4,k4,k4,k1,js,jh,jh,k3,js,a3,jh,jh,jh,jh,a3,iz
+k4,k4,k4,j1,0,jy,jy,jy,0,jt,jh,jh,jh,jh,jz,jr
+k4,k4,k4,js,ju,ju,ju,ju,ju,js,jh,jh,jh,jh,k0,jr
+k4,k3,k4,js,ju,jv,ju,jv,ju,js,jh,k3,jh,jh,k1,jr
+jy,jy,jy,jt,jw,jw,jw,jw,jw,9k,jy,jy,jy,jy,0,0
+jj,jj,k2,js,jw,jw,jw,jw,jw,jr,jq,jj,jj,jj,jj,jj
+jh,jh,jz,js,jw,jw,jw,jw,jw,jr,jq,jl,jl,jl,jl,jl
+jh,jh,k0,js,jw,jw,jw,jw,jw,jr,jq,jk,jn,jo,jp,jk
+jh,jh,k1,js,jw,jw,jw,jw,jw,jr,jq,jl,jl,jl,jl,jl
+jy,jy,0,jt,jw,jw,jx,jw,jw,jr,jq,jk,jk,jk,jk,jk
+0,0,0,0,jy,jy,k6,jy,jy,0,0,jk,jk,jm,jk,jk
+ji,ji,ji,ji,ji,ji,ji,ji,ji,ji,ji,ji,ji,ac,ji,ji
+ag,ah,ag,ah,ag,ah,ag,ah,ag,ah,ag,ah,ag,ad,ag,ah
+NAME city
+WAL ag,ah,jj,jk,jl,8m,k4,k2,k1,k0,jz,jw,ju,jh,a9,a3
+EXT 0,7 0 6,6
+EXT 0,13 0 6,6
+EXT 15,7 0 8,6
+EXT 15,14 0 8,6
+EXT 13,15 0 7,7
+EXT 15,3 0 7,6
+EXT 4,0 x 8,0
+EXT 8,0 x 4,0
+EXT 6,12 y 7,15
+EXT 13,13 z 11,15
+EXT 7,3 x 11,6
+EXT 11,6 x 7,3
+EXT 1,6 10 2,13
+PAL g
+
+ROOM y
+a3,jw,jw,0,0,0,0,0,0,0,0,0,0,jw,jw,a3
+a3,jw,jw,0,0,0,0,0,0,0,0,0,0,jw,jw,a3
+a3,jw,jw,0,0,0,0,0,0,0,0,0,0,jw,jw,a3
+a3,jw,jw,0,0,0,0,0,0,0,0,0,0,jw,jw,a3
+a3,jw,jw,0,0,0,0,0,0,0,0,0,0,jw,jw,a3
+a3,jw,jw,0,0,0,0,0,0,0,0,0,0,jw,jw,a3
+a3,jw,jw,0,0,0,0,0,0,0,0,0,0,jw,jw,a3
+a3,50,50,50,0,0,a5,a5,a5,a5,0,0,50,50,50,a3
+a3,0,0,0,0,0,iz,j6,j6,j7,0,0,0,0,0,a3
+a3,0,0,0,0,0,j1,0,0,jt,0,0,0,0,0,a3
+a3,0,0,0,0,0,j1,0,0,jt,0,0,0,0,0,a3
+a3,0,0,0,0,0,8m,jr,jq,8m,0,0,0,0,0,a3
+a3,0,0,0,0,0,a5,jr,jq,a5,0,0,0,0,0,a3
+a3,0,0,0,0,0,a5,jr,jq,a5,0,0,0,0,0,a3
+a3,0,0,0,0,0,a5,jr,jq,a5,0,0,0,0,0,a3
+a3,a3,a3,a3,a3,a3,a3,0,0,a3,a3,a3,a3,a3,a3,a3
+NAME hotel
+WAL ka,a5,a3
+ITM k 7,2
+ITM k 7,3
+ITM k 7,4
+ITM k 7,5
+ITM k 7,6
+ITM k 8,6
+ITM k 8,5
+ITM k 8,4
+ITM k 8,3
+ITM k 8,2
+ITM k 9,2
+ITM k 10,2
+ITM k 11,3
+ITM k 11,4
+ITM k 11,6
+ITM k 9,7
+ITM k 10,7
+ITM k 11,7
+ITM k 10,8
+ITM k 11,8
+ITM k 10,9
+ITM k 11,9
+ITM k 10,10
+ITM k 11,10
+ITM k 10,11
+ITM k 11,11
+ITM k 9,12
+ITM k 11,12
+ITM k 6,2
+ITM k 5,2
+ITM k 4,3
+ITM k 4,4
+ITM k 4,5
+ITM k 4,6
+ITM k 4,7
+ITM k 5,7
+ITM k 4,8
+ITM k 5,8
+ITM k 6,7
+ITM k 4,11
+ITM k 4,10
+ITM k 5,10
+ITM k 4,9
+ITM k 5,9
+ITM k 4,12
+ITM k 6,12
+ITM k 11,5
+ITM j 5,1
+ITM j 6,1
+ITM j 7,1
+ITM j 8,1
+ITM j 9,1
+ITM j 10,1
+ITM j 11,2
+ITM j 4,2
+ITM k 10,3
+ITM k 5,3
+ITM k 6,3
+ITM k 9,3
+ITM l 4,13
+ITM l 6,13
+ITM l 11,13
+ITM l 9,13
+ITM l 5,12
+ITM l 10,12
+ITM l 5,4
+ITM l 6,4
+ITM l 9,4
+ITM l 10,4
+ITM j 5,6
+ITM j 6,6
+ITM j 9,6
+ITM j 10,6
+ITM k 7,7
+ITM k 8,7
+ITM k 5,11
+ITM 11 8,9
+EXT 7,15 x 6,13
+EXT 8,15 x 6,13
+PAL h
+
+ROOM z
+l5,l6,0,0,0,0,0,a3,0,a3,0,0,0,0,l9,la
+l5,l6,l1,kw,kw,kw,kw,a3,0,a3,kw,kw,kw,l2,l9,la
+l5,l6,kx,kt,kt,kt,kt,a3,kt,a3,kt,kt,kt,ky,l9,la
+l5,l6,kx,a3,kd,kh,kd,kg,kd,kp,kd,km,a3,ky,l9,la
+l5,l6,kx,a3,ki,kd,ko,kd,kl,kd,kg,kd,a3,ky,l9,la
+l5,l6,kx,a3,kd,kg,kd,kh,kd,ki,kd,kr,a3,ky,l9,la
+l5,l6,kx,a3,kp,kd,km,kd,kf,kd,km,kd,a3,ky,l9,la
+l5,l6,kx,a3,kd,kq,kd,kj,kd,ki,kd,kf,a3,ky,l9,la
+l5,l6,kx,a3,ki,kd,kf,kd,kf,kd,kk,kd,a3,ky,iz,j7
+l5,l6,kx,a3,kd,kn,kd,ki,kd,ki,kd,kl,a3,ky,k7,k8
+iz,j7,kx,a3,kj,kd,kg,kd,km,kd,kk,kd,a3,ky,l7,l8
+k7,k8,kx,a3,kt,kt,kt,ku,kt,kt,kt,kt,a3,ky,0,0
+l4,l3,l0,kv,kv,kv,kv,0,kv,kv,kv,kv,kv,kz,0,0
+0,0,ky,0,0,0,0,0,0,0,0,0,0,0,0,0
+kv,kv,kz,0,0,0,0,0,0,0,0,0,0,0,0,0
+j6,j6,j6,j6,j6,j6,j6,j6,j6,j6,j7,0,iz,j6,j6,j6
+NAME factory
+WAL iz,j7,k7,k8,a3,l6,l5,l7,l8,l3,l4,l9,j6
+ITM n 8,0
+EXT 8,10 z 5,10
+EXT 4,10 z 4,7
+EXT 4,8 z 7,8
+EXT 6,8 z 6,3
+EXT 5,3 z 10,3
+EXT 10,4 z 10,5
+EXT 10,6 z 7,6
+EXT 8,6 z 8,1
+EXT 6,10 z 1,13
+EXT 10,10 z 1,13
+EXT 5,9 z 1,13
+EXT 7,9 z 10,9
+EXT 9,9 z 1,13
+EXT 11,9 z 6,9
+EXT 10,8 z 1,13
+EXT 8,8 z 8,3
+EXT 5,7 z 1,13
+EXT 7,7 z 7,4
+EXT 9,7 z 1,13
+EXT 11,7 z 1,13
+EXT 11,5 z 11,10
+EXT 9,5 z 1,13
+EXT 7,5 z 1,13
+EXT 5,5 z 5,6
+EXT 4,4 z 7,4
+EXT 4,6 z 4,5
+EXT 6,4 z 1,13
+EXT 8,4 z 1,13
+EXT 7,3 z 7,4
+EXT 9,3 z 1,13
+EXT 11,3 z 8,3
+EXT 6,6 z 1,13
+EXT 4,2 z 1,13
+EXT 6,2 z 1,13
+EXT 8,2 z 1,13
+EXT 10,2 z 1,13
+EXT 12,4 z 1,13
+EXT 12,6 z 1,13
+EXT 12,8 z 1,13
+EXT 12,10 z 1,13
+EXT 5,2 z 1,13
+EXT 7,2 z 1,13
+EXT 9,2 z 1,13
+EXT 11,2 z 1,13
+EXT 12,2 z 1,13
+EXT 12,3 z 1,13
+EXT 12,5 z 1,13
+EXT 12,7 z 1,13
+EXT 12,9 z 1,13
+EXT 12,11 z 1,13
+EXT 11,11 z 1,13
+EXT 10,11 z 1,13
+EXT 8,11 z 1,13
+EXT 9,11 z 1,13
+EXT 6,11 z 1,13
+EXT 5,11 z 1,13
+EXT 4,11 z 1,13
+EXT 3,11 z 1,13
+EXT 3,10 z 1,13
+EXT 3,9 z 1,13
+EXT 3,8 z 1,13
+EXT 3,7 z 1,13
+EXT 3,6 z 1,13
+EXT 3,5 z 1,13
+EXT 3,4 z 1,13
+EXT 3,3 z 1,13
+EXT 3,2 z 1,13
+EXT 7,1 z 1,13
+EXT 7,0 z 1,13
+EXT 9,0 z 1,13
+EXT 9,1 z 1,13
+EXT 11,15 x 13,14
+PAL i
+
+ROOM 1a
+ph,ph,pf,pf,ph,pf,ph,g0,ph,pf,pf,pf,pg,ph,pg,pg
+pg,pf,pg,pg,ph,ph,pf,g0,pi,ph,pd,ph,ph,pg,pg,pg
+ph,pg,pf,ph,pg,pe,pi,g0,0,pi,pj,pe,ph,pd,ph,pg
+ph,pg,ph,pj,pi,0,0,0,0,0,0,0,pj,pe,pd,ph
+pg,ph,pi,0,0,0,pu,pw,pq,pw,0,0,0,0,pi,pd
+ph,pe,0,62,0,0,pt,pv,pn,pv,0,0,60,0,0,ph
+pi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pe
+0,0,0,0,0,0,0,0,pm,0,0,po,pw,ps,pw,0
+g0,0,0,po,pw,pq,pw,pz,5z,px,0,pr,pv,pp,pv,0
+0,g0,0,pn,pv,pp,pv,0,py,0,0,0,0,0,0,g0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ph,0,0,0,60,0,0,ps,pw,pu,pw,0,0,0,0,0
+pg,ph,0,0,0,0,0,pr,pv,pt,pv,0,0,0,pk,pf
+pg,ph,pl,pk,ph,pl,0,0,0,0,0,0,pk,pd,pd,ph
+pf,ph,pd,pd,pf,pd,0,0,g0,0,0,ph,pd,pg,ph,pg
+ph,pg,ph,ph,pd,ph,0,0,g0,pk,pd,pg,pg,pg,ph,pg
+NAME groveBad
+WAL pd,pf,pg,ph,pk,pl,pu,pt,ps,pr,pq,pp,po,pn,5z
+EXT 0,8 0 0,4
+EXT 7,0 0 1,3
+EXT 15,9 0 2,4
+EXT 8,15 0 1,5
+PAL m
+
+ROOM 1b
+ph,ph,pf,pf,ph,pf,ph,g0,ph,pf,pf,pf,pg,ph,pg,pg
+pg,pf,pg,pg,ph,ph,pf,g0,pi,ph,pd,ph,ph,pg,pg,pg
+ph,pg,pf,ph,pg,pe,pi,g0,0,pi,pj,pe,ph,pd,ph,pg
+ph,pg,ph,pj,pi,0,0,0,0,0,0,0,pj,pe,pd,ph
+pg,ph,pi,0,0,0,pu,pw,pq,pw,0,0,0,0,pi,pd
+ph,pe,0,62,0,0,pt,pv,pn,pv,0,0,60,0,0,ph
+pi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pe
+0,0,0,0,0,0,0,0,pm,0,0,po,pw,ps,pw,0
+g0,0,0,po,pw,pq,pw,pz,5z,px,0,pr,pv,pp,pv,0
+0,g0,0,pn,pv,pp,pv,0,py,0,0,0,0,0,0,g0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ph,0,0,0,60,0,0,ps,pw,pu,pw,0,0,0,0,0
+pg,ph,0,0,0,0,0,pr,pv,pt,pv,0,0,0,pk,pf
+pg,ph,pl,pk,ph,pl,0,0,0,0,0,0,pk,pd,pd,ph
+pf,ph,pd,pd,pf,pd,0,0,g0,0,0,ph,pd,pg,ph,pg
+ph,pg,ph,ph,pd,ph,0,0,g0,pk,pd,pg,pg,pg,ph,pg
+NAME Grove1
+WAL pd,pf,pg,ph,pk,pl,pu,pt,ps,pr,pq,pp,po,pn,5z
+ITM 10 7,7
+EXT 0,8 0 0,4
+EXT 7,0 0 1,3
+EXT 15,9 0 2,4
+EXT 8,15 0 1,5
+EXT 4,9 1a 4,9
+EXT 8,12 1c 8,12
+EXT 7,5 1a 7,5
+EXT 12,8 1a 12,8
+PAL m
+
+ROOM 1c
+ph,ph,pf,pf,ph,pf,ph,g0,ph,pf,pf,pf,pg,ph,pg,pg
+pg,pf,pg,pg,ph,ph,pf,g0,pi,ph,pd,ph,ph,pg,pg,pg
+ph,pg,pf,ph,pg,pe,pi,g0,0,pi,pj,pe,ph,pd,ph,pg
+ph,pg,ph,pj,pi,0,0,0,0,0,0,0,pj,pe,pd,ph
+pg,ph,pi,0,0,0,pu,pw,pq,pw,0,0,0,0,pi,pd
+ph,pe,0,62,0,0,pt,pv,pn,pv,0,0,60,0,0,ph
+pi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pe
+0,0,0,0,0,0,0,0,pm,0,0,po,pw,ps,pw,0
+g0,0,0,po,pw,pq,pw,pz,5z,px,0,pr,pv,pp,pv,0
+0,g0,0,pn,pv,pp,pv,0,py,0,0,0,0,0,0,g0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ph,0,0,0,60,0,0,ps,pw,pu,pw,0,0,0,0,0
+pg,ph,0,0,0,0,0,pr,pv,pt,pv,0,0,0,pk,pf
+pg,ph,pl,pk,ph,pl,0,0,0,0,0,0,pk,pd,pd,ph
+pf,ph,pd,pd,pf,pd,0,0,g0,0,0,ph,pd,pg,ph,pg
+ph,pg,ph,ph,pd,ph,0,0,g0,pk,pd,pg,pg,pg,ph,pg
+NAME grove2
+WAL pd,pf,pg,ph,pk,pl,pu,pt,ps,pr,pq,pp,po,pn,5z
+EXT 0,8 0 0,4
+EXT 7,0 0 1,3
+EXT 15,9 0 2,4
+EXT 8,15 0 1,5
+EXT 4,9 1a 4,9
+EXT 8,12 1a 8,12
+EXT 7,5 1a 7,5
+EXT 12,8 1d 12,8
+PAL m
+
+ROOM 1d
+ph,ph,pf,pf,ph,pf,ph,g0,ph,pf,pf,pf,pg,ph,pg,pg
+pg,pf,pg,pg,ph,ph,pf,g0,pi,ph,pd,ph,ph,pg,pg,pg
+ph,pg,pf,ph,pg,pe,pi,g0,0,pi,pj,pe,ph,pd,ph,pg
+ph,pg,ph,pj,pi,0,0,0,0,0,0,0,pj,pe,pd,ph
+pg,ph,pi,0,0,0,pu,pw,pq,pw,0,0,0,0,pi,pd
+ph,pe,0,62,0,0,pt,pv,pn,pv,0,0,60,0,0,ph
+pi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pe
+0,0,0,0,0,0,0,0,pm,0,0,po,pw,ps,pw,0
+g0,0,0,po,pw,pq,pw,pz,5z,px,0,pr,pv,pp,pv,0
+0,g0,0,pn,pv,pp,pv,0,py,0,0,0,0,0,0,g0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ph,0,0,0,60,0,0,ps,pw,pu,pw,0,0,0,0,0
+pg,ph,0,0,0,0,0,pr,pv,pt,pv,0,0,0,pk,pf
+pg,ph,pl,pk,ph,pl,0,0,0,0,0,0,pk,pd,pd,ph
+pf,ph,pd,pd,pf,pd,0,0,g0,0,0,ph,pd,pg,ph,pg
+ph,pg,ph,ph,pd,ph,0,0,g0,pk,pd,pg,pg,pg,ph,pg
+NAME grove3
+WAL pd,pf,pg,ph,pk,pl,pu,pt,ps,pr,pq,pp,po,pn,5z
+EXT 0,8 0 0,4
+EXT 7,0 0 1,3
+EXT 15,9 0 2,4
+EXT 8,15 0 1,5
+EXT 4,9 1e 4,9
+EXT 8,12 1a 8,12
+EXT 7,5 1a 7,5
+EXT 12,8 1a 12,8
+PAL m
+
+ROOM 1e
+ph,ph,pf,pf,ph,pf,ph,g0,ph,pf,pf,pf,pg,ph,pg,pg
+pg,pf,pg,pg,ph,ph,pf,g0,pi,ph,pd,ph,ph,pg,pg,pg
+ph,pg,pf,ph,pg,pe,pi,g0,0,pi,pj,pe,ph,pd,ph,pg
+ph,pg,ph,pj,pi,0,0,0,0,0,0,0,pj,pe,pd,ph
+pg,ph,pi,0,0,0,pu,pw,pq,pw,0,0,0,0,pi,pd
+ph,pe,0,62,0,0,pt,pv,pn,pv,0,0,60,0,0,ph
+pi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pe
+0,0,0,0,0,0,0,0,pm,0,0,po,pw,ps,pw,0
+g0,0,0,po,pw,pq,pw,pz,5z,px,0,pr,pv,pp,pv,0
+0,g0,0,pn,pv,pp,pv,0,py,0,0,0,0,0,0,g0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ph,0,0,0,60,0,0,ps,pw,pu,pw,0,0,0,0,0
+pg,ph,0,0,0,0,0,pr,pv,pt,pv,0,0,0,pk,pf
+pg,ph,pl,pk,ph,pl,0,0,0,0,0,0,pk,pd,pd,ph
+pf,ph,pd,pd,pf,pd,0,0,g0,0,0,ph,pd,pg,ph,pg
+ph,pg,ph,ph,pd,ph,0,0,g0,pk,pd,pg,pg,pg,ph,pg
+NAME grove4
+WAL pd,pf,pg,ph,pk,pl,pu,pt,ps,pr,pq,pp,po,pn,5z
+EXT 0,8 0 0,4
+EXT 7,0 0 1,3
+EXT 15,9 0 2,4
+EXT 8,15 0 1,5
+EXT 4,9 1a 4,9
+EXT 8,12 1a 8,12
+EXT 7,5 1f 12,13
+EXT 12,8 1a 12,8
+PAL m
+
+ROOM 1f
+pd,ph,pf,ph,pf,ph,ph,ph,pf,pf,pf,pf,pf,ph,ph,ph
+pf,pf,pe,pi,pj,pi,pf,pf,pg,pg,pf,ph,ph,ph,pd,ph
+pf,pi,0,0,0,0,pj,pi,pd,ph,ph,ph,pf,ph,ph,pf
+pf,0,62,q2,q3,pw,0,62,pk,pd,pj,pi,pj,pi,ph,ph
+pf,0,0,q0,q1,pv,60,0,pd,ph,0,0,0,0,pf,ph
+pf,pl,0,0,q4,0,0,pk,ph,pl,0,pk,pd,0,pk,pd
+pf,ph,0,60,0,0,pk,ph,pf,pd,0,ph,pf,0,pd,ph
+ph,pf,pl,0,0,pk,ph,ph,pj,pi,0,ph,pe,0,pd,ph
+ph,pd,pg,pl,0,pf,pf,ph,0,0,pk,pd,0,pk,pd,ph
+ph,ph,pg,pd,0,pi,pj,pe,0,ph,pf,pf,0,pd,ph,pf
+ph,pd,ph,pf,0,0,0,0,pk,pd,pd,pi,0,pe,pe,pf
+ph,ph,ph,ph,pg,pl,0,pk,pd,pd,pl,0,0,0,0,pf
+pd,ph,pd,pf,pg,ph,ph,ph,pd,pd,pl,ps,pw,pu,pw,pk
+ph,pg,pd,ph,ph,pg,ph,pg,ph,ph,pl,pt,pv,pp,pv,pk
+pd,pg,ph,pg,ph,pf,pf,pf,pd,ph,pd,0,0,0,pd,pd
+ph,ph,pd,pd,pg,pd,ph,ph,ph,pd,pd,ph,pd,pd,pd,pd
+NAME cottage
+WAL pd,pf,pg,ph,pn,po,pp,pq,pr,ps,pt,pu,q2,q3,q0
+EXT 12,13 1e 7,5
+EXT 4,4 1h 8,14
+PAL m
+
+ROOM 1g
+0,s4,0,0,0,0,9i,0,9i,0,0,0,0,0,s4,0
+0,sa,0,0,0,0,9i,0,9i,0,0,0,0,0,s4,0
+se,sg,sf,0,0,0,9i,0,9i,0,0,0,0,0,s4,0
+sb,sh,sd,0,0,0,rm,r2,r6,0,0,0,0,0,sa,0
+0,s4,0,s6,s7,rf,rg,r3,r4,r7,s7,s6,0,se,sg,sf
+0,s4,0,s5,s3,qp,q9,0,q8,qe,s1,s5,a3,sb,sc,sd
+0,sa,0,s5,rh,qo,q6,q7,q5,qd,r8,s5,a3,0,0,0
+se,sg,sf,s5,ri,qm,0,qa,r5,qi,r9,s2,a3,0,0,0
+sb,sc,sd,s5,rj,qn,ql,qb,qg,qj,ra,s8,a3,0,0,0
+0,0,0,s5,rk,qj,qk,qc,qf,qh,rb,s9,a3,sj,sj,sj
+sj,sj,sj,s8,rl,qh,qr,0,qq,a3,rc,s9,a3,si,si,si
+si,si,si,rn,qv,qu,qx,0,qw,qs,qt,ro,a3,a3,a3,a3
+a3,a3,a3,s0,0,0,r0,qz,qy,0,rd,rs,a3,a3,a3,a3
+a3,a3,a3,rz,ry,0,0,r1,0,0,rt,ru,a3,a3,a3,a3
+a3,a3,a3,a3,a3,rx,rw,rp,rq,rr,a3,a3,a3,a3,a3,a3
+a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3
+NAME sorceress
+WAL a3,r4,r6,q8,q9,rg,rm,9i
+EXT 7,0 1h 7,8
+PAL n
+
+ROOM 1h
+8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m,8m
+8m,a3,t1,8m,a3,a3,sq,sk,sl,ss,a3,a3,8m,a3,a3,8m
+8m,a3,a3,8m,a3,a3,sr,sn,so,st,a3,a3,8m,t1,a3,8m
+8m,a3,a3,8m,su,su,a3,a3,a3,a3,su,su,8m,a3,a3,8m
+8m,a3,t2,8m,a3,a3,a3,a3,a3,a3,a3,a3,8m,a3,a3,8m
+8m,a3,a3,8m,sz,sx,sw,sv,sv,sw,sx,sy,8m,a3,t1,8m
+8m,a3,a3,8m,0,0,0,0,0,0,0,0,8m,a3,a3,8m
+8m,t1,a3,8m,t5,0,0,t0,t0,0,0,0,8m,a3,t2,8m
+8m,a3,a3,8m,0,0,0,t0,t0,0,0,0,8m,a3,a3,8m
+8m,a3,a3,8m,0,0,0,t0,t0,0,0,0,t1,8m,a3,8m
+t2,a3,a3,8m,0,0,0,t0,t0,0,t3,0,8m,a3,a3,8m
+8m,a3,a3,8m,0,t4,0,t0,t0,0,0,0,8m,a3,a3,8m
+8m,a3,a3,8m,sp,0,0,t0,t0,0,0,sm,8m,t2,a3,8m
+8m,a3,t1,8m,a3,sp,0,t0,t0,0,sm,a3,8m,a3,a3,8m
+8m,a3,a3,8m,a3,a3,sp,t0,t0,sm,a3,a3,t2,a3,a3,8m
+8m,8m,8m,8m,8m,8m,8m,t0,t0,8m,8m,8m,8m,8m,8m,8m
+NAME entry
+WAL 8m,t1
+EXT 7,15 1f 4,4
+EXT 8,15 1f 4,4
+EXT 4,6 1g 7,0
+EXT 5,6 1g 7,0
+EXT 6,6 1g 7,0
+EXT 7,7 1g 7,0
+EXT 8,7 1g 7,0
+EXT 9,6 1g 7,0
+EXT 10,6 1g 7,0
+EXT 11,6 1g 7,0
+PAL 0
+
+TIL 10
+11111000
+11111100
+00011111
+00001111
+11000011
+00110001
+00001001
+00000100
+>
+11111000
+11111100
+00011111
+00001111
+00000011
+11000001
+00110001
+00001000
+NAME undefined
+
+TIL 11
+00111100
+10011110
+01001111
+01000111
+10001110
+00011110
+01111000
+11110000
+>
+00111100
+00011110
+10001111
+10000111
+00001110
+00011110
+01111000
+11110000
+NAME undefined
+
+TIL 12
+10011100
+01001100
+01001110
+01001110
+01001110
+10011110
+10011100
+10011100
+>
+00011100
+10001100
+10001110
+10001110
+10001110
+00011110
+00011100
+00011100
+NAME undefined
+
+TIL 13
+00000000
+11000010
+11100000
+11110000
+11111000
+01111000
+00111000
+00111000
+NAME undefined
+
+TIL 14
+00000000
+00000111
+00001111
+00111111
+01111000
+11110000
+11000110
+11001001
+>
+00000000
+00000111
+00001111
+00111111
+01111000
+11110000
+11000000
+11000110
+NAME undefined
+
+TIL 15
+00000000
+00110001
+10001001
+00010011
+11000011
+00000111
+00111110
+11111100
+>
+00010000
+11001001
+00001001
+00001011
+00100011
+11000111
+00111110
+11111100
+NAME undefined
+
+TIL 16
+00000000
+00000110
+00001111
+00111111
+01111111
+11110000
+11100001
+11000100
+>
+00000000
+00000110
+00001111
+00111111
+01111111
+11110000
+11100010
+11001000
+NAME undefined
+
+TIL 17
+00000000
+11110001
+11111110
+11111110
+00001100
+00011100
+00111000
+01111000
+NAME undefined
+
+TIL 18
+01011001
+01011101
+10111100
+00111110
+01100110
+01100111
+01100011
+11100011
+>
+10011000
+10011100
+00111100
+00111110
+01100110
+01100111
+01100011
+11100011
+NAME undefined
+
+TIL 19
+00000110
+00011111
+00111111
+11110011
+11100011
+00000110
+10001110
+01001111
+NAME undefined
+
+TIL 20
+00010000
+00000000
+00100100
+00100100
+00000000
+10010010
+01001000
+00000100
+>
+00001000
+00000000
+00010010
+01010010
+01000000
+00101001
+00010100
+00000010
+NAME undefined
+
+TIL 21
+10001111
+00011111
+00111100
+00111000
+01110000
+01110001
+01110010
+01110010
+>
+10001111
+00011111
+00111100
+00111000
+01110001
+01110010
+01110100
+01110100
+NAME undefined
+
+TIL 22
+01110000
+01111000
+00111000
+00011100
+00111100
+00111000
+11111001
+11100000
+>
+01110010
+01111000
+00111000
+00011100
+00111100
+00111000
+11111000
+11100010
+NAME undefined
+
+TIL 23
+10001111
+11011110
+11111100
+01111100
+01111101
+00111001
+10000010
+00010000
+>
+10001111
+11011110
+11111100
+01111100
+01111100
+00111000
+00000001
+00000000
+NAME undefined
+
+TIL 24
+11111100
+00011110
+01001111
+00100111
+00000011
+01001011
+00101001
+00000101
+>
+11111100
+00011110
+00001111
+10000111
+00100011
+10010011
+01010001
+00001001
+NAME undefined
+
+TIL 25
+11100111
+10111101
+10011001
+10000001
+11000011
+01100110
+00100100
+01111110
+NAME undefined
+
+TIL 26
+11010110
+10101010
+01010110
+00101010
+00110100
+00011000
+10000001
+10000011
+NAME undefined
+
+TIL 27
+01000000
+00011100
+01000001
+00100000
+00000001
+00100000
+01000100
+00001000
+>
+00011000
+00000001
+00000000
+00010000
+00001000
+00010001
+00000010
+00000100
+NAME undefined
+
+TIL 28
+00010000
+00100000
+00100000
+00100010
+00010000
+00001100
+10000010
+11110001
+NAME undefined
+
+TIL 29
+00000100
+00000100
+11000000
+00100010
+00001001
+11001000
+00100100
+00100000
+>
+00001000
+00001000
+00000000
+11000100
+00000010
+00010000
+10001001
+01001000
+NAME undefined
+
+TIL 30
+00000000
+00000011
+11100101
+10111010
+01010101
+10101010
+01010101
+10101010
+NAME undefined
+
+TIL 31
+00001100
+00111110
+01110110
+11000011
+11010011
+01000110
+01111100
+00111000
+NAME undefined
+
+TIL 32
+00110101
+11101011
+01010101
+10101010
+01010110
+10101010
+01010110
+10101011
+NAME undefined
+
+TIL 33
+00000000
+00011000
+00110100
+01101100
+01010100
+01101010
+00110110
+00101011
+NAME undefined
+
+TIL 34
+11100101
+11001011
+00010110
+00011010
+00110100
+00101100
+00110110
+00101010
+NAME undefined
+
+TIL 35
+00000001
+00001111
+00111111
+01111100
+01111000
+11100000
+11000000
+11100010
+NAME undefined
+
+TIL 36
+01110100
+01110000
+01110001
+01111001
+00111001
+00011100
+00011100
+00111100
+>
+01110010
+01110000
+01110000
+01111000
+00111000
+00011100
+00011100
+00111101
+NAME undefined
+
+TIL 37
+00000100
+00100010
+00010000
+11001000
+11101001
+11100001
+01110100
+01110100
+>
+00000010
+00010001
+00001000
+11000100
+11100100
+11100000
+01110010
+01110010
+NAME undefined
+
+TIL 38
+00011100
+00011110
+00001111
+00001111
+01100011
+10010001
+00000000
+00000000
+NAME undefined
+
+TIL 39
+00011110
+00111111
+11111111
+11100111
+10001110
+00011100
+00111000
+00111000
+>
+00011110
+00111111
+11111111
+11100111
+10001110
+00011100
+00111000
+00111001
+NAME undefined
+
+TIL 40
+00000000
+01001000
+01001000
+00000110
+01000000
+00100000
+00010110
+00000000
+>
+00000000
+00100100
+00100010
+00000000
+00100000
+00010110
+00000000
+00000000
+NAME undefined
+
+TIL 41
+00000000
+11000111
+00000000
+01110000
+00000000
+00000011
+11011000
+00000000
+>
+11000111
+00000000
+01110000
+00000000
+00000011
+11011000
+00000000
+00000000
+NAME undefined
+
+TIL 42
+00000100
+00110010
+00001001
+00000000
+10000010
+01000001
+00001001
+00001000
+>
+00000000
+00000100
+01100010
+00010001
+00000100
+10000010
+01010010
+00010000
+NAME undefined
+
+TIL 43
+00001010
+00100001
+00100100
+00100100
+00000010
+01000000
+01001010
+00001001
+>
+00010000
+01000010
+01001001
+01001000
+00000100
+10000000
+10010100
+00010010
+NAME undefined
+
+TIL 44
+00000000
+00100000
+10010010
+00001100
+00000000
+01000001
+00110001
+00000000
+>
+00100000
+00010010
+00001100
+00000000
+01000000
+00110000
+00000000
+00000000
+NAME undefined
+
+TIL 45
+00000000
+00010000
+00100110
+01000000
+00011000
+00000010
+00000000
+00001100
+>
+00001000
+00100011
+01000000
+00011000
+10000010
+00000000
+00001100
+00000000
+NAME undefined
+
+TIL 46
+00000000
+00000000
+00110010
+10001100
+01000000
+00000000
+00011001
+11000000
+>
+00000000
+00110010
+10001100
+01000001
+00000000
+00011100
+11000000
+00000000
+NAME undefined
+
+TIL 47
+00100100
+00000001
+00010001
+00010001
+00000100
+01000100
+01000010
+10000000
+>
+01001000
+00000010
+00100010
+00100010
+00001000
+10001000
+10000100
+00000000
+NAME undefined
+
+TIL 48
+00000000
+00100000
+00100100
+00000000
+00000100
+00100100
+00100000
+00000000
+>
+00000000
+00010000
+10010010
+10000010
+10000000
+00010010
+00010000
+00000000
+NAME undefined
+
+TIL 49
+00000000
+00100000
+01000000
+00000010
+00100100
+01000000
+00000000
+00000000
+>
+00000000
+00010000
+00100010
+00000100
+00010000
+00100000
+00000000
+00000000
+NAME undefined
+
+TIL 50
+11111111
+00000000
+00000000
+11111111
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 51
+11111111
+11111111
+11111111
+11111111
+11111111
+11010111
+10101011
+10110111
+NAME undefined
+
+TIL 52
+10101011
+10100111
+10001011
+10000111
+10101011
+10000111
+10101011
+10100111
+NAME undefined
+
+TIL 53
+10001011
+10100111
+10001011
+10100111
+10101011
+10000111
+10001011
+10100111
+NAME undefined
+
+TIL 54
+00000000
+00000000
+11111111
+00000000
+00000000
+11111111
+10101010
+01011111
+NAME undefined
+
+TIL 55
+11111111
+00000000
+00000000
+11111111
+11111111
+11010111
+10101011
+10110111
+NAME undefined
+
+TIL 56
+00000000
+00000000
+11000000
+01110000
+10110000
+01010000
+10110000
+01010000
+NAME undefined
+
+TIL 57
+10101011
+10100111
+10001011
+10000111
+10101011
+11000111
+01111111
+00000000
+NAME undefined
+
+TIL 58
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+00000000
+11101101
+NAME undefined
+
+TIL 59
+00000000
+00000000
+00000000
+00000000
+11101111
+00000000
+00000000
+10111011
+NAME undefined
+
+TIL 60
+00000000
+00010000
+01010100
+01010100
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 61
+01000000
+01000000
+00000000
+00011100
+00100010
+00010100
+00000000
+00000000
+NAME undefined
+
+TIL 62
+00000000
+00000000
+00000000
+00000000
+00010000
+01000100
+00101000
+00000000
+NAME undefined
+
+TIL 63
+00000000
+00000000
+11111111
+00000000
+00000000
+10101010
+01010101
+10101010
+NAME undefined
+
+TIL 64
+00000000
+00000000
+11111110
+00000010
+00000010
+10101010
+01010110
+10101010
+NAME undefined
+
+TIL 65
+00000000
+00000000
+01111111
+01000000
+01000000
+01000000
+01000000
+01000000
+NAME undefined
+
+TIL 66
+01000000
+01000000
+01000000
+01000000
+01000000
+01111111
+01000000
+01000000
+NAME undefined
+
+TIL 67
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+00000000
+NAME undefined
+
+TIL 68
+00000010
+00000010
+00000010
+00000010
+00000010
+11111110
+00000010
+00000010
+NAME undefined
+
+TIL 69
+01000000
+01111111
+00011010
+01110101
+01010000
+01010000
+01010000
+01010000
+NAME undefined
+
+TIL 70
+00000100
+00001000
+00010000
+01100000
+10000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 71
+00001001
+00001001
+00001001
+00001111
+00001001
+00001001
+00001001
+00011101
+NAME undefined
+
+TIL 72
+01111100
+11101010
+11101001
+01110011
+00001101
+00001001
+00001001
+00001111
+NAME undefined
+
+TIL 73
+00100001
+00000001
+00000001
+00000001
+00000001
+00000011
+00000001
+00000011
+NAME undefined
+
+TIL 74
+00000000
+00111010
+00011010
+00011010
+00011011
+00011110
+00000000
+00001111
+NAME undefined
+
+TIL 75
+01000001
+00001000
+01000001
+00001000
+01000001
+00001000
+01000000
+00000000
+NAME undefined
+
+TIL 76
+00011000
+00100100
+01100110
+10100101
+10100111
+10100101
+10100111
+10100101
+NAME undefined
+
+TIL 77
+00100100
+00100100
+00100100
+00100100
+00100100
+00100100
+00100100
+00100100
+NAME undefined
+
+TIL 78
+10100111
+10100101
+10100111
+10111101
+10100111
+10111101
+11000011
+10111101
+NAME undefined
+
+TIL 79
+11111111
+01010101
+10111111
+01010101
+00101111
+00010101
+00001011
+00000101
+NAME undefined
+
+TIL 80
+11100000
+10000000
+10000010
+10001110
+01100000
+10000000
+10000000
+10000000
+NAME undefined
+
+TIL 81
+01100000
+10000000
+10000000
+10000000
+11100000
+10000000
+10010100
+11110110
+NAME undefined
+
+TIL 82
+00000000
+00000000
+00000110
+01100000
+00000000
+00000000
+00001000
+11101011
+NAME undefined
+
+TIL 83
+00111100
+00111100
+00111100
+00000000
+00111100
+00111100
+00111100
+00111100
+NAME undefined
+
+TIL 84
+00000000
+00000000
+00011000
+00111100
+00111100
+00111100
+00000000
+00111100
+NAME undefined
+
+TIL 85
+00000000
+00010000
+00010100
+00101000
+00010100
+00101000
+00001000
+00000000
+NAME undefined
+
+TIL 86
+11111111
+10100101
+10100101
+10100101
+10100101
+10100101
+10100101
+11111111
+NAME undefined
+
+TIL 87
+10000000
+10000000
+11111111
+10000000
+10011010
+10101100
+10110010
+10000000
+NAME undefined
+
+TIL 88
+00000000
+00000000
+11111111
+00000000
+01110111
+00000000
+11011100
+00000000
+NAME undefined
+
+TIL 89
+00000001
+00000001
+11111111
+00000001
+01011001
+01100101
+01011001
+00000001
+NAME undefined
+
+TIL 90
+00001010
+00101010
+00101010
+00101010
+11111111
+00000000
+11111111
+01010101
+NAME undefined
+
+TIL 91
+01111110
+10000001
+11111111
+10000001
+11111111
+01101010
+01010110
+11101011
+NAME undefined
+
+TIL 92
+10101010
+01111101
+11000111
+01000101
+11000111
+01111101
+10101011
+01111110
+NAME undefined
+
+TIL 93
+00000000
+00000000
+00000000
+00000000
+10000000
+11000000
+10000000
+01000000
+NAME undefined
+
+TIL 94
+01111110
+10000001
+01111111
+00100110
+00100100
+00011100
+00011000
+00000000
+NAME undefined
+
+TIL 95
+11111111
+11000011
+10000101
+10000001
+10000001
+10000001
+11000011
+11111111
+>
+11111111
+11000011
+10111101
+10111101
+10111101
+10111101
+11000011
+11111111
+NAME undefined
+
+TIL 96
+11111111
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+11111111
+NAME undefined
+
+TIL 97
+10101010
+01010101
+00000000
+00000000
+11111111
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 98
+10000001
+11111111
+10000001
+11111111
+10000001
+11111111
+10000001
+11111111
+NAME undefined
+
+TIL 99
+10101010
+10101010
+11111111
+10000000
+11000000
+10000000
+11000000
+10000000
+NAME undefined
+
+TIL a
+00000000
+01110000
+01000000
+01010000
+00001000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL b
+00011001
+00100011
+01001111
+10011111
+00111100
+01110000
+01110011
+11100101
+>
+00100001
+01000011
+10001111
+00011111
+00111100
+01110000
+01110011
+11100101
+NAME undefined
+
+TIL c
+11100001
+11110000
+01111100
+00011110
+11001110
+01100110
+10110111
+01010111
+>
+11100010
+11110001
+01111100
+00011110
+11001110
+01100110
+10110111
+01010111
+NAME undefined
+
+TIL d
+11000111
+01000110
+10001110
+00011100
+01111100
+11110001
+11100110
+10001000
+>
+11000111
+01000110
+10001110
+00011100
+01111100
+11110000
+11100001
+10000110
+NAME undefined
+
+TIL e
+11100010
+11100101
+11100000
+01111000
+00111100
+00011111
+10001111
+01000011
+>
+11100010
+11100101
+11100000
+01111000
+00111100
+00011111
+00001111
+10000011
+NAME undefined
+
+TIL f
+00000111
+00000111
+00001110
+00001110
+00111100
+01111001
+11100010
+11001000
+>
+00000111
+00000111
+00001110
+00001110
+00111100
+01111000
+11100001
+11000110
+NAME undefined
+
+TIL g
+01111100
+01101100
+11001110
+11000111
+11000011
+01110111
+00111111
+00001110
+NAME undefined
+
+TIL h
+00011000
+01111001
+01111111
+01100111
+00110011
+00110000
+01110000
+11100010
+NAME undefined
+
+TIL i
+10000011
+11000111
+11101110
+11101100
+00111000
+00010000
+00010000
+00000000
+NAME undefined
+
+TIL j
+10000001
+11000111
+11111111
+01111100
+00110000
+00001100
+00010110
+00101011
+NAME undefined
+
+TIL k
+11000000
+11000000
+11111111
+01111111
+00111000
+00000000
+00000011
+00000111
+NAME undefined
+
+TIL l
+00001111
+11111111
+11111011
+00000011
+00000110
+00011110
+11111000
+11000000
+NAME undefined
+
+TIL m
+00000111
+00001110
+00011100
+00111000
+00111001
+01110010
+01110010
+01110010
+>
+00000111
+00001110
+00011100
+00111000
+00111000
+01110001
+01110001
+01110001
+NAME undefined
+
+TIL n
+11100010
+11100010
+11100001
+11110000
+11111100
+01111110
+00111111
+00011111
+>
+11100001
+11100001
+11100000
+11110000
+11111100
+01111110
+00111111
+00011111
+NAME undefined
+
+TIL o
+10000000
+11100000
+11001111
+01011111
+01111111
+11100000
+10000000
+00000010
+NAME undefined
+
+TIL p
+00011000
+00111000
+11111001
+11110010
+11000011
+00000110
+00000101
+00000011
+NAME undefined
+
+TIL q
+00001111
+01111111
+01111111
+00111000
+00011100
+00011100
+00011100
+00011100
+>
+00001111
+01111111
+01111111
+00111000
+00011100
+10011100
+10011100
+00011100
+NAME undefined
+
+TIL r
+00000111
+00000111
+00001111
+00001110
+01111100
+01111100
+00111001
+00111001
+>
+00000111
+00000111
+00001111
+00001110
+01111100
+01111100
+00111000
+00111000
+NAME undefined
+
+TIL s
+00111000
+00111001
+00111000
+00011100
+00011110
+00001111
+00000111
+00000111
+>
+00111001
+00111000
+00111000
+00011100
+00011110
+00001111
+00000111
+00000111
+NAME undefined
+
+TIL t
+00000111
+00001110
+00011100
+00011100
+00111101
+00011001
+00011001
+00111000
+>
+00000111
+00001110
+00011100
+00011100
+00111100
+00011000
+00011000
+00111000
+NAME undefined
+
+TIL u
+00111000
+00011100
+00011110
+00001110
+00000111
+11000111
+00000111
+00001111
+NAME undefined
+
+TIL v
+00111100
+01111000
+11100001
+11000001
+11000001
+11110000
+01111100
+00001111
+>
+00111100
+01111001
+11100010
+11000010
+11000010
+11110001
+01111100
+00001111
+NAME undefined
+
+TIL w
+10100111
+01001110
+11001100
+01011100
+10011100
+10011110
+11001111
+01100111
+NAME undefined
+
+TIL x
+11101010
+11100101
+01110011
+01110000
+01100110
+11001111
+11111111
+01111001
+NAME undefined
+
+TIL y
+01100010
+11100011
+11000110
+11001101
+10001010
+11001101
+11101010
+11101101
+NAME undefined
+
+TIL z
+00000011
+00000001
+00000000
+00000000
+11000011
+11100101
+11110110
+01110011
+NAME undefined
+
+TIL 1a
+11000010
+01111101
+10101010
+01010111
+00111100
+10000001
+11100111
+11100111
+NAME undefined
+
+TIL 1b
+11100110
+11100101
+01110011
+01111000
+00111000
+10011111
+01001111
+00100001
+>
+11100110
+11100101
+01110011
+01111000
+00111000
+00011111
+10001111
+01000001
+NAME undefined
+
+TIL 1c
+01101100
+01101110
+01100111
+11001011
+11000011
+11100111
+01111110
+00111100
+NAME undefined
+
+TIL 1d
+11111111
+10101001
+10001101
+10000001
+10000011
+11000010
+11011011
+01111111
+NAME undefined
+
+TIL 1e
+00000000
+00001000
+00010000
+00000001
+00100010
+00100100
+01000100
+00001000
+>
+00000000
+00010001
+00100010
+00000100
+01000000
+01001000
+10001000
+00010000
+NAME undefined
+
+TIL 1f
+01000010
+10000001
+00011000
+00100000
+01000010
+00000010
+10000001
+10000000
+>
+00000100
+01000010
+10000000
+00011000
+00000100
+00100100
+01000000
+01000010
+NAME undefined
+
+TIL 1g
+00010000
+00010000
+10001000
+10000111
+00000000
+01000000
+00100011
+00011000
+>
+00001000
+00000000
+01000011
+01000000
+00000000
+00100011
+00011000
+00000000
+NAME undefined
+
+TIL 1h
+01000000
+00100000
+00100100
+00100100
+00000000
+00000010
+00100010
+00100000
+>
+00000000
+01000000
+01001000
+01001000
+00000000
+00000100
+01000100
+01000000
+NAME undefined
+
+TIL 1i
+00000000
+00000000
+11000000
+00100000
+00001000
+11001000
+00100100
+00100000
+>
+00000000
+00000000
+00000000
+11000000
+00000000
+00010000
+10001000
+01001000
+NAME undefined
+
+TIL 1j
+00000010
+00100010
+00100000
+01000100
+01000100
+10001000
+00000000
+00100000
+>
+01000100
+01000100
+01000000
+10001000
+10001000
+00010000
+00000000
+01000000
+NAME undefined
+
+TIL 1k
+00000000
+00001000
+00010000
+00000000
+00100010
+00100100
+00000000
+00100100
+>
+00001000
+00110000
+00000001
+01000000
+01000100
+01001000
+00000000
+01001000
+NAME undefined
+
+TIL 1l
+00000000
+00000000
+01000010
+00011000
+00000000
+11000011
+00011000
+00000000
+>
+00000000
+01000010
+00011000
+00000000
+11000011
+00011000
+00000000
+00000000
+NAME undefined
+
+TIL 1m
+01001000
+10001000
+00010000
+00000000
+11010000
+00000000
+00000000
+00000000
+>
+00100100
+01000100
+00001000
+00000000
+00000000
+11001000
+00000000
+00000000
+NAME undefined
+
+TIL 1n
+10010010
+00000001
+00010000
+00001000
+01000100
+01000001
+00100000
+00000000
+>
+01001001
+00000000
+00001000
+00000100
+00100001
+00100000
+00010000
+00000000
+NAME undefined
+
+TIL 1o
+00100000
+00001100
+01000010
+01010010
+00010000
+00010010
+01000010
+01000001
+>
+01000000
+00010000
+10000100
+10100100
+00100000
+00100100
+10000100
+10000010
+NAME undefined
+
+TIL 1p
+00000000
+01000000
+01000100
+00000100
+00010000
+00010001
+10001000
+01000000
+>
+00000000
+00100010
+00100010
+00000000
+00001001
+00001000
+01000100
+00100000
+NAME undefined
+
+TIL 1q
+00000000
+01000100
+01001000
+00001000
+00000001
+00010010
+00010010
+00000000
+>
+01000000
+10001000
+10010000
+00010000
+00000010
+00100100
+00100100
+00000000
+NAME undefined
+
+TIL 1r
+10100011
+11000011
+00000111
+01101110
+01111110
+11111100
+11011001
+10000010
+>
+10100011
+11000011
+00000111
+01101110
+01111110
+11111100
+11011000
+10000001
+NAME undefined
+
+TIL 1s
+01001000
+00100100
+10000010
+01010000
+01010000
+00010010
+01000010
+01000010
+>
+00100100
+10010010
+01000001
+00001000
+00101000
+00001001
+00100001
+00100001
+NAME undefined
+
+TIL 1t
+00010000
+10001001
+00000000
+01100110
+00000000
+00000000
+00110100
+00000000
+>
+00000010
+00010000
+10001001
+00000000
+01100110
+00000000
+00000000
+00110100
+NAME undefined
+
+TIL 1u
+01000100
+00010010
+00000010
+01001010
+01001000
+01001000
+00000010
+01001010
+>
+10001000
+00100100
+00000100
+10010100
+10010000
+10010000
+00000100
+10010100
+NAME undefined
+
+TIL 1v
+00010101
+00101010
+00110101
+00101010
+00010101
+00001110
+10000011
+11110001
+NAME undefined
+
+TIL 1w
+10001001
+10001000
+00000010
+00000010
+00100100
+01001000
+10000001
+00000010
+>
+10010010
+10010000
+00000100
+00100100
+01001000
+10010001
+00000010
+00000000
+NAME undefined
+
+TIL 1x
+00000000
+01001000
+10010010
+10010010
+10010000
+01001000
+00100000
+00000010
+>
+00000000
+00100100
+01001001
+01001001
+01001000
+00100100
+00010000
+00000001
+NAME undefined
+
+TIL 1y
+00111110
+11100011
+10001001
+10000011
+11110001
+00100011
+00100001
+00101011
+>
+00111110
+11100011
+10001001
+10000011
+11110001
+00100011
+00100001
+00110111
+NAME undefined
+
+TIL 1z
+11100011
+11000110
+10001101
+10001010
+00000101
+00000110
+00000101
+00001010
+NAME undefined
+
+TIL 2a
+00100000
+00011000
+00000000
+01100001
+10000000
+10001001
+00001000
+01001000
+>
+01000000
+00100000
+00001100
+00000000
+00100010
+01000010
+01000010
+00010000
+NAME undefined
+
+TIL 2b
+00100101
+00100100
+00000000
+00100010
+00100010
+00000000
+00010000
+00010000
+>
+01001001
+01001000
+00000000
+01000100
+01000100
+00000000
+00100001
+00100000
+NAME undefined
+
+TIL 2c
+00010000
+00000000
+00000000
+01000000
+00100110
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+01000001
+00100110
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 2d
+10000000
+00000100
+00000010
+00110000
+10000000
+00000100
+01000100
+00100100
+>
+10000100
+00000000
+00110001
+10000000
+00000000
+01010010
+00000010
+00010010
+NAME undefined
+
+TIL 2e
+01000010
+01111110
+00000000
+00011111
+00110101
+01101010
+01010101
+10101010
+NAME undefined
+
+TIL 2f
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+NAME undefined
+
+TIL 2g
+00000000
+00111000
+11010110
+10101011
+01010101
+10101010
+01010101
+10101010
+NAME undefined
+
+TIL 2h
+01010101
+10101010
+01010100
+10101100
+01010100
+10101010
+01010101
+10101011
+NAME undefined
+
+TIL 2i
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+NAME undefined
+
+TIL 2j
+01010101
+10101010
+01010101
+10101010
+01010110
+10101100
+01110000
+11000000
+NAME undefined
+
+TIL 2k
+10000000
+10111000
+01010100
+01101100
+01011000
+00110000
+00000000
+11100000
+NAME undefined
+
+TIL 2l
+00000000
+00001000
+00011100
+00010110
+00100011
+10000011
+10010010
+10000000
+NAME undefined
+
+TIL 2m
+00000000
+00001000
+00010000
+00010001
+00000001
+00000100
+00000100
+00000100
+>
+00000000
+00010000
+00100001
+00100010
+10000010
+10001000
+00001000
+10001000
+NAME undefined
+
+TIL 2n
+00000010
+00100101
+01010101
+00001000
+00101010
+01010010
+10011010
+00000100
+NAME undefined
+
+TIL 2o
+00000000
+00001000
+10011100
+11100100
+11000110
+01110000
+01111100
+00100000
+NAME undefined
+
+TIL 2p
+00000000
+00000000
+00000000
+00111000
+01000100
+01000100
+00100010
+00100100
+NAME undefined
+
+TIL 2q
+00010000
+00101001
+00000010
+01000000
+10101100
+00010110
+00100011
+00000000
+NAME undefined
+
+TIL 2r
+00000000
+10000000
+11000100
+00001010
+00000000
+00010000
+00111000
+01001100
+NAME undefined
+
+TIL 2s
+00110101
+01101010
+01010101
+01101010
+00110101
+00101010
+00011111
+00000000
+NAME undefined
+
+TIL 2t
+00000000
+00110011
+01011101
+01101010
+01010101
+00101010
+00010101
+00011010
+NAME undefined
+
+TIL 2u
+01010101
+10101010
+01010101
+10101010
+01010101
+10101011
+01010100
+10101100
+NAME undefined
+
+TIL 2v
+01010100
+10101100
+01010110
+10101011
+01010101
+10111011
+01100110
+11000000
+NAME undefined
+
+TIL 2w
+00000000
+00001010
+01000000
+00000000
+00001000
+10000010
+00010000
+00000000
+NAME undefined
+
+TIL 2x
+01010101
+10101010
+01010101
+10101110
+11010000
+01100000
+00000001
+00000011
+NAME undefined
+
+TIL 2y
+00001111
+00011011
+01110001
+11011001
+10001001
+10001111
+10001000
+11111011
+NAME undefined
+
+TIL 2z
+00110110
+11101011
+01010101
+10101010
+01010101
+10111110
+01100001
+10000000
+NAME undefined
+
+TIL 3a
+01000000
+10001100
+00011111
+00111111
+00110011
+01110000
+11100000
+11000000
+>
+00100000
+01001100
+00011111
+00111111
+00110011
+01110000
+11100000
+11000000
+NAME undefined
+
+TIL 3b
+11000000
+10000110
+00001001
+01100000
+10010000
+00000110
+00001001
+00000000
+NAME undefined
+
+TIL 3c
+10000010
+10000100
+00010100
+00010100
+01010110
+01111110
+00111100
+00000001
+>
+01000001
+01000100
+00010100
+00010100
+01010110
+01111110
+00111100
+00000001
+NAME undefined
+
+TIL 3d
+00111011
+01110011
+11100011
+11001011
+11000011
+11000111
+01110110
+00111100
+NAME undefined
+
+TIL 3e
+10000000
+00111011
+00000000
+00011010
+00000000
+01001110
+10011111
+00011011
+>
+00111011
+00000000
+10001110
+00000000
+01000000
+10001110
+00011111
+00011011
+NAME undefined
+
+TIL 3f
+00100011
+00100111
+00000111
+01001110
+00001110
+10001100
+10011100
+00011100
+>
+10010011
+10010111
+00000111
+00101110
+00001110
+01001100
+01011100
+00011100
+NAME undefined
+
+TIL 3g
+00011100
+10011100
+10111000
+10110001
+00111100
+00111111
+10011111
+01000011
+>
+00011100
+00011100
+00111000
+00110001
+00111100
+00111111
+00011111
+10000011
+NAME undefined
+
+TIL 3h
+11100101
+10000000
+00010010
+00011101
+00101100
+00100110
+00101011
+01001011
+NAME undefined
+
+TIL 3i
+00010000
+00010010
+00100101
+00100000
+00100000
+01001100
+01010010
+10000000
+NAME undefined
+
+TIL 3j
+10001001
+00010000
+10000000
+01001100
+00010110
+00100011
+10000000
+11000000
+NAME undefined
+
+TIL 3k
+00010011
+00100111
+00001110
+01001100
+10011100
+00111000
+01110010
+11100101
+>
+00100011
+01000111
+00001110
+10001100
+00011100
+00111000
+01110010
+11100101
+NAME undefined
+
+TIL 3l
+11000000
+10011000
+00100100
+00000000
+00000110
+01001001
+10100000
+00000000
+NAME undefined
+
+TIL 3m
+00110101
+00101010
+01010101
+01101010
+01010110
+01101100
+01010101
+00111011
+NAME undefined
+
+TIL 3n
+10000001
+01100000
+00000100
+00110000
+01001000
+00000001
+00100000
+00000100
+NAME undefined
+
+TIL 3o
+00000000
+00010011
+00000111
+00000111
+00100001
+00000000
+00001000
+00000000
+NAME undefined
+
+TIL 3p
+00000000
+00000100
+00001010
+01000000
+10100000
+00000110
+00001001
+00000000
+NAME undefined
+
+TIL 3q
+00000100
+10000100
+10010100
+00010000
+00010000
+10010010
+01000001
+00000000
+>
+00000010
+01000010
+01001010
+00001000
+00001000
+01001001
+00100000
+00000000
+NAME undefined
+
+TIL 3r
+01001000
+00100100
+00000010
+00010000
+10010000
+10001000
+01001000
+01000000
+>
+00100100
+00010010
+00000001
+00001000
+01001000
+01000100
+00100100
+00100000
+NAME undefined
+
+TIL 3s
+01001000
+00100100
+00000010
+00010000
+10010000
+10001000
+01001000
+01000000
+>
+00100100
+00010010
+00000001
+00001000
+01001000
+01000100
+00100100
+00100000
+NAME undefined
+
+TIL 3t
+00001001
+00000100
+01010000
+00001000
+01000100
+00100000
+00010001
+00000000
+>
+00010001
+00001000
+10000000
+00010000
+10001000
+01000100
+00100000
+00000000
+NAME undefined
+
+TIL 3u
+00011001
+00100011
+01001111
+10011111
+00111100
+01110000
+01110011
+11100101
+>
+00100001
+01000011
+10001111
+00011111
+00111100
+01110000
+01110011
+11100101
+NAME undefined
+
+TIL 3v
+00000000
+00100110
+01000001
+10000000
+00101100
+01000010
+00011000
+00111100
+>
+00100110
+01000001
+10000000
+00101100
+01000010
+00000000
+00011000
+00111100
+NAME undefined
+
+TIL 3w
+10010001
+10010001
+01001000
+00001000
+00000010
+00100010
+00100010
+01000000
+>
+01001000
+01001000
+00010000
+00010000
+00000100
+00010100
+00010100
+00100000
+NAME undefined
+
+TIL 3x
+00000000
+11000000
+00101100
+00000010
+00000000
+01100100
+00010100
+00000000
+>
+11000000
+00101100
+00000010
+00000000
+01100000
+00010010
+00000010
+00000000
+NAME undefined
+
+TIL 3y
+00100100
+00000100
+01000000
+01001000
+01001000
+00000000
+00000100
+10010100
+>
+00010010
+00000010
+00100000
+00100100
+00100100
+00000000
+00000010
+01001010
+NAME undefined
+
+TIL 3z
+00000000
+01000001
+00010010
+00010000
+01100010
+00000010
+00000000
+01001000
+>
+10000000
+00100010
+00100100
+11000000
+00000100
+00000100
+00000000
+10010000
+NAME undefined
+
+TIL 4a
+00000000
+00000000
+00011000
+00000000
+00000110
+00000000
+01100000
+00000000
+>
+00000000
+00011000
+00000000
+00000000
+00000000
+01100110
+00000000
+00000000
+NAME undefined
+
+TIL 4b
+00000000
+00000100
+00000010
+01000000
+00100000
+00001000
+00000100
+00000000
+>
+00000000
+00001000
+00000100
+10000000
+01000000
+00000100
+00000010
+00000000
+NAME undefined
+
+TIL 4c
+00000000
+00100000
+00100000
+00000010
+00000010
+01000000
+01000000
+00000000
+>
+00000000
+01000000
+01000000
+00000100
+00000100
+00100000
+00100000
+00000000
+NAME undefined
+
+TIL 4d
+00000000
+00010000
+00010001
+00000001
+00000001
+00001000
+00001000
+00000000
+>
+00000000
+00100000
+00100010
+00000010
+10000010
+10010000
+00010000
+00000000
+NAME undefined
+
+TIL 4e
+00000000
+00100000
+00000000
+00000000
+00000010
+00000000
+01000000
+00000000
+>
+00000000
+00000000
+00100000
+00000000
+00000100
+01000000
+00000000
+00000000
+NAME undefined
+
+TIL 4f
+00000000
+00000100
+01000000
+00000000
+00000000
+00000000
+00100010
+00000000
+>
+00000000
+00000000
+00100100
+00000000
+00000000
+00100000
+00000100
+00000000
+NAME undefined
+
+TIL 4g
+00000000
+00000000
+00100000
+00000000
+00000000
+00000100
+00000000
+00000000
+>
+00000000
+00000000
+01000000
+00000000
+00000100
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 4h
+00000000
+00010000
+00000000
+00000000
+00000000
+01000100
+00000000
+00000000
+>
+00000000
+00000000
+00001000
+00000000
+00000000
+00100010
+00000000
+00000000
+NAME undefined
+
+TIL 4i
+00000000
+00000000
+00000010
+00000000
+00000000
+00100000
+00000000
+00000000
+>
+00000000
+00000000
+00000100
+00000000
+00000000
+00010000
+00000000
+00000000
+NAME undefined
+
+TIL 4j
+00000000
+00100100
+00110100
+00101100
+00100100
+00000000
+00011000
+00011000
+NAME undefined
+
+TIL 4k
+00000000
+00010000
+00010000
+11000000
+11000000
+00000010
+00000010
+00000000
+>
+00000000
+00001000
+00001000
+11000000
+11000000
+00000100
+00000100
+00000000
+NAME undefined
+
+TIL 4l
+00011000
+00011000
+00000000
+01100000
+00000110
+00000000
+00011000
+00000000
+>
+00011000
+00011000
+00000000
+00000110
+01100000
+00000000
+00000000
+00011000
+NAME undefined
+
+TIL 4m
+00000000
+00001000
+00001000
+00000011
+00000011
+01000000
+01000000
+00000000
+>
+00000000
+00010000
+00010000
+00000011
+00000011
+00100000
+00100000
+00000000
+NAME undefined
+
+TIL 4n
+00011000
+01011010
+00111100
+11100111
+11100111
+00111100
+01011010
+00011000
+NAME undefined
+
+TIL 4o
+01010101
+00000000
+01110111
+00000000
+11011101
+00000000
+00000000
+01110111
+>
+10101010
+00000000
+11011101
+00000000
+01110111
+00000000
+00000000
+11011101
+NAME undefined
+
+TIL 4p
+00000000
+00000000
+00000000
+10000011
+00111000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00111000
+10000011
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 4q
+00000000
+00000000
+00000000
+01110000
+00000111
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000111
+01110000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 4r
+00001001
+00001000
+00001000
+00001111
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 4s
+00001001
+00001001
+00001001
+00001001
+00001001
+00001001
+00001001
+00001001
+NAME undefined
+
+TIL 4t
+10110000
+01010000
+10110000
+01010000
+10110000
+01010000
+10110000
+01010000
+NAME undefined
+
+TIL 4u
+00000000
+00000000
+11111111
+00000001
+00000001
+11111001
+01011001
+11111001
+NAME undefined
+
+TIL 4v
+00000000
+00000000
+11111111
+00000000
+00000000
+11111111
+10101010
+11111111
+NAME undefined
+
+TIL 4w
+00000000
+00000000
+00001111
+00001000
+00001000
+00001001
+00001001
+00001001
+NAME undefined
+
+TIL 4x
+00000000
+00000000
+11110000
+00010000
+00010000
+10010000
+10010000
+10010000
+NAME undefined
+
+TIL 4y
+10110000
+01010000
+10110000
+11110000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 4z
+11111001
+00000001
+00000001
+11111111
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 5a
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+NAME undefined
+
+TIL 5b
+11000000
+10100000
+11000000
+10100000
+11000000
+10100000
+11000000
+10100000
+NAME undefined
+
+TIL 5c
+00000000
+00000000
+00001100
+00010010
+00000000
+10000000
+11000000
+10100000
+NAME undefined
+
+TIL 5d
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+00000000
+NAME undefined
+
+TIL 5e
+00000000
+00000000
+00000000
+00010000
+00101000
+01001001
+01001001
+00000001
+NAME undefined
+
+TIL 5f
+11111111
+10100100
+10000100
+10100000
+10100100
+11111111
+00001001
+00001111
+NAME undefined
+
+TIL 5g
+11111111
+00010000
+00010000
+00010000
+00000000
+11111111
+00000000
+00000000
+NAME undefined
+
+TIL 5h
+11111111
+01110101
+10101111
+01110101
+10101111
+11111111
+00000000
+00000000
+NAME undefined
+
+TIL 5i
+11111111
+00010000
+00010000
+00000000
+00000000
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL 5j
+00000000
+10100000
+01010101
+10101010
+01010101
+10100000
+00000000
+00000000
+NAME undefined
+
+TIL 5k
+00000100
+00000010
+00000100
+00000010
+00000100
+00000010
+00000100
+00000010
+NAME undefined
+
+TIL 5l
+00000100
+00000010
+00000100
+00000100
+00001000
+00000100
+00001000
+00000100
+>
+00000100
+00000010
+00000100
+00000010
+00000100
+00000010
+00000100
+00000010
+NAME undefined
+
+TIL 5m
+00001000
+00010000
+00001000
+00010000
+00010000
+00100000
+00010000
+00100000
+>
+00000100
+00001000
+00000100
+00001000
+00000100
+00001000
+00000100
+00001000
+NAME undefined
+
+TIL 5n
+11111111
+10000011
+01000110
+00111100
+00100100
+00101100
+00100100
+00101100
+>
+11110111
+10000011
+01000110
+00111100
+00100100
+00101100
+00100100
+00101100
+NAME undefined
+
+TIL 5o
+00000000
+00000000
+01010000
+00100000
+00000000
+00000101
+00000010
+00000000
+>
+00000000
+00000000
+00000000
+01110000
+00000000
+00000000
+00000111
+00000000
+NAME undefined
+
+TIL 5p
+00001000
+00010000
+01000000
+10000000
+00000100
+00010100
+00001100
+00000000
+NAME undefined
+
+TIL 5q
+00000000
+00010000
+00010000
+01010100
+11010101
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 5r
+00000000
+00000000
+00000000
+00000100
+11011011
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 5s
+00000000
+00000000
+00000000
+00001000
+00101011
+00010000
+01000000
+10000000
+NAME undefined
+
+TIL 5t
+00000001
+00000010
+00011000
+00100000
+00000000
+01100010
+00000101
+01100000
+NAME undefined
+
+TIL 5u
+00000001
+00000010
+00000100
+00000000
+00011000
+00000000
+00001010
+00010000
+NAME undefined
+
+TIL 5v
+00000000
+00000000
+00110100
+01001010
+10000001
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 5w
+00000000
+00000000
+00000000
+00000000
+01001100
+01010000
+00000000
+00001100
+NAME undefined
+
+TIL 5x
+00000000
+00000000
+01010000
+10101010
+01010000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 5y
+00000000
+00000000
+00010001
+01110111
+00000000
+00100010
+11101110
+00000000
+NAME undefined
+
+TIL 5z
+00110000
+01001000
+01001110
+10100111
+10010011
+10000011
+10000010
+00100000
+NAME undefined
+
+TIL 6a
+00000010
+11111110
+10101000
+01011110
+00001110
+00001110
+00001111
+00001111
+NAME undefined
+
+TIL 6b
+00000000
+11111111
+10101010
+01010101
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 6c
+01010000
+01010000
+01010000
+01010000
+01010101
+01000000
+01000000
+01111111
+NAME undefined
+
+TIL 6d
+00000000
+00000000
+00000000
+00000000
+01010101
+00000000
+00000000
+11111111
+NAME undefined
+
+TIL 6e
+00001011
+00001111
+00001011
+00001111
+01011011
+00000011
+00000011
+11111111
+NAME undefined
+
+TIL 6f
+01000000
+01000000
+01000000
+01000000
+01111111
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 6g
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 6h
+00000011
+00000011
+00000011
+00000011
+11111110
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 6i
+00000000
+00011000
+00101100
+01000110
+01010110
+10001011
+10010011
+10000001
+NAME undefined
+
+TIL 6j
+10101000
+10000000
+01001010
+10000000
+10000000
+10000000
+10011111
+01010110
+NAME undefined
+
+TIL 6k
+10010110
+10001111
+10000000
+11000000
+00101000
+01000010
+00101000
+00100000
+NAME undefined
+
+TIL 6l
+00010000
+00100000
+00011000
+00000100
+00000011
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 6m
+10111101
+01011010
+00000000
+01011010
+00000000
+00011000
+00000000
+10000001
+NAME undefined
+
+TIL 6n
+00010101
+00000001
+00010011
+00000001
+00000001
+00000001
+11110001
+01101011
+NAME undefined
+
+TIL 6o
+00010000
+00010000
+00011000
+00100100
+11000011
+11000011
+11111111
+10011110
+NAME undefined
+
+TIL 6p
+01101001
+11110000
+00000001
+00000011
+00010111
+01000011
+00010111
+00000111
+NAME undefined
+
+TIL 6q
+10000001
+10000010
+10000000
+10000010
+01000000
+01111100
+00111000
+00010000
+NAME undefined
+
+TIL 6r
+00001110
+00000110
+00011100
+00111010
+11110000
+11100010
+00001000
+00000010
+NAME undefined
+
+TIL 6s
+10000000
+01000000
+10000001
+10000000
+10000101
+10000011
+10000111
+10000111
+NAME undefined
+
+TIL 6t
+10000111
+10000111
+10000111
+10000111
+10000111
+11010111
+10000101
+11111110
+NAME undefined
+
+TIL 6u
+00000000
+00000000
+00000000
+01001000
+11111111
+11111111
+10000000
+00000000
+NAME undefined
+
+TIL 6v
+00000000
+00000100
+00000010
+00010011
+11111111
+11111111
+00000000
+00000000
+NAME undefined
+
+TIL 6w
+00000001
+00000011
+00000001
+00000001
+10000001
+11000001
+11000011
+01000011
+NAME undefined
+
+TIL 6x
+01000011
+01000011
+11000011
+01000011
+10000111
+11010110
+10000101
+11111110
+NAME undefined
+
+TIL 6y
+10000000
+11111111
+11101101
+11001000
+11000001
+10001000
+01000001
+00001000
+NAME undefined
+
+TIL 6z
+11110011
+10000001
+00100001
+00001001
+00100001
+00000001
+00100011
+00000001
+NAME undefined
+
+TIL 7a
+00000000
+00000000
+00000000
+00000000
+10000000
+01000000
+11100000
+01010000
+NAME undefined
+
+TIL 7b
+11111000
+01010100
+11111110
+01010101
+11111111
+01010101
+11111111
+01010101
+NAME undefined
+
+TIL 7c
+00000000
+00000000
+00000000
+00000000
+00000001
+00000010
+00000110
+00001010
+NAME undefined
+
+TIL 7d
+00011010
+00101010
+01101010
+10101010
+10101010
+10101010
+10101010
+10101010
+NAME undefined
+
+TIL 7e
+10101011
+10101010
+10101101
+10101011
+10110110
+10101100
+11011000
+10110000
+NAME undefined
+
+TIL 7f
+01111110
+11000001
+10000000
+00000000
+00111100
+01001010
+10001001
+10000001
+NAME undefined
+
+TIL 7g
+11100111
+10001001
+01001010
+00111100
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 7h
+00000010
+00000001
+00001000
+00111000
+00000000
+00100010
+11101110
+00000000
+NAME undefined
+
+TIL 7i
+01100000
+11000000
+10000100
+00011100
+00000000
+00001000
+00111000
+00000000
+NAME undefined
+
+TIL 7j
+00000010
+00000010
+00001100
+00000010
+00000010
+00001100
+00000010
+00000010
+NAME undefined
+
+TIL 7k
+00000011
+00000011
+00001111
+00000011
+00000011
+00001111
+00000011
+11111111
+NAME undefined
+
+TIL 7l
+10100101
+10000001
+10100101
+10000001
+10100101
+10000001
+11111111
+00000000
+NAME undefined
+
+TIL 7m
+00011000
+00111100
+01111110
+01100110
+11000011
+10000001
+10100101
+10000001
+NAME undefined
+
+TIL 7n
+00000000
+00000000
+00000000
+00010000
+01110000
+00000000
+00010010
+11111111
+NAME undefined
+
+TIL 7o
+00000011
+00000100
+00001000
+00001000
+00001110
+00001000
+00000100
+00000011
+NAME undefined
+
+TIL 7p
+11000000
+10100000
+10010000
+00010000
+01110000
+10010000
+10100000
+11000000
+NAME undefined
+
+TIL 7q
+00000000
+00000000
+00000100
+00011100
+00000000
+00010000
+01110000
+00000000
+NAME undefined
+
+TIL 7r
+00000000
+00011000
+00000000
+00011000
+00111100
+00111100
+00111100
+00000000
+NAME undefined
+
+TIL 7s
+10000000
+01000000
+11100000
+01010000
+11111000
+01010100
+11111110
+01010101
+NAME undefined
+
+TIL 7t
+00000001
+00000010
+00000110
+00001010
+00011010
+00101010
+01101010
+10101010
+NAME undefined
+
+TIL 7u
+11100000
+11000111
+10000100
+10000111
+10000100
+10000111
+10000100
+10000111
+NAME undefined
+
+TIL 7v
+10000000
+10000000
+10110000
+10000000
+10011001
+10000010
+10000110
+10001010
+NAME undefined
+
+TIL 7w
+00000111
+11100000
+00100000
+11100000
+00100001
+11100010
+00100110
+11101010
+NAME undefined
+
+TIL 7x
+10011010
+10101010
+11101010
+10101010
+10101010
+10101010
+10101010
+10101010
+NAME undefined
+
+TIL 7y
+10111101
+10100101
+10100101
+10100101
+10111101
+10000001
+11111111
+00000000
+NAME undefined
+
+TIL 7z
+11111111
+11111111
+10000001
+10111101
+10111101
+10111101
+10111101
+10000001
+NAME undefined
+
+TIL 8a
+11111111
+11111111
+10110101
+10110101
+10110101
+10110101
+10110101
+11111111
+NAME undefined
+
+TIL 8b
+01000010
+00111100
+00101100
+00101100
+01101100
+01010110
+00101010
+00000000
+NAME undefined
+
+TIL 8c
+10101010
+10101010
+10101010
+10101010
+10101010
+10101010
+10101010
+10101010
+NAME undefined
+
+TIL 8d
+11111111
+01010101
+11111111
+01010101
+11111111
+01010101
+11111111
+01010101
+NAME undefined
+
+TIL 8e
+11110000
+10010000
+10011111
+11110001
+10010001
+11110001
+01111111
+00110001
+NAME undefined
+
+TIL 8f
+00010001
+01111001
+10001111
+11011110
+10111110
+10101111
+01111010
+00110011
+NAME undefined
+
+TIL 8g
+11000001
+11111111
+11111101
+00011111
+00011101
+11111111
+00011000
+11111000
+NAME undefined
+
+TIL 8h
+01111111
+01000001
+01111111
+01000001
+11000001
+01111111
+11000001
+11000001
+NAME undefined
+
+TIL 8i
+00000000
+00000000
+00000000
+00001000
+00100010
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 8j
+10100000
+01010000
+10100000
+01010000
+10100000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 8k
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+10100000
+01010000
+NAME undefined
+
+TIL 8l
+00000000
+01010101
+11111111
+01010101
+11111111
+01010101
+00000000
+00000000
+NAME undefined
+
+TIL 8m
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL 8n
+00111100
+00000000
+00111100
+00000000
+00111100
+00000000
+00111100
+00000000
+NAME undefined
+
+TIL 8o
+00111000
+00010000
+00000000
+00010000
+00000000
+00010000
+00000000
+00010000
+NAME undefined
+
+TIL 8p
+00011100
+00001000
+00000000
+00001000
+00000000
+00001000
+00000000
+00001000
+NAME undefined
+
+TIL 8q
+11111111
+11111100
+11110000
+11100000
+11000000
+11000000
+10000000
+10000000
+NAME undefined
+
+TIL 8r
+11111111
+00111111
+00001111
+00000111
+00000011
+00000011
+00000001
+00000001
+NAME undefined
+
+TIL 8s
+00110100
+00000000
+00101100
+00000000
+00110100
+00000000
+01111110
+00000000
+NAME undefined
+
+TIL 8t
+00110110
+00000000
+00101101
+00000000
+00110110
+00000000
+00101100
+00000000
+NAME undefined
+
+TIL 8u
+10110100
+00000000
+01101100
+00000000
+01110100
+00000000
+00101100
+00000000
+NAME undefined
+
+TIL 8v
+11011011
+00000000
+01101101
+00000000
+10111101
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 8w
+01111110
+10101011
+11010101
+10101011
+11010101
+11111111
+10000001
+10000001
+NAME undefined
+
+TIL 8x
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+11111111
+01010101
+NAME undefined
+
+TIL 8y
+00011100
+00001000
+00010100
+00010100
+11111111
+00000000
+11111111
+01010101
+NAME undefined
+
+TIL 8z
+00000000
+00111000
+01000100
+01000100
+11111111
+00000000
+11111111
+01010101
+NAME undefined
+
+TIL 9a
+10101010
+10101010
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 9b
+10101010
+10101010
+11111111
+00000001
+00000011
+00000001
+00000011
+00000001
+NAME undefined
+
+TIL 9c
+11000000
+10000000
+11000000
+10000000
+11000000
+10000000
+11000000
+10000000
+NAME undefined
+
+TIL 9d
+00000011
+00000001
+00000011
+00000001
+00000011
+00000001
+00000011
+00000001
+NAME undefined
+
+TIL 9e
+00000011
+00000001
+00000011
+00000001
+11111111
+01010101
+01010101
+00000000
+NAME undefined
+
+TIL 9f
+00000000
+00000000
+00000000
+00000000
+11111111
+01010101
+01010101
+00000000
+NAME undefined
+
+TIL 9g
+00000000
+00001010
+00001110
+01111110
+11111110
+11110000
+11110110
+00000000
+>
+00000000
+00001010
+00001110
+01111110
+11111110
+11110100
+11110110
+00000000
+NAME undefined
+
+TIL 9h
+00000000
+01010000
+01110000
+01111110
+01111111
+00101111
+01101111
+00000000
+>
+00000000
+01010000
+01110000
+01111110
+01111111
+00001111
+01101111
+00000000
+NAME undefined
+
+TIL 9i
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 9j
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+11111111
+NAME undefined
+
+TIL 9k
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+NAME undefined
+
+TIL 9l
+00000000
+00010000
+00101000
+01000100
+00100010
+00010100
+00001000
+00000000
+NAME undefined
+
+TIL 9m
+00000000
+00001000
+00010100
+00100010
+01000100
+00101000
+00010000
+00000000
+NAME undefined
+
+TIL 9n
+00001010
+10001110
+10001110
+10011110
+10111000
+10111000
+01111011
+00000000
+>
+00001010
+01001110
+01001110
+10011110
+10111000
+10111000
+01111011
+00000000
+NAME undefined
+
+TIL 9o
+01010000
+01110010
+01110010
+01111001
+00011101
+00011101
+11011110
+00000000
+>
+01010000
+01110001
+01110001
+01111001
+00011101
+00011101
+11011110
+00000000
+NAME undefined
+
+TIL 9p
+10101010
+10101010
+11111111
+10101010
+10101010
+10101010
+11111111
+10101010
+NAME undefined
+
+TIL 9q
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+NAME undefined
+
+TIL 9r
+00000000
+01110111
+00100010
+01110111
+01110111
+01110111
+00000000
+11111111
+NAME undefined
+
+TIL 9s
+10000000
+10011100
+10110110
+10101110
+10111010
+10010100
+10000000
+11111111
+NAME undefined
+
+TIL 9t
+00000001
+00110001
+01101101
+01111101
+01101101
+00011001
+00000001
+11111111
+NAME undefined
+
+TIL 9u
+11111111
+00010000
+00010111
+00010100
+00010100
+00010111
+00110000
+11001111
+NAME undefined
+
+TIL 9v
+11111111
+00000000
+01000111
+01000101
+01000101
+01110111
+00000000
+11111111
+NAME undefined
+
+TIL 9w
+11111111
+00000000
+00110101
+01100101
+00010101
+01100101
+00000000
+11111111
+NAME undefined
+
+TIL 9x
+11111111
+00000000
+00101110
+10101000
+01101010
+00101110
+00000000
+11111111
+NAME undefined
+
+TIL 9y
+11111111
+00000000
+00011100
+00010010
+00010010
+00011100
+00000000
+11111111
+NAME undefined
+
+TIL 9z
+11111111
+00000000
+11101000
+10101010
+10101010
+11101111
+00000000
+11111111
+NAME undefined
+
+TIL a0
+11111111
+00000000
+10100101
+10110101
+10101100
+10100101
+00000000
+11111111
+NAME undefined
+
+TIL a1
+11111111
+00001000
+01001000
+01001000
+00001000
+01001000
+00001100
+11110011
+NAME undefined
+
+TIL a2
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+10101010
+NAME undefined
+
+TIL a3
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL a4
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+NAME undefined
+
+TIL a5
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL a6
+11101110
+00000000
+10111011
+00000000
+11101110
+00000000
+10111011
+00000000
+NAME undefined
+
+TIL a7
+01110111
+01101111
+00101111
+01010110
+01011001
+00100111
+00011011
+00000000
+NAME undefined
+
+TIL a8
+11111111
+11111111
+11001111
+11100111
+11111111
+10001111
+11111001
+11111111
+NAME undefined
+
+TIL a9
+11111111
+11111111
+10001111
+11111011
+11111111
+00111111
+11111111
+11111111
+NAME undefined
+
+TIL aa
+11111111
+10101010
+10101010
+10101010
+10101010
+10101010
+11111111
+10000000
+NAME undefined
+
+TIL ab
+11111111
+10101010
+10101010
+10101010
+10101010
+10101010
+11111111
+00000000
+NAME undefined
+
+TIL ac
+11111111
+11001001
+10100101
+10010011
+11001001
+10100101
+11111111
+10000001
+NAME undefined
+
+TIL ad
+11111111
+10000001
+11111111
+10000001
+11111111
+10000001
+11111111
+10000001
+NAME undefined
+
+TIL ae
+11111111
+11000000
+11111111
+01010101
+00111111
+00011010
+11001100
+00000000
+>
+11111111
+11000000
+11111111
+01010101
+00111111
+00011010
+00110011
+00000000
+NAME undefined
+
+TIL af
+11000001
+10000000
+11000000
+10011000
+11011000
+11000000
+11101010
+11111111
+NAME undefined
+
+TIL ag
+11111111
+10111010
+01011101
+10111010
+00011000
+00111100
+10000001
+00000000
+>
+11111111
+10111010
+01011101
+10111010
+00011000
+10011001
+00111100
+00000000
+NAME undefined
+
+TIL ah
+11111111
+10111010
+01011101
+10111010
+00011000
+10011001
+00111100
+00000000
+>
+11111111
+10111010
+01011101
+10111010
+00011000
+00111100
+10000001
+00000000
+NAME undefined
+
+TIL ai
+11111111
+11111111
+11111111
+01010101
+11111111
+10101010
+00110011
+00000000
+>
+11111111
+11111111
+11111111
+01010101
+11111111
+10101010
+11001100
+00000000
+NAME undefined
+
+TIL aj
+00000000
+00000110
+11111110
+01010100
+11111100
+10101000
+00110011
+00000000
+>
+00000000
+00000110
+11111110
+01010100
+11111100
+10101000
+11001100
+00000000
+NAME undefined
+
+TIL ak
+00000000
+00000000
+00011000
+00110100
+01111010
+11110101
+11111011
+10111111
+NAME undefined
+
+TIL al
+11111111
+10111111
+11111111
+10011111
+11111111
+10111111
+11111111
+11111111
+NAME undefined
+
+TIL am
+11111111
+11111101
+11111111
+11111001
+11111111
+11111101
+11111111
+11111111
+NAME undefined
+
+TIL an
+11111111
+10111111
+11111111
+10011111
+11111111
+10111100
+11111111
+11111000
+NAME undefined
+
+TIL ao
+11111111
+10111000
+11111111
+10011000
+11111111
+10111000
+11111111
+11111111
+NAME undefined
+
+TIL ap
+11111111
+11111101
+11111111
+11111001
+11111111
+00111101
+11111111
+00011111
+NAME undefined
+
+TIL aq
+11111111
+00011101
+11111111
+00011001
+11111111
+00011101
+11111111
+11111111
+NAME undefined
+
+TIL ar
+00000001
+00000001
+00000001
+00000001
+00000011
+00000010
+00000011
+00000010
+NAME undefined
+
+TIL as
+00000111
+00000101
+00000111
+00000101
+00001111
+00001001
+00001111
+00001001
+NAME undefined
+
+TIL at
+00011111
+00010101
+00011111
+00010101
+00111111
+00100101
+00111111
+00100101
+NAME undefined
+
+TIL au
+01111111
+01000101
+01111111
+01000101
+11111111
+10101010
+10111011
+11111111
+NAME undefined
+
+TIL av
+10000000
+10000000
+10000000
+10000000
+11000000
+11000000
+11000000
+11000000
+NAME undefined
+
+TIL aw
+11100000
+11100000
+11100000
+11100000
+11110000
+01110000
+11110000
+01110000
+NAME undefined
+
+TIL ax
+11111000
+01111000
+11111000
+01111000
+11111100
+01111100
+11111100
+01111100
+NAME undefined
+
+TIL ay
+11111110
+01011110
+11111110
+01011110
+11111111
+01010101
+11011101
+11111111
+NAME undefined
+
+TIL az
+11111111
+11011111
+01001010
+00011111
+00110101
+01111111
+11101010
+11111111
+NAME undefined
+
+TIL b0
+11111111
+11111011
+10110010
+11111000
+01011100
+11111110
+10101011
+11111111
+NAME undefined
+
+TIL b1
+11111111
+11111111
+10101010
+11111111
+01010101
+11111111
+10101010
+11111111
+NAME undefined
+
+TIL b2
+11111111
+01110111
+01110111
+01110111
+01110111
+01110111
+01110111
+11111111
+NAME undefined
+
+TIL b3
+11111111
+00000000
+00000000
+11111111
+11111111
+10000001
+10111101
+10111101
+NAME undefined
+
+TIL b4
+11111111
+00000000
+01111110
+01111110
+01111110
+01011010
+01111110
+01111110
+NAME undefined
+
+TIL b5
+00001111
+11000000
+11110000
+11111111
+11111111
+01111111
+00111111
+00011111
+NAME undefined
+
+TIL b6
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11000000
+00110000
+NAME undefined
+
+TIL b7
+00000000
+01110011
+10001100
+10100000
+10000000
+01111110
+01010101
+00000000
+NAME undefined
+
+TIL b8
+11011011
+00100101
+01000010
+01110001
+01001001
+01101001
+00111110
+10000001
+NAME undefined
+
+TIL b9
+00000000
+00010101
+01111111
+01000000
+01001110
+00101001
+00110000
+00100000
+NAME undefined
+
+TIL ba
+10101010
+10010011
+00101010
+00000011
+01101010
+00010010
+10001010
+01000010
+NAME undefined
+
+TIL bb
+00100010
+00101010
+00100010
+00100010
+00101001
+00100001
+00010000
+00010110
+NAME undefined
+
+TIL bc
+00010011
+00010011
+00001001
+00001001
+00000100
+00000100
+00000010
+00000001
+NAME undefined
+
+TIL bd
+00000000
+00000000
+00010000
+00010000
+00010000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL be
+10001111
+01000111
+01100011
+00010001
+11011000
+00000100
+00000010
+01110111
+>
+10001111
+01000111
+11100011
+00010001
+01111000
+00000100
+00000010
+11011101
+NAME undefined
+
+TIL bf
+10000111
+01000001
+00110000
+00001100
+00110011
+11001100
+00110011
+00000000
+>
+10000111
+01000001
+00110000
+00001100
+11001111
+00110011
+11001100
+00000000
+NAME undefined
+
+TIL bg
+10111101
+10111101
+11011011
+11100111
+11111111
+01111111
+00111111
+00001111
+NAME undefined
+
+TIL bh
+11111111
+11111111
+11111111
+11111111
+11110011
+11001100
+00110011
+11000000
+>
+11111111
+11111111
+11111111
+11111111
+11001111
+00110011
+11001100
+00000011
+NAME undefined
+
+TIL bi
+10111101
+10111101
+11011011
+11100111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL bj
+00001001
+00001001
+00001001
+00001001
+00010010
+00010010
+00100010
+01000010
+NAME undefined
+
+TIL bk
+10000100
+00000100
+00001000
+10001000
+10010000
+00010000
+00100000
+00100000
+NAME undefined
+
+TIL bl
+01000000
+01011100
+10000100
+10001100
+00000000
+00010000
+00000000
+00000000
+NAME undefined
+
+TIL bm
+01010101
+01000000
+11110111
+10000000
+11011101
+00000000
+00000000
+01110111
+>
+01101010
+01000000
+11011101
+10000000
+01110111
+00000000
+00000000
+11011101
+NAME undefined
+
+TIL bn
+00000000
+00000000
+00000001
+00000011
+00000101
+00001001
+00010001
+00110001
+NAME undefined
+
+TIL bo
+00111100
+01111110
+11110110
+01101110
+01111110
+00111100
+01111110
+11110110
+NAME undefined
+
+TIL bp
+00001110
+00110001
+01000101
+01110001
+01000001
+00110001
+00001001
+00001000
+NAME undefined
+
+TIL bq
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL br
+00000100
+00000100
+00000010
+00000010
+00000001
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL bs
+11100011
+00011100
+10111110
+10110110
+10111110
+11011101
+11100011
+11111111
+NAME undefined
+
+TIL bt
+00000111
+00000100
+00000111
+00000000
+00000000
+00111110
+00100010
+10100010
+NAME undefined
+
+TIL bu
+11111111
+00000000
+11111111
+11111111
+01111111
+10111111
+01011111
+00101111
+NAME undefined
+
+TIL bv
+11010111
+00001111
+00110011
+00000000
+11001100
+00000000
+00000000
+00000000
+>
+00010111
+00001111
+11001100
+00000000
+00110011
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL bw
+11111111
+11111111
+00110011
+00000000
+11001100
+00000000
+00110011
+00000000
+>
+11111111
+11111111
+11001100
+00000000
+00110011
+00000000
+11001100
+00000000
+NAME undefined
+
+TIL bx
+11101000
+11110000
+11001100
+00000000
+00110011
+00000000
+11001100
+00000000
+>
+11101000
+11110000
+00110011
+00000000
+11001100
+00000000
+00110000
+00000000
+NAME undefined
+
+TIL by
+11111011
+00000001
+11111110
+11111010
+11111010
+11110100
+11110100
+11101000
+NAME undefined
+
+TIL bz
+11111111
+00000000
+11111111
+11111111
+11000011
+11000011
+11111111
+11111111
+NAME undefined
+
+TIL c0
+11100000
+00100000
+11100000
+00000000
+00000100
+00001010
+00010001
+00001010
+NAME undefined
+
+TIL c1
+00000000
+00000000
+00000000
+01110000
+00000111
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000111
+01110000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL c2
+11111111
+10101011
+11111111
+10011111
+11111111
+10111111
+11111111
+11111111
+NAME undefined
+
+TIL c3
+11111111
+11010101
+11111111
+11111001
+11111111
+11111101
+11111111
+11111111
+NAME undefined
+
+TIL c4
+11111111
+10101010
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL c5
+11111111
+01010101
+11111111
+11111111
+11110000
+11000000
+11000000
+10000000
+NAME undefined
+
+TIL c6
+11111111
+01010101
+11111111
+11111111
+00001111
+00000011
+00000011
+00000001
+NAME undefined
+
+TIL c7
+01111110
+01000010
+01111110
+01000010
+01111110
+01000010
+01111110
+01000010
+NAME undefined
+
+TIL c8
+11111111
+10000001
+11111111
+01010110
+01000010
+01000010
+11111111
+10000001
+NAME undefined
+
+TIL c9
+01100000
+01010000
+01000000
+01000000
+01000000
+01111100
+01000110
+01000111
+NAME undefined
+
+TIL ca
+01010011
+01011111
+01011111
+01011111
+01011111
+01011111
+01010011
+01011111
+NAME undefined
+
+TIL cb
+11001010
+11111010
+11111010
+11111010
+11111010
+11111010
+11001010
+11111010
+NAME undefined
+
+TIL cc
+00000001
+00000110
+00001001
+00010111
+00101111
+00101111
+01011111
+01011111
+NAME undefined
+
+TIL cd
+10000000
+01100000
+10010000
+11101000
+11110100
+11110100
+11111010
+11111010
+NAME undefined
+
+TIL ce
+00000000
+00000000
+00100000
+00100000
+00100000
+00111100
+00111000
+00111000
+NAME undefined
+
+TIL cf
+10000000
+00000000
+10000000
+00000000
+10000000
+00000000
+10000000
+01010101
+NAME undefined
+
+TIL cg
+00000000
+00000001
+00000000
+00000001
+00000000
+00000001
+00000000
+01010101
+NAME undefined
+
+TIL ch
+10000000
+00000000
+10000000
+00000000
+10000000
+00000000
+10000000
+00000000
+NAME undefined
+
+TIL ci
+00000000
+00000001
+00000000
+00000001
+00000000
+00000001
+00000000
+00000001
+NAME undefined
+
+TIL cj
+00000010
+00001000
+00100000
+00000000
+01000000
+00000000
+10000000
+00000000
+NAME undefined
+
+TIL ck
+10100000
+00001000
+00000000
+00000010
+00000000
+00000001
+00000000
+00000001
+NAME undefined
+
+TIL cl
+00101000
+00000010
+10000000
+00000001
+10000000
+00000001
+10000000
+00000001
+NAME undefined
+
+TIL cm
+10000000
+00000001
+10000000
+00000001
+10000000
+00000001
+10000000
+01010101
+NAME undefined
+
+TIL cn
+01100110
+01111110
+01111110
+01111110
+00111100
+00111100
+00111100
+00111100
+NAME undefined
+
+TIL co
+01010100
+00000010
+01000000
+00000010
+01000000
+00000010
+01000000
+00101010
+NAME undefined
+
+TIL cp
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL cq
+11111111
+11111111
+00111100
+00011000
+00111100
+00111100
+00011000
+00000000
+NAME undefined
+
+TIL cr
+00000000
+00000000
+00000000
+00001100
+00010010
+00011110
+00011110
+00001100
+NAME undefined
+
+TIL cs
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111000
+01110000
+>
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+00011111
+00001110
+NAME undefined
+
+TIL ct
+00000000
+00000000
+00000000
+00111010
+01111110
+00111010
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00111001
+01111110
+00111001
+00000000
+00000000
+NAME undefined
+
+TIL cu
+00000000
+00010000
+10111110
+11111111
+10111111
+00010000
+00000000
+00000000
+>
+00000000
+00010000
+10111111
+11111110
+10111111
+00010000
+00000000
+00000000
+NAME undefined
+
+TIL cv
+01101000
+11111000
+01101000
+00000000
+00001101
+00011111
+00001101
+00000000
+>
+00110100
+01111100
+00110100
+00000000
+00011010
+00111110
+00011010
+00000000
+NAME undefined
+
+TIL cw
+01100000
+11110000
+11110100
+11111110
+11111110
+11111110
+11111110
+01110111
+NAME undefined
+
+TIL cx
+01001100
+01001100
+01100100
+01100110
+01101110
+01101100
+00111100
+00011000
+>
+00100110
+00100110
+01100110
+01001100
+01001100
+01101100
+00111000
+00011000
+NAME undefined
+
+TIL cy
+00000000
+00100000
+00100100
+01000110
+01100110
+01101100
+01001100
+01001100
+>
+00000000
+01000000
+01000100
+01001100
+00101100
+00100110
+01000110
+01000110
+NAME undefined
+
+TIL cz
+00000000
+00000000
+00000000
+00000000
+00000000
+00100100
+01001000
+01001000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+01001000
+01001000
+01001000
+NAME undefined
+
+TIL d0
+01100010
+10000001
+11000000
+10000010
+10010010
+01101110
+01000010
+11111101
+NAME undefined
+
+TIL d1
+01111111
+01011111
+01111111
+00101111
+00111011
+00001111
+00000000
+00000000
+NAME undefined
+
+TIL d2
+00111000
+11111000
+11110000
+11110000
+11000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL d3
+00000000
+00000010
+10100010
+10110110
+10011110
+10011100
+10001100
+00011000
+>
+00000000
+00100000
+10100010
+10110110
+10011110
+10011100
+10001100
+00011000
+NAME undefined
+
+TIL d4
+00000000
+00000000
+00000000
+01010000
+01111000
+01011011
+00000100
+00000011
+>
+00000000
+00000000
+01010000
+01111000
+01011000
+00000011
+00000100
+00000011
+NAME undefined
+
+TIL d5
+10000000
+01000000
+11110100
+11111100
+10111000
+00100000
+00000000
+00000000
+>
+10000000
+11100000
+11111100
+11111000
+10010100
+00110000
+00000000
+00000000
+NAME undefined
+
+TIL d6
+00000000
+00000000
+00000000
+00000100
+00001010
+00001001
+01001001
+10100101
+NAME undefined
+
+TIL d7
+00000000
+00000000
+00000000
+01000000
+01000000
+10101110
+10101001
+11101110
+NAME undefined
+
+TIL d8
+11111111
+00100010
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL d9
+11111111
+00100010
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL da
+11111111
+10000000
+11111111
+00111111
+00110111
+00111010
+00110101
+00111010
+NAME undefined
+
+TIL db
+11111111
+00000000
+11111111
+11111111
+01110111
+10101010
+01010101
+10101010
+NAME undefined
+
+TIL dc
+11111111
+00000001
+11111111
+11111100
+01111100
+10101100
+01011100
+10101100
+NAME undefined
+
+TIL dd
+00001010
+00001000
+00001010
+00001010
+00001010
+00001010
+00001000
+00001010
+NAME undefined
+
+TIL de
+00000000
+00000000
+00000000
+00000000
+00000011
+00000100
+00001001
+00001010
+NAME undefined
+
+TIL df
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+10111101
+00000000
+NAME undefined
+
+TIL dg
+00000000
+00000000
+00000000
+00000000
+11000000
+00100000
+10010000
+01011000
+NAME undefined
+
+TIL dh
+01011000
+00011000
+01011000
+01011000
+01011000
+01011000
+00011000
+01011000
+NAME undefined
+
+TIL di
+00000000
+00000000
+00000000
+00000000
+00001111
+00111111
+11110001
+11101110
+NAME undefined
+
+TIL dj
+11111111
+11100000
+11111111
+11111111
+11110101
+11101010
+11010101
+11101010
+NAME undefined
+
+TIL dk
+00000000
+00000000
+00000000
+00000000
+00000000
+01000000
+00111111
+00011111
+NAME undefined
+
+TIL dl
+00000000
+00000000
+00000000
+00000000
+00000000
+11101110
+11101110
+11001100
+NAME undefined
+
+TIL dm
+00000000
+00000000
+00000100
+00000100
+00001110
+00001110
+00001110
+00001110
+NAME undefined
+
+TIL dn
+10110100
+11010100
+11110110
+11110101
+11110111
+01011111
+10101111
+01010101
+NAME undefined
+
+TIL do
+00101011
+00101101
+10101111
+01101111
+11101110
+11111101
+11101010
+01010101
+NAME undefined
+
+TIL dp
+00000000
+11100000
+00111000
+00101110
+00101001
+00101001
+00101001
+00101001
+NAME undefined
+
+TIL dq
+00000000
+00000111
+00011100
+01110100
+10010100
+10010100
+10010100
+10010100
+NAME undefined
+
+TIL dr
+11100111
+11100111
+10111110
+01010101
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL ds
+00011100
+00001001
+00111111
+01111111
+01100001
+01100000
+00000000
+00000000
+NAME undefined
+
+TIL dt
+11101110
+01010101
+10101010
+01010101
+10001000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL du
+00111100
+01010010
+10000001
+10011011
+11011001
+10000001
+01001010
+00111100
+NAME undefined
+
+TIL dv
+10000001
+01000010
+00100100
+00010000
+00001000
+01100110
+01100110
+10000001
+NAME undefined
+
+TIL dw
+01010100
+11010110
+11111110
+11010110
+01010100
+00010000
+00010000
+00010000
+NAME undefined
+
+TIL dx
+00010000
+00010000
+00010000
+00010000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL dy
+00000000
+00000000
+00000000
+00111000
+00000000
+00001110
+00000000
+00000000
+NAME undefined
+
+TIL dz
+11111111
+10000001
+10111101
+10110101
+10101101
+10111101
+10000001
+11111111
+NAME undefined
+
+TIL e0
+11111111
+10100000
+10111111
+10100000
+10100000
+10111111
+10100000
+11111111
+NAME undefined
+
+TIL e1
+11111111
+00000101
+11111101
+00000101
+00000101
+11111101
+00000101
+11111111
+NAME undefined
+
+TIL e2
+11111111
+10000001
+11111111
+10100101
+10100101
+10100101
+10100101
+10100101
+NAME undefined
+
+TIL e3
+10100101
+10100101
+10100101
+10100101
+10100101
+11111111
+10000001
+11111111
+NAME undefined
+
+TIL e4
+11111100
+11111101
+11110011
+11110111
+11001111
+11011111
+00111111
+01111111
+NAME undefined
+
+TIL e5
+00000000
+00000000
+00000000
+00000000
+00000000
+10101010
+01010101
+00000000
+NAME undefined
+
+TIL e6
+00000000
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL e7
+00000001
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL e8
+11111110
+11111110
+11111110
+11111110
+11111110
+11111110
+11111110
+11111110
+NAME undefined
+
+TIL e9
+11111110
+11111100
+11111000
+11110000
+11100001
+11000011
+10000111
+00001111
+NAME undefined
+
+TIL ea
+11111111
+11100111
+11000011
+11000011
+10011001
+10111101
+10111101
+10111101
+NAME undefined
+
+TIL eb
+10111101
+10111101
+10111101
+10111101
+10111101
+10111101
+10111101
+10000001
+NAME undefined
+
+TIL ec
+10101010
+11111111
+01010101
+11111111
+11111111
+10101010
+11111111
+11111111
+NAME undefined
+
+TIL ed
+00000000
+00000000
+00000000
+00000000
+00111100
+00111110
+01111010
+01111110
+NAME undefined
+
+TIL ee
+00011111
+00111111
+01111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL ef
+11111110
+11111110
+11111110
+01110110
+11011100
+10101010
+01010100
+10101010
+NAME undefined
+
+TIL eg
+00000000
+10101010
+11111110
+11111110
+11111110
+11111110
+11111110
+11111110
+NAME undefined
+
+TIL eh
+00000000
+00000000
+00000000
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL ei
+11111111
+11000011
+11111111
+11000011
+11111111
+11000011
+11111111
+11000011
+NAME undefined
+
+TIL ej
+00000000
+01111110
+01010100
+01111110
+00111100
+11111111
+11111111
+00000000
+>
+00000000
+01111110
+00101010
+01111110
+00111100
+11111111
+11111111
+00000000
+NAME undefined
+
+TIL ek
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+NAME undefined
+
+TIL el
+00011000
+00000001
+00011111
+00011011
+00011111
+00011011
+00011110
+00011000
+>
+00011000
+00000000
+00011111
+00011011
+00011111
+00011011
+00011111
+00011000
+NAME undefined
+
+TIL em
+00000000
+00000000
+11001110
+11111111
+11111110
+11111000
+01110000
+00000000
+>
+00000000
+11100000
+11110000
+11111011
+11111110
+11011110
+00001100
+00000000
+NAME undefined
+
+TIL en
+11110000
+10011111
+11010101
+10100101
+01000001
+01100100
+01000001
+01100000
+
+TIL eo
+00000000
+00000000
+11100000
+01011000
+01010100
+01010110
+00010101
+01000101
+
+TIL ep
+01000000
+01100010
+01010101
+01011010
+00011101
+01010110
+00000101
+00010110
+
+TIL eq
+00100000
+00100000
+00010000
+00010000
+00001000
+00000100
+00000010
+00000001
+
+TIL er
+10000000
+01000000
+00110000
+00001100
+00000011
+00000000
+00000000
+00000000
+
+TIL es
+00000010
+10000110
+01001010
+10011010
+01011000
+10101010
+01100000
+11101000
+
+TIL et
+00000000
+00000000
+00000111
+00011010
+00101010
+01101000
+10100010
+10101000
+
+TIL eu
+00001111
+11111111
+10101011
+10100111
+00001110
+10110110
+00001110
+00010110
+
+TIL ev
+00101100
+01011100
+00111000
+01011000
+10110010
+01110101
+11101010
+11010101
+
+TIL ew
+00101011
+01011111
+10111110
+11110101
+11101010
+01010101
+10101010
+01010101
+
+TIL ex
+00000011
+00000011
+00000100
+00000000
+10000000
+01000000
+00100000
+00100000
+
+TIL ey
+01100000
+11000001
+00100010
+00000101
+00001011
+00010111
+00101110
+00011101
+
+TIL ez
+00101111
+00011110
+00101101
+00011111
+00101111
+00010111
+00001111
+00010110
+
+TIL f0
+11100000
+00100000
+00100000
+11100000
+01000000
+11000000
+01000000
+01000000
+
+TIL f1
+10000000
+10000000
+10000000
+10000000
+10000000
+01000000
+00111000
+00000111
+
+TIL f2
+00001011
+00010111
+00101011
+00010111
+00101011
+01010110
+10111100
+11100000
+
+TIL f3
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+10000000
+
+TIL f4
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+
+TIL f5
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+00000000
+11111111
+
+TIL f6
+00001001
+00001001
+00001001
+00001001
+11111001
+00000001
+00000001
+11111111
+
+TIL f7
+01011001
+10101001
+01001001
+10001001
+00001001
+00001001
+00001001
+00001001
+
+TIL f8
+11111111
+10101011
+01010101
+11111011
+01011101
+11111001
+01011001
+10101001
+
+TIL f9
+11111111
+10000000
+10000000
+10011111
+10010000
+10011111
+10011000
+10010100
+
+TIL fa
+10011000
+10010100
+10011000
+10010100
+10011000
+10010100
+10011000
+10010100
+
+TIL fb
+10011000
+10010100
+10011000
+10010100
+10011111
+10000000
+10000000
+11111111
+
+TIL fc
+10000000
+10000000
+10000000
+11110111
+00000000
+00010000
+00101000
+00000000
+
+TIL fd
+00000000
+00000000
+00000000
+11111011
+00000000
+00000000
+00000000
+00000000
+
+TIL fe
+00000001
+00000001
+00000001
+11011111
+00000000
+00000000
+00010100
+00000000
+
+TIL ff
+10100000
+01010000
+10100000
+01010000
+10100000
+01010000
+10100000
+01010000
+
+TIL fg
+10100000
+01000000
+10000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL fh
+10101010
+01010100
+10101000
+01010100
+10101000
+01010000
+10100000
+01010000
+
+TIL fi
+10000000
+10100000
+00000000
+10000000
+00000000
+00000001
+00000010
+00000101
+
+TIL fj
+00010001
+00000101
+00000000
+00000001
+00000000
+00000000
+00000000
+00000000
+
+TIL fk
+11111111
+10101010
+11111111
+10100001
+11100101
+10100011
+11101000
+10101001
+
+TIL fl
+11111110
+10101011
+11111110
+00001011
+01001110
+10001011
+00101110
+00101011
+
+TIL fm
+11100001
+10101001
+11101110
+10100001
+11100001
+10111111
+11100000
+00000000
+
+TIL fn
+00001110
+00101011
+11101110
+00001011
+00001110
+11111011
+00001110
+00000000
+
+TIL fo
+00000011
+00001101
+00110101
+11000101
+10010111
+11011111
+10111010
+11000011
+
+TIL fp
+10101010
+10100011
+10101010
+10001011
+10101010
+10000011
+11111110
+00000000
+
+TIL fq
+10101000
+01010000
+10100000
+01000000
+10000000
+00000000
+00000000
+00000000
+
+TIL fr
+00000000
+00000000
+00000000
+00000000
+00101000
+01010100
+10101000
+01010100
+
+TIL fs
+10000000
+10000000
+00000000
+10000000
+00000000
+10000000
+10000000
+10000000
+
+TIL ft
+00000010
+00000011
+00000010
+00000001
+00000010
+00000011
+00000010
+00000011
+
+TIL fu
+10101000
+01010100
+10101010
+01010100
+10101010
+01010101
+10101010
+01010100
+
+TIL fv
+10100000
+01010000
+10101000
+01010000
+10101000
+01010100
+10101000
+01010100
+
+TIL fw
+10000000
+00000000
+10000000
+01000000
+10000000
+01000000
+10100000
+01000000
+
+TIL fx
+00000000
+00000001
+00000000
+00000001
+00000000
+00000001
+00000000
+00000001
+
+TIL fy
+00000000
+00000101
+01010010
+00100000
+00001010
+10100100
+01000000
+00000000
+
+TIL fz
+00000000
+00000000
+10101010
+00000000
+00000000
+00000000
+01010101
+00000000
+
+TIL g0
+00100000
+00100010
+11100010
+00001110
+01000000
+01000100
+11000101
+00011100
+
+TIL g1
+01000100
+10101010
+01000100
+01000100
+00010001
+10101010
+00010001
+00010001
+
+TIL g2
+00000000
+00000000
+10101010
+00000000
+10010000
+00000010
+01010101
+00001000
+>
+00101000
+00000000
+10101010
+01000001
+00000000
+00000000
+01010101
+00000000
+
+TIL g3
+11110000
+10011111
+10010101
+10000101
+01010001
+01000100
+01000001
+01000000
+
+TIL g4
+01000000
+01100000
+01010000
+01011000
+00011000
+01010100
+00000110
+00010110
+
+TIL g5
+00000010
+00000110
+00001010
+00011010
+00011000
+00101010
+01100000
+01101000
+
+TIL g6
+00000010
+00000001
+00011000
+00001000
+10000000
+01000000
+00100000
+00100000
+
+TIL g7
+00101100
+01011100
+00111000
+01011000
+10110000
+01110000
+11100000
+11000000
+
+TIL g8
+00101011
+01011111
+10111110
+11110000
+11000000
+00000000
+00000000
+00000000
+
+TIL g9
+01100000
+11000001
+00100010
+00000101
+00001011
+00010111
+00101110
+00011100
+
+TIL ga
+00101100
+00011100
+00101100
+00011100
+00101110
+11111111
+00000000
+00000000
+
+TIL gb
+00100000
+00100000
+00100000
+00100000
+01000000
+11111111
+00000000
+00000000
+
+TIL gc
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+10000000
+10000000
+
+TIL gd
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+00000001
+00000001
+
+TIL ge
+10110110
+11111111
+10101010
+01010101
+11111111
+11111111
+11111111
+11111111
+
+TIL gf
+00000000
+00000000
+00000000
+00000000
+00010000
+00010000
+00010100
+00010100
+
+TIL gg
+01011010
+01111111
+01111111
+01111111
+11111111
+11100001
+11100101
+11100011
+
+TIL gh
+01101010
+11111110
+11111110
+11111111
+11111111
+00001111
+01001111
+10001111
+
+TIL gi
+11101000
+11101001
+11100001
+11101001
+11101110
+11100001
+11100001
+11111111
+
+TIL gj
+00101111
+00101111
+00001111
+00101111
+11101111
+00001111
+00001111
+11111111
+
+TIL gk
+10101010
+10101010
+10100010
+10101010
+10001010
+10101010
+10000010
+11111111
+
+TIL gl
+00000000
+00000000
+00000011
+00001101
+00110011
+11001110
+10110010
+11000010
+
+TIL gm
+11111111
+11111111
+10101010
+01010101
+11111111
+11111111
+11111111
+11111111
+
+TIL gn
+00000000
+00000000
+00000000
+00000000
+00011000
+00100100
+00100110
+01000010
+
+TIL go
+00000000
+00000001
+00000001
+00000011
+00000011
+00000111
+00011111
+01111111
+
+TIL gp
+00000000
+10000000
+10000000
+11000000
+11000000
+11100000
+11111000
+11111110
+
+TIL gq
+11110000
+11111000
+11111111
+11111111
+11110000
+11111000
+11111111
+11111111
+
+TIL gr
+00001111
+00001111
+11111111
+11111111
+00001111
+00001111
+11111111
+11111111
+
+TIL gs
+11111110
+11110100
+11101000
+11010000
+11101000
+11110000
+11101000
+11110100
+
+TIL gt
+01111111
+00101111
+00010111
+00001011
+00010111
+00001011
+00010111
+00101111
+
+TIL gu
+11111111
+11000011
+10000001
+11100001
+10000111
+11100101
+10000001
+11000011
+
+TIL gv
+00000000
+00110000
+01111011
+01111000
+01111011
+01111000
+01111011
+00000000
+
+TIL gw
+11111111
+11111111
+11111110
+11111101
+11111110
+11111101
+11111010
+11111100
+
+TIL gx
+11110000
+11110000
+11110000
+11100000
+11100000
+11100000
+11000000
+10000000
+
+TIL gy
+11111111
+11000000
+11111010
+10000000
+11111010
+10000000
+11111010
+10000000
+
+TIL gz
+11111101
+11000000
+11111101
+11000000
+11111110
+11100000
+11111110
+11100000
+
+TIL h0
+11111110
+11100000
+11111110
+11110000
+11111110
+11111000
+10111110
+11111111
+
+TIL h1
+00000000
+00000000
+10000000
+10000000
+10000000
+11000000
+11000000
+11100000
+
+TIL h2
+11100000
+11110000
+11110000
+11111000
+10101000
+01010100
+10000010
+00000001
+
+TIL h3
+10000000
+01000000
+00100000
+00010000
+00001100
+00000011
+00000000
+00000000
+
+TIL h4
+11111111
+11111111
+11111111
+01111111
+10111111
+01111111
+00011111
+00011111
+
+TIL h5
+00001111
+00001110
+00001010
+00000010
+00000000
+00000000
+00000011
+00000001
+
+TIL h6
+11111111
+11111111
+10111111
+00111101
+01111011
+11111111
+11111111
+11111111
+
+TIL h7
+11111111
+11111111
+01111111
+01111111
+01111111
+00111111
+00111111
+00011111
+
+TIL h8
+00000010
+00001111
+00000010
+00001111
+00000101
+00001111
+00000101
+00001111
+
+TIL h9
+00000101
+00001111
+00001011
+00001111
+00001111
+00011111
+00011111
+00011111
+
+TIL ha
+00011111
+00011111
+00111111
+00111111
+00111111
+01111001
+01111101
+01111111
+
+TIL hb
+00000000
+00000000
+00000001
+00000001
+00000001
+00000011
+00000011
+00000011
+
+TIL hc
+00000111
+00000101
+11001010
+00110101
+10100000
+10100000
+01000000
+00000000
+
+TIL hd
+00000000
+00000000
+00000011
+00000100
+00000101
+11000101
+00111101
+00000010
+
+TIL he
+00111100
+01000010
+10000001
+10011001
+10110101
+10111101
+01011010
+00111100
+
+TIL hf
+00000000
+00000111
+00011000
+01100000
+10000000
+00000000
+00000000
+00000000
+
+TIL hg
+00000000
+11110000
+00011100
+00000110
+00000010
+00000000
+00000000
+00000000
+
+TIL hh
+01111111
+10000001
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL hi
+00000000
+00000000
+00100010
+01010101
+00000000
+00001000
+00010100
+00000000
+
+TIL hj
+11101111
+01111101
+10101010
+01010101
+10101010
+00000000
+00000000
+00000000
+
+TIL hk
+11111111
+11111111
+11111111
+11111011
+11110101
+11111011
+11111111
+11111111
+
+TIL hl
+00000000
+00000000
+00000000
+10101010
+00000000
+00000000
+00000000
+00000000
+
+TIL hm
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+01111110
+10000001
+
+TIL hn
+01110000
+01011101
+01110001
+10001001
+10001111
+10001001
+10100101
+11010101
+
+TIL ho
+00000000
+00000000
+00111000
+11111100
+11111110
+11111111
+11111111
+11111111
+
+TIL hp
+00000000
+00000000
+00000000
+00000000
+00111100
+11111111
+11111111
+11111111
+
+TIL hq
+00000000
+00000000
+00000000
+00000000
+00000000
+11000000
+11110011
+11111111
+
+TIL hr
+00000001
+00000111
+00001111
+00111111
+11111111
+11111111
+11111111
+11111111
+
+TIL hs
+00000000
+10000000
+11000000
+11101100
+11111111
+11111111
+11111111
+11111111
+
+TIL ht
+00000000
+00000000
+00000000
+00011100
+11111110
+11111111
+11111111
+11111111
+
+TIL hu
+00000000
+00000000
+00000000
+00000000
+00000010
+11100111
+11111111
+11111111
+
+TIL hv
+00000000
+00000000
+00000000
+00000000
+00000001
+10111011
+11111111
+11111111
+
+TIL hw
+00000000
+00000000
+00000000
+00000000
+00000000
+10011100
+11111111
+11111111
+
+TIL hx
+00100000
+00110000
+00111000
+01111100
+11111110
+11111111
+11111111
+11111111
+
+TIL hy
+00000000
+11000000
+11110000
+11111000
+11111100
+11111110
+11111110
+11111110
+
+TIL hz
+00000000
+00000000
+00011110
+00111111
+00111111
+00111111
+01111111
+11111111
+
+TIL i0
+11111111
+11011101
+10111011
+01000100
+11101110
+00000001
+00111000
+00000000
+>
+11111111
+11011101
+10001000
+01010111
+10001000
+01110101
+00001000
+00000000
+
+TIL i1
+11111111
+11111101
+10101010
+01110111
+10000000
+01001101
+10000000
+00000000
+>
+11111111
+11011101
+10111011
+00000000
+11101110
+00000001
+11000100
+00000000
+
+TIL i2
+11111111
+11111111
+11111111
+11111100
+11101110
+11000001
+10111000
+00000000
+>
+11111111
+11111111
+11111111
+11110111
+11101000
+11110101
+10001000
+00000000
+
+TIL i3
+11111111
+11111111
+10111111
+01111111
+10000111
+01001111
+10000001
+00011001
+>
+11111111
+11111111
+10111111
+00001111
+11101111
+00000111
+11011001
+00000001
+
+TIL i4
+00000110
+11000000
+00000011
+00110000
+00000000
+00001100
+00000000
+00000000
+>
+11000000
+00000011
+00110000
+00000000
+00001100
+00000000
+00000000
+00000000
+
+TIL i5
+00111011
+00111011
+01111101
+01111010
+01111011
+11110111
+11110111
+11110111
+
+TIL i6
+00000000
+00001111
+00011011
+00010010
+00111101
+00101110
+00110010
+00111101
+
+TIL i7
+11000000
+01111000
+01111111
+11011011
+11111110
+11111111
+10001101
+11110101
+
+TIL i8
+11101101
+11101101
+11011110
+00011111
+11101101
+11101010
+11110110
+11110110
+
+TIL i9
+00011010
+00111010
+11110111
+01011010
+11101101
+01011101
+10111011
+11101011
+
+TIL ia
+00000000
+00000000
+00000000
+00000000
+00000000
+00001100
+00001111
+00011011
+
+TIL ib
+00000000
+00000000
+01010100
+10101011
+11111110
+10000011
+11111111
+01110110
+
+TIL ic
+00000000
+00000000
+00000000
+10000000
+11000000
+11100000
+10110000
+10111000
+
+TIL id
+00111000
+11011000
+11011000
+11111100
+11011100
+10101100
+01101100
+01101100
+
+TIL ie
+01100100
+01101100
+01011110
+00111110
+11000110
+00011011
+11101011
+11110011
+
+TIL if
+10110110
+11010101
+11100101
+00111011
+11010111
+11010111
+11101100
+11101011
+
+TIL ig
+10111111
+10110011
+01101101
+11011101
+10111011
+10111101
+00011101
+01011111
+
+TIL ih
+11111001
+10101111
+11111010
+10110111
+01011111
+01101101
+01101011
+01101011
+
+TIL ii
+11111111
+01011111
+00110101
+00000011
+00011000
+00000000
+00000000
+00000000
+>
+01111111
+10101111
+00001010
+00110000
+00000011
+00000000
+00000000
+00000000
+
+TIL ij
+11110111
+11111111
+11110111
+01000101
+00000000
+00011000
+11000011
+00000000
+>
+11110111
+11111111
+11101111
+10100010
+00011000
+11000011
+00000000
+00101000
+
+TIL ik
+01101011
+01110101
+11110111
+01011111
+00011111
+11000101
+00001000
+00110011
+>
+01101011
+01110101
+11110111
+10111111
+11001111
+00001010
+00110000
+00000000
+
+TIL il
+11101101
+11101111
+11111111
+11101011
+10000010
+00011000
+01100110
+00000000
+>
+11101101
+11101111
+11111111
+11010111
+01101001
+11000011
+00011000
+00000000
+
+TIL im
+11111111
+00111110
+11011000
+11100011
+11111000
+10000110
+00011000
+11000000
+>
+11111111
+00111101
+11010100
+11110000
+11000110
+00011000
+11000000
+00000000
+
+TIL in
+01100000
+00000000
+11000000
+00000000
+01100000
+00000000
+00000000
+00000000
+>
+00110000
+00000000
+01100000
+00000000
+00000000
+01100000
+00000000
+00000000
+
+TIL io
+00000000
+00000000
+00000000
+00000000
+00000110
+01100000
+00000000
+00001100
+>
+00000000
+00000000
+00000000
+00000000
+11000000
+00000110
+00110000
+00000000
+
+TIL ip
+11000000
+11000000
+11110000
+11110000
+11111100
+11111100
+11111111
+11111111
+
+TIL iq
+00000011
+00000011
+00001111
+00001111
+00111111
+00111111
+11111111
+11111111
+
+TIL ir
+11000000
+01000000
+01110000
+00010000
+00011100
+00000100
+00000111
+00000001
+
+TIL is
+00000001
+00000000
+00011000
+00111100
+00111100
+00111100
+00111100
+00000000
+
+TIL it
+00000011
+00001111
+00011111
+00111111
+01111111
+01111111
+11111111
+11111111
+
+TIL iu
+11000000
+11110000
+11111000
+11111100
+11111110
+11111110
+11111111
+11111111
+
+TIL iv
+01000010
+01111110
+00100100
+00100100
+00100100
+00100100
+00100100
+00100100
+
+TIL iw
+00100100
+00100100
+00100100
+00100100
+00100100
+00100100
+01111110
+01000010
+
+TIL ix
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00110010
+11111111
+
+TIL iy
+00000000
+00011000
+00100100
+00100100
+00100100
+00111100
+00000000
+00000000
+
+TIL iz
+11111111
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+
+TIL j0
+11111111
+01111111
+01111111
+00011111
+00011111
+00000111
+00000111
+00000001
+
+TIL j1
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+
+TIL j2
+00000011
+00000010
+00001110
+00001000
+00111000
+00100000
+11100000
+10000000
+
+TIL j3
+11111111
+11111110
+11111110
+11111000
+11111000
+11100000
+11100000
+10000000
+
+TIL j4
+10000000
+00000000
+00011000
+00111100
+00111100
+00111100
+00111100
+00000000
+
+TIL j5
+10000000
+00000000
+00000000
+00000100
+00000100
+00001110
+01001010
+10101010
+
+TIL j6
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL j7
+11111111
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+
+TIL j8
+01111101
+00111001
+00111000
+00111000
+00010000
+00010000
+00010000
+00010000
+
+TIL j9
+11111111
+11111110
+11111100
+11111100
+11111100
+11101000
+11001000
+11001000
+
+TIL ja
+11111111
+11111111
+11111110
+10011100
+10001000
+10001000
+10001000
+10000000
+
+TIL jb
+11111111
+01111111
+00111111
+00111111
+00011110
+00011000
+00010000
+00010000
+
+TIL jc
+11111111
+11111111
+11111111
+11111111
+01111111
+00111110
+00111100
+00011100
+
+TIL jd
+00011100
+00011100
+00011100
+00011100
+00001100
+00001100
+00001000
+00001000
+
+TIL je
+11111111
+00111111
+00011111
+00011011
+00001001
+00001001
+00000001
+00000001
+
+TIL jf
+00000000
+01000001
+00000000
+00100100
+00000000
+00101000
+00000000
+00010000
+
+TIL jg
+00000000
+00100000
+00000000
+00010100
+00000000
+00001000
+00000000
+00000000
+
+TIL jh
+00000000
+00111100
+00100100
+00111100
+00100100
+01111110
+00000000
+00000000
+
+TIL ji
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+
+TIL jj
+10101010
+11111111
+01010101
+11111111
+10101010
+11111111
+01010101
+11111111
+
+TIL jk
+10001000
+11111111
+00100010
+11111111
+10001000
+11111111
+00100010
+11111111
+
+TIL jl
+10001000
+11111111
+00111110
+11111111
+10111110
+11111111
+00100010
+11111111
+
+TIL jm
+11111111
+10001001
+10010001
+10001001
+10010001
+10001001
+10010001
+10001001
+
+TIL jn
+11111111
+10000000
+10111110
+10101010
+10100010
+10101010
+10000000
+11111111
+
+TIL jo
+11111111
+00000000
+11110111
+10000010
+00010010
+11110111
+00000000
+11111111
+
+TIL jp
+11111111
+00000011
+00111011
+00101011
+00111011
+00010011
+00000011
+11111111
+
+TIL jq
+00000001
+11111001
+00000001
+11111001
+00000001
+11111001
+00000001
+11111001
+
+TIL jr
+10000000
+10011111
+10000000
+10011111
+10000000
+10011111
+10000000
+10011111
+
+TIL js
+10000001
+10111101
+10000001
+10111101
+10000001
+10111101
+10000001
+10111101
+
+TIL jt
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+
+TIL ju
+10001000
+01010101
+00100010
+01010101
+10001000
+01010101
+00100010
+01010101
+
+TIL jv
+10001000
+01010101
+01111110
+01000011
+11011010
+01011011
+01011010
+01000011
+
+TIL jw
+00000000
+00000000
+01100110
+01100110
+01100110
+01100110
+00000000
+00000000
+
+TIL jx
+11111111
+10000001
+10111101
+10111101
+10111101
+10111101
+10111101
+10111101
+
+TIL jy
+11111111
+00000000
+00000010
+01000000
+00000000
+00001000
+00000000
+00000000
+
+TIL jz
+10000000
+10001100
+10011100
+10011100
+10010110
+10111110
+10101100
+10110110
+
+TIL k0
+10101110
+10111110
+10111110
+10110100
+10011110
+10111010
+10111110
+10110110
+
+TIL k1
+10111110
+10011100
+10001000
+10001000
+10011100
+10010100
+10011100
+10000000
+
+TIL k2
+11111111
+11010101
+10101010
+10000000
+11010101
+10000000
+10101010
+10000000
+
+TIL k3
+00000000
+00000000
+00111100
+00111100
+00111100
+00111100
+00111100
+00111100
+
+TIL k4
+00000000
+00000110
+00000110
+01100110
+01100110
+01100000
+01100000
+00000000
+
+TIL k5
+11111111
+11111111
+11010111
+11101011
+11010111
+10101011
+10000001
+10000001
+
+TIL k6
+11111111
+00100100
+10100101
+00100100
+10100101
+00100100
+10111101
+00000000
+
+TIL k7
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+11111111
+
+TIL k8
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+11111111
+
+TIL k9
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL ka
+00001000
+00010100
+00101010
+01010101
+00101010
+00010100
+00001000
+00000000
+
+TIL kb
+00000000
+00111000
+01110100
+01011100
+01111100
+01101100
+00111000
+00010000
+
+TIL kc
+00010000
+00010000
+00111000
+00101000
+00111000
+00000000
+00000000
+00000000
+
+TIL kd
+11011011
+10000001
+00000000
+10000001
+10000001
+00000000
+10000001
+11011011
+
+TIL ke
+11100111
+11000011
+10011001
+10101001
+10111101
+10001001
+10000001
+11111111
+
+TIL kf
+11100111
+11000011
+10011101
+10011001
+10000101
+10011001
+10000001
+11111111
+
+TIL kg
+11111111
+10000001
+10001001
+10001001
+10001001
+10001001
+11000011
+11100111
+
+TIL kh
+11111111
+10000011
+10111001
+10110000
+10001000
+10110001
+10000011
+11111111
+
+TIL ki
+11111111
+10000011
+10111001
+10010000
+10001000
+10110001
+10000011
+11111111
+
+TIL kj
+11100111
+11000011
+10011101
+10001001
+10000101
+10011001
+10000001
+11111111
+
+TIL kk
+11111111
+10000011
+10110001
+10001000
+10010000
+10111001
+10000011
+11111111
+
+TIL kl
+11111111
+11000001
+10011101
+00011001
+00000101
+10011001
+11000001
+11111111
+
+TIL km
+11111111
+11000001
+10011101
+00001001
+00000101
+10011001
+11000001
+11111111
+
+TIL kn
+11111111
+11000001
+10011001
+00000101
+00001001
+10011101
+11000001
+11111111
+
+TIL ko
+11100111
+11000011
+10011001
+10000101
+10001001
+10011101
+10000001
+11111111
+
+TIL kp
+11100111
+11000011
+10001001
+10001001
+10001001
+10001001
+10000001
+11111111
+
+TIL kq
+11111111
+10000001
+10011001
+10101001
+10111101
+10001001
+11000011
+11100111
+
+TIL kr
+11111111
+10000001
+10011101
+10011001
+10000101
+10011001
+11000011
+11100111
+
+TIL ks
+00111100
+01111110
+10101011
+11010101
+10101011
+11000001
+01000010
+00111100
+
+TIL kt
+10101010
+01010101
+10101010
+01110111
+11011101
+11111111
+11111111
+11111111
+
+TIL ku
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+
+TIL kv
+00000000
+00110011
+10011001
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL kw
+00000000
+00000000
+00000000
+00000000
+00000000
+11001100
+10011001
+00000000
+
+TIL kx
+00000100
+00000000
+00000010
+00000110
+00000100
+00000000
+00000010
+00000110
+
+TIL ky
+01000000
+00000000
+00100000
+01100000
+01000000
+00000000
+00100000
+01100000
+
+TIL kz
+01100000
+11100000
+11000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL l0
+00000110
+00000111
+00000011
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL l1
+00000000
+00000000
+00000000
+00000000
+00000000
+00000011
+00000111
+00000110
+
+TIL l2
+00000000
+00000000
+00000000
+00000000
+00000000
+11000000
+11100000
+01100000
+
+TIL l3
+00000001
+01111101
+01101101
+01010101
+01000101
+01000101
+00000001
+11111111
+
+TIL l4
+10000000
+10001000
+10011100
+10000000
+10011100
+10011100
+10000000
+11111111
+
+TIL l5
+00111111
+00111111
+00100001
+00100000
+00100001
+00100001
+00111111
+00111111
+>
+00100001
+00100001
+00111111
+00111111
+00111111
+00111111
+00100001
+00100000
+
+TIL l6
+11111110
+11111100
+11111110
+00001100
+11111110
+11111100
+11111110
+11111100
+>
+11111110
+11111100
+11111110
+11111100
+11111110
+11111100
+11111110
+00001100
+
+TIL l7
+10000000
+10001110
+10001110
+10100000
+10001010
+10100100
+10000000
+11111111
+>
+10000000
+10101110
+10001110
+10000000
+10000100
+10101010
+10000000
+11111111
+
+TIL l8
+00000001
+01111101
+01000101
+01101101
+01010101
+01111101
+00000001
+11111111
+>
+00000001
+01111101
+01010101
+01101101
+01000101
+01111101
+00000001
+11111111
+
+TIL l9
+00111111
+00111111
+00110000
+00111111
+00111111
+00111111
+00110000
+00111111
+>
+00110000
+00111111
+00111111
+00111111
+00110000
+00111111
+00111111
+00111111
+
+TIL la
+11111100
+11111110
+00001100
+11111110
+11111100
+11111110
+00001100
+11111110
+>
+00001100
+11111110
+11111100
+11111110
+00001100
+11111110
+11111100
+11111110
+
+TIL lb
+00111111
+00100001
+00100001
+00100001
+00100001
+00100001
+00100001
+00100011
+
+TIL lc
+11111100
+10000100
+10000100
+10000100
+10000100
+10000100
+10000100
+11000100
+
+TIL ld
+00100001
+00100001
+00100001
+00100001
+00100001
+00100001
+00100001
+01111111
+
+TIL le
+10000100
+10000100
+10000100
+10000100
+10000100
+10000100
+10000100
+11111110
+
+TIL lf
+00000000
+00000000
+00000000
+00011111
+00010000
+00010111
+00010100
+00010100
+
+TIL lg
+00000000
+00000000
+00000000
+11111111
+00000000
+11111111
+00000000
+00000000
+
+TIL lh
+00000000
+00000000
+00000000
+11111000
+00001100
+11101100
+00101100
+00101100
+
+TIL li
+00101100
+00101100
+00101100
+00101100
+00101100
+00101100
+00101100
+00101100
+
+TIL lj
+00101100
+00101100
+11101100
+00001100
+11111100
+11111100
+00000000
+00000000
+
+TIL lk
+00000000
+00000000
+11111111
+00000000
+11111111
+11111111
+00000000
+00000000
+
+TIL ll
+00010100
+00010100
+00010111
+00010000
+00011111
+00001111
+00000000
+00000000
+
+TIL lm
+00010100
+00010100
+00010100
+00010100
+00010100
+00010100
+00010100
+00010100
+
+TIL ln
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+00000000
+
+TIL lo
+11111111
+11111100
+10101010
+11010101
+11101010
+10010101
+10101010
+10010100
+
+TIL lp
+11100001
+00010010
+00000100
+00011010
+10111010
+10111001
+10000001
+11000001
+
+TIL lq
+11100001
+11010001
+01000001
+01011010
+00110010
+00110100
+00011000
+11100000
+
+TIL lr
+10000000
+10000000
+10001000
+01111000
+01111000
+00100000
+00011000
+00000111
+
+TIL ls
+00011000
+00011000
+00011000
+00111100
+01111110
+10111101
+00100100
+00100100
+
+TIL lt
+11111111
+11011000
+10101000
+11011000
+10101000
+11011111
+10101000
+11011000
+
+TIL lu
+11111111
+00100001
+00100001
+00100001
+00100001
+11111111
+00100001
+00100001
+
+TIL lv
+11111111
+10101011
+00000001
+10101011
+00000001
+11111111
+00100001
+00100001
+
+TIL lw
+10101000
+11011111
+10101000
+11011000
+11111111
+10001000
+10001000
+11111111
+
+TIL lx
+00100001
+11100001
+00100001
+00100001
+11111111
+00111111
+00111111
+11111111
+
+TIL ly
+00100001
+00100001
+00100001
+00100001
+11111111
+11100001
+11100001
+11111111
+
+TIL lz
+00110000
+00000101
+01011100
+00010100
+00111110
+11111111
+10111111
+01010101
+
+TIL m0
+00000000
+00010000
+00110000
+01111000
+00011101
+10001000
+00000010
+00011000
+
+TIL m1
+00000000
+00000000
+00000000
+00001000
+01010000
+01000000
+01110000
+00000000
+
+TIL m2
+11110101
+10001010
+10001010
+10001010
+10000010
+10000010
+10000010
+10000000
+
+TIL m3
+10000000
+10000000
+10001000
+10001100
+10001010
+10001101
+10001010
+10001101
+
+TIL m4
+00111100
+00100111
+00100100
+00100100
+11100100
+10100100
+10100000
+10000000
+
+TIL m5
+11111111
+00110101
+00101010
+00110101
+00101000
+00110100
+00101010
+00000000
+
+TIL m6
+00000111
+11100100
+00111100
+00110100
+00101100
+00110100
+00101100
+00110100
+
+TIL m7
+11101111
+00111000
+00100000
+00100000
+00000000
+00001111
+00001000
+00001000
+
+TIL m8
+11100000
+00100000
+00111111
+00101011
+00110101
+00101011
+00110101
+00101011
+
+TIL m9
+11110101
+00011011
+00010101
+00011111
+00010001
+00010000
+00000000
+00000000
+
+TIL ma
+01111111
+00010001
+00010001
+01111101
+01000101
+00000001
+00000001
+00000001
+
+TIL mb
+11100000
+00100000
+00111100
+00100100
+00000100
+00000100
+00000100
+00000000
+
+TIL mc
+11001111
+01001001
+01001001
+01001001
+01111001
+01001001
+01001001
+00000001
+
+TIL md
+00010101
+00001011
+00010101
+00001011
+00010101
+00001011
+00010101
+00001011
+
+TIL me
+00110011
+00000000
+11001100
+00000000
+11001100
+00000000
+00110011
+00000000
+>
+11001100
+00000000
+00110011
+00000000
+00110011
+00000000
+11001100
+00000000
+
+TIL mf
+00000000
+00000000
+00000000
+10000100
+11001100
+11111110
+11111110
+11111110
+
+TIL mg
+00011100
+00111100
+11110011
+01100011
+00100011
+11110011
+11111111
+11111111
+
+TIL mh
+11111111
+10001011
+10000011
+00000000
+00010000
+00011000
+01111100
+01111110
+
+TIL mi
+11111111
+10001011
+10001101
+10001011
+10001101
+10001011
+10000101
+10000011
+
+TIL mj
+00001111
+00001111
+00011110
+11111110
+11111110
+11101010
+11101000
+11100000
+
+TIL mk
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11110000
+00000000
+
+TIL ml
+11111111
+11111111
+11111111
+11111111
+11110000
+00000000
+00000000
+00000000
+
+TIL mm
+11111111
+11111111
+11110000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL mn
+11110000
+00000000
+00000100
+00001110
+00011100
+00001000
+00000000
+00000000
+
+TIL mo
+00001111
+00001111
+00000111
+00000111
+00000011
+00000011
+00000001
+00000001
+
+TIL mp
+01111111
+01111111
+00111111
+00111111
+00011111
+00011111
+00001111
+00001111
+
+TIL mq
+11111111
+11111111
+11111000
+11111000
+01100000
+01100000
+01100000
+01100000
+
+TIL mr
+00000000
+00000000
+00001110
+00001110
+00001111
+00000111
+00000011
+00000001
+
+TIL ms
+00000000
+00111100
+00111100
+00111110
+01111110
+01111110
+00001110
+00000000
+
+TIL mt
+11110000
+11110000
+11110000
+11111111
+11111111
+11111111
+11111111
+00000000
+
+TIL mu
+00111111
+00111111
+00111111
+00001111
+00001111
+00001111
+00111111
+00111111
+
+TIL mv
+00000000
+01100000
+01100110
+00000110
+00000000
+00000000
+00000000
+00000000
+>
+00010000
+00000010
+00100010
+00000000
+10010000
+00000101
+00100000
+00000010
+
+TIL mw
+00000000
+01000000
+00001000
+00000000
+00100010
+00000000
+00000000
+00000000
+>
+00000000
+00000010
+00000000
+01000000
+00001000
+00000000
+00100010
+00000000
+
+TIL mx
+01111111
+00111111
+00011111
+00001111
+00000111
+00000011
+00000001
+00000000
+
+TIL my
+11111110
+11111101
+11111011
+11110111
+11100111
+11000011
+10000001
+00000000
+
+TIL mz
+11111110
+11111101
+11111011
+11110111
+11101111
+11011111
+10111111
+01111111
+
+TIL n0
+01111111
+10111111
+11011111
+11101111
+11110111
+11111011
+11111101
+11111110
+
+TIL n1
+00000000
+10000000
+11000000
+11100000
+11110000
+11111000
+11111100
+11111110
+
+TIL n2
+00000000
+00000000
+00000000
+00000000
+00010000
+00111000
+01111101
+11111111
+
+TIL n3
+01111111
+00111111
+00011111
+00111111
+01111111
+11111111
+11111111
+11111111
+
+TIL n4
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00001111
+11111111
+
+TIL n5
+00000000
+00000000
+00000000
+00000000
+00001111
+11111111
+11111111
+11111111
+
+TIL n6
+00000000
+00000000
+00001111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL n7
+11111111
+10000111
+10000011
+10000001
+10000011
+11000111
+11101111
+11111111
+
+TIL n8
+00000000
+00000000
+00000000
+00001110
+01111110
+01111110
+01110000
+00000000
+>
+00000000
+00000000
+00000000
+00111000
+00111000
+00111100
+00011100
+00011100
+
+TIL n9
+01111111
+10000111
+10000001
+10000001
+10000001
+11000001
+11110111
+11111100
+
+TIL na
+11111111
+11111111
+11110111
+11111011
+11110001
+11100011
+11110111
+11111111
+
+TIL nb
+00001000
+00011100
+00111110
+01111111
+11111110
+01111100
+00111000
+00010000
+>
+00010000
+00111000
+01111100
+11111110
+01111111
+00111110
+00011100
+00001000
+
+TIL nc
+00000000
+00000001
+00000000
+00000000
+00000001
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000001
+00000000
+00000000
+00000001
+00000000
+00000000
+
+TIL nd
+00001000
+00010100
+00100010
+01000001
+01001001
+01001001
+01011001
+01011101
+
+TIL ne
+01000000
+10000000
+11000000
+11000000
+00000000
+00000000
+00000000
+00000000
+
+TIL nf
+00000000
+00000000
+00000000
+00000000
+00000011
+00001100
+00010000
+00100000
+
+TIL ng
+00000000
+00000000
+00111110
+11000001
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00111111
+11000000
+00000000
+00000000
+00000000
+00000000
+
+TIL nh
+00000000
+00000000
+00000000
+11000000
+00110000
+00001000
+00000000
+00000000
+>
+00000000
+00000000
+11000000
+00110000
+00001000
+00000000
+00000000
+00000000
+
+TIL ni
+10000000
+10011000
+10000000
+10000010
+11100111
+10000111
+10000000
+10011000
+>
+10000000
+11100010
+10000111
+10000111
+10110000
+10000000
+10000000
+10000110
+
+TIL nj
+00000000
+00000100
+01000000
+00000000
+00010000
+00000000
+00100010
+00000000
+>
+00000000
+00000000
+00100100
+00000000
+00010000
+00000000
+01000100
+00000000
+
+TIL nk
+00000000
+00000000
+00000000
+11111111
+00000000
+00000000
+00000000
+11111111
+
+TIL nl
+00000000
+00000000
+00000000
+11100000
+00010000
+00001000
+00001000
+00001000
+
+TIL nm
+10001000
+10001000
+10001000
+10001000
+10001000
+10001000
+10001000
+10001000
+
+TIL nn
+00001000
+00001000
+00001000
+00010000
+11100000
+00000000
+00000000
+00000000
+
+TIL no
+11111111
+00000000
+00000000
+00000000
+11111111
+00000000
+00000000
+00000000
+
+TIL np
+00000011
+00001100
+00010000
+00100000
+01000000
+01000000
+10000000
+10000000
+
+TIL nq
+00000000
+00000000
+00000000
+00000011
+00001100
+00110000
+01000000
+10000000
+
+TIL nr
+00000001
+00000010
+00000010
+00000100
+00000100
+00001000
+00001000
+00001000
+
+TIL ns
+00010001
+00010001
+00010001
+00010001
+00010001
+00010001
+00010001
+00010001
+
+TIL nt
+10000000
+10000000
+01000000
+01000000
+00100000
+00010000
+00001100
+00000011
+
+TIL nu
+00001000
+00001000
+00001000
+00000100
+00000100
+00000010
+00000010
+00000001
+
+TIL nv
+10000000
+01000000
+00110000
+00001100
+00000011
+00000000
+00000000
+00000000
+
+TIL nw
+11110000
+00001100
+00000010
+00000010
+11000001
+00100001
+00010001
+00010001
+
+TIL nx
+00010001
+00010001
+00100001
+11000001
+00000010
+00000010
+00001100
+11110000
+
+TIL ny
+00000000
+00001110
+00010001
+00010001
+00010000
+00010000
+00001000
+00000111
+
+TIL nz
+00000111
+00001000
+00010000
+00010000
+00010001
+00010001
+00001110
+00000000
+
+TIL o0
+10111101
+11011111
+01110111
+11111110
+01101011
+11111111
+11011010
+11110111
+
+TIL o1
+00001011
+00001111
+00001101
+00000111
+00001101
+00001111
+00001010
+00001111
+
+TIL o2
+01111100
+10001011
+10100100
+10010000
+01110000
+00010001
+00001000
+00001001
+
+TIL o3
+00001101
+00001101
+00001111
+00000111
+00000111
+00000011
+00000011
+00000001
+
+TIL o4
+11101010
+01111111
+00111101
+00011111
+00001111
+00000011
+00000000
+00000000
+
+TIL o5
+10101010
+11111111
+01010101
+11111111
+10101010
+11111111
+11111111
+00000000
+
+TIL o6
+11111111
+11101111
+01111111
+11111111
+11101111
+11101111
+11000111
+00000000
+
+TIL o7
+10111100
+11111011
+01111011
+11110111
+10111111
+11110111
+01110111
+11111111
+
+TIL o8
+00000001
+00100011
+01110110
+01110110
+01110110
+01110110
+01110100
+00000100
+
+TIL o9
+00000000
+00000000
+11111111
+10010010
+11111111
+00000001
+00000001
+00000001
+
+TIL oa
+00000000
+00000000
+00000000
+11111111
+00100100
+11111111
+00000000
+11111111
+
+TIL ob
+00000000
+00000000
+00000000
+11111111
+00100100
+11111111
+00000000
+00000000
+
+TIL oc
+00000000
+00000000
+00000000
+01111111
+01001001
+01111111
+10000000
+10000000
+
+TIL od
+00011111
+00100000
+11000000
+10000111
+10000001
+11111111
+00000000
+11111111
+
+TIL oe
+00000010
+00000101
+11001000
+00111000
+00001100
+00001011
+00000000
+00000000
+
+TIL of
+00000000
+00000000
+11000000
+00111000
+00000111
+00000000
+11000000
+00110000
+
+TIL og
+00000001
+11000001
+00100001
+00111111
+00001001
+10000111
+11100000
+11111111
+
+TIL oh
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+
+TIL oi
+00000011
+00000101
+00001101
+00010101
+00100101
+01000101
+10000101
+00000101
+
+TIL oj
+00000010
+00000100
+00001000
+00010000
+00100000
+01000000
+10000000
+00000000
+
+TIL ok
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+
+TIL ol
+00010001
+00010001
+00001001
+00001001
+11101001
+00011111
+00000001
+00000001
+
+TIL om
+00001001
+00001001
+00001001
+00010001
+00010001
+00010001
+00010001
+00010001
+
+TIL on
+00000001
+00000001
+00000001
+00000001
+00000001
+00001111
+00001111
+00000111
+
+TIL oo
+00000000
+00000000
+00000000
+00000000
+00000000
+11100000
+11100000
+11000000
+
+TIL op
+00011001
+00011001
+00011001
+00011001
+00011001
+00011001
+00011001
+00011001
+
+TIL oq
+00011000
+00011000
+00011000
+00011000
+00011000
+01111110
+01111110
+00111100
+
+TIL or
+00011001
+00011010
+00111110
+01011010
+11011010
+10011010
+10011010
+10011010
+
+TIL os
+10011001
+10011001
+10011001
+10011010
+01011010
+01011011
+00111110
+00011000
+
+TIL ot
+00000101
+00001001
+00001001
+00001001
+00001001
+00001001
+00001001
+00000101
+
+TIL ou
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+00000010
+00000100
+
+TIL ov
+00000100
+00000100
+00000010
+00000010
+00000001
+00000000
+00000000
+00000000
+
+TIL ow
+00000010
+00000010
+00000011
+00001100
+00110000
+11000000
+00000000
+00000000
+
+TIL ox
+00000000
+00000000
+00000100
+00001000
+00011000
+00101000
+01001000
+10001000
+
+TIL oy
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+
+TIL oz
+00001000
+00001000
+00001000
+00001000
+00001000
+00001000
+00001000
+00001000
+
+TIL p0
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+
+TIL p1
+00000000
+00100010
+01110111
+01110111
+01110111
+01110111
+01110111
+00000000
+
+TIL p2
+10101010
+11111111
+01010101
+11111111
+10101010
+11111111
+11010101
+11111111
+
+TIL p3
+00000000
+00000000
+00000000
+11000011
+10100101
+11111111
+00000000
+11111111
+
+TIL p4
+01001101
+00001101
+01101111
+00000111
+11010111
+00000011
+00000011
+01110001
+>
+10101101
+00001101
+11001111
+00000111
+01110111
+00000011
+00000011
+11011001
+
+TIL p5
+00110101
+00111010
+00110101
+00111010
+00110101
+00111010
+00110101
+00111010
+
+TIL p6
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+
+TIL p7
+01011100
+10101100
+01011100
+10101100
+01011100
+10101100
+01011100
+10101100
+
+TIL p8
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL p9
+00111100
+01100100
+00111100
+01111110
+11111111
+00000000
+11111111
+01010101
+
+TIL pa
+00000000
+01000000
+10011000
+10100100
+10101100
+10011000
+01000010
+00111100
+
+TIL pb
+10101010
+11111111
+01011101
+11111111
+10111010
+11111111
+11111111
+00011000
+
+TIL pc
+00011000
+00011000
+00111100
+00111100
+00111100
+00111100
+00111100
+00000000
+
+TIL pd
+01111100
+11111110
+11010111
+11111101
+11011111
+01101011
+10111111
+11101101
+
+TIL pe
+10111110
+01111111
+10111110
+00011100
+00011100
+00111110
+11001001
+00001000
+
+TIL pf
+11011011
+01111111
+11101111
+11111110
+10101011
+11111111
+11011011
+01111110
+
+TIL pg
+11111111
+10111111
+11110111
+11011111
+11111011
+11111111
+11101101
+11111111
+
+TIL ph
+01111100
+11011110
+11101011
+10111111
+01101110
+11111011
+10110111
+11111110
+
+TIL pi
+10111010
+01111101
+10111010
+00011000
+00011000
+00111000
+11110110
+00010001
+
+TIL pj
+11101110
+01010101
+11101110
+01010100
+01010101
+01000101
+01101110
+11000010
+
+TIL pk
+00000011
+00000111
+00000101
+00001110
+00001011
+00001111
+00000101
+00000011
+
+TIL pl
+11000000
+01100000
+11100000
+11110000
+10110000
+11110000
+10100000
+01100000
+
+TIL pm
+00000000
+00000000
+00100001
+00110010
+00101010
+01000110
+01000010
+00000000
+
+TIL pn
+10001011
+11000111
+10101011
+10001101
+10010011
+11010101
+10000011
+01010110
+
+TIL po
+01111110
+10010001
+11101111
+10010001
+11000011
+10001101
+01010011
+10100101
+
+TIL pp
+11001101
+10011011
+11010101
+10001011
+10100101
+10001111
+10110111
+01011110
+
+TIL pq
+01111000
+10011100
+11110100
+10001010
+11001101
+10101011
+11010101
+10011011
+
+TIL pr
+10101011
+10100101
+10001011
+11011101
+10100111
+01100111
+00101011
+00110110
+
+TIL ps
+00111000
+00101110
+01011011
+01010101
+01101011
+11000110
+10101011
+10000101
+
+TIL pt
+10101011
+01001101
+01011011
+10100101
+11101011
+10101101
+01010111
+00000010
+
+TIL pu
+00101110
+01010001
+01111111
+01000101
+11101011
+10011101
+11001011
+10010101
+
+TIL pv
+10101000
+01010000
+10100000
+01010000
+10100000
+01000000
+10000000
+00000000
+
+TIL pw
+00000000
+00000000
+00000000
+00000000
+00101000
+01010100
+10101000
+01010100
+
+TIL px
+00000000
+01111000
+01000000
+00110000
+00100000
+00100100
+00111000
+00000000
+
+TIL py
+00000000
+00011000
+00100100
+00100000
+00010000
+01001000
+00110000
+00000000
+
+TIL pz
+00000000
+00000100
+10000010
+10010010
+10010010
+01101110
+00000000
+00000000
+
+TIL q0
+10101010
+11111111
+11010101
+10000000
+10011100
+10011100
+10000000
+01111111
+
+TIL q1
+01010101
+11111111
+00101011
+00000001
+00110001
+01111001
+01111001
+11111110
+
+TIL q2
+11111111
+10000000
+11111111
+10000000
+10100010
+10001000
+10100010
+10101010
+
+TIL q3
+11111111
+00000001
+11111111
+00000001
+00100011
+10001001
+00100011
+10101011
+
+TIL q4
+00000000
+00101000
+00000000
+00010100
+00000000
+00101000
+00000000
+00010000
+
+TIL q5
+01110111
+10100001
+01000000
+10111110
+01111111
+11011001
+10011010
+01111100
+
+TIL q6
+01000110
+10000001
+00000000
+01111000
+11111100
+10011010
+01011001
+00111110
+
+TIL q7
+00000000
+00000000
+10000001
+01000011
+00000011
+00100110
+00000111
+00000110
+
+TIL q8
+01111111
+10001111
+10111111
+10100000
+10001111
+10011111
+01110111
+00011111
+
+TIL q9
+11111110
+11110001
+11111101
+00000101
+11110001
+00001001
+00000110
+00111000
+
+TIL qa
+00000100
+00000110
+00000100
+00000110
+00000111
+01000011
+10000001
+01100111
+
+TIL qb
+00011000
+00000000
+00000000
+00000000
+00111100
+11111111
+11111111
+01111110
+
+TIL qc
+00000000
+00000000
+00000001
+00000000
+00000001
+11000011
+00111111
+00001010
+
+TIL qd
+01111111
+10111101
+01111101
+10111111
+01111111
+00101111
+01111111
+10101111
+
+TIL qe
+11111110
+11111101
+11111110
+01010101
+11111110
+11111111
+01110111
+10111011
+
+TIL qf
+00010111
+10101111
+01011111
+10111111
+01111111
+11111111
+11111111
+10111111
+
+TIL qg
+00000001
+00000010
+00000101
+00000011
+00000101
+10001011
+00000111
+00001011
+
+TIL qh
+11111111
+11111011
+11111011
+11111011
+11111111
+11111111
+11110111
+11110111
+
+TIL qi
+01111111
+10101111
+01111110
+10101111
+01111110
+11101111
+01000111
+11101111
+
+TIL qj
+11111111
+11111111
+11111111
+11111111
+11111111
+11101111
+11111111
+11101111
+
+TIL qk
+11100000
+11100000
+11110000
+11111000
+11110110
+11110001
+11110000
+11110000
+
+TIL ql
+00000000
+00000000
+00000000
+10000000
+10000000
+10000001
+11000000
+11000000
+
+TIL qm
+11111100
+11110100
+11111100
+11110100
+11111100
+11110110
+11100010
+11110110
+
+TIL qn
+10111111
+10111111
+11011111
+11011111
+11111111
+11111111
+11110111
+11110111
+
+TIL qo
+10111100
+10111100
+10111100
+11111100
+11111100
+11110100
+11111100
+11110000
+
+TIL qp
+00111011
+00111111
+00111111
+00101010
+00111111
+01111110
+11111100
+11111100
+
+TIL qq
+01011111
+00101111
+01011111
+00101111
+01011111
+00101111
+00010111
+00101011
+
+TIL qr
+11110000
+11110000
+11110000
+11110000
+11110000
+11100000
+11100000
+11000000
+
+TIL qs
+11111111
+10101111
+01010101
+10101010
+00000101
+00000010
+00000000
+00000000
+
+TIL qt
+11111111
+11111111
+01111111
+11111111
+01111111
+10111110
+00111101
+00111010
+
+TIL qu
+11111111
+11110000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL qv
+11111111
+11111111
+11111100
+11000000
+00000000
+00000000
+00000000
+00000000
+
+TIL qw
+00010101
+00001011
+00000101
+00000010
+00000000
+00000100
+00000000
+00001000
+
+TIL qx
+10000000
+10000000
+00000000
+01000000
+00000000
+00100000
+00000000
+00010000
+
+TIL qy
+00001000
+00000000
+00110000
+11010000
+11001000
+10101000
+10110000
+10000000
+
+TIL qz
+00000000
+00000000
+00000000
+10000001
+01011010
+01100110
+01000010
+01000010
+
+TIL r0
+00010000
+00000000
+00001100
+00001011
+00010011
+00010101
+00001101
+00000001
+
+TIL r1
+11100111
+01011010
+01000010
+01100110
+01011010
+01000010
+00100100
+00111100
+
+TIL r2
+00000000
+00000000
+00000000
+00000000
+00000000
+01111110
+11111111
+11111111
+
+TIL r3
+11111111
+00111111
+11111100
+11111111
+11101111
+10000001
+00000000
+00000000
+
+TIL r4
+11111110
+11011111
+11101101
+11111110
+11111111
+11101111
+01110111
+00011111
+
+TIL r5
+00000000
+00000000
+00000001
+00000000
+00000001
+00000010
+10000101
+00000010
+
+TIL r6
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11100000
+11111000
+
+TIL r7
+00000000
+11111111
+10000000
+11100110
+11111001
+11110000
+11111111
+11111111
+
+TIL r8
+10100000
+11010000
+10101000
+11010100
+10101000
+11010100
+11101010
+11010100
+
+TIL r9
+11101010
+11110101
+11101010
+11110101
+11111010
+11110101
+11111010
+11110101
+
+TIL ra
+11111010
+11111101
+10111010
+10111101
+11111110
+11111101
+11111110
+11111101
+
+TIL rb
+11111110
+11011101
+11111110
+11101111
+11111110
+11101111
+11111111
+11111111
+
+TIL rc
+11111111
+10111111
+11111011
+10111111
+11111011
+11111111
+11111011
+11111111
+
+TIL rd
+00111100
+00111010
+01110100
+11101000
+00010000
+00000000
+00000000
+00000000
+
+TIL re
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL rf
+00000000
+11111111
+00000011
+01100111
+10011111
+00001101
+11111111
+11111011
+
+TIL rg
+01111111
+11111111
+01110111
+11001111
+10111101
+11110011
+11111110
+11111000
+
+TIL rh
+00000000
+00000001
+00000001
+00000001
+00000001
+00000011
+00000011
+00000011
+
+TIL ri
+00000011
+00000011
+00000111
+00000111
+00000111
+00000111
+00001111
+00001111
+
+TIL rj
+00001111
+00001111
+00011111
+00011111
+00001111
+00010111
+00001111
+00001111
+
+TIL rk
+00011111
+00011011
+00011011
+00010111
+00111111
+00111111
+00111101
+00111101
+
+TIL rl
+01111111
+01111111
+01111111
+01101111
+11101111
+11111111
+11111011
+11111011
+
+TIL rm
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000111
+00011111
+
+TIL rn
+11111011
+11011111
+11101011
+11010111
+11111000
+11100000
+10000000
+00000000
+
+TIL ro
+11111011
+11111111
+11111011
+11111111
+01011111
+10101111
+01010101
+10001010
+
+TIL rp
+00000000
+00000000
+00000000
+00000000
+11101111
+11111111
+11111011
+11111111
+
+TIL rq
+00000000
+00000000
+00000000
+00011111
+11111111
+11111111
+11110111
+11110111
+
+TIL rr
+00000011
+00011111
+11111111
+11111111
+11111111
+11111101
+11111101
+11111111
+
+TIL rs
+00000001
+00000001
+00000011
+00000011
+00000011
+00000111
+00000111
+00001101
+
+TIL rt
+00000000
+00000000
+00000000
+00000001
+00000011
+00001111
+00111111
+11111111
+
+TIL ru
+00011111
+00111111
+01111111
+11111111
+11110111
+11110111
+11101111
+11111111
+
+TIL rv
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11011000
+11111100
+
+TIL rw
+00000000
+00000000
+00000000
+11111000
+11111111
+11111111
+11111101
+11111111
+
+TIL rx
+11000000
+11111000
+11111111
+11101111
+11011111
+11011111
+11111111
+11111111
+
+TIL ry
+00000000
+00000000
+00000000
+10000000
+11000000
+11110000
+11111100
+11111111
+
+TIL rz
+11111000
+11111100
+11101110
+11101111
+10111111
+11111111
+10111111
+11111111
+
+TIL s0
+10000000
+10000000
+11000000
+11000000
+11000000
+11100000
+11100000
+11110000
+
+TIL s1
+10000000
+01000000
+10100000
+01000000
+10100000
+01010000
+10100000
+01010000
+
+TIL s2
+01010011
+01001011
+11001011
+01010011
+11010011
+01001011
+11101011
+01010011
+
+TIL s3
+10000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL s4
+00011000
+00010000
+00011000
+00001000
+00011000
+00010000
+00011000
+00001000
+
+TIL s5
+01010011
+01001011
+01001011
+01010011
+01010011
+01001011
+01001011
+01010011
+
+TIL s6
+11111111
+10000001
+10011001
+10100101
+10100101
+10011001
+10000001
+11111111
+
+TIL s7
+00000000
+11111111
+00000000
+01100110
+10011001
+00000000
+11111111
+11111111
+
+TIL s8
+11110011
+01011011
+11101011
+01010011
+11111011
+01011011
+11101011
+01010111
+
+TIL s9
+11110011
+01011111
+11101011
+01010111
+11111011
+01011111
+11101011
+01010111
+
+TIL sa
+00011000
+00111100
+01011010
+01000010
+01000010
+01100110
+10111101
+11001011
+
+TIL sb
+00111111
+00001111
+00000011
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL sc
+11111111
+11111111
+11111111
+00111100
+00000000
+00000000
+00000000
+00000000
+
+TIL sd
+11111100
+11110000
+11000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL se
+00000001
+00000001
+00000010
+00000010
+00000100
+00000100
+00001000
+00010100
+
+TIL sf
+10000000
+10000000
+01000000
+01000000
+00100000
+00100000
+00010000
+00101000
+
+TIL sg
+00000000
+00001000
+00000000
+00001000
+00000000
+00000100
+00000000
+00000100
+
+TIL sh
+11111111
+11111111
+11111111
+00111100
+00011000
+00100100
+00100100
+00011000
+
+TIL si
+10101010
+01010101
+11101110
+11111111
+10111011
+11111111
+11111111
+11111111
+
+TIL sj
+10101010
+00000000
+10101010
+00000000
+10101010
+01010101
+10101010
+01010101
+
+TIL sk
+01000000
+11100000
+01000000
+11101111
+00001001
+00001011
+00001011
+00001010
+
+TIL sl
+00000001
+00000001
+00000001
+11110001
+10111011
+11011000
+11111000
+01011000
+
+TIL sm
+00000001
+00000011
+00000111
+00001111
+00011111
+00111111
+01111111
+11111111
+
+TIL sn
+00001010
+00001110
+00011000
+00111100
+00111111
+10111111
+11111111
+11111111
+
+TIL so
+01111000
+01111101
+00011111
+00111111
+11111111
+11111111
+11111111
+11111111
+
+TIL sp
+10000000
+11000000
+11100000
+11110000
+11111000
+11111100
+11111110
+11111111
+
+TIL sq
+11111111
+11111101
+11111100
+11110000
+11111000
+11100000
+11110000
+11100000
+
+TIL sr
+11110000
+11100000
+11110000
+11110000
+11111100
+11111101
+11111111
+11111111
+
+TIL ss
+11111111
+01111111
+00011111
+00111111
+10001111
+00011111
+00001111
+00011111
+
+TIL st
+00111111
+01111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL su
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+10101010
+
+TIL sv
+11111111
+11111111
+10101010
+01010101
+00000000
+00000000
+00000000
+00000000
+
+TIL sw
+11111111
+11111111
+11111111
+01010101
+10101010
+00000000
+00000000
+00000000
+
+TIL sx
+11111111
+11111111
+11111111
+11111111
+10101010
+01010101
+00000000
+00000000
+
+TIL sy
+11111111
+11111111
+11111111
+11111111
+11111111
+01011111
+10101010
+00000101
+
+TIL sz
+11111111
+11111111
+11111111
+11111111
+11111111
+11110101
+10101010
+01010000
+
+TIL t0
+00100010
+00000000
+10001000
+00000000
+00100010
+00000000
+10001000
+00000000
+
+TIL t1
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+>
+11111111
+11111111
+11011011
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL t2
+11111111
+11111111
+11111111
+11111111
+11111111
+11011011
+11111111
+11111111
+>
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL t3
+00000001
+00000010
+00010100
+00001000
+00010100
+00100000
+00000000
+00000000
+
+TIL t4
+00000000
+01111000
+11111000
+11111100
+01101000
+00011100
+00000000
+00000000
+
+TIL t5
+00000000
+00000000
+01000000
+00110010
+01001100
+00000010
+00000000
+00000000
+
+SPR 10
+00000111
+00011101
+00000111
+00000011
+00000101
+00001001
+10110001
+11100101
+DLG SPR_q
+POS u 9,14
+
+SPR 11
+01110001
+01011101
+01110001
+11001111
+10001001
+10001001
+10100101
+11010100
+>
+01110000
+01011101
+01110001
+11001001
+10001111
+10001001
+10100101
+11010101
+DLG SPR_r
+POS q 1,6
+
+SPR 12
+00000000
+00000000
+00111100
+00100100
+00100100
+00111100
+00000000
+00000000
+>
+00000000
+01111110
+01000010
+01011010
+01011010
+01000010
+01111110
+00000000
+DLG SPR_s
+POS w 2,12
+
+SPR 13
+00001111
+00111010
+00001111
+01000111
+01111101
+01001001
+01010011
+01010101
+DLG SPR_t
+POS w 9,13
+
+SPR 14
+00000000
+00011000
+00111100
+00010100
+00111100
+00111100
+00111100
+00101000
+>
+00011000
+00111100
+00010100
+00111100
+00111100
+00111100
+00010100
+00000000
+DLG SPR_u
+POS x 9,13
+
+SPR 16
+01111100
+01000100
+01000100
+01111100
+00010000
+00010000
+00111000
+00101000
+DLG SPR_v
+POS z 11,13
+
+SPR 17
+00001110
+00110010
+00100010
+00101110
+00111000
+00001000
+00011100
+00010100
+DLG SPR_w
+POS z 6,14
+
+SPR 18
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+01111110
+01010100
+>
+00011110
+00111111
+00101011
+00111111
+00111111
+00111111
+00111111
+00010101
+DLG SPR_x
+POS 10 12,13
+
+SPR 19
+00000000
+00000000
+01111000
+11010100
+10101100
+11010100
+10101100
+01111000
+>
+00011110
+00101011
+00110101
+00101011
+00110101
+00011110
+00000000
+00000000
+DLG SPR_y
+POS 12 13,3
+
+SPR A
+00111100
+01000010
+10001101
+10000101
+10000001
+10000001
+01000010
+00111100
+>
+00111100
+01000010
+10000001
+10000001
+10000001
+10000001
+01000010
+00111100
+POS 0 1,1
+
+SPR a
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+DLG SPR_0
+POS 3 10,11
+
+SPR b
+00000000
+00000000
+01010000
+01110000
+01110000
+01111100
+00111110
+00111110
+DLG SPR_2
+POS 2 9,7
+
+SPR c
+00001000
+00010000
+00010000
+01011000
+00011100
+01111110
+00111100
+00000000
+>
+00010010
+01001000
+00001000
+00111010
+00111100
+01101110
+00111100
+00000000
+DLG SPR_1
+POS 2 5,1
+
+SPR d
+00000000
+00000000
+00101010
+01001110
+01001110
+00111110
+00111100
+00100100
+DLG SPR_8
+POS 3 3,13
+
+SPR e
+10101010
+10101010
+10101010
+10101010
+00000000
+01010100
+01010100
+01010100
+DLG SPR_b
+POS 4 3,4
+
+SPR f
+01010101
+01010101
+01010101
+01010101
+00000000
+00101010
+00101010
+00101010
+DLG SPR_c
+POS 4 7,4
+
+SPR g
+00000000
+00000101
+00000111
+00000111
+00011111
+10111110
+10111110
+11111111
+DLG SPR_9
+POS 4 4,12
+
+SPR h
+00101000
+00111000
+00111000
+00111000
+00011000
+00011100
+00011110
+00111111
+DLG SPR_7
+POS 5 9,14
+
+SPR i
+11111111
+10000001
+10101001
+10100101
+10000001
+11111111
+01000010
+01000010
+DLG SPR_3
+POS 6 6,14
+
+SPR j
+01000010
+01111110
+01111110
+01011010
+01111110
+00111100
+00000000
+01111110
+DLG SPR_6
+POS 6 7,2
+
+SPR k
+11111111
+10000001
+10101001
+10100101
+10000001
+11111111
+01000010
+01000010
+DLG SPR_4
+POS 7 6,14
+
+SPR l
+01100110
+00111100
+01111110
+01011010
+01111110
+00111100
+00000000
+01111110
+DLG SPR_5
+POS 7 7,2
+
+SPR m
+00110000
+01001000
+10000000
+10000101
+11110111
+11111111
+11111111
+00000000
+>
+00111000
+01000000
+10000000
+10000101
+11110111
+11111111
+11111111
+00000000
+DLG SPR_a
+POS 9 8,2
+
+SPR n
+00000000
+00000000
+00000000
+00000000
+00011000
+00100100
+00100100
+00011000
+DLG SPR_e
+POS c 13,2
+
+SPR o
+00000000
+00000000
+01111100
+01000100
+01000100
+01111100
+00010000
+00010000
+DLG SPR_d
+POS c 3,14
+
+SPR p
+00000000
+00000000
+00000000
+01010000
+01110000
+01001000
+01001000
+01110000
+DLG SPR_f
+POS d 4,7
+
+SPR q
+00000000
+00000111
+00011101
+00011111
+00100111
+00100111
+00100110
+00010100
+DLG SPR_g
+POS j 10,12
+
+SPR r
+00000000
+01011010
+01111110
+00100100
+00100100
+00011000
+11000011
+11111111
+DLG SPR_h
+POS k 8,7
+
+SPR s
+00000000
+00000000
+00100100
+00111100
+00100100
+00100100
+00011000
+01111110
+DLG SPR_i
+POS k 6,7
+
+SPR t
+00011000
+00110100
+01010110
+11010101
+11010101
+01010110
+00110100
+00011000
+>
+00011000
+00101100
+01101010
+10101011
+10101011
+01101010
+00101100
+00011000
+DLG SPR_l
+POS o 8,2
+
+SPR u
+00000000
+00000000
+00000000
+00100000
+10010000
+10011000
+01110000
+00100000
+>
+00000000
+00000000
+00000000
+01100000
+10010000
+10011000
+01110000
+00100000
+DLG SPR_j
+POS k 12,7
+
+SPR v
+00000000
+01100000
+11100000
+01111000
+00111100
+00111110
+00011111
+00001000
+DLG SPR_k
+POS o 11,7
+
+SPR w
+00011110
+01110100
+00011110
+00011010
+00110010
+01100010
+00100001
+00101011
+>
+00011110
+01110100
+00011110
+11111010
+00010010
+00100010
+00100001
+00101011
+DLG SPR_n
+POS p 12,12
+
+SPR x
+01111000
+01000111
+01000001
+01000001
+01110001
+00101111
+00100010
+00000010
+DLG SPR_m
+POS p 3,7
+
+SPR y
+01110001
+01011101
+01110001
+11001111
+10001001
+10001001
+10100101
+11010100
+>
+01110000
+01011101
+01110001
+11001001
+10001111
+10001001
+10100101
+11010101
+DLG SPR_p
+POS s 1,6
+
+SPR z
+00000000
+00110000
+01111011
+01111000
+01111011
+01111000
+01111011
+00000000
+DLG SPR_o
+POS r 13,12
+
+SPR 1a
+11100000
+10111000
+11100001
+01000010
+11100100
+10011000
+10000101
+10100011
+DLG SPR_z
+POS 14 11,7
+
+SPR 1b
+00111100
+01111110
+01111110
+01011010
+01111110
+00011000
+00000000
+00011000
+DLG SPR_10
+POS 15 10,10
+
+SPR 1c
+11111111
+00011000
+01111110
+00011000
+01111110
+00011000
+01111110
+00011000
+POS 15 10,11
+
+SPR 1d
+00000001
+00000011
+00000100
+00001000
+00011000
+00001100
+00000111
+00000011
+POS 15 9,11
+
+SPR 1e
+10000000
+11000000
+00100000
+00010000
+00001100
+00001010
+00000101
+00000011
+POS 15 11,11
+
+SPR 1f
+00100000
+01111110
+01110111
+01000011
+01000010
+01111110
+01100110
+00111100
+DLG SPR_11
+POS 17 10,10
+
+SPR 1g
+00100100
+11011011
+00001000
+00101100
+00001000
+00101100
+00001000
+00101100
+POS 17 10,11
+
+SPR 1h
+00000000
+00000001
+00000010
+00000100
+00001001
+00011000
+00010110
+00010001
+POS 17 9,11
+
+SPR 1i
+00000000
+10001000
+01001000
+00101000
+10011100
+00011010
+11011010
+11111100
+POS 17 11,11
+
+SPR 1j
+00000000
+00000000
+10000001
+01000011
+00000011
+00100110
+00000111
+00000110
+DLG SPR_12
+POS 1g 7,6
+
+ITM 0
+00000000
+00111000
+00010000
+00111000
+00111000
+00111000
+00111000
+00000000
+>
+00000000
+00111000
+00010000
+00111000
+00101000
+00111000
+00111000
+00000000
+NAME milk
+DLG ITM_0
+
+ITM 1
+00100000
+01110000
+01010000
+01010000
+00100000
+00000000
+00000000
+00000000
+>
+00001000
+00011100
+00010100
+00010100
+00001000
+00000000
+00000000
+00000000
+NAME feather
+DLG ITM_1
+
+ITM 2
+01111110
+01010110
+01001010
+00100100
+00100100
+00011000
+00011000
+00111100
+>
+01111110
+01010010
+01001010
+00100100
+00100100
+00011000
+00011000
+00111100
+NAME chalice
+DLG ITM_2
+
+ITM 3
+00000000
+00000000
+00011100
+00111110
+00111010
+11110110
+00011100
+00100000
+>
+00000000
+00000000
+00011100
+00101110
+00111010
+11110110
+00011100
+00100000
+NAME twine
+DLG ITM_3
+
+ITM 4
+00100000
+00001000
+00101000
+00001010
+01011100
+00101100
+00111110
+00011000
+>
+00000000
+00010000
+00000100
+01010000
+00011110
+01110100
+00111100
+00011000
+NAME fire
+
+ITM 5
+00000000
+00000000
+00000000
+00000000
+01100000
+10010110
+10011010
+01110110
+NAME bra
+DLG ITM_4
+
+ITM 6
+01000000
+01000000
+00000000
+00000000
+01000000
+00000000
+01000000
+00000000
+>
+00000000
+01000000
+01000000
+00000000
+00000000
+01000000
+00000000
+01000000
+NAME beer
+DLG ITM_5
+
+ITM 7
+00011000
+00100100
+00011000
+00110100
+00101100
+00011000
+00111100
+00000000
+>
+00011000
+00100100
+00011000
+00101100
+00110100
+00011000
+00111100
+00000000
+NAME lantern
+DLG ITM_6
+
+ITM 8
+01000000
+11100000
+01110000
+00111000
+00011100
+00011010
+00010000
+00111000
+NAME telescope
+DLG ITM_7
+
+ITM 9
+00001000
+00001000
+00011100
+00111110
+00011100
+00001000
+00010000
+00000000
+NAME turnip
+DLG ITM_8
+
+ITM 10
+00000000
+00011110
+00111100
+00111100
+00111100
+00111100
+01111000
+00000000
+NAME note
+DLG ITM_n
+
+ITM 11
+00000000
+00000000
+00011000
+00111100
+00111100
+00111100
+00011000
+00000000
+>
+00000000
+00011000
+00111100
+00111100
+00111100
+00011000
+00000000
+00000000
+NAME ghostbaby
+DLG ITM_o
+
+ITM a
+00000000
+00000000
+00010000
+00000000
+01000100
+00000000
+00010000
+00000000
+NAME gravel
+DLG ITM_9
+
+ITM b
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME fishbreathe1
+DLG ITM_a
+
+ITM c
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME fishbreathe2
+DLG ITM_b
+
+ITM d
+00000000
+00000000
+00000000
+00000000
+00000100
+00011101
+00111111
+00011101
+>
+00000000
+00000000
+00000000
+00000000
+00000100
+00011101
+00111111
+00011101
+NAME token
+DLG ITM_c
+
+ITM e
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME fishbye
+DLG ITM_d
+
+ITM f
+00000000
+00000000
+00010000
+00111000
+00010000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00010000
+00101000
+00010000
+00000000
+00000000
+00000000
+NAME star
+
+ITM g
+00000000
+00000000
+00000000
+00000000
+00010000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00010000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME star_reflect
+
+ITM h
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00111000
+01111110
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00011100
+01111110
+NAME lava
+DLG ITM_e
+
+ITM i
+01100110
+11111111
+11111111
+11011011
+10111101
+11111111
+11111111
+11111111
+>
+10011001
+11111111
+11111111
+10111101
+11011011
+11111111
+11111111
+11111111
+NAME magma
+
+ITM j
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME ghost1
+
+ITM k
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME shost2
+
+ITM l
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+ITM n
+00000000
+01111000
+01001100
+01001110
+01000010
+01000010
+01111110
+00000000
+NAME schematics
+DLG ITM_g
+
+ITM o
+00000000
+00000000
+11100011
+11100100
+11111000
+01110000
+00000000
+00000000
+NAME pipe
+DLG ITM_h
+
+ITM p
+10010010
+00000101
+00101010
+00000000
+00000101
+00000010
+00011000
+11000001
+>
+00011001
+00000000
+11000000
+00000110
+00110000
+00000000
+00001100
+01100000
+
+ITM q
+01001010
+00000000
+00011100
+11100011
+00011100
+11000001
+00011100
+00000000
+>
+10001000
+10101010
+00100010
+00000000
+11000001
+00011100
+01000001
+00010100
+
+ITM r
+00101101
+01000000
+01010100
+10100000
+01001000
+00101101
+10000001
+01011010
+>
+01010000
+10000100
+00011000
+11000011
+00000000
+00011000
+00000000
+00110110
+
+ITM s
+00011000
+00011000
+00001100
+00001110
+00000110
+00001100
+00001100
+00011000
+>
+00001100
+00001100
+00011000
+00011000
+00110000
+00110000
+00011000
+00011000
+
+ITM t
+00001100
+00011100
+00111000
+00001000
+00001000
+00000100
+00000000
+00000000
+>
+00011000
+00111000
+00101000
+00101000
+01001000
+10000100
+00000100
+00000100
+
+ITM u
+00000000
+00000000
+11000000
+10100000
+11011101
+10110111
+11011101
+00000000
+NAME signature
+DLG ITM_i
+
+ITM v
+00000000
+00110100
+01101110
+00010010
+01110110
+01101110
+00111000
+00000000
+NAME sphere
+DLG ITM_j
+
+ITM w
+00000000
+00000000
+00000000
+00000000
+00000000
+10000001
+01111110
+10000001
+NAME bone
+DLG ITM_k
+
+ITM x
+00000000
+00000000
+10101010
+01010101
+10101010
+01010101
+00000000
+00000000
+
+ITM y
+01111110
+10100101
+10100101
+11111111
+10011001
+10000001
+10000001
+11111111
+NAME treasure
+DLG ITM_l
+
+ITM z
+00000000
+00000000
+00000000
+00000000
+00010000
+00010000
+00111000
+00010000
+>
+00000000
+00000000
+00000000
+00000000
+00001000
+00001000
+00011100
+00001000
+NAME spinning top
+DLG ITM_m
+
+DLG ITM_0
+"""
+You found milk - straight from the cow.
+"""
+
+DLG ITM_1
+You found an exciting feather!
+
+DLG SPR_1
+{shk}{clr1}I AM THE FIRST{clr1}{shk}
+
+DLG SPR_2
+"""
+{sequence
+  - Greetings traveller.
+  - I am the Guardian of the Southern Beacon.
+  - The beacons were raised by the {shk}Dread{shk} Sorceress.
+  - Of course, the Western Beacon was destroyed some time ago.
+  - Nice day for it.
+}
+"""
+
+DLG ITM_2
+You found a broken chalice.
+
+DLG SPR_3
+PLEASE DO NOT DISTURB OUR PATRONS.
+
+DLG SPR_4
+CAN YOU NOT READ?
+
+DLG SPR_5
+You've disturbed my customers. Get out before I throw you out!
+
+DLG SPR_6
+"""
+{sequence
+  - Hello weird sphere! Thank you for not disturbing the patrons.
+  - You may be wondering why I am more humanoid than my customers...
+  - Well I petitioned the {shk}Dread{shk} Sorceress to be able to milk a cow.
+  - It's pretty great!
+  - Try the milk.
+}
+"""
+
+DLG SPR_7
+"""
+{sequence
+  - Welcome Sir or Gentlemadam to mine humble boxery...
+  - Why, madam or sirrah, we stock only the finest boxes.
+  - Perfect for sitting in, sleeping in, or sitting and sleeping in.
+  - Ah, but I now perceive you are not in the market for a box.
+  - You are missing out, gentle-entity, on a great joy.
+  - But why not sit for a while?
+}
+"""
+
+DLG SPR_8
+"""
+{shuffle
+  - Hey, you're blocking access to the stall.
+  - Shift it, Orbo!
+  - Go and stand somewhere else.
+  - Fish, get your fish! Not you.
+}
+"""
+
+DLG SPR_9
+"""
+{sequence
+  - So, you have tracked me to my lair!
+  - Oh, unless you aren't looking for me?
+  - In which case, welcome to my perfectly normal abode.
+  - I am Lord Pixby-Bitsington, noble and fugitive.
+  - I'm hiding from the {shk}Dread{shk} Sorceress, you see.
+  - She had this chalice, and just left it on the side.
+  - So I pushed it off.
+  - She was so angry she threatened to turn me inside out so that I would have to live in my own bowels.
+  - So I fled and hid here...instead...wait...um
+  - Do you think it's safe to leave?
+}
+"""
+
+DLG ITM_3
+You found some uncool twine.
+
+DLG SPR_a
+"""
+{sequence
+  - We're closed. Well, nearly closed.
+  - This used to be the finest Twine and Yarn shop in the realm.
+  - Now twine isn't {shk}cool{shk} any more.
+  - Everything must go.
+}
+"""
+
+DLG SPR_c
+{rbw}{shk}tinkle{shk}{rbw}
+
+DLG SPR_b
+{rbw}{shk}tinkle{shk}{rbw}
+
+DLG SPR_e
+"""
+{
+  - {item "fire"} == 10 ?
+    {sequence
+  - Oh bless you, you ... collected ... the fire. 
+  - I have no reward to give you, but I can tell you a secret...
+  - There's a loose floorboard in the Great Hall on the big ship over there - maybe some treasure fell down a gap? 
+}
+  - else ?
+    Sorry, there's all this fire about. Very inconvenient. Probably shouldn't have insulted the {shk}Dread{shk} Sorceress, eh?
+}
+"""
+
+DLG SPR_d
+"""
+{
+  - {item "fire"} == 10 ?
+    Grand "{clr3}No Fire{clr3}" re-opening soon!
+  - else ?
+    {clr3}CHURCH CLOSED DUE TO ONGOING FIRE SITUATION{clr3}
+}
+"""
+
+DLG ITM_4
+You found two scallop shells joined with twine
+
+DLG SPR_f
+"""
+{
+  - {item "bra"} == 1 ?
+    What's that? Sure I can give her some space. Thank you Orb!
+  - else ?
+    {shk}{clr1}My wife left me. She went down that ladder. I suppose I do drink too much. But we all do.{clr1}{shk}
+}
+"""
+
+DLG SPR_g
+"""
+{
+  - {item "bra"} == 1 ?
+    {rbw}{wvy}Be well, scryer. I just need a bit more me time.{wvy}{rbw}
+  - else ?
+    {rbw}{wvy}I do love my husband. But we come from different worlds. Take him those shells as a sign of my affection.{wvy}{rbw}
+}
+"""
+
+DLG ITM_5
+You found endless beer!
+
+DLG ITM_6
+You found a brass lantern.
+
+DLG SPR_h
+"""
+{sequence
+  - Hail and well met, odd visitor.
+  - You do not find us at our best.
+  - Once we were a proud seafaring folk...
+  - But we made the mistake of asking for tribute from the {shk}Dread {shk}Sorceress,
+  - She gave us this cask of beer that will never run dry...
+  - We're all so drunk we can't even remember how to sail!
+  - {
+  - {item "beer"} == 1 ?
+    Now we just need to sober up.
+  - else ?
+    <drinking noises>
+}
+}
+"""
+
+DLG SPR_i
+"""
+{shuffle
+  - It's the pillaging I miss the most.
+  - Drink?
+  - Is the church still on fire?
+  - Drink??
+}
+"""
+
+DLG SPR_j
+"""
+{
+  - {item "beer"} == 1 ?
+    {wvy}Wha????????????????????????????????????????????????????????????????????????????????????????{wvy}
+  - else ?
+    {rbw}{wvy}GlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlugGlug{wvy}{rbw}
+}
+"""
+
+DLG ITM_7
+You found an old telescope.
+
+DLG SPR_k
+"""
+{sequence
+  - Welcome, Scryer, to the Beacon of the North.
+  - Raised by order of the {shk}Dread {shk}Sorceress.
+  - This is the oldest standing beacon. 
+  - The Beacon of the West was older, but was destroyed.
+  - {wvy}Caw!{wvy}
+}
+"""
+
+DLG SPR_l
+{shk}{clr1}I AM THE LAST{clr1}{shk}
+
+DLG SPR_m
+"""
+{sequence
+  - This sign is brought to you by Magical Signage Incorporated.
+  - Message begins:
+  - {clr1}"NO MENDICANTS, PILGRIMS, OR VISITORS. GO AWAY."{clr1}
+  - If you have enjoyed this signage, why not recommend it to your friends?
+}
+"""
+
+DLG SPR_n
+"""
+{sequence
+  - ...
+  - Stranger, continue on your way.
+  - Admire the abstract statue and continue on your journey.
+  - I don't know; a rabbit? A sprout?
+  - Be on your way.
+}
+"""
+
+DLG ITM_8
+You have found an ordinary turnip.
+
+DLG SPR_o
+"""
+{sequence
+  - Oh hello there. Welcome to my niche.
+  - Just catching up on some reading...
+  - "The Deep Scripture" - are you familiar with it?
+  - It's very good. Listen:
+  - "{clr1}{wvy}The hidden is so much greater than the visible.{wvy}{clr1}" 
+  - Makes you think, huh?
+  - Anyway, goodbye!
+}
+"""
+
+DLG SPR_p
+"""
+{
+      - {item "fishbreathe1"} == 1 ?
+        Go in peace, pilgrim.
+  - else ?
+{sequence
+  - Seek you the wisdom of the deep?
+  - Then you must walk, sorry, then walk must you the...
+  - {shk}{wvy}PATH OF DARKNESS{wvy}{shk}
+  - Good Luck!
+    }
+}
+"""
+
+DLG ITM_9
+"""
+{shuffle
+  - {shk}CRUNCH!{shk} (that's not a good sign)
+  - {shk}CRUNCH!{shk} (better turn back)
+  - {shk}CRUNCH!{shk} (step back now)
+  - {shk}CRUNCH!{shk} (not that way)
+}
+"""
+
+DLG SPR_q
+"""
+{
+  - {item "gravel"} >= 3 ?
+    Ok, look: 2 steps right, 1 up, then 3 right, 6 down, 4 right, then head up. Easy.
+  - else ?
+    Sigh. You have failed to walk the {shk}{wvy}PATH OF DARKNESS{wvy}{shk}
+}
+"""
+
+DLG SPR_r
+Well done Emissary!
+
+DLG ITM_a
+"""
+{wvy}{clr1}You are probably wondering how I got here. 
+I tried to eat the Dread Sorceress, so she flung me inland. And here I landed.{clr1}{wvy}
+"""
+
+DLG ITM_b
+{wvy}{clr1}But these little chaps look after me, and are kind enough to write down my little meditations. Anyway, give my best to the Sorceress.{clr1}{wvy}
+
+DLG ITM_c
+You have found a Pilgrim Token.
+
+DLG ITM_d
+{wvy}{clr1}Bye!{clr1}{wvy}
+
+DLG SPR_s
+{shk}{clr1}I AM THE SECOND{clr1}{shk}
+
+DLG SPR_t
+"""
+{sequence
+  - Hail visitor, and welcome to the Beacon of the East.
+  - Yes, it is a bit strange to have a beacon underground...
+  - We may have got the plans upside-down.
+  - But after what happened to the Beacon of the West, we're safer here.
+  - At least it's warm.
+}
+"""
+
+DLG ITM_e
+You found a blob of lava!
+
+DLG SPR_u
+"""
+{sequence
+  - Hello Orb. Welcome to our town.
+  - What? Yes, I'm a ghost, and I'm not ashamed to say it.
+  - A great tidal wave nearly destroyed the town a while back.
+  - But thanks to the {shk}Dread {shk}Sorceress many of us were able to pivot to a spectral existence.
+  - So no ghost-shaming, please.
+  - Anyway, enjoy the town. Be sure to check out the art gallery.
+  - Have a nice day!
+}
+"""
+
+DLG ITM_f
+You found a baby ghost.
+
+DLG SPR_v
+"""
+{sequence
+  - Welcome customer, to Magical Signage Incorporated...
+  - "{wvy}{rbw}THAT'S A GOOD SIGN!{rbw}{wvy}" (tm)
+  - Apologies customer, but the factory tours have been suspended.
+  - {
+  - {item "schematics"} == 1 ?
+    The technical issue is in the process of being resolved.
+  - else ?
+    We are currently dealing with a technical issue.
+}
+}
+"""
+
+DLG SPR_w
+"""
+{
+  - {item "schematics"} == 1 ?
+    Great - you got them. Oh, I see what the problem was. Should have this running in no time. Thanks again.
+  - else ?
+    {sequence
+  - Hullo, yes?
+  - Yes, we're all magical signs here. 
+  - The company phased out people some time ago. Signs don't need wages.
+  - Of course, if we can't solve this problem with our magical transporter system soon, we'll all be out of a job.
+  - Trouble is, we left the schematics on the other side of the transporter.
+  - We just need a glance at those schematics.
+}
+}
+"""
+
+DLG ITM_g
+You found some schematics.
+
+DLG ITM_h
+Ceci n'est pas une pipe
+
+DLG SPR_x
+"""
+{sequence
+  - Salutations, artistically-inclined orb!
+  - Take your time to look around.
+  - People particularly like "The Collapse of the Western Beacon"
+  - I'm afraid the gift shop is closed.
+}
+"""
+
+DLG ITM_i
+You found the signature of the artist.
+
+DLG SPR_y
+{shk}{clr1}I AM THE THIRD{clr1}{shk}
+
+DLG ITM_j
+You found a broken sphere.
+
+DLG SPR_z
+"""
+{sequence
+  - No autographs!
+  - Sorry! I assumed... I'm a famous artist you see.
+  - You may know "The Collapse of the Western Beacon"?
+  - {
+  - {item "signature"} == 1 ?
+    Oh, you are familiar with it! Some of my most lifelike work.
+  - else ?
+    Yes, it hangs in the gallery in Ghostport, don't you know.
+}
+  - This is where the Beacon of the West once stood.
+  - Anyway, I'm retired now. 
+  - This makes a good place to escape to and do some fishing.
+  - Safe travels!
+}
+"""
+
+DLG ITM_k
+You found a bone. Hopefully no one wants it anymore.
+
+DLG SPR_10
+"""
+{sequence
+  - Arr...welcome to the Boney Lass, strange orb.
+  - Would it be alright if I didn't do the accent?
+  - A lot of people love it, but I find it awfully tiresome.
+  - Oh, and please don't make the 'skeleton crew' joke. 
+  - We've all heard it. 
+  - Anyway, the Boney Lass sails the Realm;
+  - Beer from Boattown, signs from Ghostport, fish from Meowich.
+  - Bric-a-brac from hither and yon. 
+  - I'm particularly proud of the ship-in-a-bottle, over on the shelf.
+  - Anyway, dreadfully busy, so I'll let you get on.
+}
+"""
+
+DLG ITM_l
+You found a tiny treasure.
+
+DLG SPR_11
+"""
+{sequence
+  - Hey, wow, don't get many visitors here.
+  - What? No, I'm not the captain; why would a ship in a bottle need a captain?
+  - I'm a factory worker. I worked in a ship-bottling plant...
+  - One broken guard rail later and I fell into the bottling machine.
+  - Rescue? Nah, I like it here. Quiet like.
+  - And my workers comp goes further when I don't need to pay rent.
+  - Anyway, all the best.
+}
+"""
+
+DLG ITM_m
+You found a spinning top.
+
+DLG ITM_n
+"""
+{shk}Traveler, you trespass on the Island of the Dread Sorceress.
+If you would visit the Sorceress, travel first to the Four Beacons - then walk these gates according to their words. Remember to bring gifts for the Sorceress.{shk}
+
+"""
+
+DLG ITM_o
+{wvy}I'm too large to leave this hotel, but please take my child and show him the realm.{wvy}
+
+DLG SPR_12
+"""
+{cycle
+  - Welcome back little Orb - what did you find in my Realm? {a = 0}
+  - {
+      - {item "twine"} >= 1 ?
+        {rbw}You found some unfashionable twine;{rbw}
+      - else ?
+        {clr1}You did not find any twine;{a = a + 1}{clr1}
+    }
+  - {
+      - {item "turnip"} >= 1 ?
+        {rbw}You found an ordinary turnip;{rbw}
+      - else ?
+        {clr1}You did not find the turnip;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "treasure"} >= 1 ?
+        {rbw}You found a tiny treasure;{rbw}
+      - else ?
+        {clr1}You did not find the tiny treasure;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "token"} >= 1 ?
+        {rbw}You found a Token of Deep Pilgrimage;{rbw}
+      - else ?
+        {clr1}You did not find the Fish Token;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "telescope"} >= 1 ?
+        {rbw}You found an old telescope;{rbw}
+      - else ?
+        {clr1}You did not find the telescope;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "spinning top"} >= 1 ?
+        {rbw}You found an extremely small spinning top;{rbw}
+      - else ?
+        {clr1}You did not find the tiny tiny spinning top;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "sphere"} >= 1 ?
+        {rbw}You found the remains of the Western Beacon;{rbw}
+      - else ?
+        {clr1}You did not find the broken sphere;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "signature"} >= 1 ?
+        {rbw}You got the signature of the artist;{rbw}
+      - else ?
+        {clr1}You did not find the signature;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "schematics"} >= 1 ?
+        {rbw}You found some magical schematics;{rbw}
+      - else ?
+        {clr1}You did not find the schematics;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "pipe"} >= 1 ?
+        {rbw}You uncovered the treachery of images;{rbw}
+      - else ?
+        {clr1}You did not find the thing that is not a pipe;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "note"} >= 1 ?
+        {rbw}You found my note - congratulations;{rbw}
+      - else ?
+        {clr1}You did not find the note, somehow;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "milk"} >= 1 ?
+        {rbw}You fetched some milk;{rbw}
+      - else ?
+        {clr1}You forgot the milk;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "lava"} >= 1 ?
+        {rbw}You found some lava and took it;{rbw}
+      - else ?
+        {clr1}You did not find any lava;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "lantern"} >= 1 ?
+        {rbw}You found a brass lantern;{rbw}
+      - else ?
+        {clr1}You did not find the lantern;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "gravel"} >= 1 ?
+        {rbw}You took some gravel?{rbw}
+      - else ?
+        {clr1}You didn't get any gravel;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "ghostbaby"} >= 1 ?
+        {rbw}You are taking care of a baby ghost;{rbw}
+      - else ?
+        {clr1}You did not find the baby ghost;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "fire"} >= 1 ?
+        {rbw}You picked up some fire;{rbw}
+      - else ?
+        {clr1}You did not find any fire;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "feather"} >= 1 ?
+        {rbw}You found an interesting feather;{rbw}
+      - else ?
+        {clr1}You did not find the feather;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "chalice"} >= 1 ?
+        {rbw}You found my broken chalice - well done;{rbw}
+      - else ?
+        {clr1}You didn't find the chalice that Pixby-Bitsington broke;{clr1}{a = a + 1}
+    }   
+  - {
+      - {item "bra"} >= 1 ?
+        {rbw}You found a mermaid's ... shells;{rbw}
+      - else ?
+        {clr1}You did not find the shells;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "bone"} >= 1 ?
+        {rbw}You found a bone - I hope no-one was using it;{rbw}
+      - else ?
+        {clr1}You did not find the bone;{clr1}{a = a + 1}
+    }
+  - {
+      - {item "beer"} >= 1 ?
+        {rbw}You found endless beer;{rbw}
+      - else ?
+        {clr1}You did not find any beer;{clr1}{a = a + 1}
+    }
+  - {
+      - a > 0 ?
+        Rest now, or explore some more. There is yet more to find.
+      - else ?
+        Well done Orb! You've travelled to all corners of my realm, 
+        and you've found all that there is to find. 
+        Rest now, you have reached
+        {wvy}__________ {wvy}{rbw}THE END{rbw}{wvy} __________{wvy}
+    }
+}
+"""
+
+DLG SPR_0
+"""
+{sequence
+  - Lo Orb!
+  - Admiring the statue of our founder, eh?
+  - That's Lord Pixby-Bitsington. Missing now, of course.
+  - Apparently he's quite egotistical
+  - Some people think he hides nearby to keep an eye on us!
+  - Anyway, welcome.
+}
+"""
+
+VAR a
+0
+
+

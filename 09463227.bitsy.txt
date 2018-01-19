@@ -1,0 +1,787 @@
+We're just the dancers! (by G_G)
+
+# BITSY VERSION 3.3
+
+! ROOM_FORMAT 1
+
+PAL 0
+0,82,204
+238,153,89
+255,255,255
+
+PAL 1
+198,140,255
+0,0,0
+255,255,255
+
+PAL 2
+72,223,84
+192,52,12
+255,255,255
+
+PAL 3
+255,255,85
+75,0,130
+255,255,255
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,a,a,a,0,0,0,0,0,0,0,0,a,a,0
+0,a,0,0,a,a,a,a,0,0,0,0,a,a,a,0
+0,a,0,0,0,0,0,a,a,a,a,0,a,0,a,0
+0,a,0,0,0,0,0,0,a,0,0,a,a,0,a,0
+0,a,0,0,0,0,0,a,a,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,a,0,0,0,0,g,0,a,0
+0,a,0,0,0,0,0,a,0,0,a,0,0,0,a,0
+0,a,0,0,0,d,0,a,0,a,0,0,0,0,a,0
+0,a,0,a,0,0,a,0,0,d,0,0,0,0,a,0
+0,a,0,d,0,0,a,0,0,0,a,a,0,0,e,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,a,a,0
+0,a,0,0,0,0,0,0,d,0,0,0,0,a,0,0
+0,a,0,0,0,0,0,0,a,0,0,0,0,a,0,0
+0,a,a,a,a,a,a,a,a,a,a,a,a,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WAL a,e,d
+EXT 12,6 2 8,9
+PAL 0
+
+ROOM 1
+0,0,0,0,0,0,0,a,a,a,a,a,a,a,0,0
+0,0,0,0,0,0,a,a,0,0,0,0,0,0,a,0
+0,0,a,a,0,0,a,a,0,0,a,0,0,0,0,a
+a,a,a,0,a,a,a,0,0,0,a,0,0,0,0,a
+a,a,0,0,b,d,0,0,0,0,a,0,0,0,a,0
+0,a,a,0,b,a,0,0,0,0,a,a,a,a,a,0
+0,0,a,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,0,a,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,a,a,0,0,0,d,0,a,b,b,0,a,a,0
+0,a,0,0,a,b,b,b,0,d,a,a,a,a,a,0
+0,a,0,0,0,0,b,b,b,b,0,0,0,0,a,a
+0,a,0,0,g,0,0,0,0,0,0,0,0,0,0,a
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+0,a,a,a,a,0,0,0,0,0,0,a,a,a,a,0
+0,0,a,a,0,a,a,0,0,0,0,a,0,a,0,0
+0,0,0,0,0,0,a,a,a,a,a,a,0,0,0,0
+WAL a,d
+EXT 4,11 6 7,10
+PAL 3
+
+ROOM 2
+0,a,a,a,a,0,0,0,0,0,0,0,0,0,0,0
+0,a,0,0,a,a,0,0,a,a,a,a,a,0,0,0
+0,a,0,g,0,a,a,0,a,0,0,0,a,a,0,0
+0,a,0,0,0,0,a,a,a,0,g,0,0,a,0,0
+0,0,a,a,0,0,0,a,a,0,0,0,0,0,a,a
+0,0,0,0,a,d,0,0,0,0,d,b,0,0,0,a
+0,0,0,0,a,0,0,0,0,0,b,0,0,0,a,0
+0,a,a,a,a,0,b,b,0,0,0,0,0,0,0,a
+a,0,0,0,a,0,0,0,0,0,0,a,a,a,a,a
+a,0,g,0,a,0,0,0,e,0,0,0,0,0,a,0
+a,0,0,0,a,a,a,b,b,0,0,d,0,0,a,0
+0,a,0,0,0,0,a,a,d,0,0,0,0,0,d,0
+0,a,a,0,0,0,0,0,a,a,0,0,a,0,a,0
+0,0,a,d,0,0,0,0,0,a,a,a,0,0,a,0
+0,0,0,a,a,a,0,0,0,0,0,0,0,a,0,0
+0,0,0,0,0,a,a,a,a,a,a,a,a,0,0,0
+WAL d,a
+EXT 3,2 3 3,10
+EXT 10,3 4 12,3
+EXT 2,9 5 11,13
+PAL 2
+
+ROOM 3
+0,0,0,0,0,0,0,0,0,a,a,a,a,a,a,0
+0,0,0,a,a,a,a,a,a,a,0,0,0,0,0,a
+0,0,a,0,0,0,0,0,0,0,0,0,0,g,0,a
+0,0,a,0,a,a,0,0,0,d,0,a,0,0,0,a
+0,0,a,a,a,a,a,a,0,0,0,a,a,a,a,0
+0,0,a,0,0,0,0,a,0,0,a,a,0,0,0,a
+0,a,a,0,0,0,0,a,0,a,a,0,b,0,0,a
+0,a,0,0,0,0,0,0,0,a,0,d,b,0,0,a
+0,a,a,0,0,0,0,d,0,a,0,0,0,0,a,a
+0,0,a,0,0,d,b,d,0,0,0,0,0,0,a,0
+0,0,a,e,0,0,b,b,0,0,0,0,0,a,0,0
+0,0,0,a,a,0,0,0,0,0,0,a,a,0,0,0
+0,0,0,0,0,a,0,0,0,0,a,a,0,0,0,0
+0,0,0,0,0,a,0,0,0,0,a,0,0,0,0,0
+0,0,0,0,0,a,a,0,0,0,a,0,0,0,0,0
+0,0,0,0,0,0,0,a,a,a,0,0,0,0,0,0
+WAL a,d
+EXT 13,2 1 12,11
+PAL 1
+
+ROOM 4
+0,0,0,a,a,a,a,0,0,0,0,0,a,a,a,0
+0,0,a,a,0,0,0,a,0,0,0,d,a,0,a,a
+0,0,a,0,0,b,d,0,a,0,0,a,0,0,0,a
+0,a,a,0,0,b,b,0,a,0,0,a,e,0,a,a
+0,a,a,0,0,0,0,0,a,0,0,a,0,0,a,0
+0,0,a,0,g,0,0,0,a,0,a,a,0,0,a,0
+0,0,a,0,0,0,0,0,a,a,a,0,0,a,a,0
+0,0,a,0,d,0,0,0,0,0,0,0,0,a,0,0
+a,a,a,0,0,0,0,0,0,0,0,b,d,a,0,0
+a,0,0,b,b,0,a,a,a,a,0,0,b,a,0,0
+a,0,0,0,0,0,a,0,0,a,a,0,0,a,a,0
+a,a,0,0,0,0,a,0,0,0,a,0,0,0,d,0
+0,a,a,0,0,d,a,0,0,a,a,0,0,0,a,0
+0,0,a,0,a,a,0,0,a,a,0,0,0,0,a,0
+0,0,a,a,a,0,0,0,a,0,0,a,a,a,a,0
+0,0,0,0,0,0,0,0,a,a,a,a,0,0,0,0
+WAL d,a
+EXT 4,5 1 12,11
+PAL 1
+
+ROOM 5
+0,0,0,a,a,a,a,0,0,0,0,0,0,a,a,0
+0,0,a,0,0,0,a,a,a,a,a,a,a,0,a,0
+0,0,a,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,0,0,0,0,0,0,0,0,d,b,0,0,0,a
+a,0,0,0,0,0,0,0,0,b,b,0,0,g,0,a
+a,0,0,d,b,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,d,0,0,a,a,a,a,a,a,0,0,a,0
+0,a,0,0,0,0,a,0,0,0,0,a,0,0,d,0
+0,a,0,0,0,a,a,0,0,0,0,a,0,0,a,a
+a,a,0,0,0,a,a,0,0,0,a,a,0,0,0,a
+a,0,0,0,0,0,a,a,a,a,a,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,a,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,0,a,a,0,0,d,b,0,0,0,e,0,a,a,0
+0,0,0,a,a,a,b,b,a,a,a,0,a,a,0,0
+0,0,0,0,0,a,a,a,0,0,0,a,a,0,0,0
+WAL d,a
+EXT 13,4 1 12,11
+PAL 1
+
+ROOM 6
+0,0,0,a,a,a,0,0,0,0,a,a,a,0,0,0
+0,a,a,0,0,0,a,a,a,a,0,0,0,a,a,0
+a,0,0,0,g,0,0,0,0,0,0,g,0,0,0,a
+a,0,0,0,0,0,0,g,0,0,0,0,0,0,0,a
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,d,d,d,0,0,d,d,d,0,0,a,0
+0,0,d,0,0,0,0,d,d,0,0,0,d,d,0,0
+0,d,0,0,0,0,0,0,0,0,0,0,0,0,d,0
+d,0,b,b,b,0,0,0,0,0,0,b,b,b,0,d
+0,d,0,0,0,b,b,b,b,b,b,0,0,0,d,0
+0,0,d,0,0,0,0,e,0,0,0,0,0,d,0,0
+0,0,0,d,d,0,0,0,0,0,0,d,d,0,0,0
+0,0,0,0,0,d,d,d,d,d,d,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WAL a,d
+EXT 4,2 7 10,3
+EXT 7,3 7 11,12
+EXT 11,2 7 2,5
+PAL 1
+
+ROOM 7
+0,0,0,0,d,a,d,d,d,a,d,0,0,0,0,0
+0,0,d,d,0,0,0,d,0,0,d,d,0,0,0,0
+0,d,a,0,0,0,0,d,0,0,0,d,a,0,0,0
+0,d,0,0,0,0,0,d,0,0,e,0,d,d,0,0
+a,d,0,0,0,0,0,a,0,0,0,0,0,d,a,0
+d,0,e,0,0,0,b,d,0,0,0,0,0,0,d,d
+d,0,0,0,0,b,d,0,0,0,0,0,0,0,0,d
+d,0,0,0,0,0,d,0,0,0,b,b,0,0,0,d
+d,a,d,0,d,d,0,0,d,d,a,d,a,d,d,d
+d,d,b,0,0,0,0,d,0,0,0,0,0,0,0,a
+0,d,d,0,0,0,0,a,0,0,0,0,0,0,0,d
+0,0,a,d,0,g,0,d,0,0,0,0,0,0,0,d
+0,0,0,d,0,0,0,0,0,0,0,e,0,d,d,0
+0,0,0,0,a,0,0,d,0,b,0,0,d,d,0,0
+0,0,0,0,d,d,0,d,b,d,d,a,d,0,0,0
+0,0,0,0,0,d,d,d,a,d,0,0,0,0,0,0
+WAL a,d
+EXT 5,11 8 1,14
+PAL 0
+
+ROOM 8
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,g,0,a,a,a,a,a,a,a,a,a,a,0,a
+a,0,0,0,a,0,0,0,0,0,0,0,0,0,0,a
+a,0,a,a,a,a,0,0,a,a,a,a,a,a,a,a
+a,0,a,a,0,0,0,0,0,0,0,0,0,a,0,a
+a,0,a,a,a,a,a,0,a,a,a,a,0,0,0,a
+a,0,a,0,0,0,0,0,0,0,a,a,a,a,0,a
+a,0,a,0,a,a,a,a,a,a,0,0,0,a,0,a
+a,0,a,0,a,0,0,0,a,a,0,a,0,a,0,a
+a,0,a,0,a,0,a,0,a,0,0,0,0,0,0,a
+a,0,a,0,a,0,a,0,a,0,a,a,0,a,a,a
+a,0,a,0,0,0,a,0,a,0,0,0,0,0,0,a
+a,0,a,a,a,a,a,0,a,a,a,a,a,a,0,a
+a,e,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+WAL d,a
+EXT 2,2 9 8,9
+PAL 2
+
+ROOM 9
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,a,a,a,0,0,0,0,a,a,a,0,0
+0,0,0,a,0,0,h,a,a,a,a,h,0,0,a,0
+0,0,0,a,0,d,0,b,h,h,b,0,d,0,a,0
+0,0,0,a,h,0,0,0,0,0,0,0,0,h,a,0
+0,0,0,0,a,b,0,0,0,0,0,0,h,a,0,0
+0,0,0,0,a,h,0,0,0,0,0,0,h,a,0,0
+0,0,0,0,a,h,0,0,0,0,0,0,h,a,0,0
+0,0,0,0,a,b,0,0,e,0,0,0,h,a,0,0
+0,0,0,a,h,0,0,0,0,0,0,0,0,h,a,0
+0,0,0,a,0,d,0,h,g,h,h,0,d,0,a,0
+0,0,0,a,0,0,b,a,a,a,a,b,0,0,a,0
+0,0,0,0,a,a,a,0,0,0,0,a,a,a,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WAL d,a
+END undefined 11,5
+END undefinee 9,5
+END undefinef 7,5
+END 0 7,11
+END 0 8,11
+PAL 3
+
+TIL a
+00000000
+00110100
+10101010
+10111010
+10110110
+10101110
+10100010
+01111100
+>
+00000000
+00110100
+10101010
+10111010
+10110110
+10101110
+10100010
+01111100
+
+TIL b
+01100011
+10000000
+10001000
+00001000
+00110110
+00001000
+10001000
+10000000
+
+TIL d
+00000000
+01000100
+11101110
+11111110
+11111110
+01111100
+00111000
+00010000
+
+TIL e
+00000000
+11111100
+00000110
+10111010
+10101010
+10101010
+00000110
+11111100
+
+TIL g
+00000000
+11101110
+10111010
+11010110
+01101100
+11010110
+10111010
+11101110
+>
+00000000
+10111010
+01000100
+10101010
+10010010
+10101010
+01000100
+10111010
+
+TIL h
+00010100
+00000000
+00001010
+10100100
+01000010
+10000000
+00010000
+00001000
+>
+00010100
+00000000
+00001010
+10100100
+01000010
+10000000
+00010000
+00001000
+
+TIL i
+00000000
+00000000
+00110000
+01111110
+00101110
+00111110
+00000000
+00000000
+
+SPR A
+11000000
+11000011
+01000011
+11000010
+01100111
+01000010
+11100111
+10000101
+>
+00000000
+11000110
+11000110
+01100010
+11000111
+01000010
+11100111
+00101001
+POS 0 4,4
+
+SPR a
+00000000
+00001100
+00001010
+00001000
+00001000
+00111000
+01001000
+00110000
+>
+00000000
+00001100
+00001010
+00001000
+00001000
+00111000
+01111000
+00110000
+POS 7 5,3
+
+SPR b
+00000000
+00111100
+00100110
+00000010
+00011110
+00010000
+00000000
+00010000
+POS 0 4,6
+
+SPR c
+00000000
+01100000
+00111100
+01101100
+11100100
+01111110
+00110100
+00100110
+>
+00000000
+00110000
+00111100
+01101100
+01100110
+11111100
+00110110
+00100000
+POS 3 13,5
+
+SPR d
+00000000
+01111100
+10000010
+10111010
+10100010
+10111010
+10000010
+01111100
+>
+00000000
+01111100
+11111110
+11000110
+11011110
+11000110
+11111110
+01111100
+POS 1 9,12
+
+SPR e
+00000000
+01111100
+10000010
+10101010
+10000010
+10111010
+10000010
+01111100
+>
+00000000
+01111100
+10000010
+10100010
+10000010
+10111010
+10000010
+01111100
+POS 1 3,5
+
+SPR f
+00000000
+01111100
+11111110
+11000110
+11101110
+11101110
+11000110
+01111100
+>
+00000000
+01111100
+10000010
+10111010
+10010010
+10010010
+10111010
+01111100
+POS 0 3,8
+
+SPR g
+00000000
+01100000
+00111100
+01101100
+11100100
+01111110
+00110100
+00100110
+>
+00000000
+00110000
+00111100
+01101100
+01100110
+11111100
+00110110
+00100000
+POS 4 2,10
+
+SPR h
+00000000
+01100000
+00111100
+01101100
+11100100
+01111110
+00110100
+00100110
+>
+00000000
+00110000
+00111100
+01101100
+01100110
+11111100
+00110110
+00100000
+POS 5 7,3
+
+SPR i
+00000000
+00000000
+00001100
+11011011
+01111110
+11011111
+00001110
+00000000
+>
+00000000
+00000000
+00001100
+11011010
+01111111
+11011111
+00001110
+00000000
+POS 4 12,12
+
+SPR l
+00000000
+01111100
+10000010
+10101010
+10000010
+10111010
+10000010
+01111100
+>
+00000000
+01111100
+10000010
+10100010
+10000010
+10111010
+10000010
+01111100
+POS 1 13,2
+
+SPR m
+00000000
+01111100
+10000010
+10101010
+10000010
+10111010
+10000010
+01111100
+>
+00000000
+01111100
+10000010
+10100010
+10000010
+10111010
+10000010
+01111100
+POS 1 12,7
+
+SPR n
+00000000
+00001100
+00001010
+00001000
+00001000
+00111000
+01001000
+00110000
+>
+00000000
+00001100
+00001010
+00001000
+00001000
+00111000
+01111000
+00110000
+POS 7 12,6
+
+SPR o
+00000000
+00001100
+00001010
+00001000
+00001000
+00111000
+01001000
+00110000
+>
+00000000
+00001100
+00001010
+00001000
+00001000
+00111000
+01111000
+00110000
+POS 7 13,10
+
+SPR p
+00000000
+00010100
+01001100
+01110000
+00010000
+00111000
+00101000
+00001000
+>
+00000000
+01010000
+01100100
+00011100
+00010000
+00111000
+00101000
+00100000
+POS 8 1,10
+
+SPR q
+00000000
+01111100
+11111110
+11000110
+11101110
+11101110
+11000110
+01111100
+>
+00000000
+01111100
+10000010
+10111010
+10010010
+10010010
+10111010
+01111100
+POS 9 8,7
+
+SPR r
+00000000
+01111100
+10000010
+10101010
+10000010
+10111010
+10000010
+01111100
+>
+00000000
+01111100
+10000010
+10100010
+10000010
+10111010
+10000010
+01111100
+POS 9 9,5
+
+SPR s
+00000000
+01111100
+10000010
+10101010
+10000010
+10111010
+10000010
+01111100
+>
+00000000
+01111100
+10000010
+10100010
+10000010
+10111010
+10000010
+01111100
+POS 9 7,5
+
+SPR t
+00000000
+01111100
+10000010
+10101010
+10000010
+10111010
+10000010
+01111100
+>
+00000000
+01111100
+10000010
+10100010
+10000010
+10111010
+10000010
+01111100
+POS 9 11,5
+
+DLG a
+So, the song you'll be singing in Eurovision is an epic goth ballad about a cat stuck down a drain. We think it's got a winning formula.
+
+DLG b
+"The Eurovision representatives for our country, the 'Glorious Former Republic of Sharing & Playing Nicely With Each Other, Regardless of Gender, Colour, Religion, Race, Sexual Orientation Etc' have defected! You will have to take their place." ... "B.B.But WE'RE JUST THE DANCERS. We can't possibly do that!" ... "Don't worry, you'll be fine. Now go and find me a gimmick for the song, and lets see if we can get douze points for the glory of our country."
+
+DLG c
+Congratulations! You've found your gimmick... A troupe of tap dancing donkeys trained by Gonjoro, the antithesis of dance teachers.
+
+DLG d
+Challenge Time! Let me hear you sing for 30 seconds. Make sure you're close enough to the microphone. Once you've finished go to one of the emojis and see if your good enough to get through to Eurovision. Okay, ready? 3... 2... 1.... GO!
+
+DLG e
+Well, okay. You can hold a tune in a bucket and managed that fancy key change towards the end of the song. You're through to the next stage!
+
+DLG f
+Hint: Interact with the white objects & visit other rooms via the e(X)its.
+
+DLG g
+Congratulations! You've found your gimmick... A flaming dustbin carried on the back of a miming traffic warden... What's she miming? ... Compassion in a world hungry for deceit.
+
+DLG h
+Congratulations! You've found your gimmick... A special guest appearance from our Glorious Leader, The Lord of the Darketty Dark. He's happy to take time out from his enslaving, reduction of human rights and general terribleness to gain a few popularity points. YAAAAAY for the Glorious Leader!
+
+DLG i
+Nothing here! Just an obligatory bad joke in the shape of a red herring... well, actually it's a whitebait!
+
+DLG k
+Challenge time! Prove how good a dancer you are... Stand in front of the camera & dance for 30 seconds. Then choose one of the emoticons to find out whether the critics think you're good enough. Ready? 3... 2... 1.... GO!
+
+DLG l
+Wow! With that voice you could bring the house down, especially if you were the supervisor in charge of a demolition crew. Anyway, well done. You're through!
+
+DLG m
+Aargh! Stop! My ears will never recover! Well, it's too late to get anyone else - practice for the next 20 minutes and I'm sure you'll be fine.
+
+DLG n
+So, the song you'll be singing in Eurovision is an upbeat jiggling pop song about a caveman who visits the library regularly in the hope that he can push evolution just a little bit further ahead.
+
+DLG o
+So, the song you'll be singing in Eurovision is a folk ditty about aliens not being keen on peanut butter, with a twist at the end that they are in fact made from a peanut butter derivative.
+
+DLG p
+Hey dancers! You think you're the best, huh? I. Don't. Think. So!. To be the best you gotta beat ME! I challenge you to a dance-off! Right here, right now! You down for that? Ready? We dance for 1 minute and only then will the exit open if you're good enough. No point wasting your time heading there now, you'll just have to come right back! Ready! Let's create a minute of exciting dance fire with our grooving body machines! GO! And after that head to the exit... but only after we have danced each other off.
+
+DLG q
+.... Eurovision is over. You sang & danced your hearts out. The usually sarcastic commentator said some nice things about you and predicts you'll do well. But then again they haven't predicted a winner in the past 20 years. Chose one of the emojis above to see how well you've done.
+
+DLG r
+Oh bad luck. That was disappointing. There must have been some tactical political voting going on there. The good news is that the nation's leader, The Lord of the Darketty Dark has only sentenced you to a medium length jail term for causing embarrassment to the entire country.
+
+DLG s
+Wow! That's impressive! That's  the first time any Eurovision act has made it into minus figures. Look out here comes the glorious leader, the Lord of the Darketty Dark. If on a scale of 1 to 10 unhappy was 1 he is wearing a face that also goes into minus figures. As he approaches you blurt out "B..B..But we're just the dancers!" He is a lenient lord and offers to spare his wrath if you're dancing is good enough... Get ready to dance! 3... 2... 1... GO!
+
+DLG t
+Oh! I say! We have a winner! Congratulations! I have to say it surprised me as much as it's surprised you. It was probably your choice of gimmick that helped gain you points. Taking to the stage to accept your prize with a woefully unprepared acceptance speech you spoil the moment by asking in front of millions of viewers what Australia is doing in the competition anyway? *Tumbleweed drifts across the stage*
+
+END 0
+That's the end of Eurovision for another year. Thanks for playing "We're just the dancers!" by G_G an interactive micro-fiction created for #Eurovijam.
+
+END undefined
+Oh! I say! We have a winner! Congratulations! I have to say it surprised me as much as it's surprised you. It was probably your choice of gimmick that helped gain you points. Taking to the stage to accept your prize with a woefully unprepared acceptance speech you spoil the moment by asking in front of millions of viewers what Australia is doing in the competition anyway? *Tumbleweed moment* 
+
+END undefinee
+Oh bad luck. That was disappointing. There must have been some tactical political voting going on there. The good news is that The Lord of the Darketty Dark has only sentenced you to a medium length jail term for causing embarrassment to your entire nation.
+
+END undefinef
+Wow! That's impressive! That's  the first time any Eurovision act has made it into minus figures. Look out here comes the Lord of the Darketty Dark. If on a scale of 1 to 10 unhappy was 1 he is wearing a face that also goes into minus figures. As he approaches you blurt out "B..B..But we're just the dancers!" He is a lenient lord and offers to spare his wrath if you're dancing is good enough... Get ready to dance! 3... 2... 1... GO!
+
+END undefineg
+
+
+END undefineh
+
+
