@@ -1,0 +1,656 @@
+        The Summit High
+
+# BITSY VERSION 3.7
+
+! ROOM_FORMAT 1
+
+PAL 0
+0,0,0
+254,172,1
+255,255,255
+
+ROOM 0
+0,0,0,0,0,0,c,m,m,u,d,0,0,0,0,0
+0,0,0,0,0,c,j,u,j,l,u,d,0,0,0,0
+0,0,0,b,c,u,u,x,x,x,u,u,b,0,0,0
+0,0,c,u,u,u,g,n,o,n,f,u,u,d,c,d
+0,0,u,k,u,e,n,o,o,n,o,e,u,u,u,u
+b,c,u,u,i,n,o,n,o,n,n,o,h,u,m,u
+u,u,u,u,i,n,o,o,n,n,o,o,h,u,u,u
+u,m,u,m,i,n,n,n,o,n,n,o,h,u,u,u
+u,u,u,u,u,b,n,n,o,o,n,c,u,u,u,u
+u,k,u,m,u,u,d,n,n,n,b,u,u,k,u,u
+u,u,j,u,l,u,u,d,o,c,u,u,j,l,l,u
+u,u,u,u,u,u,u,i,n,u,u,u,u,u,u,u
+u,m,u,u,u,u,u,u,n,h,u,m,u,u,u,u
+u,u,u,u,m,k,u,i,o,u,u,u,u,k,u,u
+u,u,u,j,k,u,l,u,o,u,u,u,u,u,m,u
+u,u,u,u,u,u,u,i,o,h,u,u,u,u,u,u
+WAL a,b,c,d,e,f,g,h,i,j,k,l,m,q,r,s,u,v,w,x,y,z
+EXT 8,15 1 8,0
+
+ROOM 1
+u,m,u,u,k,u,u,g,o,h,k,u,u,u,j,u
+m,u,l,k,u,u,g,n,n,u,u,u,m,j,u,k
+u,l,j,u,l,e,n,o,n,h,u,j,u,l,m,u
+j,u,l,u,g,n,n,n,n,f,x,x,u,u,u,u
+u,u,u,i,n,n,n,o,n,n,n,n,f,u,u,u
+l,m,u,e,n,o,n,n,o,n,n,n,n,h,j,l
+u,l,i,o,n,n,o,n,n,o,n,o,n,h,u,u
+k,u,i,n,o,n,n,o,n,n,n,n,b,m,k,u
+u,u,i,n,n,n,o,n,n,o,n,c,u,u,u,m
+l,u,u,d,n,n,n,b,n,n,c,u,k,m,j,u
+u,l,u,g,n,n,c,k,a,a,u,j,l,u,u,j
+u,u,e,n,n,c,j,x,x,g,f,x,x,u,j,u
+u,i,n,o,n,f,g,n,n,n,n,o,n,f,u,u
+u,i,o,n,o,n,o,n,o,c,a,d,o,n,h,u
+l,m,d,n,n,n,n,n,n,n,o,n,n,c,m,j
+u,u,u,d,b,a,a,a,d,n,o,c,a,j,u,u
+WAL z,y,x,w,v,u,s,r,q,m,l,k,j,i,h,g,f,e,d,c,b,a
+EXT 10,15 2 10,0
+EXT 9,15 2 9,0
+
+ROOM 2
+s,u,e,f,x,x,x,x,q,n,o,e,f,y,u,q
+u,g,o,o,o,n,o,n,f,d,o,o,o,o,f,u
+i,o,o,o,c,q,d,o,o,f,a,a,d,n,n,y
+q,n,o,c,r,x,x,d,o,o,f,e,f,d,n,h
+i,o,c,u,g,o,n,f,d,o,o,o,o,o,o,h
+i,o,s,g,o,o,n,o,f,a,s,d,n,o,c,m
+y,n,e,o,n,c,d,n,o,f,x,u,a,a,u,r
+i,o,n,n,c,u,r,d,o,n,o,f,x,x,x,u
+u,d,n,c,s,g,f,e,n,n,n,o,o,o,o,j
+l,k,a,q,g,n,o,n,o,n,o,o,n,o,c,l
+u,r,l,i,o,o,c,d,n,n,n,o,o,c,u,u
+k,u,m,i,o,o,f,x,a,a,m,a,q,u,y,s
+q,u,u,u,d,o,n,o,h,j,u,u,m,r,u,k
+u,m,y,m,u,q,d,n,u,r,u,u,u,l,m,u
+u,r,u,s,u,u,i,n,u,u,s,u,r,u,u,l
+l,m,u,u,u,y,i,n,h,q,u,y,u,u,q,u
+WAL a,b,c,d,e,f,g,h,i,j,k,l,m,q,r,s,u,v,w,x,y,z
+EXT 7,15 3 7,0
+
+ROOM 3
+j,u,r,l,u,q,i,o,h,q,u,j,u,u,l,u
+u,q,u,k,l,m,i,n,f,u,j,q,u,s,u,l
+l,u,u,s,m,u,i,n,o,h,u,u,y,u,k,u
+u,l,m,j,u,l,u,d,n,s,k,u,u,u,u,y
+r,u,s,u,q,u,s,i,o,u,u,s,k,m,r,u
+u,u,u,u,u,k,u,g,n,h,u,j,u,k,u,j
+k,r,j,l,u,r,i,o,n,u,k,m,k,m,j,s
+j,u,y,u,l,u,e,n,c,j,r,u,u,u,l,u
+u,u,u,k,u,l,n,o,j,u,u,q,u,k,q,k
+u,q,u,u,q,i,o,c,u,y,u,u,u,u,u,u
+k,u,u,u,u,l,n,h,q,u,k,u,s,u,r,u
+l,m,k,m,r,u,o,u,u,u,r,u,k,u,u,s
+j,u,u,s,l,i,o,r,u,k,m,j,u,l,m,j
+u,q,u,u,u,l,n,f,j,u,u,q,u,u,k,u
+u,u,u,k,r,i,n,o,u,u,u,u,u,u,u,q
+k,u,s,u,u,u,d,n,h,s,k,u,r,u,y,u
+WAL a,b,c,d,e,f,g,h,i,j,k,l,m,q,r,s,u,v,w,x,y,z
+EXT 7,15 4 7,0
+
+ROOM 4
+k,s,m,j,r,u,l,n,k,m,k,j,q,l,j,r
+x,j,k,u,k,m,i,n,h,j,l,j,l,u,l,x
+w,f,x,j,u,q,l,o,j,u,s,l,x,l,g,w
+z,w,v,f,k,u,i,o,h,k,x,g,v,w,z,w
+w,v,z,v,f,x,g,n,f,g,w,z,w,z,v,z
+v,z,0,v,z,v,w,n,v,z,v,w,v,w,z,v
+z,w,0,0,0,0,0,o,n,v,w,v,z,0,z,w
+w,z,v,z,z,w,v,0,n,z,w,z,0,0,w,v
+z,v,w,v,v,z,z,v,0,0,0,0,0,w,z,w
+w,z,w,z,w,v,w,0,0,0,w,v,w,z,w,v
+v,w,v,z,z,z,0,0,o,0,n,w,v,v,z,w
+w,v,z,z,0,0,0,v,w,0,w,v,z,w,z,v
+0,z,w,0,0,z,z,w,n,0,w,w,w,z,w,z
+0,0,v,z,w,z,w,z,0,0,0,0,0,w,z,w
+0,v,z,w,v,z,v,0,0,w,z,w,z,v,w,0
+0,0,v,z,w,v,z,o,n,z,w,v,v,z,0,0
+WAL a,z,y,x,w,v,u,s,r,q,m,l,k,j,i,h,g,f,e,d,c,b
+EXT 8,15 5 8,0
+EXT 7,15 5 7,0
+
+ROOM 5
+0,0,v,0,w,z,v,n,0,w,v,0,w,z,0,0
+0,0,0,0,0,w,0,0,0,0,w,0,v,0,0,0
+0,0,0,0,z,0,w,0,n,z,0,0,0,0,0,0
+0,0,0,0,0,0,z,0,0,0,w,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,v,0,n,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,z,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,v,0,0,0,0,0,0
+0,0,0,0,0,0,0,n,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,n,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,n,o,0,0,0,0,0,0,0
+WAL z,y,x,w,v,u,s,r,q,m,l,k,j,i,h,g,f,e,d,c,b,a
+EXT 7,15 6 7,0
+EXT 8,15 6 8,0
+
+ROOM 6
+0,0,0,0,0,0,0,0,o,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,o,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,o,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,o,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WAL a,b,c,d,e,f,g,h,i,j,k,l,m,q,r,s,u,v,w,x,y,z
+
+TIL a
+10000001
+11001111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL b
+00001100
+00111110
+01111110
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL c
+00000001
+00001101
+00011111
+00111111
+01111111
+11111111
+11111111
+11111111
+
+TIL d
+11000000
+11110000
+11111000
+11111100
+11111110
+11111111
+11111111
+11111111
+
+TIL e
+11111111
+11111111
+11111111
+11111111
+11111110
+10111100
+01110000
+00000000
+
+TIL f
+11111111
+11111111
+11101111
+11011111
+01011101
+00111011
+00111011
+00000001
+
+TIL g
+11111111
+11111111
+11111011
+10111101
+11011100
+11011000
+11100000
+10000000
+
+TIL h
+01111111
+00111111
+00111111
+00111111
+00111111
+00111111
+00111111
+01111111
+
+TIL i
+11111110
+11111010
+11111100
+11111100
+11101100
+11110100
+11111000
+11111110
+
+TIL j
+11111110
+11111101
+11101011
+11000111
+11011011
+10011101
+00111111
+01111111
+
+TIL k
+11111111
+11110111
+11101011
+11001101
+11011101
+10111100
+00111010
+01110110
+
+TIL l
+01111111
+00111111
+10011111
+11100111
+11111011
+11011101
+10101101
+11111110
+
+TIL m
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+10110011
+01001100
+
+TIL n
+00000000
+00100000
+00000010
+00000000
+00001000
+00000000
+01000010
+00000000
+
+TIL o
+00000000
+01000010
+00000000
+00010000
+00000000
+01000010
+00001000
+00000000
+
+TIL q
+11111101
+10100101
+10100011
+11000111
+11100111
+11000011
+10111011
+10111111
+
+TIL r
+11111111
+10110011
+11000010
+11100001
+10000111
+10110111
+11110111
+11110111
+
+TIL s
+11100101
+11100101
+10110001
+11000011
+11110011
+11100011
+11101011
+11111011
+
+TIL y
+11101111
+11110101
+11100101
+11000011
+11001111
+10000111
+10011011
+11011111
+
+TIL u
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL x
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11110111
+10100001
+
+TIL v
+00000000
+00000011
+00111111
+00001110
+00111110
+01001010
+01010100
+00010000
+
+TIL w
+00000000
+01100100
+00010010
+00001010
+00111110
+11011110
+00001011
+00110011
+
+TIL z
+00000000
+00011000
+00100000
+11111110
+11111001
+00100100
+00100010
+01000010
+
+SPR A
+00000000
+00000000
+00000000
+00011000
+00011000
+00000000
+00000000
+00000000
+POS 0 8,4
+
+SPR b
+00011000
+00011000
+00000000
+00100100
+01000010
+01100110
+00111100
+00000000
+POS 0 8,6
+
+SPR g
+00000000
+00011000
+00111000
+00110000
+01110000
+01110000
+01111000
+11111101
+POS 1 6,2
+
+SPR h
+00011000
+00011110
+01011110
+01111110
+01011100
+01010100
+01010100
+01010100
+POS 1 7,7
+
+SPR i
+00000110
+01100111
+10010011
+10111111
+10010011
+10010101
+01100101
+10010101
+POS 1 2,12
+
+SPR j
+00110001
+00111010
+10011100
+01111100
+00001100
+00011100
+00100100
+01000011
+POS 1 8,13
+
+SPR k
+00100000
+01001100
+00111100
+00011001
+00011110
+00111000
+01000100
+01000100
+POS 2 12,5
+
+SPR l
+00001000
+00110100
+00111000
+10011100
+01111110
+00001110
+00001010
+00001001
+POS 2 2,1
+
+SPR m
+00000000
+00000000
+00110000
+01110000
+11100000
+11100000
+11111000
+01110100
+POS 2 2,8
+
+SPR n
+00000000
+00000000
+00011100
+00111111
+01111111
+01111100
+01110100
+11110011
+POS 2 10,10
+
+SPR o
+00100110
+01001000
+01011000
+01111000
+00111111
+00111101
+00101100
+00100000
+POS 2 4,11
+
+SPR p
+00000000
+00000110
+00001110
+00011100
+00101110
+00011101
+00100100
+01001000
+POS 4 8,5
+
+SPR q
+00000000
+00000000
+00001110
+00001111
+00000011
+00011111
+00110111
+01000011
+POS 4 2,5
+
+SPR r
+00000000
+00000000
+00000000
+00000000
+00011110
+00111111
+11110111
+11011011
+POS 4 13,6
+
+SPR s
+00011000
+00100000
+00111110
+00111101
+11111101
+11110100
+00010010
+01100010
+POS 4 3,12
+
+SPR t
+00000110
+00101001
+01011000
+01111110
+00111001
+01110001
+01101000
+00000100
+POS 4 12,13
+
+SPR u
+00000000
+00011000
+00100000
+11111110
+11111001
+00100100
+00100010
+01000010
+POS 5 6,9
+
+SPR v
+00000000
+00000011
+00111111
+00001110
+00111110
+01001010
+01010100
+00010000
+POS 5 9,13
+
+SPR w
+00011000
+00011000
+00111100
+01100110
+10100101
+10111101
+00100100
+00100100
+POS 6 8,8
+
+DLG b
+The master ruled the summit high, and she was known to all.
+
+DLG k
+Hundreds reached and hundreds crawled, and a hundred thousand more.
+
+DLG g
+None could match the work she made, her skill was held in awe.
+
+DLG h
+We sought to make her power ours, to learn her secret ways.
+
+DLG i
+And so we tried to emulate, but found our work was flawed
+
+DLG j
+We only craved the summit high, and prayed the path was short
+
+DLG l
+Step by step we clambered on, sweat dripping from our pores.
+
+DLG m
+Step by step no end in sight, our bones grew cold and sore.
+
+DLG n
+To think we craved the summit high, but gave not the path a thought.
+
+DLG o
+Until our hands grew red and raw, and we could climb no more.
+
+DLG p
+At the base lay all who fell. A different tale for each to tell.
+
+DLG q
+Those who wished they had more time. Those who could not spare a dime.
+
+DLG r
+Those whose dreams had turned to dust. Those who let their talents rust.
+
+DLG s
+Those who found the work a bore. Those who liked something else more.
+
+DLG t
+Those who tried to cheat and lie. And those who did not even try.
+
+DLG u
+So now you know those broken bones, that pave the path towards the throne.
+
+DLG v
+To this question you must reply:
+
+DLG w
+Do you still crave the summit high?
+

@@ -1,0 +1,547 @@
+Night Drive
+
+# BITSY VERSION 3.7
+
+! ROOM_FORMAT 1
+
+PAL 0
+0,0,0
+37,53,100
+164,177,223
+
+ROOM 0
+0,h,h,h,h,h,h,h,h,h,h,h,h,h,h,0
+b,10,11,12,10,0,11,0,a,12,0,12,11,12,12,c
+0,12,0,10,11,11,f,i,i,i,j,10,12,10,12,0
+12,10,12,12,11,12,g,h,h,h,k,0,0,0,11,0
+11,0,10,10,12,10,12,12,11,10,11,12,0,12,0,10
+0,0,0,11,0,12,0,11,12,12,0,11,12,0,12,11
+0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+0,0,0,n,o,p,q,x,0,w,v,0,0,0,0,0
+0,p,q,0,0,0,0,y,0,0,0,w,v,0,0,0
+0,0,b,14,14,14,c,0,0,0,0,0,0,0,0,0
+0,b,b,0,0,0,c,c,0,0,0,0,0,0,0,0
+i,13,0,b,i,c,0,13,i,i,i,i,i,i,i,i
+0,l,14,0,0,0,14,m,0,f,i,i,i,i,i,l
+0,13,0,c,0,b,0,13,0,l,0,0,0,0,0,l
+0,c,c,0,13,0,b,b,0,l,0,0,0,0,0,l
+0,0,c,14,h,14,b,0,0,i,i,i,i,i,i,0
+
+TIL 10
+00000000
+10000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL 11
+00000000
+00000000
+01000000
+00000000
+00000000
+00000000
+00000010
+00000000
+
+TIL 12
+00000000
+00000000
+00000000
+00001000
+00000000
+00000000
+00000000
+00000000
+
+TIL 13
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+
+TIL 14
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+
+TIL a
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL b
+00000001
+00000010
+00000100
+00001000
+00010000
+00100000
+01000000
+10000000
+
+TIL c
+10000000
+01000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+
+TIL f
+01111111
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+
+TIL g
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+01111111
+
+TIL h
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+
+TIL i
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL j
+11111110
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+
+TIL k
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+11111110
+
+TIL l
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+
+TIL m
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+
+TIL n
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00001111
+11110000
+
+TIL o
+00000000
+00000000
+00000000
+00000000
+00001111
+11110000
+00000000
+00000000
+
+TIL p
+00000000
+00000000
+00001111
+11110000
+00000000
+00000000
+00000000
+00000000
+
+TIL q
+00001111
+11110000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL r
+11110000
+00001111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL s
+00000000
+00000000
+11110000
+00001111
+00000000
+00000000
+00000000
+00000000
+
+TIL t
+00000000
+00000000
+00000000
+00000000
+11110000
+00001111
+00000000
+00000000
+
+TIL u
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11110000
+00001111
+
+TIL v
+00000000
+00000000
+00000000
+00000000
+11000000
+00110000
+00001100
+00000011
+
+TIL w
+11000000
+00110000
+00001100
+00000011
+00000000
+00000000
+00000000
+00000000
+
+TIL x
+00000001
+00000000
+00000010
+00000010
+00000100
+00000100
+00000000
+00000000
+>
+00000001
+00000001
+00000000
+00000000
+00000000
+00000000
+00001000
+00001000
+
+TIL y
+00000000
+00000000
+00100000
+00100000
+01000000
+01000000
+10000000
+10000000
+>
+00010000
+00010000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+SPR A
+01010100
+10101000
+10101010
+11111010
+11111100
+11111000
+01110000
+01110000
+POS 0 1,12
+
+SPR a
+00111100
+01000110
+00000011
+00000011
+00000011
+00000011
+01000110
+00111100
+POS 0 12,3
+
+SPR b
+00000000
+00000000
+00000000
+00000000
+01000010
+11100111
+01000010
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+10100101
+01000010
+10100101
+00000000
+POS 0 8,2
+
+SPR c
+01111110
+01001010
+01101010
+01111110
+00100100
+00100100
+00100100
+00100100
+POS 0 5,6
+
+SPR d
+00111100
+01000010
+10000001
+10000001
+11110001
+10000001
+01000010
+00111100
+POS 0 10,13
+
+SPR e
+00111100
+01000010
+10000001
+10000001
+10001001
+10000101
+01000010
+00111100
+POS 0 13,13
+
+SPR f
+01111111
+01000000
+01000001
+01000001
+01000101
+01010101
+01111111
+00000000
+>
+01111111
+01000000
+01010000
+01010100
+01010101
+01010101
+01111111
+00000000
+POS 0 11,13
+
+SPR g
+11111110
+00000010
+01000010
+01000010
+01010010
+01010110
+11111110
+00000000
+>
+11111110
+00000010
+00000010
+00000110
+01000110
+01010110
+11111110
+00000000
+POS 0 12,13
+
+SPR h
+01111000
+01001000
+01111000
+00000000
+01111000
+01001000
+01111000
+00000000
+POS 0 14,13
+
+SPR i
+01111000
+01001000
+01111000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 0 14,14
+
+SPR l
+00000000
+00000000
+01000010
+01100110
+00111100
+00100100
+01011010
+00000000
+POS 0 4,12
+
+SPR m
+00110000
+01001000
+10000100
+00000010
+00000001
+00000000
+00000000
+00000000
+POS 0 12,6
+
+SPR n
+00000000
+00000000
+00100011
+01011100
+01000000
+10000000
+00000000
+00000000
+POS 0 11,6
+
+SPR o
+00000000
+00000100
+00001010
+00110001
+11000000
+00000000
+00000000
+00000000
+POS 0 13,6
+
+DLG a
+Everything I saw, heard, and felt brought back bittersweet memories. The moon especially reminded me of the nights when we laid in bed, hands interlocked as we whispered to each other our thoughts and feelings. I believe that in those moments we truly loved each other.
+
+DLG l
+Southern California. It was early December, but the weather was warm. There was nothing left for me there. I packed what little belongings I had left and rented a car. I had to leave. There was only one direction I could go in. I began heading east.
+
+DLG c
+The brightly lit billboards remind me of the poem Ozymandias. One day, two vast and trunkless legs of steel and concrete would be the only remains in the desert, the bulletin itself lying half buried in the sands, advertising roadside motels and fast food restaurants that no longer exist.
+
+DLG b
+I think a lot about the people who were on the road and wondered if there are others like me, driving as far away as they could from everything, severing all their ties. I wondered if they were alone too, and if they also longed for some kind of connection with someone who they could trust.
+
+DLG d
+The further out I went the hazier the radio became, but still I kept it on. Snippets from distant stations would occasionally get picked up, and for a few minutes voices and music would flicker in and out of existence. Eventually, the connection would be broken and the sound replaced by the low droning hiss of static.
+
+DLG n
+I decided to visit the Grand Canyon along the way and hiked a little into the valley, the weather was perfect and there was a slight breeze that cooled me as I meandered my way along the carved path. There's something about nature that calms a person down, and for a moment I managed to forget everything.
+
+DLG o
+I decided to visit the Grand Canyon along the way and hiked a little into the valley, the weather was perfect and there was a slight breeze that cooled me as I meandered my way along the carved path. There's something about nature that calms a person down, and for a moment I managed to forget everything.
+
+DLG m
+I decided to visit the Grand Canyon along the way and hiked a little into the valley, the weather was perfect and there was a slight breeze that cooled me as I meandered my way along the carved path. There's something about nature that calms a person down, and for a moment I managed to forget everything.
+
+DLG f
+We lived in a studio apartment in the city. There was a constant stream of noise from cars and buses coming from the busy street outside and it felt unbearable for the first few days. Then we got used to it and learned to ignore it. Our brains are, afterall, very good at sorting out information in the world. Anything that's useless gets thrown out of the equation.
+
+DLG g
+We lived in a studio apartment in the city. There was a constant stream of noise from cars and buses coming from the busy street outside and it felt unbearable for the first few days. Then we got used to it and learned to ignore it. Our brains are, afterall, very good at sorting out information in the world. Anything that's useless gets thrown out of the equation.
+
+DLG e
+When she made her decision it felt like I woke up into a nightmare where nothing made any sense. My heart was heavy and the world became all blurred and fuzzy. Everywhere I turned I was barraged by tumultuous winds, threatening to break me apart. Then gradually, it died down, and I found myself unable to feel anything.
+
+DLG h
+So I drove, away from her, away from the city, away from my responsibilities, away from everything. I drove into the desert, along broken roads that led nowhere and I drove deep into the night. And when I could drive no more I stopped and I slept.
+
+DLG i
+So I drove, away from her, away from the city, away from my responsibilities, away from everything. I drove into the desert, along broken roads that led nowhere and I drove deep into the night. And when I could drive no more I stopped and I slept.
+
