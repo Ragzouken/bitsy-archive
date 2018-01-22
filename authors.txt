@@ -33,3 +33,5 @@ Ed Key,X,X
 its5AM,X,X
 Jackson Allen,X,X
 npckc,X,X
+Un bot pourrait faire ça,X,X
+idlephononautica,X,X
