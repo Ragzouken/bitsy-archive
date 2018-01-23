@@ -1,0 +1,650 @@
+"We play a game. Tiny digital creatures. You have to get them all before they get away from you. It all gets away from you."
+
+# BITSY VERSION 3.5
+
+! ROOM_FORMAT 1
+
+PAL 0
+1,56,148
+107,137,254
+224,224,224
+
+ROOM 0
+0,0,d,d,d,d,d,d,d,d,d,d,d,d,0,0
+0,d,a,a,a,a,a,a,a,a,a,a,a,a,d,0
+d,a,a,a,a,a,a,a,a,0,a,a,a,a,a,d
+d,a,a,a,0,a,a,a,a,0,a,a,0,a,a,d
+d,a,a,a,0,a,a,a,a,0,a,a,0,a,a,d
+d,a,a,a,0,0,0,a,a,0,a,a,0,a,a,d
+d,a,a,a,a,a,0,a,a,0,a,0,0,a,a,d
+d,a,a,a,a,a,0,0,0,0,a,0,a,a,a,d
+d,a,a,a,a,0,0,f,f,0,0,0,a,a,a,d
+d,a,a,a,a,0,f,f,f,f,0,a,a,a,a,d
+d,a,0,0,a,0,f,f,f,f,0,a,a,a,a,d
+d,a,a,0,0,0,0,f,f,0,0,0,0,0,a,d
+d,a,a,a,a,a,0,0,0,0,0,0,a,a,a,d
+d,a,a,a,a,a,a,0,0,0,0,a,a,a,a,d
+0,d,a,a,a,a,a,0,0,a,a,a,a,a,d,0
+0,0,d,d,d,d,0,0,0,0,d,d,d,d,0,0
+WAL d,t
+EXT 7,15 1 8,0
+EXT 8,15 1 8,0
+PAL 0
+
+ROOM 1
+0,0,0,0,0,0,0,d,0,d,0,0,0,0,0,0
+0,0,0,0,d,d,d,d,0,d,d,d,0,0,0,0
+0,0,0,d,a,a,a,a,0,a,a,a,d,0,0,0
+0,0,d,a,a,a,a,a,0,a,a,a,a,d,0,0
+0,0,d,a,a,a,a,a,0,a,a,a,a,d,0,0
+0,0,d,a,a,a,a,a,0,a,a,a,a,d,0,0
+0,d,a,a,a,a,a,a,0,a,a,a,a,a,d,0
+d,0,a,a,a,a,a,0,0,0,a,a,a,a,0,d
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d,0,a,a,a,a,a,0,0,0,a,a,a,a,0,d
+0,d,a,a,a,a,a,a,0,a,a,a,a,a,d,0
+0,0,d,a,a,a,a,a,0,a,a,a,a,d,0,0
+0,0,d,a,a,a,a,a,0,a,a,a,a,d,0,0
+0,0,d,a,a,a,a,a,0,a,a,a,a,d,0,0
+0,0,0,d,a,a,a,a,a,a,a,a,d,0,0,0
+0,0,0,0,d,d,d,d,d,d,d,d,0,0,0,0
+WAL d,t
+EXT 8,0 0 7,15
+EXT 15,8 2 7,15
+EXT 0,8 4 15,6
+PAL 0
+
+ROOM 2
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+d,a,a,a,a,a,a,a,a,a,a,a,a,a,a,d
+d,g,g,a,a,a,a,a,a,a,a,a,a,a,a,d
+d,a,a,g,0,0,0,0,0,0,0,g,a,a,a,d
+d,a,a,a,0,h,h,h,h,h,0,g,a,a,a,d
+d,a,a,a,0,h,h,h,h,h,0,g,g,a,a,d
+d,a,a,a,0,l,i,l,i,l,0,g,a,a,a,d
+d,a,g,g,0,l,i,l,i,l,0,g,a,a,a,d
+d,a,a,a,0,l,l,j,l,l,0,g,a,a,a,d
+d,a,a,a,0,l,l,k,l,l,0,g,a,a,a,d
+d,a,a,a,0,0,0,0,0,0,0,a,a,a,a,d
+d,a,a,a,a,a,0,0,0,a,a,a,a,a,a,d
+d,a,a,a,a,a,0,0,0,a,g,a,a,a,a,d
+d,a,a,a,a,a,0,0,0,a,a,a,a,a,a,d
+d,a,a,a,a,a,0,0,0,a,a,a,a,a,a,d
+d,a,a,a,a,a,0,0,0,a,a,a,a,a,d,d
+WAL h,i,j,l,d,t
+EXT 7,9 3 7,15
+EXT 7,15 1 15,8
+PAL 0
+
+ROOM 3
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+0,0,0,0,0,0,0,f,f,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,f,f,0,0,0,0,0,0,0
+m,m,v,m,m,n,0,f,f,0,o,m,m,m,m,m
+m,m,m,m,m,n,0,f,f,0,o,m,m,m,m,m
+m,m,m,m,m,n,0,f,f,0,o,m,m,m,m,m
+m,m,m,m,m,n,0,f,f,0,o,m,m,m,m,m
+m,m,m,m,m,n,0,f,f,0,o,m,m,m,m,m
+m,m,m,m,m,n,0,f,f,0,o,m,m,m,m,m
+m,m,m,m,m,n,0,f,f,0,o,m,m,m,m,m
+m,m,m,m,m,n,0,f,f,0,o,m,m,m,m,m
+m,m,m,m,m,n,0,f,f,0,o,m,m,m,m,m
+m,m,m,m,m,n,0,f,f,0,o,m,m,m,m,m
+0,0,0,0,0,0,0,f,f,0,0,0,0,0,0,0
+WAL m,n,o,d,t
+EXT 7,15 2 7,9
+EXT 8,15 2 7,9
+END 0 2,5
+PAL 0
+
+ROOM 4
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,d
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,d
+g,0,0,0,0,0,0,g,g,g,g,g,g,g,g,d
+0,0,0,0,0,0,0,0,g,g,g,g,g,g,g,d
+0,0,0,t,0,0,0,0,0,g,g,g,g,g,g,d
+0,r,p,s,p,q,0,0,0,0,0,0,0,0,0,0
+0,0,u,u,u,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,g,g,g,g,g,g,d
+0,0,0,0,0,0,0,0,g,g,g,g,g,g,g,d
+g,0,0,0,0,0,0,g,g,g,g,g,g,g,g,d
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,d
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,d
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,d
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,d
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,d
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,d
+WAL t,s,r,q,p,d
+EXT 15,6 1 0,8
+EXT 15,5 1 0,8
+PAL 0
+
+TIL a
+10010010
+01001001
+11010001
+01001101
+10101010
+00011111
+10100010
+01010101
+
+TIL b
+00000000
+00000000
+00111000
+01111100
+01111100
+01111100
+01111100
+01111100
+
+TIL c
+00000000
+00010000
+00111000
+00010000
+00011000
+00111100
+00111100
+00111100
+
+TIL d
+00011000
+00111100
+01111110
+01111110
+01111110
+01111110
+01111110
+01111110
+
+TIL e
+00000000
+00000000
+01111000
+01001000
+00100100
+00111110
+01010010
+01010010
+
+TIL f
+01010101
+11111110
+01111111
+11111110
+01111111
+11111110
+01111111
+10101010
+
+TIL g
+10010010
+00101001
+10000010
+01010101
+10001010
+00010101
+10100010
+01010101
+
+TIL h
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL i
+11101101
+10111101
+10100111
+11100111
+11100110
+11100110
+10100101
+10111101
+
+TIL j
+11011011
+11011011
+10110110
+10110110
+01111101
+01100111
+11000011
+10000001
+
+TIL k
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+
+TIL l
+01101101
+01101101
+11011011
+11011011
+10110110
+10110110
+01101101
+01101101
+
+TIL m
+00000000
+00000000
+11111111
+11111111
+11111111
+11111111
+11111111
+01000010
+
+TIL n
+00000000
+00000100
+11111100
+11111110
+11111110
+11111110
+11111110
+01000100
+
+TIL o
+00000000
+00100000
+00111111
+01111111
+01111111
+01111111
+01111111
+00100100
+
+TIL p
+11111111
+10000000
+00100100
+00000010
+00000000
+11011101
+10111011
+01110111
+
+TIL q
+11111110
+00010010
+00001001
+00100001
+00010011
+11011111
+10111011
+01110100
+
+TIL r
+00111111
+11000010
+10010001
+10001000
+10000000
+11011101
+10111011
+00110111
+
+TIL s
+11011011
+10011000
+00111100
+01111110
+00000000
+11011101
+10111011
+01110111
+
+TIL t
+10000001
+11111111
+01111110
+01111110
+00111100
+00111100
+00011000
+00011000
+
+TIL u
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL v
+00000000
+00000000
+00111100
+01111110
+01111110
+01111110
+01111110
+01000010
+
+SPR A
+00011000
+00011000
+00111100
+00111100
+00111100
+00011000
+00100100
+00100100
+POS 1 8,8
+
+SPR a
+00000000
+00111100
+01110110
+01100010
+01110110
+01110110
+01111110
+01111110
+POS 0 4,2
+
+SPR b
+00000000
+00000000
+01111000
+01001000
+00100100
+00111110
+01010010
+01010010
+POS 0 9,1
+
+SPR c
+00000000
+00000000
+11111000
+10001000
+01000100
+01111110
+10100010
+10100010
+POS 0 4,9
+
+SPR d
+00011000
+00111100
+01111110
+11111111
+11111111
+11111111
+11111111
+11111111
+POS 0 5,15
+
+SPR e
+00011000
+00111100
+01111110
+11111111
+11111111
+11111111
+11111111
+11111111
+POS 0 10,15
+
+SPR f
+00000000
+11111111
+11010101
+10100110
+11111111
+11111111
+11111111
+11111111
+POS 1 8,14
+
+SPR g
+00000000
+11111100
+11010110
+10100111
+11111111
+11111111
+11111111
+11111111
+POS 1 9,14
+
+SPR h
+00000000
+00111111
+01110100
+11001101
+11111111
+11111111
+11111111
+11111111
+POS 1 7,14
+
+SPR i
+01010101
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+SPR l
+10000001
+11111111
+01111110
+01111110
+00111100
+00111100
+00011000
+00011000
+POS 4 3,4
+
+SPR m
+00000000
+11111111
+11111011
+11110111
+11001011
+11110111
+11111111
+00000000
+POS 3 8,1
+
+SPR n
+00000000
+11111111
+11110111
+11010111
+11101011
+11110011
+11111111
+00000000
+POS 3 7,1
+
+SPR o
+00000000
+11111110
+11100111
+11101111
+11110111
+11101111
+11111110
+00000000
+POS 3 9,1
+
+SPR p
+00000000
+01111111
+11101011
+11010111
+11010111
+11101011
+01111111
+00000000
+POS 3 6,1
+
+SPR q
+00000000
+00000000
+00010000
+00001000
+00100100
+00011000
+00011000
+00111100
+POS 3 2,1
+
+SPR r
+00000000
+00000000
+00001000
+00010000
+00100100
+00011000
+00011000
+00111100
+POS 3 13,1
+
+SPR s
+00000000
+00111100
+01111110
+01111110
+01111110
+01111110
+01111110
+01111110
+POS 2 2,4
+
+SPR t
+00000000
+00011000
+00011000
+00011000
+00111100
+00111100
+01111110
+01111110
+POS 2 2,8
+
+SPR u
+00000000
+00111110
+00111110
+00111110
+00111110
+00111110
+00111110
+00111110
+POS 2 13,3
+
+SPR v
+00000000
+00001000
+00011000
+00111000
+00111000
+00111100
+00111100
+01111110
+POS 2 13,11
+
+SPR w
+00000000
+00000000
+00011111
+00010001
+00100010
+01111110
+01000001
+01000001
+POS 0 12,2
+
+DLG a
+"I wanted to get a tattoo to remember him, but realised that I never knew him, despite him being more real and more close than so many others I feel I've lost."
+
+DLG c
+"Taking the blood out of you and putting it back in doesn't make you a vampire. It's still your blood, despite where it is right now."
+
+DLG b
+'She kept telling me, "When the nurses smile at you it's because they know you're dying." It wasn't true in this case. Not entirely.'
+
+DLG d
+You hesitate before taking a few tentative steps into what must be a home for the memories of so many strangers.
+
+DLG e
+You start to think, but linger by the entrance. 
+
+DLG f
+Cemetery Walk - An EP/game by Nick Murray / Mother Ivy. Welcome. Please take your time. 
+
+DLG g
+Cemetery Walk - An EP/game by Nick Murray / Mother Ivy. 
+
+DLG h
+Cemetery Walk - An EP/game by Nick Murray / Mother Ivy. 
+
+DLG l
+It's a fountain. There are pennies in the pool. Make a wish.
+
+DLG r
+It's a votive candle. The fire looks pixelated.
+
+DLG q
+It's a votive candle. It doesn't shed much light, but this whole place seems to glow from behind.
+
+DLG p
+Simulated loss is a new emotion that we've had to embody as our bodies fuse more and more with the digital.
+
+DLG m
+How many famous figures have you seen cease to exist in the real world, only to have one final flourish in the digital?
+
+DLG n
+I've never really missed anyone I've never met, but sometimes people I've never met take some of me with them. I miss those pieces and perform rituals for them.
+
+DLG o
+This is one of those places. It doesn't mean much straight away, but it can if you need it to. 
+
+DLG s
+C****** B********* | 20/03/1976 - 20/07/2017
+
+DLG t
+A**** L****** | 27/09/1984 - 
+
+DLG u
+C**** C****** | 20/07/1964 - 18/05/2017
+
+DLG v
+B******* M***** | 10/11/1977 - 20/12/2009
+
+DLG w
+"I remember you crying when we saw that man eating alone. I'm sure now that he was perfectly fine. I wonder what it was that was so sad inside you."
+
+DLG x
+You sit and stay a while.
+
+END 0
+You sit and stay a while. You look up at the ceiling. It's high above you. Far away. You can make out rafters, but after that it slips away. Look down at your feet. Still. You rest. |||||||||||||||||||| Thank you for playing. Please visit again.
+

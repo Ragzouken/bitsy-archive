@@ -1,0 +1,2348 @@
+you should get some breakfast
+
+# BITSY VERSION 3.1
+
+! ROOM_FORMAT 1
+
+PAL 0
+231,231,231
+156,224,224
+207,125,71
+
+PAL 1
+231,231,231
+160,170,171
+184,183,177
+
+PAL 2
+231,231,231
+159,176,177
+186,175,163
+
+PAL 3
+231,231,231
+159,183,184
+189,168,150
+
+PAL 4
+231,231,231
+158,180,180
+192,161,137
+
+PAL 5
+231,231,231
+158,197,197
+195,154,124
+
+PAL 6
+231,231,231
+157,203,204
+198,146,110
+
+PAL 7
+231,231,231
+157,210,210
+201,139,97
+
+PAL 8
+231,231,231
+156,217,217
+204,132,84
+
+ROOM 0
+j,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,a,a,a,a,a,b,b,b,b,b,b,b,b,b,b
+b,a,0,0,0,a,b,b,b,b,b,b,b,b,b,b
+b,a,0,0,0,a,b,b,b,b,b,b,b,b,b,b
+b,a,a,0,a,a,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 3,4 1 3,4
+PAL 1
+
+ROOM 1
+j,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,a,a,0,a,a,a,a,0,a,a,a,a,0,a,a
+b,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b,a,a,0,a,a,a,a,0,a,a,a,0,0,0,a
+b,b,b,b,b,b,b,b,b,b,b,a,0,0,0,a
+b,b,b,b,b,b,b,b,b,b,b,a,0,0,0,a
+b,b,b,b,b,b,b,b,b,b,b,a,0,0,0,a
+b,b,b,b,b,b,b,b,b,b,b,0,0,0,0,a
+b,b,b,b,b,b,b,b,b,b,b,a,0,0,0,a
+b,b,b,b,b,b,b,b,b,b,b,a,a,a,a,a
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 3,4 0 3,4
+EXT 15,5 2 0,5
+EXT 15,6 2 0,6
+EXT 15,7 2 0,7
+EXT 11,12 3 11,12
+PAL 1
+
+ROOM 2
+j,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+a,a,a,0,a,a,a,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,a,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,b,b,b,b,b,b,b,b,b
+a,a,a,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,b,b,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,b,b,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,a,a,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,a,0,0,0,0,0,b,b,b,b,b,b,b,b,b
+b,a,0,0,0,0,a,b,b,b,b,b,b,b,b,b
+b,a,a,a,b,0,a,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 0,5 1 15,5
+EXT 0,6 1 15,6
+EXT 0,7 1 15,7
+EXT 3,4 4 3,4
+EXT 6,5 5 6,5
+EXT 6,7 5 6,7
+PAL 1
+
+ROOM 3
+j,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,a,a,a,a,a,a,a,a,a,a,a,b,b,b,b
+b,a,0,0,0,0,0,0,0,0,0,0,b,b,b,b
+b,a,0,a,0,a,0,a,0,0,0,a,b,b,b,b
+b,a,a,a,a,a,a,a,a,a,a,a,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 11,12 1 11,12
+PAL 1
+
+ROOM 4
+j,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,a,a,a,a,a,a,b,b,b,b,b,b,b,b,b
+b,a,0,0,0,0,a,b,b,b,b,b,b,b,b,b
+b,a,0,0,0,0,a,b,b,b,b,b,b,b,b,b
+b,a,a,0,a,a,a,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 3,4 2 3,4
+PAL 1
+
+ROOM 5
+j,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,a,a,0,a,a,a,0,a,a,b
+b,b,b,b,b,b,0,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,0,c,d,0,c,d,0,a,b
+b,b,b,b,b,b,0,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,0,c,d,0,c,d,0,a,b
+b,b,b,b,b,b,a,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,a,a,a,a,a,a,a,a,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 6,7 2 6,7
+EXT 6,5 2 6,5
+EXT 8,4 6 8,4
+PAL 1
+
+ROOM 6
+l,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,a,a,a,a,a,a,a,a,a,b
+b,b,b,b,b,b,a,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,a,0,a,a,a,0,a,a,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 12,4 7 12,4
+EXT 8,4 9 8,4
+PAL 2
+
+ROOM 7
+m,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,a,a,0,a,a,a,0,a,a,b
+b,b,b,b,b,b,0,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,0,c,d,0,c,d,0,a,b
+b,b,b,b,b,b,0,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,0,c,d,0,c,d,0,a,b
+b,b,b,b,b,b,a,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,a,a,a,a,a,a,a,a,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 6,5 8 6,5
+EXT 6,7 8 6,7
+EXT 12,4 b 12,4
+EXT 8,4 b 8,4
+PAL 3
+
+ROOM 8
+n,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+a,a,a,0,a,a,a,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,a,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,b,b,b,b,b,b,b,b,b
+a,a,a,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,b,b,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,b,b,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,a,a,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,a,0,0,0,0,0,b,b,b,b,b,b,b,b,b
+b,a,0,0,0,0,a,b,b,b,b,b,b,b,b,b
+b,a,a,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 0,5 c 15,5
+EXT 0,6 c 15,6
+EXT 0,7 c 15,7
+EXT 6,5 a 6,5
+EXT 6,7 a 6,7
+END 0 5,12
+PAL 4
+
+ROOM 9
+j,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,a,a,0,a,a,a,0,a,a,b
+b,b,b,b,b,b,0,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,0,c,d,0,c,d,0,a,b
+b,b,b,b,b,b,0,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,0,c,d,0,c,d,0,a,b
+b,b,b,b,b,b,a,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,a,a,a,a,a,a,a,a,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 8,4 6 8,4
+PAL 1
+
+ROOM a
+m,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,a,a,0,a,a,a,0,a,a,b
+b,b,b,b,b,b,0,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,0,c,d,0,c,d,0,a,b
+b,b,b,b,b,b,0,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,0,c,d,0,c,d,0,a,b
+b,b,b,b,b,b,a,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,a,a,a,a,a,a,a,a,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 6,5 8 6,5
+EXT 6,7 8 6,7
+PAL 3
+
+ROOM b
+l,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,a,a,a,a,a,a,a,a,a,b
+b,b,b,b,b,b,a,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,0,0,0,0,0,0,0,a,b
+b,b,b,b,b,b,a,a,0,a,a,a,0,a,a,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 12,4 7 12,4
+EXT 8,4 7 8,4
+PAL 2
+
+ROOM c
+o,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,a,a,0,a,a,a,a,0,a,a,a,a,0,a,a
+b,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b,a,a,0,a,a,a,a,0,a,a,a,0,0,0,a
+b,b,b,b,b,b,b,b,b,b,b,a,0,0,0,a
+b,b,b,b,b,b,b,b,b,b,b,a,0,0,0,a
+b,b,b,b,b,b,b,b,b,b,b,a,0,0,0,a
+b,b,b,b,b,b,b,b,b,b,b,0,0,0,0,a
+b,b,b,b,b,b,b,b,b,b,b,a,0,0,0,a
+b,b,b,b,b,b,b,b,b,b,b,a,a,a,a,a
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 15,5 i 0,5
+EXT 15,6 i 0,6
+EXT 15,7 i 0,7
+PAL 5
+
+ROOM d
+p,q,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,a,a,a,a,a,a,a,a,a,a
+b,b,b,b,b,b,a,e,f,g,e,f,g,e,f,g
+b,b,b,b,b,b,0,0,0,0,0,0,0,0,0,0
+b,b,b,b,b,b,a,0,0,0,0,0,0,0,0,0
+b,b,b,b,b,b,a,a,a,a,a,a,a,a,a,a
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 6,12 i 6,12
+EXT 15,12 e 0,12
+EXT 15,13 e 0,13
+PAL 7
+
+ROOM e
+p,r,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+a,a,a,a,a,a,b,b,b,b,b,b,b,b,b,b
+e,f,g,e,f,a,b,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,b,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,a,b,b,b,b,b,b,b,b,b,b
+a,a,a,a,a,a,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL g,b,a,d,c,j,k,l,m
+EXT 0,12 d 15,12
+EXT 0,13 d 15,13
+EXT 5,12 g 5,12
+PAL 8
+
+ROOM g
+p,s,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,a,a,a,a,a,a,b,b,b,b,b
+b,b,b,b,b,a,g,h,i,g,a,b,b,b,b,b
+b,b,b,b,b,a,0,0,0,0,a,b,b,b,b,b
+b,b,b,b,b,0,0,0,0,0,a,b,b,b,b,b
+b,b,b,b,b,a,0,0,0,0,a,b,b,b,b,b
+b,b,b,b,b,a,a,a,a,a,a,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL g,b,a,c,d,j,k,l,m
+EXT 5,12 e 5,12
+EXT 6,12 h 6,12
+PAL 0
+
+ROOM h
+p,s,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,a,a,a,a,a,a,b,b,b,b,b
+b,b,b,b,b,a,g,h,i,g,a,b,b,b,b,b
+b,b,b,b,b,a,0,0,0,0,a,b,b,b,b,b
+b,b,b,b,b,0,0,0,0,0,a,b,b,b,b,b
+b,b,b,b,b,a,0,0,0,0,a,b,b,b,b,b
+b,b,b,b,b,a,a,a,a,a,a,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL g,b,a,c,d,j,k,l,m
+END 0 7,10
+END 0 8,10
+PAL 0
+
+ROOM i
+p,k,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+a,a,a,0,a,a,a,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,a,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,b,b,b,b,b,b,b,b,b
+a,a,a,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,b,b,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,b,b,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,a,a,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,a,0,0,0,0,0,b,b,b,b,b,b,b,b,b
+b,a,0,0,0,0,a,b,b,b,b,b,b,b,b,b
+b,a,a,a,0,0,a,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+WAL c,d,e,f,g,b,a,j,k,l,m
+EXT 0,5 c 15,5
+EXT 0,6 c 15,6
+EXT 0,7 c 15,7
+EXT 6,12 d 6,12
+PAL 6
+
+TIL a
+11111111
+10100101
+11111111
+10100101
+10100101
+11111111
+10100101
+11111111
+
+TIL b
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL c
+00000000
+01111111
+01000000
+01000000
+01000000
+01000000
+01111111
+00100000
+
+TIL d
+00000000
+11111110
+00000010
+00000010
+00000010
+00000010
+11111110
+00000100
+
+TIL e
+00000000
+00000000
+01111111
+01001100
+01111111
+01000000
+01111111
+00010000
+
+TIL f
+00000000
+00000000
+11111110
+00110010
+11111110
+00000010
+11111110
+00001000
+
+TIL g
+00000000
+00111100
+00100100
+01000010
+00111100
+00010000
+00001000
+00111100
+
+TIL h
+00000000
+00111111
+01000000
+01000000
+01111111
+01000000
+01111111
+00110000
+
+TIL i
+00000000
+11111100
+00000010
+00000010
+11111110
+00000010
+11111110
+00001100
+
+TIL j
+11111111
+11111111
+11000000
+11011111
+11011111
+11000000
+11111111
+11111111
+
+TIL k
+11111111
+11111111
+00001111
+11100111
+11100111
+00001111
+11111111
+11111111
+
+TIL l
+11111111
+11111111
+11000000
+11001111
+11001111
+11000000
+11111111
+11111111
+
+TIL m
+11111111
+11111111
+11000000
+11000111
+11000111
+11000000
+11111111
+11111111
+
+TIL n
+11111111
+11111111
+11000000
+11000011
+11000011
+11000000
+11111111
+11111111
+
+TIL o
+11111111
+11111111
+11000000
+11000001
+11000001
+11000000
+11111111
+11111111
+
+TIL p
+11111111
+11111111
+11000000
+11000000
+11000000
+11000000
+11111111
+11111111
+
+TIL q
+11111111
+11111111
+00001111
+01100111
+01100111
+00001111
+11111111
+11111111
+
+TIL r
+11111111
+11111111
+00001111
+00100111
+00100111
+00001111
+11111111
+11111111
+
+TIL s
+11111111
+11111111
+00001111
+00000111
+00000111
+00001111
+11111111
+11111111
+
+SPR 11
+00000000
+00111100
+01111110
+01011010
+01111110
+01111110
+01111110
+00100000
+>
+00000000
+00111100
+01111110
+01011010
+01111110
+01111110
+01111110
+00000100
+POS 2 5,12
+
+SPR 12
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 5 12,4
+
+SPR 14
+10100100
+10111100
+10100100
+10111100
+10100100
+10100100
+11111100
+11111100
+POS 6 7,3
+
+SPR 15
+11111100
+10010100
+10010100
+11111100
+10000100
+10110100
+10000100
+11111100
+POS 6 7,2
+
+SPR 16
+11111111
+10001000
+10101010
+10101010
+10001000
+11111111
+11111111
+00000000
+POS 6 9,2
+
+SPR 17
+11111111
+10101001
+11011001
+11111111
+10000001
+11111111
+11111111
+00000000
+POS 6 10,2
+
+SPR 18
+00000000
+01111110
+01000010
+01111110
+01000010
+01111110
+00111100
+00000000
+POS 6 11,2
+
+SPR 19
+01111111
+01001011
+01001011
+01111111
+01001011
+01001011
+01111111
+01111111
+POS 6 13,2
+
+SPR 20
+00000000
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+>
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+POS a 11,5
+
+SPR 21
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111100
+>
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111100
+00100100
+POS a 7,6
+
+SPR 22
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111100
+>
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01110000
+01111110
+POS a 8,7
+
+SPR 23
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+00001110
+01111110
+>
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+POS a 9,7
+
+SPR 24
+00000000
+00011110
+01111111
+00101011
+00111111
+00000111
+00111111
+00011111
+>
+00000000
+00011110
+01111111
+00101011
+00111111
+00111111
+00011111
+00011111
+POS b 13,3
+
+SPR 25
+01111111
+01001011
+01001011
+01111111
+01001011
+01001011
+01111111
+01111111
+POS b 13,2
+
+SPR 26
+00000000
+01111110
+01000010
+01111110
+01000010
+01111110
+00111100
+00000000
+POS b 11,2
+
+SPR 27
+11111111
+10101001
+11011001
+11111111
+10000001
+11111111
+11111111
+00000000
+POS b 10,2
+
+SPR 28
+11111111
+10001000
+10101010
+10101010
+10001000
+11111111
+11111111
+00000000
+POS b 9,2
+
+SPR 29
+11111100
+10010100
+10010100
+11111100
+10000100
+10110100
+10000100
+11111100
+POS b 7,2
+
+SPR 30
+00000000
+00100100
+01111110
+01010110
+01111110
+00001110
+01111110
+00100100
+>
+00000000
+00100100
+01111110
+01010110
+01111110
+01111110
+00111110
+00100100
+POS i 5,14
+
+SPR 31
+00000000
+00111111
+00110101
+00111111
+00111111
+00111110
+00111110
+00010010
+>
+00000000
+00111111
+00110101
+00111111
+00111000
+00111111
+00111110
+00010010
+POS i 4,14
+
+SPR 32
+10100100
+10111100
+10100100
+10111100
+10100100
+10100100
+11111100
+11111100
+POS b 7,3
+
+SPR 33
+00000000
+00111111
+00110011
+00110011
+00110011
+00110011
+00111111
+00000000
+POS i 5,6
+
+SPR 34
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS i 6,5
+
+SPR 35
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS i 6,7
+
+SPR A
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111110
+00100100
+>
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+00100100
+POS 0 2,3
+
+SPR a
+00000000
+01111111
+01001111
+01001111
+01001111
+01001111
+01111111
+00100000
+POS 0 2,2
+
+SPR b
+00000000
+11000000
+11011110
+11010110
+11011110
+11010110
+11010110
+10011110
+>
+00000000
+11000000
+11011110
+11011110
+11011110
+11010110
+11010110
+10011110
+POS 0 3,2
+
+SPR c
+00000000
+11111110
+10000010
+10000010
+10000010
+11111110
+00111000
+01111100
+>
+00000000
+11111110
+10000010
+10111010
+10000010
+11111110
+00111000
+01111100
+POS 0 4,2
+
+SPR d
+00000000
+00111100
+01111110
+01101110
+01111110
+00011110
+01111110
+00100100
+>
+00000000
+00111100
+01111110
+01101110
+01111110
+01111110
+00111110
+00100100
+POS 1 3,8
+
+SPR e
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 1 8,4
+
+SPR f
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 1 8,8
+
+SPR g
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 1 13,4
+
+SPR i
+00000000
+00111100
+01111110
+01110110
+01111110
+01111000
+01111110
+00100100
+>
+00000000
+00111100
+01111110
+01110110
+01111110
+01111110
+01111100
+00100100
+POS 2 2,13
+
+SPR j
+00000000
+01111100
+01001100
+01111100
+01000100
+01000100
+01111100
+01111100
+POS 2 3,13
+
+SPR k
+00000000
+00111100
+01111110
+01010110
+01111110
+00001110
+01111110
+00100100
+>
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+00111110
+00100100
+POS 3 9,13
+
+SPR l
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111100
+00100100
+>
+00000000
+00111100
+01111110
+01101010
+01111110
+01110000
+01111110
+00100100
+POS 3 8,13
+
+SPR m
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 3 6,12
+
+SPR n
+00000000
+00111111
+00110011
+00110011
+00110011
+00110011
+00111111
+00000000
+POS 2 5,6
+
+SPR o
+11111111
+10001000
+11111111
+10001000
+11111111
+10001000
+11111111
+11111111
+POS 4 2,2
+
+SPR p
+11111111
+10001000
+11111111
+10001000
+11111111
+10001000
+11111111
+11111111
+POS 4 3,2
+
+SPR q
+11111111
+10001000
+11111111
+10001000
+11111111
+10001000
+11111111
+11111111
+POS 4 4,2
+
+SPR r
+11111000
+10001000
+11111000
+10001000
+11111000
+10001000
+11111000
+11111000
+POS 4 5,2
+
+SPR s
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 2 4,14
+
+SPR t
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 2 5,14
+
+SPR v
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111100
+>
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111100
+00100100
+POS 5 7,6
+
+SPR w
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111100
+>
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01110000
+01111110
+POS 5 8,7
+
+SPR x
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+00001110
+01111110
+>
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+POS 5 9,7
+
+SPR y
+00000000
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+>
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111110
+POS 5 11,5
+
+SPR z
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+01111110
+>
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+POS 5 12,7
+
+SPR 1a
+00000000
+00011110
+01111111
+00101011
+00111111
+00000111
+00111111
+00011111
+>
+00000000
+00011110
+01111111
+00101011
+00111111
+00111111
+00011111
+00011111
+POS 6 13,3
+
+SPR 1b
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS b 9,3
+
+SPR 1e
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111100
+>
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111100
+00100100
+POS 7 7,6
+
+SPR 1f
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111100
+>
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01110000
+01111110
+POS 7 8,7
+
+SPR 1g
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+00001110
+01111110
+>
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+POS 7 9,7
+
+SPR 1h
+00000000
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+>
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+POS 7 11,5
+
+SPR 1i
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111110
+01111110
+>
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111110
+POS 7 12,7
+
+SPR 1j
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+00100010
+>
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111110
+00100100
+POS i 3,5
+
+SPR 1k
+00000000
+01111100
+01001100
+01111100
+01000100
+01000100
+01111100
+01111100
+POS 8 3,13
+
+SPR 1l
+00000000
+00111100
+01111110
+01110110
+01111110
+01111000
+01111110
+00100100
+>
+00000000
+00111100
+01111110
+01110110
+01111110
+01111110
+01111100
+00100100
+POS 8 2,13
+
+SPR 1m
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS a 7,8
+
+SPR 1n
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS a 8,5
+
+SPR 1o
+00000000
+00111111
+00110011
+00110011
+00110011
+00110011
+00111111
+00000000
+POS 8 5,6
+
+SPR 1p
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 9 6,5
+
+SPR 1q
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 9 6,7
+
+SPR 1s
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111110
+01111110
+>
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111110
+POS 9 12,7
+
+SPR 1t
+00000000
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+>
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+POS 9 11,5
+
+SPR 1u
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111100
+>
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111100
+00100100
+POS 9 7,6
+
+SPR 1v
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111100
+>
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01110000
+01111110
+POS 9 8,7
+
+SPR 1w
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+00001110
+01111110
+>
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+POS 9 9,7
+
+SPR 1x
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 9 12,4
+
+SPR 1z
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111110
+01111110
+>
+00000000
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111110
+POS a 12,7
+
+SPR 2a
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS b 11,3
+
+SPR 2b
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS b 12,2
+
+SPR 2d
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS b 8,2
+
+SPR 2f
+00000000
+00111100
+01111110
+01101110
+01111110
+00011110
+01111110
+01000100
+>
+00000000
+00111100
+01111110
+01101110
+01111110
+01111110
+00111110
+00100100
+POS c 10,6
+
+SPR 2g
+00000000
+00000000
+00000000
+00000000
+01100000
+11110000
+11110000
+01100000
+>
+00000000
+00000000
+00000000
+00000000
+00000110
+00001111
+00001111
+00000110
+POS c 9,6
+
+SPR 2h
+00000000
+00111100
+01111110
+11110110
+01111110
+01111110
+01111100
+00100100
+>
+00000000
+00111100
+01111110
+11110110
+01111110
+01111000
+01111110
+00100010
+POS c 8,6
+
+SPR 2i
+00000000
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+00100100
+>
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+00100100
+00000000
+POS c 9,5
+
+SPR 2j
+00000000
+00111100
+01111110
+01011111
+01111110
+01111110
+00111110
+00100100
+>
+00000000
+00111100
+01111110
+01011111
+01111110
+00111110
+01111110
+00100100
+POS c 10,7
+
+SPR 2k
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS c 11,12
+
+SPR 2l
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS c 13,4
+
+SPR 2m
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 8 4,14
+
+SPR 2n
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 8 5,14
+
+SPR 2o
+00000000
+00000001
+00111001
+01111100
+01110100
+01111100
+01111100
+01111110
+>
+00000000
+00000000
+00111001
+01111101
+01110100
+01111100
+01111100
+01111110
+POS d 9,12
+
+SPR 2p
+00000000
+01000000
+11001110
+10011111
+00010111
+00011111
+00011111
+00111111
+>
+00000000
+00000000
+01001110
+11011111
+10010111
+00011111
+00011111
+00111111
+POS d 10,12
+
+SPR 2q
+00000000
+01111110
+01001010
+01001010
+01000010
+01111110
+01111110
+00000000
+POS e 4,13
+
+SPR 2r
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS h 5,12
+
+SPR 2s
+00000000
+11111111
+00000001
+00000001
+00000001
+00000001
+11111111
+00000100
+POS g 8,12
+
+SPR 2t
+00000000
+11111111
+10000000
+10000000
+10000000
+10000000
+11111111
+00100000
+POS g 7,12
+
+SPR 2u
+00011100
+11110111
+01010101
+11010101
+11011101
+00000001
+11111111
+00000100
+POS h 8,12
+
+SPR 2v
+00000000
+11111111
+10101011
+10101010
+10101111
+10000000
+11111111
+00100000
+POS h 7,12
+
+SPR 2w
+00000000
+00111100
+01111110
+01101010
+01111110
+01111110
+01111110
+01000100
+>
+00000000
+00111100
+01111110
+01010110
+01111110
+01111110
+01111110
+00100100
+POS 8 5,12
+
+SPR 2x
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 8 3,4
+
+SPR 2y
+00000000
+00111100
+01111110
+01110110
+01111110
+01111000
+01111110
+00100100
+>
+00000000
+00111100
+01111110
+01110110
+01111110
+01111110
+01111100
+00100100
+POS i 2,13
+
+SPR 2z
+00000000
+01111100
+01100100
+01111100
+01000100
+01000100
+01111100
+01111100
+POS i 3,13
+
+DLG 11
+"could you keep out of my way? training for a marathon here!"
+
+DLG 12
+this is the servery's exit... you should try the other door
+
+DLG 13
+no... you made it inside the servery... you can do it
+
+DLG 14
+grab a tray and cutlery...
+
+DLG 15
+a bowl for today's soup...
+
+DLG 16
+buffet servers full of food...
+
+DLG 17
+deep fried foods with sauce...
+
+DLG 18
+snacks from the snack rack...
+
+DLG 19
+and a drink from the fridge...
+
+DLG 21
+"SQUATS!!!"
+
+DLG 22
+"and like the other day..."
+
+DLG 24
+"wrong way, dear."
+
+DLG 30
+"how d'you like my costume?"
+
+DLG 31
+"how'd you get those ears on?"
+
+DLG 32
+you got your cutlery already
+
+DLG 33
+the box has a crumpled candy wrapper inside
+
+DLG 34
+there's nowhere to sit in the cafeteria
+
+DLG 35
+the cafeteria is full of people you don't know
+
+DLG a
+you promised yourself you wouldn't go back to sleep yet
+
+DLG b
+the flashing power light hurts your eyes
+
+DLG c
+the desktop is littered with unfinished projects
+
+DLG d
+"yeah, the person living across from me is a total weirdo..." "don't think we've talked... don't really want to anyway."
+
+DLG e
+this isn't your room...       you can't just barge in
+
+DLG f
+don't know who lives here...  you shouldn't bother them
+
+DLG g
+you're taking the same lecture as the person living here...   but it'd be too awkward to knock and introduce yourself now
+
+DLG h
+why do you keep trying to go into other people's rooms
+
+DLG i
+"don't stand behind the desk, please. it's staff only here."
+
+DLG j
+"hi, did you need something?"
+
+DLG k
+"going to be late for class again at this rate..."
+
+DLG l
+"ugh, that professor is awful. just skip the lecture."
+
+DLG m
+don't want to go to the washroom with people around...
+
+DLG n
+an empty box with the label "IDEAS TO IMPROVE YOUR DORM"
+
+DLG o
+other people's mails in other people's mailboxes
+
+DLG p
+lots of letters in these boxes
+
+DLG q
+looks like today's mail came... but there's nothing for you
+
+DLG r
+newspapers and flyers galore
+
+DLG s
+to be honest you'll not really up for going out today
+
+DLG t
+you'd really rather stay inside
+
+DLG u
+
+
+DLG v
+"ten more squats before my breakfast protein shake!"
+
+DLG w
+"so anyway..."
+
+DLG x
+"are you even listening?"
+
+DLG y
+*chomp chomp chomp*
+
+DLG z
+*glug glug glug*
+
+DLG 1a
+"enjoy your meal, dear."
+
+DLG 1b
+you bought breakfast already... now you need a place to eat
+
+DLG 1c
+you just came out of there...  no need to go back in
+
+DLG 1e
+"now it's time for one hundred after-breakfast squats!"
+
+DLG 1f
+"and they weren't even fired!"
+
+DLG 1g
+"who are you even talking about? the old guy in econ?"
+
+DLG 1h
+*glug glug glug*
+
+DLG 1i
+*chomp chomp chomp*
+
+DLG 1j
+"trying to do stretches here... could you move along?"
+
+DLG 1k
+the receptionist is on the phone
+
+DLG 1l
+"yes, we've already received reports about that treadmill." "we hope to have it fixed by the end of the week."
+
+DLG 1m
+you don't feel comfortable eating with everyone else... somewhere with fewer people would be better
+
+DLG 1n
+all of the tables are taken and you don't know anybody here... you'd rather eat somewhere else
+
+DLG 1o
+an empty box with the label "IDEAS TO IMPROVE YOUR DORM" having more tables in the cafteria would improve things
+
+DLG 1p
+no... what are you doing?     get back inside
+
+DLG 1q
+you already made it this far... you can do it
+
+DLG 1s
+*glug... glug...*
+
+DLG 1t
+*chomp... chomp...*
+
+DLG 1u
+"just a few more squats...!"
+
+DLG 1v
+"are you even listening?"
+
+DLG 1w
+"so anyway..."
+
+DLG 1x
+this is the servery's exit... you know this already
+
+DLG 2a
+you already got your breakfast
+
+DLG 2b
+you don't need more food
+
+DLG 2d
+you really don't need more food
+
+DLG 2g
+
+
+DLG 2f
+"pass the ball over here!"
+
+DLG 2i
+"over here!"
+
+DLG 2j
+"nice kick, man!"
+
+DLG 2k
+you're not going to eat your breakfast on a toilet...
+
+DLG 2l
+you can't just walk into someone else's room and eat breakfast
+
+DLG 2m
+you can't take the cafeteria tray outside the dorm
+
+DLG 2n
+you should find somewhere to eat inside the dorm instead
+
+DLG 2o
+"your eyes are so beautiful..."
+
+DLG 2p
+"can't stop staring at you..."
+
+DLG 2q
+the sign on the table reads "study room: not in use"
+
+DLG 2r
+you finally found a quiet place to eat... why not eat first?
+
+DLG 2u
+yum, orange juice!
+
+DLG 2v
+a nice hearty breakfast!
+
+DLG 2w
+"could you go somewhere else? doing lunges over here."
+
+DLG 2x
+there isn't anywhere to sit and eat in the mail room
+
+DLG 2z
+"you can't take cafeteria trays outside the dorm."
+
+DLG 2y
+"hun, the study room's open if you need some quiet."
+
+END 0
+you found a nice quiet spot... time to sit and chow down! *chomp chomp chomp...*        *gulp gulp gulp...*          GOOD JOB!                        you ate breakfast!              * THE END *               (you're awesome!) 
+

@@ -1,0 +1,691 @@
+THE BUS RIDE. HOP ON, KID!
+
+# BITSY VERSION 3.5
+
+! ROOM_FORMAT 1
+
+PAL 0
+228,154,154
+84,88,146
+84,88,146
+
+ROOM 0
+s,0,0,m,f,f,f,f,f,f,f,f,n,0,0,a
+s,0,0,e,k,k,k,k,k,k,k,k,d,0,0,a
+s,0,0,j,o,o,o,o,o,o,o,o,i,0,0,a
+s,0,0,e,0,k,0,0,0,0,l,l,d,0,0,a
+s,0,0,j,o,o,0,0,0,0,o,o,i,0,0,a
+s,0,0,e,b,k,0,0,0,0,k,0,d,0,0,a
+s,0,0,j,o,o,0,0,0,0,o,o,i,0,0,a
+s,0,0,e,k,k,0,0,0,0,0,k,d,0,0,a
+s,0,0,j,o,o,0,0,0,0,o,o,i,0,0,a
+s,0,0,e,k,0,0,0,0,0,k,k,d,0,0,a
+s,0,0,j,o,o,0,0,0,0,o,o,i,0,0,a
+s,0,0,0,0,0,0,0,0,0,0,0,d,0,0,a
+s,0,0,e,f,f,f,w,f,f,f,f,i,0,0,a
+s,0,0,j,f,f,f,f,f,f,f,f,i,0,0,a
+s,0,0,g,f,f,f,f,f,f,f,f,h,0,0,a
+s,0,0,0,q,r,0,0,0,0,q,r,0,0,0,a
+WAL b,d,e,i,j,k,s,a,f,g,h,m,n,q,r,p
+EXT 11,2 2 11,2
+
+ROOM 1
+s,0,0,m,f,f,f,f,f,f,f,f,n,0,0,a
+s,0,0,e,t,t,t,t,t,t,t,t,d,0,0,a
+s,0,0,j,u,u,u,u,u,u,u,u,i,0,0,a
+s,0,0,e,u,u,u,u,u,u,u,u,d,0,0,a
+s,0,0,j,u,u,u,u,u,u,u,u,i,0,0,a
+s,0,0,e,u,u,u,u,u,u,u,u,d,0,0,a
+s,0,0,j,t,t,t,t,t,t,t,t,i,0,0,a
+s,0,0,e,t,t,t,t,t,t,t,t,d,0,0,a
+s,0,0,j,t,t,t,t,t,t,t,t,i,0,0,a
+s,0,0,e,u,u,u,u,u,u,u,u,d,0,0,a
+s,0,0,j,u,u,u,u,u,u,u,u,i,0,0,a
+s,0,0,c,u,u,u,u,u,u,u,u,d,0,0,a
+s,0,0,j,u,u,u,u,u,u,u,u,i,0,0,a
+s,0,0,j,t,t,t,t,t,t,t,t,i,0,0,a
+s,0,0,g,f,f,f,f,f,f,f,f,h,0,0,a
+s,0,0,0,q,r,0,0,0,0,q,r,0,0,0,a
+WAL g,m,n,f,d,e,i,j,l,t,v,h,q,r,s,a
+EXT 4,11 0 4,11
+
+ROOM 2
+s,0,0,m,f,f,f,f,f,f,f,f,n,0,0,a
+s,0,0,e,k,k,k,k,k,k,k,k,d,0,0,a
+s,0,0,j,o,o,o,o,o,o,o,o,i,0,0,a
+s,0,0,e,k,k,0,0,0,0,k,k,d,0,0,a
+s,0,0,j,o,o,0,0,0,0,o,o,i,0,0,a
+s,0,0,e,b,k,0,0,0,0,k,z,d,0,0,a
+s,0,0,j,0,o,0,0,0,0,o,o,i,0,0,a
+s,0,0,e,k,k,0,0,0,0,y,k,d,0,0,a
+s,0,0,j,o,o,0,0,0,0,o,o,i,0,0,a
+s,0,0,e,k,x,0,0,0,0,k,k,d,0,0,a
+s,0,0,j,o,o,0,0,0,0,o,o,i,0,0,a
+s,0,0,c,0,0,0,0,0,0,0,0,d,0,0,a
+s,0,0,j,f,f,f,w,f,f,f,f,i,0,0,a
+s,0,0,j,f,f,f,f,f,f,f,f,i,0,0,a
+s,0,0,g,f,f,f,f,f,f,f,f,h,0,0,a
+s,0,0,0,q,r,0,0,0,0,q,r,0,0,0,a
+WAL f,e,d,g,h,i,j,m,n,q,r,x,y,z,k,w,a,s
+
+TIL a
+01111111
+00111111
+01111111
+01111111
+00011111
+01111111
+10011111
+00111111
+
+TIL b
+00100000
+01101010
+01001110
+00111110
+00011110
+00001110
+00011111
+00101111
+
+TIL c
+00001111
+00011111
+00000000
+00000000
+00000000
+00000000
+00011111
+00001111
+
+TIL d
+11110000
+01100000
+01100000
+01100000
+01100000
+01100000
+01100000
+01100000
+
+TIL e
+00001111
+00000110
+00000110
+00000110
+00000110
+00000110
+00000110
+00000110
+
+TIL f
+00000000
+01111110
+01111110
+01111110
+01111110
+01111110
+01111110
+01111110
+
+TIL g
+00000000
+00001111
+00001111
+00001111
+00001111
+00000111
+00000011
+00000001
+
+TIL h
+00000000
+11110000
+11110000
+11110000
+11110000
+11110000
+11000000
+10000000
+
+TIL i
+01100000
+01100000
+01100000
+01100000
+01100000
+01100000
+01100000
+01100000
+
+TIL j
+00000110
+00000110
+00000110
+00000110
+00000110
+00000110
+00000110
+00000110
+
+TIL k
+00000000
+00111100
+01111110
+01111110
+01111110
+01111110
+01100110
+00000000
+
+TIL l
+00000000
+00111100
+01111110
+01111110
+01111110
+01111110
+01100110
+00000000
+
+TIL m
+00000000
+00000001
+00000011
+00000111
+00001111
+00001111
+00001111
+00001111
+
+TIL n
+00000000
+10000000
+11000000
+11100000
+11110000
+11110000
+11110000
+11110000
+
+TIL o
+00111100
+01111110
+01111110
+01111110
+00111100
+00000000
+00000000
+00000000
+
+TIL p
+00011111
+00000111
+00000110
+00001111
+00001111
+00000110
+00000111
+00011111
+
+TIL q
+00110000
+00011111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL r
+00001100
+11111000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL s
+11111110
+11111100
+11111010
+11111111
+11111110
+11111100
+11111100
+11111010
+
+TIL t
+11111111
+11111111
+11111111
+11111111
+00000000
+11111111
+11111111
+11111111
+
+TIL u
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL v
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL w
+00011000
+00111100
+01000010
+11011011
+11011011
+01000010
+00111100
+00011000
+
+TIL x
+00010000
+00111101
+01111110
+01111111
+11111110
+11111111
+01100110
+00000000
+
+TIL y
+01000010
+01111110
+01010110
+01101010
+01010110
+01101010
+01111110
+01000010
+
+TIL z
+00000000
+00111100
+01111110
+01111110
+01110110
+01100010
+01100110
+00000000
+
+SPR A
+00000000
+00011000
+00111100
+00011000
+00111100
+01011010
+00111100
+00100100
+>
+00000000
+00000000
+00011000
+00111100
+00011000
+00111100
+01011010
+00100100
+POS 1 2,9
+
+SPR a
+00001010
+00001110
+01101110
+10101110
+00111110
+00011110
+00000000
+00000000
+POS 0 10,2
+
+SPR c
+00011000
+01111100
+00111100
+01011010
+10111101
+01111110
+00111100
+00111100
+POS 2 7,11
+
+SPR d
+00011000
+01111100
+00111100
+00011000
+00111100
+01111110
+10111101
+10111101
+POS 0 7,11
+
+SPR e
+00011111
+00000110
+00000110
+00001111
+00001111
+00000110
+00000110
+00011111
+POS 0 3,11
+
+SPR f
+01001111
+01011111
+10111111
+01111111
+01110111
+00110110
+00010010
+00010010
+POS 0 4,6
+
+SPR g
+00001110
+00011001
+00110101
+00110000
+00011010
+00001101
+00000110
+00000001
+POS 0 10,10
+
+SPR h
+01110000
+10011000
+10101100
+00001100
+01011000
+10110000
+01100000
+10000000
+POS 0 11,10
+
+SPR i
+00000000
+00111100
+01111110
+01111110
+01110110
+01100010
+01100110
+00000000
+POS 0 11,5
+
+SPR j
+01000010
+01111110
+01010110
+01101010
+01010110
+01101010
+01111110
+01000010
+POS 0 10,7
+
+SPR k
+00011000
+01111110
+01111110
+10111101
+00011000
+00111100
+01011010
+00111100
+POS 2 10,8
+
+SPR l
+00001110
+00001010
+00011110
+00111000
+00110000
+00000000
+00000000
+00000000
+POS 0 6,2
+
+SPR m
+00010000
+00100000
+00000000
+01101010
+10010101
+00100000
+00010000
+00000000
+POS 0 7,4
+
+SPR n
+00000000
+00000000
+00000000
+00001110
+00001010
+00011110
+00111000
+00110000
+POS 2 1,3
+
+SPR o
+00000110
+00000110
+00000110
+00000110
+00000110
+00000110
+00000110
+00000110
+POS 2 3,4
+
+SPR p
+00111000
+00011100
+01011000
+10111110
+00011001
+00111100
+01000010
+10000001
+POS 0 8,7
+
+SPR q
+00000000
+00111100
+01111110
+01111110
+01111110
+01111110
+01100110
+00000000
+POS 0 4,3
+
+SPR r
+00010000
+00111101
+01111110
+01111111
+11111110
+11111111
+01100110
+00000000
+POS 0 5,9
+
+SPR s
+11010000
+01000100
+10010010
+00100000
+00001010
+01010000
+10001001
+01000100
+POS 1 14,1
+
+SPR t
+00111000
+00011100
+00011000
+00111100
+01011010
+01011010
+10011001
+01011010
+POS 2 9,11
+
+SPR u
+00000000
+11000110
+00101000
+00110000
+01000110
+01100000
+00110110
+00001010
+POS 1 1,15
+
+SPR v
+00010100
+10000010
+01011000
+00100001
+10000100
+01001010
+10010001
+11010010
+POS 1 1,15
+
+SPR w
+01101000
+00000010
+00001000
+10100001
+00110100
+10101000
+00011010
+01100000
+POS 1 14,0
+
+SPR x
+00000000
+00000000
+00000101
+00000111
+00000111
+00000111
+01001110
+00111110
+POS 2 7,3
+
+SPR y
+00111000
+00111000
+00010000
+00010000
+00011000
+00010000
+00010000
+00010000
+POS 2 2,12
+
+SPR z
+01001111
+01011111
+10111111
+01111111
+01110111
+00110110
+00100100
+01001000
+POS 2 4,6
+
+DLG a
+The Narrow Street? That's still a few blocks away. Why don't you sleep over here? Might not be your special seat, but this corner is the comfiest!
+
+DLG c
+Thank you for riding with us... mmm... I'm gonna go for a nwap now...
+
+DLG d
+Welcome to the BUS! There's a special seat for everyone here, including you. Find your seat and make yourself comfortable.
+
+DLG f
+Don't smoke, kid. It's bad for you. Hmm? . . . . . . . Me? . .  Yeah, it's bad for you but it's good for me. Doctor's order.
+
+DLG e
+NO BUS JUMPING ALLOWED. Unless a mattress is provided outside.
+
+DLG g
+I'm a half of us. We sit together on this bus everyday. You don't think it's creepy, right?
+
+DLG h
+I'm a half of us. We sit together on this bus everyday. .  I just think we should try other buses, you know. . . . This can't be the only bus for us to sit.
+
+DLG i
+You found AN OLD PHOTOGRAPH. There's a writing on the back: 'Call me. I'm not gonna give you my number because that's just lazy. If you wanna call me, find my number. Love, 'My Name'. That's right! I'm not gonna give you my name either!
+
+DLG j
+A Beautiful Seat for A Beautiful Passenger! Oh wait, it's just a mosquito net.
+
+DLG l
+People think I'm a LOST KEY, but thing is, I'm never lost! . . All my life, all I want is an adventure! I don't have to be stuck on a door, or kept in a pocket! I'm a free key, that's what I am!
+
+DLG n
+Hi again! Oh, I'm waiting for some adventurer to pick me up! WHO KNOWS WHAT ADVENTURE AWAITS!
+
+DLG o
+One... Two... Three... Four... SIX... Ew, is that a lizard? . . . Six dead birds and a lizard! Blaaargh.
+
+DLG z
+Sure. Take care, kid. Hmm? Oh, it's not my stop. . . . also next time, don't talk to strangers. You're lucky I'm not a children-eating-beast! 
+
+DLG p
+Oh, I'm still learning! No, it's called BUS SURFING! I wanna go pro someday!
+
+DLG s
+
+
+DLG m
+Either fairy dust. . . . . or bread crumbs. It's trying to tell you something.
+
+DLG q
+Welcome to your special seat! Get lost in your thoughts with this stunning window view! For a better viewing, wear your special 3D glasses and experience the moments birds hit this window! Have fun and enjoy the bus ride!
+
+DLG r
+The Hall of Gum! Perfect for gum-sticking contest, questionable for seating. Some of the gums are still wet! EW.
+
+DLG x
+Wow, you slept like a cat. No, no, you haven't missed your block. In fact, we're here! Your body clock is amazing.
+
+DLG k
+You're not possibly a fan of me, are you? Well, the Jollywood Academy is my gateway to stardom, but I'm not a star yet. I know I am, but my teacher says that I should always act humble and modest when talking to a non-star! Rather tiring, I say.
+
+DLG y
+Next Bus: None. From here on, you have to walk or fly or hitch a broom. Thanks for playing THE BUS RIDE!
+
+DLG t
+Phew. BUS-SURFING is a lot of work! Holding on to the dashboard is not cool, but I love my legs!
+
