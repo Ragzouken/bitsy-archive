@@ -1,0 +1,680 @@
+[a rat dining adventure]
+
+# BITSY VERSION 2.2
+
+! ROOM_FORMAT 1
+
+PAL 0
+219,251,221
+120,189,111
+7,65,11
+
+ROOM 0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,0,0,0,0,b,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,b,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,b,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,b,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,c,0
+a,a,0,0,0,0,c,c,c,0,0,0,0,0,c,0
+a,a,0,0,0,c,c,0,c,c,0,0,0,0,c,0
+a,a,0,0,0,c,0,0,0,c,0,0,0,0,c,0
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+WAL a
+EXT 15,6 1 1,7
+EXT 15,7 1 1,7
+EXT 15,8 1 1,8
+EXT 15,9 1 1,8
+
+ROOM 1
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXT 0,7 0 14,7
+EXT 0,8 0 14,8
+
+TIL a
+10101010
+10101010
+10101010
+10101010
+10101010
+10101010
+10101010
+10101010
+
+TIL b
+10100000
+10100000
+10100000
+10100000
+10100000
+10100000
+10100000
+10100000
+
+TIL c
+10000010
+10101010
+10101010
+10101010
+10101010
+10101010
+10101010
+10000010
+
+SPR 10
+01000100
+10001100
+00111001
+00100011
+00100110
+01101100
+01001001
+00001010
+POS 0 7,4
+
+SPR 11
+01000100
+10001100
+00111001
+00100011
+00100110
+01101100
+01001001
+00001010
+POS 0 9,5
+
+SPR 13
+11111111
+10000001
+10100101
+10111101
+10111101
+10011001
+10000001
+01111110
+POS 0 5,9
+
+SPR 14
+11111111
+10000001
+10100101
+10111101
+10111101
+10011001
+10000001
+01111110
+POS 0 9,9
+
+SPR 15
+10000000
+11000000
+01100000
+11110000
+00011000
+11111100
+00000110
+11111111
+POS 0 9,8
+
+SPR 16
+11000001
+01111111
+00110000
+00011111
+00001100
+00000111
+00000011
+00000001
+POS 0 8,8
+
+SPR 17
+10000000
+11000000
+01100000
+11110000
+00011000
+11111100
+00000110
+11111111
+POS 0 8,7
+
+SPR 18
+11111111
+11111111
+00000000
+11111111
+00000000
+11111111
+00000000
+11111111
+POS 0 7,7
+
+SPR 19
+00000001
+00000011
+00000110
+00001111
+00011000
+00111111
+01100000
+11111111
+POS 0 6,7
+
+SPR A
+00000000
+11100111
+10100101
+11111111
+01000010
+10100101
+10011001
+01111110
+>
+11100111
+10100101
+11111111
+01000010
+01100110
+10011001
+10000001
+01111110
+POS 0 12,8
+
+SPR d
+00000000
+00111100
+01111110
+01111110
+01111110
+01111110
+00111100
+00000000
+POS 0 10,13
+
+SPR e
+00000000
+00111100
+01111110
+01111110
+01111110
+01111110
+00111100
+00000000
+POS 0 9,13
+
+SPR f
+00000000
+00111100
+01111110
+01111110
+01111110
+01111110
+00111100
+00000000
+POS 0 8,13
+
+SPR g
+00000000
+00111100
+01111110
+01111110
+01111110
+01111110
+00111100
+00000000
+POS 0 9,12
+
+SPR h
+10000001
+01001101
+00100000
+00010010
+00001001
+00000100
+00000010
+00000001
+POS 0 11,2
+
+SPR i
+10000001
+01001101
+00100000
+00010010
+00001001
+00000100
+00000010
+00000001
+POS 0 12,3
+
+SPR j
+10000001
+01001101
+00100000
+00010010
+00001001
+00000100
+00000010
+00000001
+POS 0 13,4
+
+SPR k
+00000000
+01000100
+01001000
+00000001
+00000001
+00110100
+00000010
+00011000
+POS 0 12,2
+
+SPR l
+00000000
+01000100
+01001000
+00000001
+00000001
+00110100
+00000010
+00011000
+POS 0 13,2
+
+SPR m
+00000000
+01000100
+01001000
+00000001
+00000001
+00110100
+00000010
+00011000
+POS 0 13,3
+
+SPR n
+00000000
+01000100
+01001000
+00000001
+00000001
+00110100
+00000010
+00011000
+POS 0 2,12
+
+SPR o
+00000000
+01000100
+01001000
+00000001
+00000001
+00110100
+00000010
+00011000
+POS 0 2,13
+
+SPR p
+00000000
+01000100
+01001000
+00000001
+00000001
+00110100
+00000010
+00011000
+POS 0 3,13
+
+SPR q
+00000001
+00000010
+00000100
+00001000
+00010000
+00100000
+01000000
+10000000
+POS 0 5,3
+
+SPR r
+00000001
+00000010
+00000100
+00001000
+00010000
+00100000
+01000000
+10000000
+POS 0 5,4
+
+SPR s
+11111111
+01010101
+10101011
+01010101
+10101011
+01010101
+10101011
+11111111
+POS 0 4,4
+
+SPR t
+11111111
+11010101
+10101010
+11010101
+10101010
+11010101
+10101010
+11111111
+POS 0 3,4
+
+SPR u
+10000000
+01000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+POS 0 2,4
+
+SPR v
+10000000
+01000000
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+POS 0 2,3
+
+SPR w
+01000100
+10001100
+00111001
+00100011
+00100110
+01101100
+01001001
+00001010
+POS 0 9,4
+
+SPR x
+01000100
+10001100
+00111001
+00100011
+00100110
+01101100
+01001001
+00001010
+POS 0 8,3
+
+SPR y
+01000100
+10001100
+00111001
+00100011
+00100110
+01101100
+01001001
+00001010
+POS 0 7,3
+
+SPR z
+01000100
+10001100
+00111001
+00100011
+00100110
+01101100
+01001001
+00001010
+POS 0 8,4
+
+SPR 1a
+10000011
+11111110
+00001100
+11111000
+00110000
+11100000
+11000000
+10000000
+POS 0 6,8
+
+SPR 1b
+00000001
+00000011
+00000110
+00001111
+00011000
+00111111
+01100000
+11111111
+POS 0 5,8
+
+SPR 1c
+01000000
+10101000
+10001100
+10011000
+10011100
+01011100
+01011100
+00111110
+>
+01000000
+10101000
+00101100
+01011000
+01011100
+01011100
+01011100
+00111110
+POS 0 7,9
+
+SPR 1d
+00000000
+00000100
+00001010
+00000010
+00100010
+01111110
+11111100
+00101000
+>
+00000000
+00000010
+00000101
+00100100
+01100010
+11111110
+00111100
+00101000
+POS 0 4,12
+
+SPR 1e
+00000000
+00001100
+00010010
+00000001
+00011001
+10111111
+11111111
+11111111
+>
+00010000
+00001100
+00000010
+00000001
+00011001
+10010011
+11111111
+11111111
+POS 0 2,7
+
+SPR 1f
+11100111
+10100101
+01111110
+10000001
+10100101
+10000001
+10000001
+01111110
+POS 1 4,7
+
+SPR 1g
+00011000
+10011001
+01011010
+00111100
+00011000
+00011000
+00011000
+00111100
+POS 1 4,8
+
+DLG 10
+Hi, I'm a piece of paper. It looks like you're trying to write a letter. Would you like to- MMMF GET OFF ME           <Aw yes, paper. Not gonna eat this. Save it for a big nest. You hide food IN the paper.>
+
+DLG 11
+Hi, I'm a piece of paper. It looks like you're trying to write a letter. Would you like to- MMMF GET OFF ME           <Aw yes, paper. Not gonna eat this. Save it for a big nest. You hide food IN the paper.>
+
+DLG 13
+Hello, rat friend! I am a state-of-the-art PawBuddies3000 bamboo hidey house, perfect for sleeping, playing, and chewing! Why not take a bite, pal?        <Ugh. You know what, you're not the boss of me. I'm just gonna wee on you. Yeahhh. How do you like THAT.>
+
+DLG 14
+Hello, rat friend! I am a state-of-the-art PawBuddies3000 bamboo hidey house, perfect for sleeping, playing, and chewing! Why not take a bite, pal?        <Ugh. You know what, you're not the boss of me. I'm just gonna wee on you. Yeahhh. How do you like THAT.>
+
+DLG 15
+Hello, rat friend! I am a state-of-the-art PawBuddies3000 bamboo hidey house, perfect for sleeping, playing, and chewing! Why not take a bite, pal?        <Ugh. You know what, you're not the boss of me. I'm just gonna wee on you. Yeahhh. How do you like THAT.>
+
+DLG 16
+Hello, rat friend! I am a state-of-the-art PawBuddies3000 bamboo hidey house, perfect for sleeping, playing, and chewing! Why not take a bite, pal?        <Ugh. You know what, you're not the boss of me. I'm just gonna wee on you. Yeahhh. How do you like THAT.>
+
+DLG 17
+Hello, rat friend! I am a state-of-the-art PawBuddies3000 bamboo hidey house, perfect for sleeping, playing, and chewing! Why not take a bite, pal?        <Ugh. You know what, you're not the boss of me. I'm just gonna wee on you. Yeahhh. How do you like THAT.>
+
+DLG 18
+Hello, rat friend! I am a state-of-the-art PawBuddies3000 bamboo hidey house, perfect for sleeping, playing, and chewing! Why not take a bite, pal?        <Ugh. You know what, you're not the boss of me. I'm just gonna wee on you. Yeahhh. How do you like THAT.>
+
+DLG 19
+Hello, rat friend! I am a state-of-the-art PawBuddies3000 bamboo hidey house, perfect for sleeping, playing, and chewing! Why not take a bite, pal?        <Ugh. You know what, you're not the boss of me. I'm just gonna wee on you. Yeahhh. How do you like THAT.>
+
+DLG a
+I'm a delicious biscuit! <The biscuit is right. It is delicious.>
+
+DLG d
+I'm a delicious biscuit!      <The biscuit is right. It is delicious.>
+
+DLG e
+I'm a delicious biscuit! <The biscuit is right. It is delicious.>
+
+DLG g
+I'm a delicious biscuit!      <The biscuit is right. It is delicious.>
+
+DLG h
+I'm the litter tray. You probably don't wanna eat me... Ow! <This tastes gross, but chewing bits off it is fun.>
+
+DLG i
+I'm the litter tray. You probably don't wanna eat me... Ow! <This tastes gross, but chewing bits off it is fun.>
+
+DLG m
+I'm the litter tray. You probably don't wanna eat me... Ow! <This tastes gross, but chewing bits off it is fun.>
+
+DLG n
+hello i am some delicious nutrient-rich poop, try me!     <The poop is not delicious. It is an essential part of a healhy rat diet, though. Ugh.>
+
+DLG f
+I'm a delicious biscuit! <The biscuit is right. It is delicious.>
+
+DLG p
+hello i am some delicious nutrient-rich poop, try me!     <The poop is not delicious. It is an essential part of a healhy rat diet, though. Ugh.>
+
+DLG v
+Um, duh. I'm a hammock. If you eat me, you can't sleep in me. <That sounds right, but... it looks pretty tasty. Only one way to find out!>
+
+DLG t
+Um, duh. I'm a hammock. If you eat me, you can't sleep in me. <That sounds right, but... it looks pretty tasty. Only one way to find out!>
+
+DLG s
+Um, duh. I'm a hammock. If you eat me, you can't sleep in me. <That sounds right, but... it looks pretty tasty. Only one way to find out!>
+
+DLG j
+I'm the litter tray. You probably don't wanna eat me... Ow! <This tastes gross, but chewing bits off it is fun.>
+
+DLG k
+I'm the litter tray. You probably don't wanna eat me... Ow! <This tastes gross, but chewing bits off it is fun.>
+
+DLG l
+I'm the litter tray. You probably don't wanna eat me... Ow! <This tastes gross, but chewing bits off it is fun.>
+
+DLG o
+hello i am some delicious nutrient-rich poop, try me!     <The poop is not delicious. It is an essential part of a healhy rat diet, though. Ugh.>
+
+DLG u
+Um, duh. I'm a hammock. If you eat me, you can't sleep in me. <That sounds right, but... it looks pretty tasty. Only one way to find out!>
+
+DLG r
+Um, duh. I'm a hammock. If you eat me, you can't sleep in me. <That sounds right, but... it looks pretty tasty. Only one way to find out!>
+
+DLG q
+Um, duh. I'm a hammock. If you eat me, you can't sleep in me. <That sounds right, but... it looks pretty tasty. Only one way to find out!>
+
+DLG w
+Hi, I'm a piece of paper. It looks like you're trying to write a letter. Would you like to- MMMF GET OFF ME           <Aw yes, paper. Not gonna eat this. Save it for a big nest. You hide food IN the paper.>
+
+DLG x
+Hi, I'm a piece of paper. It looks like you're trying to write a letter. Would you like to- MMMF GET OFF ME           <Aw yes, paper. Not gonna eat this. Save it for a big nest. You hide food IN the paper.>
+
+DLG y
+Hi, I'm a piece of paper. It looks like you're trying to write a letter. Would you like to- MMMF GET OFF ME           <Aw yes, paper. Not gonna eat this. Save it for a big nest. You hide food IN the paper.>
+
+DLG z
+Hi, I'm a piece of paper. It looks like you're trying to write a letter. Would you like to- MMMF GET OFF ME           <Aw yes, paper. Not gonna eat this. Save it for a big nest. You hide food IN the paper.>
+
+DLG 1a
+Hello, rat friend! I am a state-of-the-art PawBuddies3000 bamboo hidey house, perfect for sleeping, playing, and chewing! Why not take a bite, pal?        <Ugh. You know what, you're not the boss of me. I'm just gonna wee on you. Yeahhh. How do you like THAT.>
+
+DLG 1b
+Hello, rat friend! I am a state-of-the-art PawBuddies3000 bamboo hidey house, perfect for sleeping, playing, and chewing! Why not take a bite, pal?        <Ugh. You know what, you're not the boss of me. I'm just gonna wee on you. Yeahhh. How do you like THAT.>
+
+DLG 1c
+SQUEAK!
+
+DLG 1d
+Crunch crunch crunch...
+
+DLG 1e
+Zzz... Zzz...
+
+DLG 1f
+You escaped! What delicious treats will you find out here? <Congratulations, you won! Look out for more levels soon!>
+
+DLG 1g
+You escaped! What delicious treats will you find out here? <Congratulations, you won! Look out for more levels soon!>
+
