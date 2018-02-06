@@ -53,3 +53,4 @@ AptGhost,X,X
 David Mowatt,X,X
 Quantum Sheep,X,X
 Sam Keeper,X,X
+Giada Zavarise,X,X
