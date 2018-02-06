@@ -1,0 +1,2965 @@
+Current Mood - by Quantum Sheep
+
+# BITSY VERSION 4.1
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME rb
+0,0,0
+255,0,0
+255,255,255
+
+PAL 1
+0,0,0
+255,255,255
+255,0,0
+
+PAL 2
+0,0,0
+255,255,255
+255,255,255
+
+PAL 3
+NAME black
+0,0,0
+255,255,255
+0,0,0
+
+PAL 4
+255,255,255
+0,0,0
+0,0,0
+
+PAL 5
+0,255,255
+0,255,0
+0,0,255
+
+PAL 6
+0,0,0
+0,255,0
+255,255,255
+
+PAL 7
+0,0,0
+255,255,255
+0,255,0
+
+PAL 8
+0,0,0
+255,255,0
+255,0,0
+
+PAL 9
+0,0,0
+0,255,255
+0,255,0
+
+PAL a
+0,0,0
+255,0,255
+255,255,0
+
+PAL b
+0,255,0
+255,0,0
+0,0,0
+
+PAL c
+255,255,255
+255,255,255
+255,255,255
+
+PAL d
+255,255,255
+255,255,255
+255,255,255
+
+PAL e
+255,255,255
+255,255,255
+255,255,255
+
+PAL f
+255,255,255
+255,255,255
+255,255,255
+
+PAL g
+255,255,255
+255,255,255
+255,255,255
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WAL b,a,d,1c,10,11,12,13,14
+EXT 1,13 1 2,8
+EXT 0,14 1 2,8
+EXT 2,14 1 2,8
+EXT 1,15 1 2,8
+PAL 3
+
+ROOM 1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,a,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,a,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,a,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,a,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,a,c
+14,14,13,11,12,10,14,13,12,11,10,12,13,14,a,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,y
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+WAL b,a,d,1c,10,11,12,13,14
+ITM 3 10,8
+ITM 0 13,8
+ITM c 6,8
+EXT 15,8 4 2,8
+PAL 0
+
+ROOM 2
+c,c,c,c,c,1y,v,v,1y,c,c,c,c,c,c,c
+c,c,c,c,c,25,c,u,25,g,c,g,c,c,c,c
+c,c,c,c,c,25,u,u,25,c,f,c,c,c,c,c
+c,g,g,c,c,25,u,u,25,c,c,c,c,c,c,c
+c,i,p,c,c,25,u,u,25,c,c,g,c,r,c,c
+c,h,q,c,c,25,u,u,25,c,c,i,m,j,c,c
+e,e,e,e,e,1x,u,u,1x,e,e,h,l,k,e,e
+b,b,b,b,b,b,u,u,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,u,u,0,0,0,0,0,0,0,y
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,r,c,g,d,d,d,d,d,c,c,c,g,c,g,c
+c,n,0,p,d,c,c,c,c,c,c,c,c,f,c,c
+c,o,s,q,d,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+NAME room 5
+WAL b,a,d,1c,10,11,12,13,14,1x,1y,25
+ITM 3 10,8
+ITM 0 6,0
+ITM c 13,8
+ITM c 8,8
+EXT 15,8 5 7,12
+PAL 0
+
+ROOM 4
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,g,c,g,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,f,c,c,c,c,c
+c,g,g,c,c,c,g,g,c,c,c,c,c,c,c,c
+c,i,p,c,c,c,n,p,c,c,c,g,c,r,c,c
+c,h,q,c,c,c,o,q,c,c,c,i,m,j,c,c
+e,e,e,e,e,e,e,e,e,e,e,h,l,k,e,e
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,y
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,r,c,g,d,d,d,r,g,c,c,c,g,c,g,c
+c,n,0,p,d,c,d,n,p,c,c,c,c,f,c,c
+c,o,s,q,d,c,c,o,q,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+NAME room 2
+WAL b,a,d,1c,10,11,12,13,14
+ITM 3 10,8
+ITM 0 5,8
+ITM c 13,8
+EXT 15,8 2 2,8
+PAL 0
+
+ROOM 5
+c,2m,c,c,c,a,z,z,z,z,a,c,c,c,c,c
+c,2t,2u,2v,c,a,w,w,w,w,a,c,c,c,c,c
+c,2n,2o,c,c,a,w,a,a,w,a,c,c,c,c,c
+c,2p,c,c,c,a,w,w,w,w,a,c,c,c,c,c
+c,2q,2r,2s,c,a,w,w,w,w,a,c,c,c,c,c
+a,a,a,a,a,a,w,w,w,w,a,a,a,a,a,a
+y,w,w,w,w,w,w,w,w,w,w,w,w,w,w,y
+y,a,w,w,w,w,w,w,w,w,w,w,w,w,a,y
+y,a,w,w,w,w,w,w,w,w,w,w,w,w,a,y
+y,w,w,w,w,w,w,w,w,w,w,w,w,w,w,y
+a,a,a,a,a,a,w,w,w,w,a,a,a,a,a,a
+c,c,c,c,c,a,w,w,w,w,a,c,c,c,c,c
+c,c,c,c,c,a,w,w,w,w,a,c,c,c,c,c
+c,c,c,c,c,a,w,a,a,w,a,c,c,c,c,c
+c,c,c,c,c,a,w,w,w,w,a,c,c,c,c,c
+c,c,c,c,c,a,z,z,z,z,a,c,c,c,c,c
+NAME hub
+WAL a,1c,10,11,12,13,14
+EXT 6,15 1 2,8
+EXT 7,15 1 2,8
+EXT 8,15 1 2,8
+EXT 9,15 1 2,8
+EXT 0,9 7 2,8
+EXT 0,8 7 2,8
+EXT 0,7 7 2,8
+EXT 0,6 7 2,8
+EXT 6,0 c 2,8
+EXT 7,0 c 2,8
+EXT 8,0 c 2,8
+EXT 9,0 c 2,8
+EXT 15,6 9 2,8
+EXT 15,7 9 2,8
+EXT 15,8 9 2,8
+EXT 15,9 9 2,8
+PAL a
+
+ROOM 6
+2l,2l,2l,2l,2l,1y,1u,1v,1y,2l,2l,2l,2l,2l,2l,2l
+e,e,e,e,c,25,1v,1u,25,c,c,e,e,e,e,c
+1d,1d,1d,1d,19,25,1u,1v,25,c,19,1d,1d,1d,1d,c
+1d,15,15,1d,19,25,1v,1u,25,c,19,1d,15,15,1d,19
+1d,26,27,1d,19,25,1u,1v,25,c,19,1d,26,27,1d,19
+1d,1d,1d,1d,19,25,1v,1u,25,c,19,1d,1y,1q,1q,1y
+18,18,18,18,e,1x,1u,1v,1x,e,e,18,1x,1v,1u,1x
+b,b,b,b,b,b,1v,1u,b,b,b,b,b,1u,1v,b
+0,0,0,0,0,0,1u,1v,0,0,0,0,0,1v,1u,y
+d,d,d,d,d,1y,1v,1u,1y,d,d,d,1y,1u,1v,1y
+c,a,a,18,18,25,1u,1v,25,c,c,c,25,1v,1u,25
+1d,1d,1d,1d,1d,25,1v,1u,25,1d,1d,1d,25,1u,1v,25
+1d,23,2d,23,1d,25,1u,1v,25,1d,15,17,25,1v,1u,25
+1d,26,2i,27,1d,25,1v,1u,25,1d,26,27,25,1u,1v,25
+1d,1d,1d,1d,1d,25,1u,1v,25,1d,1d,1d,25,1v,1u,25
+2l,2l,2l,2l,2l,1x,1v,1u,1x,2l,2l,2l,1x,1u,1v,1x
+NAME happy3
+WAL b,a,d,1c,10,11,12,13,14,25,1y,1x
+ITM 4 10,8
+ITM 7 9,0
+ITM a 5,8
+ITM a 14,0
+ITM a 9,3
+ITM a 15,2
+ITM a 12,8
+EXT 15,8 5 2,7
+PAL b
+
+ROOM 7
+0,0,1z,20,0,0,0,1u,1v,0,0,0,1z,20,0,0
+0,1j,1c,1c,1l,0,0,1v,1u,0,0,1j,1c,1c,1l,0
+0,1n,26,27,1m,0,0,1u,1v,0,0,1n,26,27,1m,0
+0,0,28,2a,0,0,0,1v,1u,0,0,0,28,2a,0,0
+0,0,1v,1u,0,0,0,1u,1v,0,0,0,1u,1v,0,0
+0,0,1u,1v,0,0,0,1v,1u,0,0,0,1v,1u,0,0
+0,0,1v,1u,0,0,0,1u,1v,0,0,0,1u,1v,0,0
+a,a,1u,1v,0,0,0,1v,1u,0,0,0,1v,1u,a,a
+0,0,1v,1u,a,a,a,1u,1v,a,a,a,1u,1v,0,y
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e
+2j,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2k
+2g,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2h
+2l,2l,2l,2l,2l,2l,2l,2l,2l,2l,2l,2l,2l,2l,2l,2l
+2j,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2k
+2g,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2h
+NAME happy1
+WAL b,a,d,1c,10,11,12,13,14
+ITM a 4,3
+ITM a 11,3
+ITM a 14,3
+ITM 4 14,8
+ITM 7 1,0
+ITM 7 14,0
+ITM a 11,7
+ITM a 4,0
+ITM a 11,0
+ITM a 6,0
+ITM a 5,5
+ITM a 10,5
+ITM a 9,3
+ITM a 15,4
+ITM a 14,6
+ITM a 0,0
+ITM a 1,3
+EXT 15,8 8 2,8
+PAL b
+
+ROOM 8
+0,0,0,2l,0,0,0,0,0,0,0,0,2l,0,0,0
+0,0,0,l,0,0,0,0,0,0,0,0,l,0,0,0
+0,0,1y,1u,1y,0,0,0,0,0,0,1y,1u,1y,0,0
+0,0,1x,1u,1x,0,0,0,0,0,0,1x,1v,1x,0,0
+0,0,0,m,0,0,0,1c,1c,0,0,0,m,0,0,0
+0,0,0,0,0,0,0,1e,1e,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,y
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+2l,a,1v,1u,1v,1u,1v,1u,1v,1u,1v,1u,1v,1u,a,2l
+2l,2l,a,1v,1u,1v,1u,1v,1u,1v,1u,1v,1u,a,2l,2l
+2l,2l,2l,a,1v,1u,1v,1u,1v,1u,1v,1u,a,2l,2l,2l
+2l,2l,2l,2l,a,1v,1u,1v,1u,1v,1u,a,2l,2l,2l,2l
+2l,2l,2l,2l,2l,a,1v,1u,1v,1u,a,2l,2l,2l,2l,2l
+2l,2l,2l,2l,2l,2l,a,a,a,a,2l,2l,2l,2l,2l,2l
+NAME happy2
+WAL b,a,d,1c,10,11,12,13,14
+ITM 4 10,8
+ITM 7 5,8
+ITM a 7,8
+ITM a 13,8
+ITM a 0,8
+EXT 15,8 6 2,8
+PAL b
+
+ROOM 9
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,1k,1k,0,0,0,0,0,0,0
+0,0,0,0,0,0,1j,1d,1d,1l,0,0,0,0,0,0
+0,0,0,0,0,0,1n,1n,1n,1n,0,0,0,0,0,0
+0,0,0,0,0,0,0,1r,1w,0,0,0,0,0,0,0
+10,11,13,14,11,13,12,1w,1r,14,13,11,13,11,14,13
+0,0,0,0,0,0,b,1r,1w,b,0,0,0,0,0,0
+b,b,b,b,b,b,b,1w,1r,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,1r,1w,0,0,0,0,0,0,y
+1c,1c,1c,1c,1c,1c,1c,1c,1c,1c,1c,1c,1c,1c,1c,1c
+1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e
+1d,1d,1c,1d,1d,1c,1d,1d,1d,1d,1c,1d,1d,1c,1d,1d
+1d,1d,1e,1d,1d,1e,1d,1d,1d,1d,1e,1d,1d,1e,1d,1d
+1c,1c,1c,1c,1c,1c,1c,1c,1c,1c,1c,1c,1c,1c,1c,1c
+1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e
+1d,1d,1c,1d,1d,1c,1d,1d,1d,1d,1c,1d,1d,1c,1d,1d
+NAME sad1
+WAL b,a,d,1c,10,11,12,13,14
+ITM 6 10,8
+ITM 8 7,0
+ITM b 6,4
+ITM b 9,4
+ITM b 6,0
+ITM b 0,1
+ITM b 2,3
+ITM b 3,0
+ITM b 13,1
+ITM b 14,4
+ITM b 8,0
+ITM b 10,0
+EXT 15,8 a 2,8
+PAL 1
+
+ROOM a
+1g,1g,1k,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g
+1g,1j,1d,1l,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g
+1g,1n,1e,1m,1g,1g,1g,1g,1k,1g,1g,1g,1g,1g,1g,1g
+1g,1g,1n,1g,1g,1g,1g,1j,1d,1l,1g,1g,1g,1g,1g,1g
+1g,1g,1g,1g,1g,1g,1g,1n,r,1m,1g,1g,1g,1k,1g,1g
+1g,1g,1g,1g,1g,1g,1g,1g,1n,1g,1g,1g,1j,1d,1l,1g
+1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1n,1c,1m,1g
+1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1n,1g,1g
+1h,1i,1h,1i,1h,1i,1h,1i,1h,1i,1h,1i,1h,1i,1h,y
+d,d,d,d,d,d,1d,1d,1d,1d,d,d,d,d,d,d
+1d,1d,1d,1d,1c,1d,1d,1d,1d,1d,1d,1c,1d,1d,1d,1d
+1d,1d,1d,1d,a,1d,1d,1d,1d,1d,1d,a,1d,1d,1d,1d
+1d,1d,1d,1d,1s,1d,1d,1d,1d,1d,1d,1s,1d,1d,1d,1d
+1d,1d,1d,1d,1d,1d,1d,1d,1d,1d,1d,1d,1d,1d,1d,1d
+1d,1d,1d,1d,1d,1d,1o,1q,1q,1p,1d,1d,1d,1d,1d,1d
+1d,1d,1d,1d,1d,1d,0,0,0,0,1d,1d,1d,1d,1d,1d
+NAME sad2
+WAL b,a,d,1c,1g,10,11,12,13,14
+ITM b 6,15
+ITM b 7,15
+ITM b 9,15
+ITM 6 12,8
+ITM 8 8,15
+EXT 15,8 b 2,8
+PAL 1
+
+ROOM b
+0,0,0,24,0,0,0,0,0,1w,0,0,0,0,0,24
+0,1w,0,0,23,0,0,24,0,0,0,0,24,0,23,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,24,0,0,1w,0,0,0,0,0,0,1w,0,0,0
+23,0,0,0,0,0,0,0,23,24,0,0,0,0,0,0
+0,0,0,24,0,0,0,0,0,0,0,0,0,24,0,0
+24,0,0,0,0,0,0,24,0,0,0,24,0,0,0,0
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,y
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+1w,0,0,24,0,0,23,0,0,0,0,1w,0,0,0,24
+24,0,0,0,0,0,0,0,0,24,0,0,0,24,0,0
+0,0,0,0,0,0,0,24,0,0,23,0,0,0,0,0
+0,0,0,0,1w,0,0,0,0,0,0,0,0,0,0,0
+0,0,24,0,0,24,0,0,0,0,24,0,0,1w,0,0
+0,23,0,0,0,0,0,0,1w,0,0,0,0,0,0,24
+NAME sad3
+WAL b,a,d,1c,10,11,12,13,14
+ITM 6 10,8
+ITM b 5,8
+EXT 15,8 5 13,8
+PAL 1
+
+ROOM c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2c,2b,2c,2b,2c,2b,2c,2b,2c,2b,2c,2b,2c,2b,2c,2b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,y
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+2j,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2k
+25,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,25
+25,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,25
+25,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,25
+25,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,2b,25
+2g,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2h
+NAME apathy1
+WAL b,a,d,1c,10,11,12,13,14,2c
+ITM 5 10,8
+ITM 9 4,8
+EXT 15,8 d 2,8
+PAL 4
+
+ROOM d
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2c,2e,2c,2e,2c,2e,2c,2e,2c,2e,2c,2e,2c,2e,2c,2e
+2d,2f,2d,2f,2d,2f,2d,2f,2d,2f,2d,2f,2d,2f,2d,2f
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,y
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+2j,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2k
+25,1d,1q,1q,1q,1q,1q,2d,2d,1q,1q,1q,1q,1q,1d,25
+25,1d,1d,1q,1q,1q,1q,2d,2d,1q,1q,1q,1q,1d,1d,25
+25,1d,1d,1d,1q,1q,1q,2d,2d,1q,1q,1q,1d,1d,1d,25
+25,1d,1d,1d,1d,2j,2i,2i,2i,2i,2k,1d,1d,1d,1d,25
+2g,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2h
+NAME apathy2
+WAL b,a,d,1c,10,11,12,13,14
+ITM 5 10,8
+ITM 9 4,8
+EXT 15,8 e 2,8
+PAL 4
+
+ROOM e
+1y,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1y
+25,0,0,0,2e,0,0,0,0,0,0,2e,0,0,0,25
+25,0,0,0,2d,0,0,0,0,0,0,2d,0,0,0,25
+25,0,2e,0,0,0,2e,0,0,2e,0,0,0,2e,0,25
+25,0,2f,0,0,0,2f,0,0,2f,0,0,0,2f,0,25
+25,0,0,0,2c,0,0,0,0,0,0,2c,0,0,0,25
+25,0,0,0,2d,0,0,0,0,0,0,2d,0,0,0,25
+2g,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2h
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,y
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+2j,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2k
+25,1x,1x,1x,1x,1x,1x,1x,1x,1x,1x,1x,1x,1x,1x,25
+25,1y,1y,1y,1y,1y,1y,1y,1y,1y,1y,1y,1y,1y,1y,25
+25,1x,1x,1x,1x,1x,1x,1x,1x,1x,1x,1x,1x,1x,1x,25
+25,1y,1y,1y,1y,1y,1y,1y,1y,1y,1y,1y,1y,1y,1y,25
+2g,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2i,2h
+NAME apathy3
+WAL b,a,d,1c,10,11,12,13,14
+ITM 5 10,8
+ITM 9 4,8
+EXT 15,8 5 8,3
+PAL 4
+
+TIL 10
+00000000
+00000000
+00000000
+00001000
+00010100
+00100010
+11000001
+00000000
+NAME undefined
+
+TIL 11
+00000000
+00000000
+00000000
+00000000
+00000000
+00010000
+11101111
+00000000
+NAME undefined
+
+TIL 12
+00000000
+00000000
+00000000
+00000000
+00000010
+00000101
+11011000
+00100000
+NAME undefined
+
+TIL 13
+00000000
+00000000
+00000000
+00000000
+00001000
+10010100
+01100011
+00000000
+NAME undefined
+
+TIL 14
+00000000
+00000000
+00000000
+00010000
+00101000
+01000100
+10000011
+00000000
+NAME undefined
+
+TIL 15
+11111111
+11110001
+11110001
+11100001
+10000001
+10000001
+10000001
+11111111
+>
+11111111
+10001111
+10001111
+10000111
+10000001
+10000001
+10000001
+11111111
+NAME undefined
+
+TIL 16
+11111111
+11111111
+11111111
+10000000
+10000000
+11111111
+11111111
+11111111
+>
+11111111
+11111111
+11111111
+11000000
+11000000
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL 17
+11111111
+11111111
+11111111
+00000011
+00000011
+11111111
+11111111
+11111111
+>
+11111111
+11111111
+11111111
+00000001
+00000001
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL 18
+11111111
+11111111
+01110111
+01110111
+11101101
+11101101
+11111111
+11111111
+NAME undefined
+
+TIL 19
+11011011
+11011111
+11110111
+11110111
+11101111
+11101111
+11111011
+11011011
+NAME undefined
+
+TIL 20
+00000000
+00000000
+00000000
+00000000
+01111000
+11111100
+11111110
+11111111
+NAME undefined
+
+TIL 21
+00000000
+00000000
+00000000
+00000000
+00000000
+00110000
+01111000
+11111111
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000110
+00001111
+11111111
+NAME undefined
+
+TIL 22
+00000000
+00000000
+00000000
+00000000
+00000000
+00000111
+00111111
+11111111
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+11100000
+11110000
+11111111
+NAME undefined
+
+TIL 23
+00000000
+00000000
+00011000
+00100100
+00100100
+00011000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 24
+01000001
+00000000
+00000000
+00010000
+00000000
+00000000
+10000000
+00001000
+>
+10000000
+00000010
+00000000
+00001000
+00000000
+00000000
+00010000
+10000000
+NAME undefined
+
+TIL 25
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+NAME undefined
+
+TIL 26
+11111111
+10000000
+10000000
+10000000
+11000000
+11100000
+11110000
+11111111
+>
+11111111
+11000000
+11000000
+11000000
+11100000
+11110000
+11111000
+11111111
+NAME undefined
+
+TIL 27
+11111111
+00000001
+00000001
+00000001
+00000011
+00000111
+00001111
+11111111
+>
+11111111
+00000011
+00000011
+00000011
+00000111
+00001111
+00011111
+11111111
+NAME undefined
+
+TIL 28
+01111111
+00110111
+00000011
+00000011
+00000001
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 29
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL a
+11111111
+10000001
+10000001
+10011001
+10011001
+10000001
+10000001
+11111111
+NAME undefined
+
+TIL b
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL c
+11101110
+11101110
+01110111
+01110111
+11101101
+11101101
+01110111
+01110111
+NAME undefined
+
+TIL d
+11111111
+11111111
+01110111
+01110111
+11101101
+11101101
+01110111
+01110111
+NAME undefined
+
+TIL e
+11101110
+11101110
+01110111
+01110111
+11101101
+11101101
+11111111
+11111111
+NAME undefined
+
+TIL f
+11111111
+11100111
+11000011
+10000001
+10000001
+11000011
+11100111
+11111111
+NAME undefined
+
+TIL g
+11101110
+11111110
+01000111
+01010111
+11000110
+11111110
+01110111
+01110111
+>
+11101110
+11111110
+01000111
+01000111
+11000110
+11111110
+01110111
+01110111
+NAME undefined
+
+TIL h
+10100000
+11100000
+11110000
+10110000
+11101000
+11111000
+01111100
+11011011
+NAME undefined
+
+TIL i
+11111111
+11011100
+11111000
+01101000
+11110000
+11110000
+10100000
+11100000
+>
+11111110
+11011000
+11111000
+01110000
+11110000
+11100000
+11000000
+11000000
+NAME undefined
+
+TIL j
+11011011
+00111101
+00011111
+00011111
+00001011
+00001111
+00000101
+00000110
+NAME undefined
+
+TIL k
+00000111
+00000111
+00001101
+00001111
+00011111
+00011110
+00111011
+11111111
+NAME undefined
+
+TIL l
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+NAME undefined
+
+TIL m
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL n
+11111111
+11011100
+11111000
+01101000
+11110000
+11110000
+10100000
+11100000
+>
+11111111
+11011111
+11111100
+01101100
+11111000
+11111000
+10110000
+11110000
+NAME undefined
+
+TIL o
+10100000
+11100000
+11110000
+10110000
+11101000
+11111000
+01111100
+11011011
+>
+10110000
+11110000
+11111000
+10111000
+11101100
+11111100
+01111111
+11011011
+NAME undefined
+
+TIL p
+11011011
+00111101
+00011111
+00011111
+00001011
+00001111
+00000101
+00000110
+>
+11011011
+11111101
+00111111
+00111111
+00011011
+00011111
+00001101
+00001110
+NAME undefined
+
+TIL q
+00000111
+00000111
+00001101
+00001111
+00011111
+00011110
+00111011
+11111111
+>
+00001111
+00001111
+00011101
+00011111
+00111111
+00111110
+11111011
+11111111
+NAME undefined
+
+TIL r
+11111111
+11100111
+11000011
+10000001
+10000001
+11000011
+11100111
+11111111
+>
+11111111
+11100111
+11000011
+10011001
+10011001
+11000011
+11100111
+11111111
+NAME undefined
+
+TIL s
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL t
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL u
+11101110
+11101110
+01110111
+01110111
+11101101
+11101101
+11111111
+11111111
+>
+11110111
+11110111
+11011101
+11011101
+01101111
+01101111
+11011011
+11011011
+NAME undefined
+
+TIL v
+00000000
+00000000
+00000000
+11100111
+11111111
+10111101
+11111111
+11010111
+>
+00000000
+00000000
+00000000
+11111111
+10111101
+11111111
+11011011
+11100111
+NAME undefined
+
+TIL w
+11111111
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+NAME undefined
+
+TIL x
+00000000
+01000010
+01000010
+01000010
+00000000
+01111110
+00111100
+00011000
+NAME undefined
+
+TIL y
+01010101
+01010101
+01010101
+01010101
+01010101
+01010101
+01010101
+01010101
+>
+10101010
+10101010
+10101010
+10101010
+10101010
+10101010
+10101010
+10101010
+NAME undefined
+
+TIL z
+11111111
+00000000
+11111111
+00000000
+11111111
+00000000
+11111111
+00000000
+>
+00000000
+11111111
+00000000
+11111111
+00000000
+11111111
+00000000
+11111111
+NAME undefined
+
+TIL 1a
+10000000
+11000000
+11100000
+11110000
+11111000
+11111100
+11111110
+11111111
+>
+00000000
+10000000
+11000000
+11100000
+11110000
+11111000
+11111100
+11111110
+NAME undefined
+
+TIL 1b
+00000001
+00000011
+00000111
+00001111
+00011111
+00111111
+01111111
+11111111
+>
+00000000
+00000001
+00000011
+00000111
+00001111
+00011111
+00111111
+01111111
+NAME undefined
+
+TIL 1c
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11000011
+10011001
+NAME undefined
+
+TIL 1d
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL 1e
+00000000
+10000001
+11000011
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME undefined
+
+TIL 1f
+00000000
+00000000
+00011000
+00111100
+11111111
+11111111
+00000000
+00000000
+NAME undefined
+
+TIL 1g
+10001000
+00001000
+01000100
+01000000
+00100010
+00100010
+00010001
+00000000
+>
+00000000
+01000100
+00100010
+00100010
+00000000
+00010001
+00000000
+10001000
+NAME undefined
+
+TIL 1h
+11111111
+01000010
+00000000
+00000000
+00000000
+00000010
+00000001
+11111111
+>
+11111111
+01000010
+00000000
+00000000
+00000100
+00001000
+00000000
+11111111
+NAME undefined
+
+TIL 1i
+11111111
+01000010
+00000000
+00000000
+00000000
+01000000
+10000000
+11111111
+>
+11111111
+01000010
+00000000
+00000000
+00100000
+00010000
+00000000
+11111111
+NAME undefined
+
+TIL 1j
+10001111
+10111111
+01111111
+01111111
+11111111
+11111101
+11111101
+11111101
+>
+01001111
+01111111
+01111111
+01111111
+11111111
+11111011
+11111011
+11111011
+NAME undefined
+
+TIL 1k
+10001000
+10001000
+01000100
+01000100
+00100010
+00111110
+01111111
+11111111
+>
+01000100
+01000100
+00100010
+00100010
+00010001
+00111101
+11111110
+11111111
+NAME undefined
+
+TIL 1l
+10001000
+11111000
+11111100
+11111100
+11111110
+10111110
+10111111
+10111111
+>
+11000100
+11111100
+11111110
+11111110
+11111111
+11011111
+11011111
+11011111
+NAME undefined
+
+TIL 1m
+11111111
+11111111
+11111111
+11111111
+11111110
+11111110
+11111000
+11111001
+>
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111000
+11111000
+NAME undefined
+
+TIL 1n
+11111111
+11111111
+01111111
+01111111
+00111111
+00111111
+00011111
+00001111
+>
+11111111
+11111111
+01111111
+01111111
+00111111
+00111111
+10011111
+10001111
+NAME undefined
+
+TIL 1o
+11111111
+11111111
+11111111
+11111111
+11110000
+11100000
+11000000
+10000000
+NAME undefined
+
+TIL 1p
+11111111
+11111111
+11111111
+11111111
+00001111
+00000111
+00000011
+00000001
+NAME undefined
+
+TIL 1q
+11111111
+11111111
+11111111
+11111111
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 1r
+00000000
+00000000
+00000000
+00000000
+01000000
+10100000
+01000000
+00000000
+>
+00000010
+00000101
+00000010
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 1s
+11111101
+11111010
+11111101
+11111111
+11111111
+11111111
+11111111
+11111111
+>
+11111111
+11111111
+11111111
+11111111
+11111111
+10111111
+01011111
+10111111
+NAME undefined
+
+TIL 1t
+10000000
+01111111
+00001111
+00000011
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 1u
+00000000
+00000000
+00000000
+00000000
+00000000
+01100110
+10011001
+10000001
+>
+10000001
+01000010
+00100100
+00011000
+00000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 1v
+10000001
+01000010
+00100100
+00011000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+01100110
+10011001
+10000001
+NAME undefined
+
+TIL 1w
+00000010
+00000101
+00000010
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+01000000
+10100000
+01000000
+NAME undefined
+
+TIL 1x
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+NAME undefined
+
+TIL 1y
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+NAME undefined
+
+TIL 1z
+00000000
+00000000
+00000000
+00000000
+00011110
+00111111
+01111111
+11111111
+NAME undefined
+
+TIL 2a
+11111110
+11110100
+11001000
+11000000
+10000000
+00000000
+00000000
+00000000
+NAME undefined
+
+TIL 2b
+00000000
+01000010
+01000010
+01000010
+00000000
+00000000
+00111100
+00000000
+NAME undefined
+
+TIL 2c
+00000000
+01000010
+01000010
+01000010
+00000000
+00111100
+00000000
+00000000
+>
+00000000
+00000000
+01000010
+01000010
+01000010
+00000000
+00011000
+00000000
+NAME undefined
+
+TIL 2d
+11111111
+11111111
+11111111
+11111111
+00011000
+00000000
+00011000
+00000000
+>
+11111111
+11111111
+11111111
+11111111
+00000000
+00011000
+00000000
+00011000
+NAME undefined
+
+TIL 2e
+00000000
+00000000
+01000010
+01000010
+01000010
+00000000
+00011000
+00000000
+>
+00000000
+01000010
+01000010
+01000010
+00000000
+00111100
+00000000
+00000000
+NAME undefined
+
+TIL 2f
+11111111
+11111111
+11111111
+11111111
+00000000
+00011000
+00000000
+00011000
+>
+11111111
+11111111
+11111111
+11111111
+00011000
+00000000
+00011000
+00000000
+NAME undefined
+
+TIL 2g
+10000001
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+11111111
+NAME undefined
+
+TIL 2h
+10000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+11111111
+NAME undefined
+
+TIL 2i
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+NAME undefined
+
+TIL 2j
+11111111
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000001
+NAME undefined
+
+TIL 2k
+11111111
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+10000001
+NAME undefined
+
+TIL 2l
+11111111
+10111101
+10111101
+11111111
+10000001
+11000011
+11100111
+11111111
+>
+11111111
+10111101
+10111101
+11111111
+00000000
+10000001
+11000011
+11100111
+NAME undefined
+
+TIL 2m
+00000000
+00000000
+11110111
+01010100
+01011110
+01010100
+01010111
+00000000
+NAME undefined
+
+TIL 2n
+00000000
+00000000
+10101110
+10101010
+11101110
+10101010
+10101010
+00000000
+NAME undefined
+
+TIL 2o
+00000000
+00000000
+10001000
+10001000
+10001000
+10001000
+11101110
+00000000
+NAME undefined
+
+TIL 2p
+00000000
+00000000
+11101110
+10101000
+10101100
+10101000
+11101000
+00000000
+NAME undefined
+
+TIL 2q
+00000000
+00000000
+10101110
+11101010
+10101010
+10101010
+10101110
+00000000
+NAME undefined
+
+TIL 2r
+00000000
+00000000
+11101100
+10101010
+10101010
+10101010
+11101100
+00000000
+NAME undefined
+
+TIL 2s
+00000101
+00000101
+11100110
+10000111
+11100101
+00100110
+11100111
+00000101
+NAME undefined
+
+TIL 2t
+00000000
+00000000
+11101110
+10001010
+10001010
+10101100
+11101010
+00000000
+NAME undefined
+
+TIL 2u
+00000000
+00000000
+11101001
+10101101
+10101011
+11101001
+10101001
+00000000
+NAME undefined
+
+TIL 2v
+00001101
+00001111
+11001101
+10101010
+10101110
+10101011
+11001101
+00001111
+NAME undefined
+
+SPR A
+00000000
+00011000
+00011000
+00111100
+01111110
+10111101
+00100100
+01100110
+>
+00000000
+00011000
+00011000
+00111100
+01111110
+01111110
+00100100
+00100100
+POS 5 6,7
+
+SPR a
+00000000
+00000000
+00001010
+10001110
+01001110
+01111100
+00111100
+00100100
+>
+00000000
+00000000
+00000000
+00001010
+11001110
+01111110
+01111100
+00100100
+DLG SPR_0
+POS 1 0,8
+
+SPR b
+00011000
+00011000
+00111100
+01011010
+01011010
+00111100
+01111110
+11111111
+>
+01011000
+01011000
+00111100
+00011010
+00011010
+00111100
+01111110
+11111111
+DLG SPR_1
+POS 5 8,7
+
+SPR c
+00000000
+01000100
+01000100
+00000000
+01111110
+01111110
+00111100
+00000000
+>
+00000000
+00100010
+00100010
+00000000
+01111110
+01111110
+00111100
+00000000
+DLG SPR_2
+POS 5 3,10
+
+SPR d
+00100100
+00100100
+00100100
+01000000
+00000001
+00111100
+01000010
+00000000
+>
+00100100
+00100100
+00100100
+00000010
+10000000
+00111100
+01000010
+00000000
+DLG SPR_3
+POS 5 12,5
+
+SPR e
+00000000
+01100110
+01100110
+00000000
+00111100
+01111110
+01111110
+00111100
+>
+00000000
+00000000
+01000010
+01000010
+00000000
+00111100
+00111100
+00000000
+DLG SPR_4
+POS 5 10,12
+
+SPR f
+00000000
+00000000
+01000010
+01000010
+00000000
+00000000
+00111100
+00000000
+>
+00000000
+01000010
+01000010
+00000000
+00000000
+00111100
+00000000
+00000000
+DLG SPR_5
+POS 5 5,3
+
+SPR g
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+10000000
+
+SPR h
+00000000
+00000000
+00010100
+10010100
+01011100
+01111100
+00111100
+00100100
+>
+00000000
+00000000
+10001010
+10001110
+01001110
+00111110
+00111100
+00100100
+DLG SPR_c
+
+SPR i
+01000010
+00111100
+01011010
+01111110
+00100100
+01000010
+10000001
+00000000
+>
+00000000
+01111110
+01011010
+01111110
+00100100
+01000010
+00100100
+00000000
+
+SPR j
+00000000
+00000000
+00001010
+10001110
+01001110
+01111100
+00111100
+00100100
+>
+00000000
+00000000
+00000000
+00001010
+11001110
+01111110
+01111100
+00100100
+DLG SPR_8
+POS 4 0,8
+
+SPR k
+00011000
+01111110
+11111111
+01011010
+01111110
+01010100
+10010010
+10001001
+>
+00011000
+01111110
+11111111
+01011010
+01111110
+01010100
+10010010
+01010100
+DLG SPR_9
+POS c 0,8
+
+SPR l
+00000110
+00000101
+00111111
+11111110
+01111110
+00111100
+00100100
+00000000
+>
+00000000
+00000110
+00000101
+00111111
+11111110
+01111110
+00111100
+00100100
+DLG SPR_a
+POS 8 0,8
+
+SPR n
+00100100
+01011010
+10000001
+10000001
+10000001
+01000010
+00100100
+00011000
+>
+00000000
+00100100
+01011010
+01000010
+01000010
+00100100
+00011000
+00000000
+POS 0 1,13
+
+SPR o
+00001100
+00001011
+00001110
+00000111
+11100110
+10110110
+11011110
+01111100
+>
+00000000
+00001100
+00001011
+10001111
+11100110
+11010110
+11001110
+01111100
+DLG SPR_b
+POS b 0,8
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME Whiskey
+DLG ITM_0
+
+ITM 2
+00000000
+00011000
+00111100
+00011000
+00011000
+01011010
+11100111
+11111111
+>
+00000000
+00000000
+00011000
+00011000
+00011000
+01011010
+11111111
+11111111
+DLG ITM_2
+
+ITM 3
+00000000
+00011000
+00011000
+00011000
+00011000
+00011000
+00000000
+00011000
+>
+00011000
+00011000
+00011000
+00011000
+00011000
+00000000
+00011000
+00000000
+DLG ITM_3
+
+ITM 4
+00000000
+00000000
+10011001
+01011010
+00100100
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+10011001
+01011010
+00100100
+00000000
+00000000
+DLG ITM_4
+
+ITM 5
+00000000
+01000010
+01000010
+01000010
+00000000
+00000000
+00111100
+00000000
+>
+01000010
+01000010
+01000010
+00000000
+00000000
+00111100
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+DLG ITM_5
+
+ITM 6
+00000000
+00000100
+00100100
+00000000
+00000000
+00111100
+01000010
+00000000
+>
+00100000
+00100100
+00000000
+00000000
+00111100
+01000010
+00000000
+00000000
+DLG ITM_6
+
+ITM 7
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea2
+DLG ITM_7
+
+ITM 8
+00000000
+00000000
+11111100
+10100100
+11100100
+00100100
+00111100
+00000000
+NAME prunejuice
+DLG ITM_8
+
+ITM 9
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME Water
+DLG ITM_9
+
+ITM a
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+10000001
+NAME cloud1hello
+DLG ITM_a
+
+ITM b
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+10000000
+NAME thevoid
+
+ITM c
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00011000
+
+DLG ITM_0
+"""
+{shuffle
+  - {shk}Whiskey??? :O{shk}
+  - {shk}Pincer Vodka??? :O{shk}
+  - {shk}Sunset Rum??? :O{shk}
+  - {shk}Absinthe??? :O{shk}
+  - {shk}Balkan??? :O{shk}
+  - {shk}Everclear???? :O{shk}
+}
+"""
+
+DLG null
+"""
+{shuffle
+  - I'm taking all your stuff!
+  - I'm taking all your money!
+  - You can't have anything!
+  - You get nothing!
+  - Never speak again!
+  - Never come here again!
+  - You are not welcome!
+  - You're awful!
+}
+"""
+
+DLG SPR_1
+"""
+{clr3}Welcome, welcome, welcome, to the Grand Hall of Moods! I am The Curator!
+Hello! :)
+Our service ensures that if your current feelings are overwhelming, we can bring them back down to normal levels by exposing you to the opposite mood!{clr3}{
+  - {item "tea2"} >= 4 ?
+    
+    {rbw}A visit to the Halls of Gladness always lifts my spirits! I hope it helped =D{rbw}
+
+  - else ?
+
+}{
+  - {item "Whiskey"} == 3 ?
+    
+    {clr2}Ah! You wanted to feel outraged.
+    How did that work out for you?{clr2}
+
+  - else ?
+
+}{
+  - {item "prunejuice"} >= 2 ?
+    
+    {clr3}Some people like feeling down. I hope you're not one of them!{clr3}
+
+  - else ?
+
+}{
+  - {item "Water"} == 3 ?
+    
+    Meh.
+  - else ?
+
+}
+"""
+
+DLG SPR_2
+"""
+{rbw}The Halls of Gladness:
+Is the world getting you down? Trouble sleeping? Worries run amok?
+Enter to your left to lift your spirits!{rbw}
+"""
+
+DLG SPR_3
+"""
+{clr2}The Halls of Sadness:
+Are you too happy these days?
+Enter to the right to remind  yourself that sad is happy for deep people!{clr2}
+"""
+
+DLG SPR_4
+"""
+{clr3}{shk}Welcome to the Hall of shock and Outrage!
+Is the world just a bit dull? Enter below to feed your incredulity!{shk}{clr3}
+"""
+
+DLG SPR_5
+"""
+{clr2}{wvy}Welcome to the Hall of Apathy!
+Is the world just a bit too exciting? Enter above to curb your enthusiasm.{wvy}{clr2}
+"""
+
+DLG ITM_1
+qa
+
+DLG ITM_2
+"""
+{clr2}{shk}:O{shk}{clr2}
+"""
+
+DLG SPR_0
+"""
+{shuffle
+  - CAT: Oh dear God, did you hear what the President just said?
+
+  - CAT: You're not very smart.
+
+  - CAT: Cats are superior to humans.
+
+  - CAT: I have 1337 skillz!
+
+  - CAT: Men have small brains!
+
+  - CAT: I'm the best at Rocket League!
+
+  - CAT: The bodies are well hidden...
+
+  - CAT: FEED ME OR DIE!
+
+  - CAT: ...
+
+  - CAT: GO AWAY!
+
+  - CAT: Bow before your feline overlords!
+
+  - CAT: Fish are stupid!
+
+  - CAT: Inequality rules!
+
+  - CAT: Your feelings don't matter!
+
+  - CAT: Take a hike!
+
+  - CAT: You're OUR pets now!
+
+  - CAT: Cats rule the world!
+
+  - CAT: You are our slaves!
+
+}{shuffle
+  - {clr2}YOU: {shk}REALLY???
+    {clr2}{shk}
+  - {clr2}YOU:{shk} I'm OUTRAGED!{clr2}{shk}
+  - {clr2}YOU: {shk}SHOCKING!{clr2}{shk}
+  - {clr2}YOU: {shk}I can't quite believe it!{clr2}{shk}
+  - {clr2}YOU: {shk}There's EVIDENCE!{clr2}{shk}
+  - {clr2}YOU: {shk}I KNOW!{clr2}{shk}
+  - {clr2}YOU: {shk}Disgusting!{clr2}{shk}
+  - {clr2}YOU: {shk}Oh boy!{clr2}{shk}
+  - {clr2}YOU:{shk} ...{clr2}{shk}
+  - {clr2}YOU: {shk}Crikey!{clr2}{shk}
+  - {clr2}YOU: {shk}NO WAY!{clr2}{shk}
+  - {clr2}YOU: {shk}Ugh...{clr2}{shk}
+  - {clr2}YOU:{shk} IMPOSSIBLE!{clr2}{shk}
+  - {clr2}YOU: {shk}Jeebus!{clr2}{shk}
+  - {clr2}YOU:{shk} /o\{clr2}{shk}
+  - {clr2}YOU:{shk} How? When?{clr2}{shk}
+  - {clr2}YOU:{shk} Inconceivable!{clr2}{shk}
+  - {clr2}YOU:{shk} Fur enough...{clr2}{shk}
+  - {clr2}YOU:{shk} NEVER!{clr2}{shk}
+}
+"""
+
+DLG ITM_3
+{clr2}{shk}:O{shk}{clr2}
+
+DLG SPR_6
+{clr2}hope that helps!{clr2}
+
+DLG SPR_7
+{clr2}hope that helps!{clr2}
+
+DLG SPR_8
+"""
+{shuffle
+  - CAT: Did you hear what the Prime Minister just said?
+
+  - CAT: You're not very smart.
+
+  - CAT: Cats are superior to humans.
+
+  - CAT: I will bleed you dry!
+
+  - CAT: Humans have small brains!
+
+  - CAT: I'm the best. You suck!
+
+  - CAT: The bodies are well hidden...
+
+  - CAT: I hate you.
+
+  - CAT: ...
+
+  - CAT: GO AWAY!
+
+  - CAT: Bow before your feline overlords!
+
+  - CAT: Fish are stupid! And so are you!
+
+  - CAT: Inequality rules!
+
+  - CAT: LIES!
+
+  - CAT: WAKE UP!
+
+}{shuffle
+  - {clr2}YOU: {shk}REALLY???
+    {clr2}{shk}
+  - {clr2}YOU:{shk} I'm SHOCKED!{clr2}{shk}
+  - {clr2}YOU: {shk}Outrageous!{clr2}{shk}
+  - {clr2}YOU: {shk}I can't believe it!{clr2}{shk}
+  - {clr2}YOU: {shk}There's no evidence!{clr2}{shk}
+  - {clr2}YOU: {shk}I KNOW!{clr2}{shk}
+  - {clr2}YOU: {shk}Disgusting!{clr2}{shk}
+  - {clr2}YOU: {shk}Oh boy!{clr2}{shk}
+  - {clr2}YOU:{shk} ...{clr2}{shk}
+  - {clr2}YOU: {shk}Crikey!{clr2}{shk}
+  - {clr2}YOU: {shk}NO WAY!{clr2}{shk}
+  - {clr2}YOU: {shk}Ugh...{clr2}{shk}
+  - {clr2}YOU:{shk} IMPOSSIBLE!{clr2}{shk}
+  - {clr2}YOU: {shk}Jeebus!{clr2}{shk}
+  - {clr2}YOU:{shk} /o\{clr2}{shk}
+  - {clr2}YOU:{shk} That doesn't sound right...{clr2}{shk}
+  - {clr2}YOU:{shk} As if!{clr2}{shk}
+  - {clr2}YOU:{shk} Blimey!{clr2}{shk}
+  - {clr2}YOU:{shk} Oh no.{clr2}{shk}
+  - {clr2}YOU:{shk} Oh dear.{clr2}{shk}
+  - {clr2}YOU:{shk} Oh.{clr2}{shk}
+  - {clr2}YOU:{shk}Jeepers!{clr2}{shk}
+}
+"""
+
+DLG SPR_9
+"""
+{shuffle
+  - Squid: Why would you care?
+
+  - Squid: I've seen better.
+
+  - Squid: Humans have no free will.
+
+  - Squid: Empathy is overrated.
+
+  - Squid: I don't care.
+
+  - Squid: Meh.
+
+  - Squid: Whatever.
+
+  - Squid: *yawn*
+
+  - Squid: ...
+
+  - Squid: GO AWAY!
+
+  - Squid: Boring!
+
+  - Squid: Not interested.
+
+  - Squid: Go away.
+
+  - Squid: Stop being so needy.
+
+  - Squid: *flops about*
+
+  - Squid: Is that it?
+
+  - Squid: Is that all you've got?
+
+  - Squid: Life, eh?
+
+  - Squid: Nothing ever changes...
+
+}{cycle
+  - YOU: Really???
+
+  - YOU: Oh?!
+  - YOU: Oh no.
+  - YOU: Are you sure?
+  - YOU: Hmmm...
+  - YOU: Oh.
+  - YOU: Why?!
+  - YOU: Oh boy!
+  - YOU: ...
+  - YOU: Cripes!
+  - YOU: I see.
+  - YOU: Ugh...
+  - YOU: hmmm...
+  - YOU: Jeebus!
+  - YOU: :|
+}
+"""
+
+DLG ITM_4
+{rbw}{wvy}=D{wvy}{rbw}
+
+DLG ITM_5
+:|
+
+DLG ITM_6
+"""
+{wvy}:({wvy}
+"""
+
+DLG ITM_7
+{rbw}{wvy}#tea \o/{wvy}{rbw}
+
+DLG ITM_8
+"""
+{shuffle
+  - Prune Juice? :(
+  - Cough medicine?:(
+  - Stale tea? :(
+  - Root Beer? :(
+  - House Wine? :(
+  - Saki? :(
+  - Pepsi Ginger? :(
+}
+"""
+
+DLG ITM_9
+"""
+{shuffle
+  - Water :|
+  - Emtpy :|
+  - Who cares? :|
+  - Drink :|
+  - Coffee :|
+}
+"""
+
+DLG ITM_a
+"""
+{sequence
+  - {rbw}{wvy}Don't worry! Be happy! :D{wvy}{rbw}
+  - {rbw}{wvy}Happy Dance! :D{wvy}{rbw}
+  - {rbw}{wvy}Happy as a cloud! =D{wvy}{rbw}
+  - {rbw}{wvy}Be well! Be safe! 
+    Behave! :D{wvy}{rbw}
+  - {rbw}{wvy}*sheepyhugs*{wvy}{rbw}
+  - {rbw}{wvy}#tea makes *everything* better! :D{wvy}{rbw}
+  - {rbw}{wvy}You're AWESOME! :D{wvy}{rbw}
+  - {rbw}{wvy}You're the best!{wvy}{rbw}
+  - {rbw}{wvy}Never give up! :D{wvy}{rbw}
+  - {rbw}{wvy}You are loved! :){wvy}{rbw}
+  - {rbw}{wvy}*tickles you*{wvy}{rbw}
+  - {rbw}{wvy}Everything will be all right :D{wvy}{rbw}
+  - {rbw}{wvy}You are beautiful!{wvy}{rbw}
+  - {rbw}{wvy}You are never alone!{wvy}{rbw}
+  - {rbw}{wvy}Love wins! \o/{wvy}{rbw}
+  - {rbw}{wvy}You're ACE!{wvy}{rbw}
+  - {rbw}{wvy}I love you!{wvy}{rbw}
+  - {rbw}{wvy}You can do this!{wvy}{rbw}
+  - {rbw}{wvy}I believe in you!{wvy}{rbw}
+}
+"""
+
+DLG undefined
+"""
+
+"""
+
+DLG SPR_a
+"""
+{shuffle
+  - Sheepy: {rbw}{wvy}Don't worry! Be happy! :D{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Happy Dance! :D{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Happy as a cloud! =D{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Be well! Be safe! 
+    Behave! :D{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}*sheepyhugs*{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}#tea makes *everything* better! :D{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}You're AWESOME! :D{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}You're the best!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Never give up! :D{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}You are loved! :){wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}*tickles*{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Everything will be alright :D{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}You are beautiful!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}You are never alone!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Love wins! \o/{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}You're ACE!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}I love you!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}You can do this!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}I believe in you!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Makes you a fresh #tea :){wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Cabbidges (sic) are lovely!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Don't listen to others!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Trust yourself!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}You have value! =D{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}No need to compare yourself to others!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}You are unique!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Another #tea perhaps? :){wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Think positive!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}You're so smart!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}You're the greatest!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}So cool!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Oh Lordy, there are tapes!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Yum!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}More #tea maybe?{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Sometimes, things just 'are'.{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Don't worry about others!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Be kind. Always.{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Don't worry about what other people think! :){wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Hugs? :D{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Everything happens for a reason!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}Someone misses you!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}*sips #tea* Hello! :D{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}How lovely to meet you!{wvy}{rbw}
+
+  - Sheepy: {rbw}{wvy}I'm so glad we met!{wvy}{rbw}
+
+}{cycle
+  - You: That's lovely!
+  - You: Thank you!
+  - You: Yay!
+  - You: \o/
+  - You: Thanks!
+  - You: How kind!
+  - You: w00t!
+  - You: Hurrah!
+  - You: *blushes*
+  - You: Certainly!
+  - You: Hurrah and Huzzah!
+  - You: Splendid!
+  - You: Danke!
+  - You: Phew!
+  - You: I believe you!
+  - You: What a relief!
+  - You: That's so reassuring!
+  - You: Thanks, Sheepy!
+  - You: *cuddles*
+}
+"""
+
+DLG SPR_b
+"""
+{shuffle
+  - Swan: You suck.
+
+  - Swan: Love is for the birds.
+
+  - Swan: You are alone.
+
+  - Swan: Why am I in space?
+
+  - Swan: This is pointless!
+
+  - Swan: No-one likes you.
+
+  - Swan: Cheer up!
+
+  - Swan: You are nothing.
+
+  - Swan: Hello again, Rob.
+
+  - Swan: Nothing matters.
+
+  - Swan: You smell.
+
+  - Swan: Everyone else is better than you.
+
+  - Swan: You will never find love.
+
+  - Swan: You are ugly.
+
+  - Swan: Swans are the best!
+
+  - Swan: Your life is a lie!
+
+  - Swan: You can't trust anyone!
+
+  - Swan: Others will betray you!
+
+  - Swan: I hate pork pies!
+
+  - Swan: Coffee is better than tea!
+
+  - Swan: *flaps*
+
+  - Swan: Poopy head!
+
+  - Swan: It's too late!
+
+  - Swan: Sucks to be you!
+
+  - Swan: Are you going to cry?
+
+  - Swan: Are you upset yet?
+
+  - Swan: People will let you down.
+
+  - Swan: Trust isn't real.
+
+  - Swan: I wish I never met you!
+
+}{cycle
+  - {clr3}You: I suppose...{clr3}
+  - {clr3}You: Maybe?{clr3}
+  - {clr3}You: Stop talking, Space Swan!{clr3}
+  - {clr3}You: Stop!{clr3}
+  - {clr3}You: Silly Space Swan!{clr3}
+  - {clr3}You: Oh no :({clr3}
+  - {clr3}You: Please stop :({clr3}
+  - {clr3}You: That makes me sad :({clr3}
+  - {clr3}You: Thanks?{clr3}
+  - {clr3}You: Shut your beak!{clr3}
+  - {clr3}You: Because...{clr3}
+  - {clr3}You: I feel bad :({clr3}
+  - {clr3}You: No :({clr3}
+  - {clr3}You: Not true!{clr3}
+  - {clr3}You: That's not nice :({clr3}
+  - {clr3}You: Don't say that...{clr3}
+  - {clr3}You: I've had enough.{clr3}
+  - {clr3}You: It's all lies!{clr3}
+  - {clr3}You: No more!{clr3}
+  - {clr3}You: I don't like you.{clr3}
+  - {clr3}You: I feel bad.{clr3}
+  - {clr3}You: How rude!{clr3}
+  - {clr3}You: Please don't eat me!{clr3}
+  - {clr3}You: I can't deal with this!{clr3}
+  - {clr3}You: That's not fair!{clr3}
+  - {clr3}You: I don't think so!{clr3}
+  - {clr3}You: Please stop with all this negativity! I can't take it anymore you rude, nasty, overbearing swan!!{clr3}
+}
+"""
+
+DLG SPR_c
+"""
+{shuffle
+  - I'm taking all your stuff!
+  - I'm taking all your money!
+  - You can't have anything!
+  - You get nothing!
+  - Never speak again!
+  - Never come here again!
+  - You are not welcome!
+  - You're awful!
+  - Your life is a lie!
+  - Terrible!
+  - Awful!
+}
+"""
+
+VAR a
+42
