@@ -50,3 +50,5 @@ phoebe flowerditch,X,X
 Adam Dixon,X,X
 Pierrec,X,X
 AptGhost,X,X
+David Mowatt,X,X
+Quantum Sheep,X,X
