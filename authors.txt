@@ -57,3 +57,4 @@ Giada Zavarise,X,X
 mildmojo,X,X
 onion,X,X
 IndieGage,X,X
+Scared Square Games,X,X
