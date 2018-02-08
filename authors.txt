@@ -59,3 +59,4 @@ onion,X,X
 IndieGage,X,X
 Scared Square Games,X,X
 Hangedman,X,X
+manofdoom,X,X
