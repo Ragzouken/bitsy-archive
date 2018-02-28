@@ -1,0 +1,2242 @@
+
+
+
+# BITSY VERSION 4.5
+
+! ROOM_FORMAT 1
+
+PAL 0
+63,190,161
+26,32,51
+189,254,238
+
+ROOM 0
+b,c,r,c,c,c,r,c,c,c,c,c,c,c,r,d
+f,0,q,0,0,0,q,0,0,0,0,0,0,0,q,e
+f,0,q,0,0,0,0,0,0,0,0,0,0,0,q,e
+f,0,q,0,0,0,0,0,0,0,0,0,0,0,q,e
+f,0,0,0,0,0,0,0,0,0,0,0,0,0,q,e
+f,0,0,0,0,0,0,0,0,0,0,0,0,0,q,e
+f,0,0,0,0,0,0,0,0,0,0,0,0,0,q,e
+f,0,0,0,0,0,0,0,0,0,0,0,0,0,q,e
+f,0,0,z,0,0,0,0,0,0,0,0,0,0,0,e
+f,0,0,y,0,0,0,0,0,0,0,0,0,0,0,e
+f,0,0,y,0,0,0,0,0,0,0,0,0,0,0,e
+f,0,0,y,0,0,0,0,0,z,0,0,0,0,0,e
+1c,10,11,12,13,0,1e,1f,17,12,18,0,h,g,0,e
+f,u,t,x,14,v,1d,0,16,x,19,15,j,i,w,1b
+o,m,m,m,m,m,m,m,m,m,m,m,k,l,m,n
+s,p,1g,p,p,p,p,1h,p,1g,p,p,p,p,p,p
+ITM 0 10,11
+ITM 0 11,10
+ITM 0 12,11
+ITM 0 11,12
+ITM 1 12,10
+ITM 1 13,9
+ITM 1 13,11
+ITM 1 14,10
+ITM 1 10,9
+ITM 1 9,8
+ITM 1 11,8
+ITM 1 10,7
+ITM 1 11,4
+ITM 1 10,3
+ITM 1 11,2
+ITM 1 12,3
+ITM 1 8,1
+ITM 1 9,2
+ITM 1 10,1
+ITM 1 3,2
+ITM 1 4,1
+ITM 1 4,3
+ITM 1 5,2
+ITM 1 6,5
+ITM 1 5,6
+ITM 1 6,7
+ITM 1 7,6
+ITM 1 1,4
+ITM 1 1,6
+ITM 1 2,5
+ITM 1 2,9
+ITM 1 1,10
+ITM 1 2,11
+ITM 1 4,11
+ITM 1 5,11
+ITM 1 6,11
+ITM 1 7,11
+ITM 1 8,11
+PAL 0
+
+TIL 10
+00000000
+10100000
+00001000
+00000010
+00000000
+00000001
+00000000
+00000000
+
+TIL 11
+00000000
+00000000
+00000000
+00000000
+00000100
+00010001
+01000000
+00000000
+
+TIL 12
+00010010
+00010010
+00100100
+00100100
+00010010
+00010010
+01100101
+00100100
+>
+00100100
+00100100
+00010010
+00010010
+00100100
+00100100
+01010011
+00010010
+
+TIL 13
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+01000000
+
+TIL 14
+00010000
+00000100
+00000001
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL 15
+00000000
+00000000
+00000000
+00000000
+01000000
+00010101
+00000000
+00000000
+
+TIL 16
+00000000
+00000010
+00001000
+00000000
+00010000
+01000000
+00000000
+00000000
+
+TIL 17
+00000000
+00000000
+01000000
+00000000
+00100000
+00001000
+00000000
+00000101
+
+TIL 18
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+01010000
+
+TIL 19
+00000100
+00000000
+00000010
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL a
+11111111
+10000001
+10000001
+10011001
+10011001
+10000001
+10000001
+11111111
+
+TIL b
+11111111
+11010101
+10111111
+11100000
+10101010
+11100000
+10100000
+11100000
+>
+11111111
+11010101
+10111111
+11100000
+10100000
+11101010
+10100000
+11100000
+WAL true
+
+TIL c
+11111111
+01010101
+11111111
+00000000
+00001010
+10100000
+00000000
+00000000
+>
+11111111
+01010101
+11111111
+00000000
+10100000
+00001010
+00000000
+00000000
+WAL true
+
+TIL d
+11111111
+01010101
+11111111
+00000101
+10100111
+00001101
+00000111
+00000101
+>
+11111111
+01010101
+11111111
+00000101
+00001111
+10100101
+00000111
+00000101
+WAL true
+
+TIL e
+00000111
+00000101
+00000111
+00000101
+00000111
+00000101
+00000111
+00000101
+WAL true
+
+TIL f
+10100000
+11100000
+10100000
+11100000
+10100000
+11100000
+10100000
+11100000
+WAL true
+
+TIL g
+00011000
+00111100
+00111100
+00111100
+00111110
+01111111
+11111111
+11111111
+WAL true
+
+TIL h
+00000000
+00000000
+00011100
+00011100
+00011100
+00111110
+00111111
+01111111
+WAL true
+
+TIL i
+11111111
+11111111
+11111111
+11111111
+11111111
+01111110
+01111110
+01111110
+WAL true
+
+TIL j
+01111111
+01111111
+01111111
+01111111
+00111111
+00111111
+00111111
+00111111
+WAL true
+
+TIL k
+11111111
+01011111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL l
+11111111
+01111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL m
+11111111
+01010101
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+WAL true
+
+TIL n
+11111111
+01010101
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL o
+10111111
+11010101
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL p
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL q
+00000000
+00000000
+00000000
+00010000
+00000000
+00000000
+00000000
+00010000
+>
+00000000
+00010000
+00000000
+00000000
+00000000
+00010000
+00000000
+00000000
+
+TIL r
+11111111
+01010101
+11111111
+00000000
+00001010
+10100000
+00000000
+00000000
+>
+11111111
+01010101
+11111111
+00000000
+10100000
+00001010
+00000000
+00010000
+WAL true
+
+TIL s
+10111111
+11111111
+11101111
+11111111
+11011111
+11111111
+11111111
+11111111
+
+TIL t
+00000000
+00000000
+00000000
+00000000
+00001000
+00010100
+00101100
+00111100
+
+TIL u
+00010000
+00010100
+01010100
+01010110
+00110100
+00011000
+00010000
+00111000
+
+TIL v
+00000000
+00000000
+01000100
+00010001
+00000000
+00000000
+01100010
+01100110
+
+TIL w
+00000101
+00010000
+01000000
+00000000
+00001100
+00010110
+00101011
+00110101
+
+TIL x
+00010010
+00010010
+00100100
+00100100
+00010010
+00010010
+00001100
+00111110
+>
+00100100
+00100100
+00010010
+00010010
+00100100
+00100100
+00010100
+00111110
+
+TIL y
+00010010
+00010010
+00100100
+00100100
+00010010
+00010010
+00100100
+00100100
+>
+00100100
+00100100
+00010010
+00010010
+00100100
+00100100
+00010010
+00010010
+
+TIL z
+00000000
+00000000
+00010000
+00010000
+00001000
+00001000
+00010100
+00010100
+>
+00000000
+00000000
+00001000
+00001000
+00010100
+00010100
+00100010
+00100010
+
+TIL 1a
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL 1b
+01000111
+00010101
+00000111
+00000101
+00000111
+00000101
+00000111
+00000101
+WAL true
+
+TIL 1c
+10100000
+11100010
+10101000
+11100000
+10100000
+11100000
+10100000
+11100000
+WAL true
+
+TIL 1d
+00000000
+00001000
+00000000
+00010000
+01000000
+00010101
+00000000
+00000000
+
+TIL 1e
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+00000000
+00000100
+
+TIL 1f
+00000000
+00000000
+00000001
+00010100
+01000000
+00000000
+00000000
+00000000
+
+TIL 1g
+11111111
+11111111
+11111111
+11111101
+11111111
+11110111
+11111101
+11111111
+>
+11111111
+11111111
+11111111
+11111111
+11101101
+11111111
+11111011
+11111111
+
+TIL 1h
+10101001
+11110101
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+SPR A
+00000000
+00000000
+00011000
+00100100
+00100100
+00011000
+00000000
+00000000
+>
+00000000
+00011000
+00100100
+01000010
+01000010
+00100100
+00011000
+00000000
+POS 0 11,11
+
+SPR a
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+
+SPR b
+00000000
+00001000
+00010000
+01111101
+11111111
+01111101
+00010000
+00001000
+>
+00000000
+00000000
+00011000
+01111101
+11111111
+01111101
+00011000
+00000000
+DLG SPR_0
+POS 0 4,2
+
+SPR c
+00000000
+00111100
+01000010
+01000010
+00111100
+00010100
+00100010
+00010100
+>
+00011000
+00100100
+00100100
+00100100
+00011000
+00100100
+00010100
+00100010
+DLG SPR_2
+POS 0 11,3
+
+SPR d
+00000000
+01011000
+01111100
+01011000
+00000000
+00010110
+00011111
+00010110
+>
+00000000
+10011000
+01111100
+10011000
+00000000
+00100110
+00011111
+00100110
+DLG SPR_3
+POS 0 1,5
+
+SPR e
+00000000
+00000000
+00000100
+11101110
+11111011
+00010000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+11010000
+11111011
+00101110
+00000100
+00000000
+DLG SPR_4
+POS 0 6,6
+
+SPR f
+00101000
+00011100
+10111110
+11111011
+11111111
+10111110
+00011110
+00101000
+>
+00011000
+00111100
+10111110
+11111011
+11111111
+10111110
+00111110
+00011000
+DLG SPR_1
+POS 0 10,8
+
+SPR g
+00000000
+00001000
+00011001
+11111111
+01111101
+00111000
+00000000
+00000000
+>
+00000000
+00000000
+00001000
+00011001
+11111111
+01111101
+00111000
+00000000
+DLG SPR_5
+POS 0 13,10
+
+SPR h
+00011000
+00111000
+00001100
+00011100
+00011100
+00001000
+00101000
+00010000
+>
+00110000
+01110000
+00011000
+00111000
+00111000
+00010000
+01010000
+00100000
+DLG SPR_6
+POS 0 2,10
+
+SPR i
+00000000
+00000000
+00010000
+01011100
+01111110
+01011100
+00010000
+00000000
+>
+00000000
+00000000
+00100000
+10111110
+11111111
+10111110
+00100000
+00000000
+DLG SPR_7
+POS 0 5,12
+
+SPR j
+00101000
+00111000
+00111000
+01111100
+10111010
+00111000
+00010000
+00100000
+>
+00010100
+00011100
+00011100
+00111110
+01011101
+00011100
+00001000
+00000100
+DLG SPR_8
+POS 0 9,1
+
+SPR k
+00000000
+00010000
+00010000
+10001010
+01100111
+00011111
+11111110
+00000000
+>
+00000000
+00000000
+00110000
+00001010
+01100111
+10011111
+11111110
+00000000
+DLG SPR_9
+POS 0 7,13
+
+ITM 0
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME fish
+DLG ITM_0
+
+ITM 1
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME shuffle
+DLG ITM_1
+
+DLG ITM_0
+"""
+{sequence
+  - {clr3}Hey, remember the time you took a date to the aquarium?
+    You'd been talking up your fish knowledge, but when you got in there, you had major performance anxiety. Your mind went blank.
+So you thought: "{clr3}TIME FOR 
+{wvy}SOME BULLSHIT FISH NAMES!{wvy}{clr3}"{clr3}
+  - 
+}
+"""
+
+DLG SPR_1
+"""
+{
+  - f < 10 ?
+    {sequence
+      - {f = f + 1}{shuffle
+          - {clr3}"I'm pretty sure that's {clr3}
+          - {clr3}"I think that's {clr3}
+          - {clr3}"That one's {clr3}
+          - {clr3}"Look! It's {clr3}
+          - {clr3}"That's a fine example of {clr3}
+          - {clr3}"That's {clr3}
+        }{shuffle
+          - {clr3}a {clr3}{shuffle
+              - GREATER
+              - LESSER
+            }-SPOTTED
+          - {clr3}an {clr3}{shuffle
+              - AMERICAN
+              - EUROPEAN
+              - BARBARIAN
+              - ATLANTIC
+              - JAPANESE
+            }
+          - {clr3}a {clr3}VINTAGE
+          - {clr3}an {clr3}ANNOYING
+          - {shuffle
+              - {clr3}a {clr3}BLITHERING
+              - {clr3}an {clr3}IDIOTIC
+            }
+          - {clr3}a {clr3}RANDOM
+          - {clr3}a {clr3}STANDARD
+          - {clr3}an {clr3}INFERIOR
+          - {clr3}a {clr3}FABULOUS
+          - {clr3}a {clr3}RETICULATED
+          - {clr3}a {clr3}VOLUPTUOUS
+          - {clr3}a {clr3}PIXELATED
+          - {clr3}a {clr3}DECAFFEINATED
+          - {clr3}an {clr3}IMAGINARY
+          - {clr3}a {clr3}TEDIOUS
+          - {clr3}a {clr3}REPUBLICAN
+          - {clr3}a {clr3}NEUROTIC
+          - {clr3}a {clr3}TRANSCENDANT
+          - {clr3}a {clr3}NAKED
+          - {clr3}a {clr3}SALTY
+          - {clr3}a {clr3}LUMINOUS
+          - {clr3}an {clr3}UBIQUITOUS
+        } {shuffle
+          - JELLY
+          - DOG
+          - TRIGGER
+          - QUEEN
+          - ROCK
+          - CAT
+          - KITTEN
+          - SAW
+          - JAGUAR 
+          - BONE
+          - WOLF
+          - ZEBRA
+          - NOODLE
+          - {shuffle
+              - BLACK
+              - BLUE
+              - BROWN
+              - GOLD
+              - YELLOW
+              - RED
+              - WHITE
+            }
+          - {shuffle
+              - SHARP
+              - BLUNT
+              - FLAT
+              - ROUND
+              - WOBBLE
+              - GLASS
+              - BARREL
+              - BRISTLE
+              - LONG
+              - BROAD
+            }{shuffle
+              - NOSE
+              - FIN
+              - BUTT
+              - LIMB
+              - TOOTH
+              - TAIL
+              - SCALE
+              - EYE
+            } 
+          - ARSE
+          - OAR
+          - GHOST
+          - ICE
+          - LUMP
+          - CAVE
+          - BULL
+          - BONER
+          - DEEP-{shuffle
+              - WATER 
+              - SEA 
+            }
+          - DWARF
+          - BLOB
+          - GLOW
+          - ELECTRIC
+          - ECCENTRIC 
+          - ANGEL
+          - SCISSOR
+          - PROW
+        }{shuffle
+          - FISH
+          - FISH
+          - SHARK
+          - {shuffle
+              - HERRING
+              - GRAYLING
+              - SALMON
+              - EEL
+              - BASS
+            }
+        }{clr3}".{clr3}
+      - 
+    }
+  - f == 10 ?
+    {f = f + 1}{clr3}And then she said "{clr3}I did mention I'm a marine biologist, right?{clr3}".{clr3}
+  - f == 11 ?
+    {wvy}{clr3}________________________________{wvy}
+    ...and that was {clr3}THE END{clr3} of that.{clr3}
+}
+"""
+
+DLG SPR_0
+"""
+{
+  - f < 10 ?
+    {sequence
+      - {f = f + 1}{shuffle
+          - {clr3}"I'm pretty sure that's {clr3}
+          - {clr3}"I think that's {clr3}
+          - {clr3}"That one's {clr3}
+          - {clr3}"Look! It's {clr3}
+          - {clr3}"That's a fine example of {clr3}
+          - {clr3}"That's {clr3}
+        }{shuffle
+          - {clr3}a {clr3}{shuffle
+              - GREATER
+              - LESSER
+            }-SPOTTED
+          - {clr3}an {clr3}{shuffle
+              - AMERICAN
+              - EUROPEAN
+              - BARBARIAN
+              - ATLANTIC
+              - JAPANESE
+            }
+          - {clr3}a {clr3}VINTAGE
+          - {clr3}an {clr3}ANNOYING
+          - {shuffle
+              - {clr3}a {clr3}BLITHERING
+              - {clr3}an {clr3}IDIOTIC
+            }
+          - {clr3}a {clr3}RANDOM
+          - {clr3}a {clr3}STANDARD
+          - {clr3}an {clr3}INFERIOR
+          - {clr3}a {clr3}FABULOUS
+          - {clr3}a {clr3}RETICULATED
+          - {clr3}a {clr3}VOLUPTUOUS
+          - {clr3}a {clr3}PIXELATED
+          - {clr3}a {clr3}DECAFFEINATED
+          - {clr3}an {clr3}IMAGINARY
+          - {clr3}a {clr3}TEDIOUS
+          - {clr3}a {clr3}REPUBLICAN
+          - {clr3}a {clr3}NEUROTIC
+          - {clr3}a {clr3}TRANSCENDANT
+          - {clr3}a {clr3}NAKED
+          - {clr3}a {clr3}SALTY
+          - {clr3}a {clr3}LUMINOUS
+          - {clr3}an {clr3}UBIQUITOUS
+        } {shuffle
+          - JELLY
+          - DOG
+          - TRIGGER
+          - QUEEN
+          - ROCK
+          - CAT
+          - KITTEN
+          - SAW
+          - JAGUAR 
+          - BONE
+          - WOLF
+          - ZEBRA
+          - NOODLE
+          - {shuffle
+              - BLACK
+              - BLUE
+              - BROWN
+              - GOLD
+              - YELLOW
+              - RED
+              - WHITE
+            }
+          - {shuffle
+              - SHARP
+              - BLUNT
+              - FLAT
+              - ROUND
+              - WOBBLE
+              - GLASS
+              - BARREL
+              - BRISTLE
+              - LONG
+              - BROAD
+            }{shuffle
+              - NOSE
+              - FIN
+              - BUTT
+              - LIMB
+              - TOOTH
+              - TAIL
+              - SCALE
+              - EYE
+            } 
+          - ARSE
+          - OAR
+          - GHOST
+          - ICE
+          - LUMP
+          - CAVE
+          - BULL
+          - BONER
+          - DEEP-{shuffle
+              - WATER 
+              - SEA 
+            }
+          - DWARF
+          - BLOB
+          - GLOW
+          - ELECTRIC
+          - ECCENTRIC 
+          - ANGEL
+          - SCISSOR
+          - PROW
+        }{shuffle
+          - FISH
+          - FISH
+          - SHARK
+          - {shuffle
+              - HERRING
+              - GRAYLING
+              - SALMON
+              - EEL
+              - BASS
+            }
+        }{clr3}".{clr3}
+      - 
+    }
+  - f == 10 ?
+    {f = f + 1}{clr3}And then she said "{clr3}I did mention I'm a marine biologist, right?{clr3}".{clr3}
+  - f == 11 ?
+    {wvy}{clr3}________________________________{wvy}
+    ...and that was {clr3}THE END{clr3} of that.{clr3}
+}
+"""
+
+DLG SPR_2
+"""
+{
+  - f < 10 ?
+    {sequence
+      - {f = f + 1}{shuffle
+          - {clr3}"I'm pretty sure that's {clr3}
+          - {clr3}"I think that's {clr3}
+          - {clr3}"That one's {clr3}
+          - {clr3}"Look! It's {clr3}
+          - {clr3}"That's a fine example of {clr3}
+          - {clr3}"That's {clr3}
+        }{shuffle
+          - {clr3}a {clr3}{shuffle
+              - GREATER
+              - LESSER
+            }-SPOTTED
+          - {clr3}an {clr3}{shuffle
+              - AMERICAN
+              - EUROPEAN
+              - BARBARIAN
+              - ATLANTIC
+              - JAPANESE
+            }
+          - {clr3}a {clr3}VINTAGE
+          - {clr3}an {clr3}ANNOYING
+          - {shuffle
+              - {clr3}a {clr3}BLITHERING
+              - {clr3}an {clr3}IDIOTIC
+            }
+          - {clr3}a {clr3}RANDOM
+          - {clr3}a {clr3}STANDARD
+          - {clr3}an {clr3}INFERIOR
+          - {clr3}a {clr3}FABULOUS
+          - {clr3}a {clr3}RETICULATED
+          - {clr3}a {clr3}VOLUPTUOUS
+          - {clr3}a {clr3}PIXELATED
+          - {clr3}a {clr3}DECAFFEINATED
+          - {clr3}an {clr3}IMAGINARY
+          - {clr3}a {clr3}TEDIOUS
+          - {clr3}a {clr3}REPUBLICAN
+          - {clr3}a {clr3}NEUROTIC
+          - {clr3}a {clr3}TRANSCENDANT
+          - {clr3}a {clr3}NAKED
+          - {clr3}a {clr3}SALTY
+          - {clr3}a {clr3}LUMINOUS
+          - {clr3}an {clr3}UBIQUITOUS
+        } {shuffle
+          - JELLY
+          - DOG
+          - TRIGGER
+          - QUEEN
+          - ROCK
+          - CAT
+          - KITTEN
+          - SAW
+          - JAGUAR 
+          - BONE
+          - WOLF
+          - ZEBRA
+          - NOODLE
+          - {shuffle
+              - BLACK
+              - BLUE
+              - BROWN
+              - GOLD
+              - YELLOW
+              - RED
+              - WHITE
+            }
+          - {shuffle
+              - SHARP
+              - BLUNT
+              - FLAT
+              - ROUND
+              - WOBBLE
+              - GLASS
+              - BARREL
+              - BRISTLE
+              - LONG
+              - BROAD
+            }{shuffle
+              - NOSE
+              - FIN
+              - BUTT
+              - LIMB
+              - TOOTH
+              - TAIL
+              - SCALE
+              - EYE
+            } 
+          - ARSE
+          - OAR
+          - GHOST
+          - ICE
+          - LUMP
+          - CAVE
+          - BULL
+          - BONER
+          - DEEP-{shuffle
+              - WATER 
+              - SEA 
+            }
+          - DWARF
+          - BLOB
+          - GLOW
+          - ELECTRIC
+          - ECCENTRIC 
+          - ANGEL
+          - SCISSOR
+          - PROW
+        }{shuffle
+          - FISH
+          - FISH
+          - SHARK
+          - {shuffle
+              - HERRING
+              - GRAYLING
+              - SALMON
+              - EEL
+              - BASS
+            }
+        }{clr3}".{clr3}
+      - 
+    }
+  - f == 10 ?
+    {f = f + 1}{clr3}And then she said "{clr3}I did mention I'm a marine biologist, right?{clr3}".{clr3}
+  - f == 11 ?
+    {wvy}{clr3}________________________________{wvy}
+    ...and that was {clr3}THE END{clr3} of that.{clr3}
+}
+"""
+
+DLG SPR_3
+"""
+{
+  - f < 10 ?
+    {sequence
+      - {f = f + 1}{shuffle
+          - {clr3}"I'm pretty sure that's {clr3}
+          - {clr3}"I think that's {clr3}
+          - {clr3}"That one's {clr3}
+          - {clr3}"Look! It's {clr3}
+          - {clr3}"That's a fine example of {clr3}
+          - {clr3}"That's {clr3}
+        }{shuffle
+          - {clr3}a {clr3}{shuffle
+              - GREATER
+              - LESSER
+            }-SPOTTED
+          - {clr3}an {clr3}{shuffle
+              - AMERICAN
+              - EUROPEAN
+              - BARBARIAN
+              - ATLANTIC
+              - JAPANESE
+            }
+          - {clr3}a {clr3}VINTAGE
+          - {clr3}an {clr3}ANNOYING
+          - {shuffle
+              - {clr3}a {clr3}BLITHERING
+              - {clr3}an {clr3}IDIOTIC
+            }
+          - {clr3}a {clr3}RANDOM
+          - {clr3}a {clr3}STANDARD
+          - {clr3}an {clr3}INFERIOR
+          - {clr3}a {clr3}FABULOUS
+          - {clr3}a {clr3}RETICULATED
+          - {clr3}a {clr3}VOLUPTUOUS
+          - {clr3}a {clr3}PIXELATED
+          - {clr3}a {clr3}DECAFFEINATED
+          - {clr3}an {clr3}IMAGINARY
+          - {clr3}a {clr3}TEDIOUS
+          - {clr3}a {clr3}REPUBLICAN
+          - {clr3}a {clr3}NEUROTIC
+          - {clr3}a {clr3}TRANSCENDANT
+          - {clr3}a {clr3}NAKED
+          - {clr3}a {clr3}SALTY
+          - {clr3}a {clr3}LUMINOUS
+          - {clr3}an {clr3}UBIQUITOUS
+        } {shuffle
+          - JELLY
+          - DOG
+          - TRIGGER
+          - QUEEN
+          - ROCK
+          - CAT
+          - KITTEN
+          - SAW
+          - JAGUAR 
+          - BONE
+          - WOLF
+          - ZEBRA
+          - NOODLE
+          - {shuffle
+              - BLACK
+              - BLUE
+              - BROWN
+              - GOLD
+              - YELLOW
+              - RED
+              - WHITE
+            }
+          - {shuffle
+              - SHARP
+              - BLUNT
+              - FLAT
+              - ROUND
+              - WOBBLE
+              - GLASS
+              - BARREL
+              - BRISTLE
+              - LONG
+              - BROAD
+            }{shuffle
+              - NOSE
+              - FIN
+              - BUTT
+              - LIMB
+              - TOOTH
+              - TAIL
+              - SCALE
+              - EYE
+            } 
+          - ARSE
+          - OAR
+          - GHOST
+          - ICE
+          - LUMP
+          - CAVE
+          - BULL
+          - BONER
+          - DEEP-{shuffle
+              - WATER 
+              - SEA 
+            }
+          - DWARF
+          - BLOB
+          - GLOW
+          - ELECTRIC
+          - ECCENTRIC 
+          - ANGEL
+          - SCISSOR
+          - PROW
+        }{shuffle
+          - FISH
+          - FISH
+          - SHARK
+          - {shuffle
+              - HERRING
+              - GRAYLING
+              - SALMON
+              - EEL
+              - BASS
+            }
+        }{clr3}".{clr3}
+      - 
+    }
+  - f == 10 ?
+    {f = f + 1}{clr3}And then she said "{clr3}I did mention I'm a marine biologist, right?{clr3}".{clr3}
+  - f == 11 ?
+    {wvy}{clr3}________________________________{wvy}
+    ...and that was {clr3}THE END{clr3} of that.{clr3}
+}
+"""
+
+DLG SPR_4
+"""
+{
+  - f < 10 ?
+    {sequence
+      - {f = f + 1}{shuffle
+          - {clr3}"I'm pretty sure that's {clr3}
+          - {clr3}"I think that's {clr3}
+          - {clr3}"That one's {clr3}
+          - {clr3}"Look! It's {clr3}
+          - {clr3}"That's a fine example of {clr3}
+          - {clr3}"That's {clr3}
+        }{shuffle
+          - {clr3}a {clr3}{shuffle
+              - GREATER
+              - LESSER
+            }-SPOTTED
+          - {clr3}an {clr3}{shuffle
+              - AMERICAN
+              - EUROPEAN
+              - BARBARIAN
+              - ATLANTIC
+              - JAPANESE
+            }
+          - {clr3}a {clr3}VINTAGE
+          - {clr3}an {clr3}ANNOYING
+          - {shuffle
+              - {clr3}a {clr3}BLITHERING
+              - {clr3}an {clr3}IDIOTIC
+            }
+          - {clr3}a {clr3}RANDOM
+          - {clr3}a {clr3}STANDARD
+          - {clr3}an {clr3}INFERIOR
+          - {clr3}a {clr3}FABULOUS
+          - {clr3}a {clr3}RETICULATED
+          - {clr3}a {clr3}VOLUPTUOUS
+          - {clr3}a {clr3}PIXELATED
+          - {clr3}a {clr3}DECAFFEINATED
+          - {clr3}an {clr3}IMAGINARY
+          - {clr3}a {clr3}TEDIOUS
+          - {clr3}a {clr3}REPUBLICAN
+          - {clr3}a {clr3}NEUROTIC
+          - {clr3}a {clr3}TRANSCENDANT
+          - {clr3}a {clr3}NAKED
+          - {clr3}a {clr3}SALTY
+          - {clr3}a {clr3}LUMINOUS
+          - {clr3}an {clr3}UBIQUITOUS
+        } {shuffle
+          - JELLY
+          - DOG
+          - TRIGGER
+          - QUEEN
+          - ROCK
+          - CAT
+          - KITTEN
+          - SAW
+          - JAGUAR 
+          - BONE
+          - WOLF
+          - ZEBRA
+          - NOODLE
+          - {shuffle
+              - BLACK
+              - BLUE
+              - BROWN
+              - GOLD
+              - YELLOW
+              - RED
+              - WHITE
+            }
+          - {shuffle
+              - SHARP
+              - BLUNT
+              - FLAT
+              - ROUND
+              - WOBBLE
+              - GLASS
+              - BARREL
+              - BRISTLE
+              - LONG
+              - BROAD
+            }{shuffle
+              - NOSE
+              - FIN
+              - BUTT
+              - LIMB
+              - TOOTH
+              - TAIL
+              - SCALE
+              - EYE
+            } 
+          - ARSE
+          - OAR
+          - GHOST
+          - ICE
+          - LUMP
+          - CAVE
+          - BULL
+          - BONER
+          - DEEP-{shuffle
+              - WATER 
+              - SEA 
+            }
+          - DWARF
+          - BLOB
+          - GLOW
+          - ELECTRIC
+          - ECCENTRIC 
+          - ANGEL
+          - SCISSOR
+          - PROW
+        }{shuffle
+          - FISH
+          - FISH
+          - SHARK
+          - {shuffle
+              - HERRING
+              - GRAYLING
+              - SALMON
+              - EEL
+              - BASS
+            }
+        }{clr3}".{clr3}
+      - 
+    }
+  - f == 10 ?
+    {f = f + 1}{clr3}And then she said "{clr3}I did mention I'm a marine biologist, right?{clr3}".{clr3}
+  - f == 11 ?
+    {wvy}{clr3}________________________________{wvy}
+    ...and that was {clr3}THE END{clr3} of that.{clr3}
+}
+"""
+
+DLG SPR_5
+"""
+{
+  - f < 10 ?
+    {sequence
+      - {f = f + 1}{shuffle
+          - {clr3}"I'm pretty sure that's {clr3}
+          - {clr3}"I think that's {clr3}
+          - {clr3}"That one's {clr3}
+          - {clr3}"Look! It's {clr3}
+          - {clr3}"That's a fine example of {clr3}
+          - {clr3}"That's {clr3}
+        }{shuffle
+          - {clr3}a {clr3}{shuffle
+              - GREATER
+              - LESSER
+            }-SPOTTED
+          - {clr3}an {clr3}{shuffle
+              - AMERICAN
+              - EUROPEAN
+              - BARBARIAN
+              - ATLANTIC
+              - JAPANESE
+            }
+          - {clr3}a {clr3}VINTAGE
+          - {clr3}an {clr3}ANNOYING
+          - {shuffle
+              - {clr3}a {clr3}BLITHERING
+              - {clr3}an {clr3}IDIOTIC
+            }
+          - {clr3}a {clr3}RANDOM
+          - {clr3}a {clr3}STANDARD
+          - {clr3}an {clr3}INFERIOR
+          - {clr3}a {clr3}FABULOUS
+          - {clr3}a {clr3}RETICULATED
+          - {clr3}a {clr3}VOLUPTUOUS
+          - {clr3}a {clr3}PIXELATED
+          - {clr3}a {clr3}DECAFFEINATED
+          - {clr3}an {clr3}IMAGINARY
+          - {clr3}a {clr3}TEDIOUS
+          - {clr3}a {clr3}REPUBLICAN
+          - {clr3}a {clr3}NEUROTIC
+          - {clr3}a {clr3}TRANSCENDANT
+          - {clr3}a {clr3}NAKED
+          - {clr3}a {clr3}SALTY
+          - {clr3}a {clr3}LUMINOUS
+          - {clr3}an {clr3}UBIQUITOUS
+        } {shuffle
+          - JELLY
+          - DOG
+          - TRIGGER
+          - QUEEN
+          - ROCK
+          - CAT
+          - KITTEN
+          - SAW
+          - JAGUAR 
+          - BONE
+          - WOLF
+          - ZEBRA
+          - NOODLE
+          - {shuffle
+              - BLACK
+              - BLUE
+              - BROWN
+              - GOLD
+              - YELLOW
+              - RED
+              - WHITE
+            }
+          - {shuffle
+              - SHARP
+              - BLUNT
+              - FLAT
+              - ROUND
+              - WOBBLE
+              - GLASS
+              - BARREL
+              - BRISTLE
+              - LONG
+              - BROAD
+            }{shuffle
+              - NOSE
+              - FIN
+              - BUTT
+              - LIMB
+              - TOOTH
+              - TAIL
+              - SCALE
+              - EYE
+            } 
+          - ARSE
+          - OAR
+          - GHOST
+          - ICE
+          - LUMP
+          - CAVE
+          - BULL
+          - BONER
+          - DEEP-{shuffle
+              - WATER 
+              - SEA 
+            }
+          - DWARF
+          - BLOB
+          - GLOW
+          - ELECTRIC
+          - ECCENTRIC 
+          - ANGEL
+          - SCISSOR
+          - PROW
+        }{shuffle
+          - FISH
+          - FISH
+          - SHARK
+          - {shuffle
+              - HERRING
+              - GRAYLING
+              - SALMON
+              - EEL
+              - BASS
+            }
+        }{clr3}".{clr3}
+      - 
+    }
+  - f == 10 ?
+    {f = f + 1}{clr3}And then she said "{clr3}I did mention I'm a marine biologist, right?{clr3}".{clr3}
+  - f == 11 ?
+    {wvy}{clr3}________________________________{wvy}
+    ...and that was {clr3}THE END{clr3} of that.{clr3}
+}
+"""
+
+DLG SPR_6
+"""
+{
+  - f < 10 ?
+    {sequence
+      - {f = f + 1}{shuffle
+          - {clr3}"I'm pretty sure that's {clr3}
+          - {clr3}"I think that's {clr3}
+          - {clr3}"That one's {clr3}
+          - {clr3}"Look! It's {clr3}
+          - {clr3}"That's a fine example of {clr3}
+          - {clr3}"That's {clr3}
+        }{shuffle
+          - {clr3}a {clr3}{shuffle
+              - GREATER
+              - LESSER
+            }-SPOTTED
+          - {clr3}an {clr3}{shuffle
+              - AMERICAN
+              - EUROPEAN
+              - BARBARIAN
+              - ATLANTIC
+              - JAPANESE
+            }
+          - {clr3}a {clr3}VINTAGE
+          - {clr3}an {clr3}ANNOYING
+          - {shuffle
+              - {clr3}a {clr3}BLITHERING
+              - {clr3}an {clr3}IDIOTIC
+            }
+          - {clr3}a {clr3}RANDOM
+          - {clr3}a {clr3}STANDARD
+          - {clr3}an {clr3}INFERIOR
+          - {clr3}a {clr3}FABULOUS
+          - {clr3}a {clr3}RETICULATED
+          - {clr3}a {clr3}VOLUPTUOUS
+          - {clr3}a {clr3}PIXELATED
+          - {clr3}a {clr3}DECAFFEINATED
+          - {clr3}an {clr3}IMAGINARY
+          - {clr3}a {clr3}TEDIOUS
+          - {clr3}a {clr3}REPUBLICAN
+          - {clr3}a {clr3}NEUROTIC
+          - {clr3}a {clr3}TRANSCENDANT
+          - {clr3}a {clr3}NAKED
+          - {clr3}a {clr3}SALTY
+          - {clr3}a {clr3}LUMINOUS
+          - {clr3}an {clr3}UBIQUITOUS
+        } {shuffle
+          - JELLY
+          - DOG
+          - TRIGGER
+          - QUEEN
+          - ROCK
+          - CAT
+          - KITTEN
+          - SAW
+          - JAGUAR 
+          - BONE
+          - WOLF
+          - ZEBRA
+          - NOODLE
+          - {shuffle
+              - BLACK
+              - BLUE
+              - BROWN
+              - GOLD
+              - YELLOW
+              - RED
+              - WHITE
+            }
+          - {shuffle
+              - SHARP
+              - BLUNT
+              - FLAT
+              - ROUND
+              - WOBBLE
+              - GLASS
+              - BARREL
+              - BRISTLE
+              - LONG
+              - BROAD
+            }{shuffle
+              - NOSE
+              - FIN
+              - BUTT
+              - LIMB
+              - TOOTH
+              - TAIL
+              - SCALE
+              - EYE
+            } 
+          - ARSE
+          - OAR
+          - GHOST
+          - ICE
+          - LUMP
+          - CAVE
+          - BULL
+          - BONER
+          - DEEP-{shuffle
+              - WATER 
+              - SEA 
+            }
+          - DWARF
+          - BLOB
+          - GLOW
+          - ELECTRIC
+          - ECCENTRIC 
+          - ANGEL
+          - SCISSOR
+          - PROW
+        }{shuffle
+          - FISH
+          - FISH
+          - SHARK
+          - {shuffle
+              - HERRING
+              - GRAYLING
+              - SALMON
+              - EEL
+              - BASS
+            }
+        }{clr3}".{clr3}
+      - 
+    }
+  - f == 10 ?
+    {f = f + 1}{clr3}And then she said "{clr3}I did mention I'm a marine biologist, right?{clr3}".{clr3}
+  - f == 11 ?
+    {wvy}{clr3}________________________________{wvy}
+    ...and that was {clr3}THE END{clr3} of that.{clr3}
+}
+"""
+
+DLG SPR_7
+"""
+{
+  - f < 10 ?
+    {sequence
+      - {f = f + 1}{shuffle
+          - {clr3}"I'm pretty sure that's {clr3}
+          - {clr3}"I think that's {clr3}
+          - {clr3}"That one's {clr3}
+          - {clr3}"Look! It's {clr3}
+          - {clr3}"That's a fine example of {clr3}
+          - {clr3}"That's {clr3}
+        }{shuffle
+          - {clr3}a {clr3}{shuffle
+              - GREATER
+              - LESSER
+            }-SPOTTED
+          - {clr3}an {clr3}{shuffle
+              - AMERICAN
+              - EUROPEAN
+              - BARBARIAN
+              - ATLANTIC
+              - JAPANESE
+            }
+          - {clr3}a {clr3}VINTAGE
+          - {clr3}an {clr3}ANNOYING
+          - {shuffle
+              - {clr3}a {clr3}BLITHERING
+              - {clr3}an {clr3}IDIOTIC
+            }
+          - {clr3}a {clr3}RANDOM
+          - {clr3}a {clr3}STANDARD
+          - {clr3}an {clr3}INFERIOR
+          - {clr3}a {clr3}FABULOUS
+          - {clr3}a {clr3}RETICULATED
+          - {clr3}a {clr3}VOLUPTUOUS
+          - {clr3}a {clr3}PIXELATED
+          - {clr3}a {clr3}DECAFFEINATED
+          - {clr3}an {clr3}IMAGINARY
+          - {clr3}a {clr3}TEDIOUS
+          - {clr3}a {clr3}REPUBLICAN
+          - {clr3}a {clr3}NEUROTIC
+          - {clr3}a {clr3}TRANSCENDANT
+          - {clr3}a {clr3}NAKED
+          - {clr3}a {clr3}SALTY
+          - {clr3}a {clr3}LUMINOUS
+          - {clr3}an {clr3}UBIQUITOUS
+        } {shuffle
+          - JELLY
+          - DOG
+          - TRIGGER
+          - QUEEN
+          - ROCK
+          - CAT
+          - KITTEN
+          - SAW
+          - JAGUAR 
+          - BONE
+          - WOLF
+          - ZEBRA
+          - NOODLE
+          - {shuffle
+              - BLACK
+              - BLUE
+              - BROWN
+              - GOLD
+              - YELLOW
+              - RED
+              - WHITE
+            }
+          - {shuffle
+              - SHARP
+              - BLUNT
+              - FLAT
+              - ROUND
+              - WOBBLE
+              - GLASS
+              - BARREL
+              - BRISTLE
+              - LONG
+              - BROAD
+            }{shuffle
+              - NOSE
+              - FIN
+              - BUTT
+              - LIMB
+              - TOOTH
+              - TAIL
+              - SCALE
+              - EYE
+            } 
+          - ARSE
+          - OAR
+          - GHOST
+          - ICE
+          - LUMP
+          - CAVE
+          - BULL
+          - BONER
+          - DEEP-{shuffle
+              - WATER 
+              - SEA 
+            }
+          - DWARF
+          - BLOB
+          - GLOW
+          - ELECTRIC
+          - ECCENTRIC 
+          - ANGEL
+          - SCISSOR
+          - PROW
+        }{shuffle
+          - FISH
+          - FISH
+          - SHARK
+          - {shuffle
+              - HERRING
+              - GRAYLING
+              - SALMON
+              - EEL
+              - BASS
+            }
+        }{clr3}".{clr3}
+      - 
+    }
+  - f == 10 ?
+    {f = f + 1}{clr3}And then she said "{clr3}I did mention I'm a marine biologist, right?{clr3}".{clr3}
+  - f == 11 ?
+    {wvy}{clr3}________________________________{wvy}
+    ...and that was {clr3}THE END{clr3} of that.{clr3}
+}
+"""
+
+DLG SPR_8
+"""
+{
+  - f < 10 ?
+    {sequence
+      - {f = f + 1}{shuffle
+          - {clr3}"I'm pretty sure that's {clr3}
+          - {clr3}"I think that's {clr3}
+          - {clr3}"That one's {clr3}
+          - {clr3}"Look! It's {clr3}
+          - {clr3}"That's a fine example of {clr3}
+          - {clr3}"That's {clr3}
+        }{shuffle
+          - {clr3}a {clr3}{shuffle
+              - GREATER
+              - LESSER
+            }-SPOTTED
+          - {clr3}an {clr3}{shuffle
+              - AMERICAN
+              - EUROPEAN
+              - BARBARIAN
+              - ATLANTIC
+              - JAPANESE
+            }
+          - {clr3}a {clr3}VINTAGE
+          - {clr3}an {clr3}ANNOYING
+          - {shuffle
+              - {clr3}a {clr3}BLITHERING
+              - {clr3}an {clr3}IDIOTIC
+            }
+          - {clr3}a {clr3}RANDOM
+          - {clr3}a {clr3}STANDARD
+          - {clr3}an {clr3}INFERIOR
+          - {clr3}a {clr3}FABULOUS
+          - {clr3}a {clr3}RETICULATED
+          - {clr3}a {clr3}VOLUPTUOUS
+          - {clr3}a {clr3}PIXELATED
+          - {clr3}a {clr3}DECAFFEINATED
+          - {clr3}an {clr3}IMAGINARY
+          - {clr3}a {clr3}TEDIOUS
+          - {clr3}a {clr3}REPUBLICAN
+          - {clr3}a {clr3}NEUROTIC
+          - {clr3}a {clr3}TRANSCENDANT
+          - {clr3}a {clr3}NAKED
+          - {clr3}a {clr3}SALTY
+          - {clr3}a {clr3}LUMINOUS
+          - {clr3}an {clr3}UBIQUITOUS
+        } {shuffle
+          - JELLY
+          - DOG
+          - TRIGGER
+          - QUEEN
+          - ROCK
+          - CAT
+          - KITTEN
+          - SAW
+          - JAGUAR 
+          - BONE
+          - WOLF
+          - ZEBRA
+          - NOODLE
+          - {shuffle
+              - BLACK
+              - BLUE
+              - BROWN
+              - GOLD
+              - YELLOW
+              - RED
+              - WHITE
+            }
+          - {shuffle
+              - SHARP
+              - BLUNT
+              - FLAT
+              - ROUND
+              - WOBBLE
+              - GLASS
+              - BARREL
+              - BRISTLE
+              - LONG
+              - BROAD
+            }{shuffle
+              - NOSE
+              - FIN
+              - BUTT
+              - LIMB
+              - TOOTH
+              - TAIL
+              - SCALE
+              - EYE
+            } 
+          - ARSE
+          - OAR
+          - GHOST
+          - ICE
+          - LUMP
+          - CAVE
+          - BULL
+          - BONER
+          - DEEP-{shuffle
+              - WATER 
+              - SEA 
+            }
+          - DWARF
+          - BLOB
+          - GLOW
+          - ELECTRIC
+          - ECCENTRIC 
+          - ANGEL
+          - SCISSOR
+          - PROW
+        }{shuffle
+          - FISH
+          - FISH
+          - SHARK
+          - {shuffle
+              - HERRING
+              - GRAYLING
+              - SALMON
+              - EEL
+              - BASS
+            }
+        }{clr3}".{clr3}
+      - 
+    }
+  - f == 10 ?
+    {f = f + 1}{clr3}And then she said "{clr3}I did mention I'm a marine biologist, right?{clr3}".{clr3}
+  - f == 11 ?
+    {wvy}{clr3}________________________________{wvy}
+    ...and that was {clr3}THE END{clr3} of that.{clr3}
+}
+"""
+
+DLG SPR_9
+"""
+{
+  - f < 10 ?
+    {sequence
+      - {f = f + 1}{shuffle
+          - {clr3}"I'm pretty sure that's {clr3}
+          - {clr3}"I think that's {clr3}
+          - {clr3}"That one's {clr3}
+          - {clr3}"Look! It's {clr3}
+          - {clr3}"That's a fine example of {clr3}
+          - {clr3}"That's {clr3}
+        }{shuffle
+          - {clr3}a {clr3}{shuffle
+              - GREATER
+              - LESSER
+            }-SPOTTED
+          - {clr3}an {clr3}{shuffle
+              - AMERICAN
+              - EUROPEAN
+              - BARBARIAN
+              - ATLANTIC
+              - JAPANESE
+            }
+          - {clr3}a {clr3}VINTAGE
+          - {clr3}an {clr3}ANNOYING
+          - {shuffle
+              - {clr3}a {clr3}BLITHERING
+              - {clr3}an {clr3}IDIOTIC
+            }
+          - {clr3}a {clr3}RANDOM
+          - {clr3}a {clr3}STANDARD
+          - {clr3}an {clr3}INFERIOR
+          - {clr3}a {clr3}FABULOUS
+          - {clr3}a {clr3}RETICULATED
+          - {clr3}a {clr3}VOLUPTUOUS
+          - {clr3}a {clr3}PIXELATED
+          - {clr3}a {clr3}DECAFFEINATED
+          - {clr3}an {clr3}IMAGINARY
+          - {clr3}a {clr3}TEDIOUS
+          - {clr3}a {clr3}REPUBLICAN
+          - {clr3}a {clr3}NEUROTIC
+          - {clr3}a {clr3}TRANSCENDANT
+          - {clr3}a {clr3}NAKED
+          - {clr3}a {clr3}SALTY
+          - {clr3}a {clr3}LUMINOUS
+          - {clr3}an {clr3}UBIQUITOUS
+        } {shuffle
+          - JELLY
+          - DOG
+          - TRIGGER
+          - QUEEN
+          - ROCK
+          - CAT
+          - KITTEN
+          - SAW
+          - JAGUAR 
+          - BONE
+          - WOLF
+          - ZEBRA
+          - NOODLE
+          - {shuffle
+              - BLACK
+              - BLUE
+              - BROWN
+              - GOLD
+              - YELLOW
+              - RED
+              - WHITE
+            }
+          - {shuffle
+              - SHARP
+              - BLUNT
+              - FLAT
+              - ROUND
+              - WOBBLE
+              - GLASS
+              - BARREL
+              - BRISTLE
+              - LONG
+              - BROAD
+            }{shuffle
+              - NOSE
+              - FIN
+              - BUTT
+              - LIMB
+              - TOOTH
+              - TAIL
+              - SCALE
+              - EYE
+            } 
+          - ARSE
+          - OAR
+          - GHOST
+          - ICE
+          - LUMP
+          - CAVE
+          - BULL
+          - BONER
+          - DEEP-{shuffle
+              - WATER 
+              - SEA 
+            }
+          - DWARF
+          - BLOB
+          - GLOW
+          - ELECTRIC
+          - ECCENTRIC 
+          - ANGEL
+          - SCISSOR
+          - PROW
+        }{shuffle
+          - FISH
+          - FISH
+          - SHARK
+          - {shuffle
+              - HERRING
+              - GRAYLING
+              - SALMON
+              - EEL
+              - BASS
+            }
+        }{clr3}".{clr3}
+      - 
+    }
+  - f == 10 ?
+    {f = f + 1}{clr3}And then she said "{clr3}I did mention I'm a marine biologist, right?{clr3}".{clr3}
+  - f == 11 ?
+    {wvy}{clr3}________________________________{wvy}
+    ...and that was {clr3}THE END{clr3} of that.{clr3}
+}
+"""
+
+DLG ITM_1
+"""
+{shuffle
+  - {shuffle
+      - 
+      - 
+    }
+  - {shuffle
+      - 
+      - 
+      - 
+      - 
+    }
+  - {shuffle
+      - 
+      - 
+      - 
+    }
+}
+"""
+
+VAR f
+0
+
+

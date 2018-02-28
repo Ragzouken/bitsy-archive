@@ -1,0 +1,189 @@
+
+a little ma-ze-festo?
+
+# BITSY VERSION 4.6
+
+! ROOM_FORMAT 1
+
+PAL 0
+0,11,28
+77,62,93
+207,209,254
+
+ROOM 0
+0,0,0,0,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,0,e,0,0,0,0,0,0,0,0,0,e,0
+e,0,e,0,e,e,e,0,e,e,e,0,e,0,e,0
+e,0,e,0,0,0,0,0,e,0,0,0,e,0,e,0
+e,0,e,0,e,e,e,0,e,0,e,e,e,0,e,0
+e,0,e,0,e,0,e,0,e,0,e,0,0,0,e,0
+e,0,e,0,e,0,e,0,e,0,e,e,e,0,e,0
+e,0,e,0,e,0,e,0,e,0,0,0,e,0,e,0
+e,0,e,0,e,0,e,0,e,e,0,e,e,0,e,0
+e,0,e,e,e,0,0,0,0,0,0,0,0,0,e,0
+e,0,0,0,0,0,e,e,e,0,e,e,e,0,e,0
+e,0,e,e,e,0,e,0,0,0,e,0,e,0,e,0
+e,e,e,0,e,0,e,0,e,0,e,0,e,0,e,0
+e,0,0,0,e,0,e,e,e,0,e,0,e,0,e,0
+e,0,e,e,e,0,0,0,0,0,e,0,e,0,e,0
+e,0,0,0,0,0,e,e,e,e,e,0,0,0,0,0
+ITM 1 3,7
+ITM 1 3,12
+ITM 1 11,11
+ITM 1 1,2
+ITM 1 15,1
+ITM 1 11,5
+ITM 1 5,1
+ITM 1 2,0
+ITM 1 7,12
+PAL 0
+
+ROOM 1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,e,e,e,0,0,0
+0,0,0,0,0,0,0,0,0,0,e,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,e,e,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,e,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,e,e,e,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e,e,0,e,e,0,e,e,e,0,e,e,e,0,e,e
+e,0,e,0,e,0,e,0,e,0,0,0,e,0,e,0
+e,0,e,0,e,0,e,e,e,0,0,e,0,0,e,e
+e,0,0,0,e,0,e,0,e,0,e,0,0,0,e,0
+e,0,0,0,e,0,e,0,e,0,e,e,e,0,e,e
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAL 0
+
+TIL a
+11100000
+11100000
+11100000
+11100000
+11100000
+11100000
+11100000
+11100000
+
+TIL b
+00000111
+00000111
+00000111
+00000111
+00000111
+00000111
+00000111
+00000111
+
+TIL c
+11111111
+11111111
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL d
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+11111111
+11111111
+
+TIL e
+01110101
+11011011
+10101110
+11011011
+01110101
+11011011
+10101110
+11011011
+WAL true
+
+TIL f
+11111111
+11111111
+11111111
+11101111
+11010111
+11101111
+11111111
+11111111
+WAL false
+
+SPR A
+00000100
+00011000
+00111100
+01011010
+01111110
+00111100
+00000000
+00000000
+>
+00000000
+00000100
+00011000
+00111100
+01011010
+01111110
+00111100
+00000000
+POS 0 7,9
+
+SPR a
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 0 8,12
+
+ITM 1
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+DLG ITM_1
+
+DLG ITM_1
+"""
+{sequence
+  - i think games is the only medium(?) where i am able to actually use my feelings and pour them onto a game
+
+  - feeling inspired by memories.. just reflecting back on things.. or even just injecting what i wish.. what i feel.. what i want on to the characters
+
+  - there's something really nice about just writing some dialogue between characters and getting into it.. be it a sort of awkwardness between acquaintances or writing two friends who can joke or not watch what they are saying to each other.. even just getting into how truly each character feels in the moment.. 
+
+  - writing some stuff for my bitsy games has actually made me emotional and i have cried or at least gotten very near tears.. its not a bad feeling
+
+  - it feels very satisfying to put my emotions into my games
+
+  - it doesnt even matter if the games are meant to be silly.. i like that im putting bits of myself into it.. it makes it very real
+
+  - i feel like moving forward i just want to at least put in a single something real into all my games.. i think maybe it could resonate with anyone who plays my games.. even if it is something silly like a detective thats an onion..
+
+  - also no.. onion detective and i are not the same being lmao i did not put myself into my own games :^P 
+  - i think its still weird to even think of myself as a game dev.. but i guess i feel like i'm getting there at least.. thats progress..?
+}
+"""
+
+VAR a
+42
+
+

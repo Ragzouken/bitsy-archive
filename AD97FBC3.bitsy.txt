@@ -1,0 +1,460 @@
+
+i was trying to make a game, but my dog was sitting on my lap
+
+# BITSY VERSION 4.6
+
+! ROOM_FORMAT 1
+
+PAL 0
+247,165,180
+51,51,51
+255,255,255
+
+ROOM 0
+i,h,h,h,h,h,h,h,h,h,h,h,h,h,h,j
+e,0,0,0,0,0,0,0,0,0,0,0,0,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,b,0,f
+e,0,0,d,0,0,d,0,0,d,0,0,d,0,0,f
+e,b,0,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,0,d,0,d,0,d,0,0,d,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,0,b,f
+e,0,0,0,d,d,0,d,0,d,0,d,d,0,0,f
+e,b,b,0,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,0,d,0,d,0,d,0,d,0,0,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,0,b,b,f
+e,0,c,c,c,c,c,c,0,c,c,c,c,c,c,f
+e,0,0,d,0,d,0,d,0,d,0,d,0,0,0,f
+e,b,0,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,d,0,d,0,0,0,0,0,0,0,0,f
+k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,l
+NAME row 1
+ITM 0 5,1
+ITM 0 8,1
+ITM 0 10,1
+ITM 0 12,1
+ITM 1 14,14
+EXT 14,1 1 14,3
+PAL 0
+
+ROOM 1
+i,h,h,h,h,h,h,h,h,h,h,h,h,h,h,j
+e,0,0,0,0,d,0,0,d,0,d,0,d,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,b,c,f
+e,0,0,d,0,0,d,0,0,d,0,0,d,0,0,f
+e,b,0,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,0,d,0,d,0,d,0,0,d,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,0,b,f
+e,0,0,0,d,d,0,d,0,d,0,d,d,0,0,f
+e,b,b,0,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,0,d,0,d,0,d,0,d,0,0,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,0,b,b,f
+e,c,c,c,c,c,c,c,0,c,c,c,c,c,c,f
+e,0,0,d,0,d,0,d,0,d,0,d,0,0,0,f
+e,b,0,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,d,0,d,0,0,d,0,0,d,0,0,f
+k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,l
+NAME row 2
+ITM 1 14,14
+ITM 0 4,3
+ITM 0 6,3
+ITM 0 9,3
+ITM 0 12,3
+EXT 2,3 2 2,5
+PAL 0
+
+ROOM 2
+i,h,h,h,h,h,h,h,h,h,h,h,h,h,h,j
+e,0,0,0,0,d,0,0,d,0,d,0,d,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,b,0,f
+e,0,0,d,0,0,d,0,0,d,0,0,d,0,0,f
+e,b,c,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,0,d,0,d,0,d,0,0,d,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,0,b,f
+e,0,0,0,d,d,0,d,0,d,0,d,d,0,0,f
+e,b,b,0,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,0,d,0,d,0,d,0,d,0,0,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,0,b,b,f
+e,c,c,c,c,c,c,c,0,c,c,c,c,c,c,f
+e,0,0,d,0,d,0,d,0,d,0,d,0,0,0,f
+e,b,0,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,d,0,d,0,0,d,0,0,d,0,0,f
+k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,l
+NAME row 3
+ITM 1 14,14
+ITM 0 3,5
+ITM 0 5,5
+ITM 0 7,5
+ITM 0 9,5
+ITM 0 11,5
+EXT 13,5 3 13,7
+PAL 0
+
+ROOM 3
+i,h,h,h,h,h,h,h,h,h,h,h,h,h,h,j
+e,0,0,0,0,d,0,0,d,0,d,0,d,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,b,0,f
+e,0,0,d,0,0,d,0,0,d,0,0,d,0,0,f
+e,b,0,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,0,d,0,d,0,d,0,0,d,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,c,b,f
+e,0,0,0,d,d,0,d,0,d,0,d,d,0,0,f
+e,b,b,0,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,0,d,0,d,0,d,0,d,0,0,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,0,b,b,f
+e,c,c,c,c,c,c,c,0,c,c,c,c,c,c,f
+e,0,0,d,0,d,0,d,0,d,0,d,0,0,0,f
+e,b,0,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,d,0,d,0,0,d,0,0,d,0,0,f
+k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,l
+NAME row 4
+ITM 1 14,14
+ITM 0 4,7
+ITM 0 5,7
+ITM 0 7,7
+ITM 0 9,7
+ITM 0 11,7
+ITM 0 12,7
+EXT 3,7 4 3,9
+PAL 0
+
+ROOM 4
+i,h,h,h,h,h,h,h,h,h,h,h,h,h,h,j
+e,0,0,0,0,d,0,0,d,0,d,0,d,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,b,0,f
+e,0,0,d,0,0,d,0,0,d,0,0,d,0,0,f
+e,b,0,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,0,d,0,d,0,d,0,0,d,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,0,b,f
+e,0,0,0,d,d,0,d,0,d,0,d,d,0,0,f
+e,b,b,c,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,0,d,0,d,0,d,0,d,0,0,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,0,b,b,f
+e,c,c,c,c,c,c,c,0,c,c,c,c,c,c,f
+e,0,0,d,0,d,0,d,0,d,0,d,0,0,0,f
+e,b,0,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,d,0,d,0,0,d,0,0,d,0,0,f
+k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,l
+NAME row 5
+ITM 1 14,14
+ITM 0 4,9
+ITM 0 6,9
+ITM 0 8,9
+ITM 0 10,9
+EXT 12,9 5 12,12
+PAL 0
+
+ROOM 5
+i,h,h,h,h,h,h,h,h,h,h,h,h,h,h,j
+e,0,0,0,0,d,0,0,d,0,d,0,d,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,b,0,f
+e,0,0,d,0,0,d,0,0,d,0,0,d,0,0,f
+e,b,0,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,0,d,0,d,0,d,0,0,d,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,0,b,f
+e,0,0,0,d,d,0,d,0,d,0,d,d,0,0,f
+e,b,b,0,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,0,d,0,d,0,d,0,d,0,0,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,0,b,b,f
+e,c,c,c,c,c,c,c,c,c,c,c,c,c,c,f
+e,0,0,d,0,d,0,d,0,d,0,d,0,0,0,f
+e,b,0,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,d,0,d,0,0,d,0,0,d,0,0,f
+k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,l
+NAME row 6
+ITM 1 14,14
+ITM 0 3,12
+ITM 0 5,12
+ITM 0 7,12
+ITM 0 9,12
+ITM 0 11,12
+EXT 2,12 6 2,14
+PAL 0
+
+ROOM 6
+i,h,h,h,h,h,h,h,h,h,h,h,h,h,h,j
+e,0,0,0,0,d,0,0,d,0,d,0,d,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,b,0,f
+e,0,0,d,0,0,d,0,0,d,0,0,d,0,0,f
+e,b,0,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,0,d,0,d,0,d,0,0,d,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,b,0,b,f
+e,0,0,0,d,d,0,d,0,d,0,d,d,0,0,f
+e,b,b,0,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,0,d,0,d,0,d,0,d,0,0,0,0,f
+e,b,b,b,b,b,b,b,b,b,b,b,0,b,b,f
+e,c,c,c,c,c,c,c,0,c,c,c,c,c,c,f
+e,0,0,d,0,d,0,d,0,d,0,d,0,0,0,f
+e,b,c,b,b,b,b,b,b,b,b,b,b,b,b,f
+e,0,0,d,d,0,d,0,0,d,0,0,d,0,0,f
+k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,l
+NAME row end
+ITM 0 3,14
+ITM 0 5,14
+ITM 0 7,14
+ITM 0 9,14
+ITM 0 11,14
+ITM 1 14,14
+END 0 14,14
+PAL 0
+
+TIL b
+11101110
+01010101
+10100010
+01110111
+10101010
+01000100
+11101110
+01010101
+WAL true
+
+TIL c
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+WAL true
+
+TIL d
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL e
+00111010
+00010101
+00101010
+01110111
+00101010
+01010100
+11101110
+01010100
+NAME left
+WAL true
+
+TIL f
+10111000
+01010100
+00100010
+01110111
+00101010
+01010100
+11101110
+01010100
+NAME right
+WAL true
+
+TIL g
+10111011
+01010101
+10101010
+01110111
+10101010
+01010101
+11101110
+01000100
+NAME bottom
+WAL true
+
+TIL h
+00000000
+00000000
+00100010
+01110111
+10101010
+01010101
+11101110
+01000100
+NAME top
+WAL true
+
+TIL i
+00000000
+00000000
+00000010
+00010111
+00111010
+01010101
+11101110
+01010100
+NAME corner1
+WAL true
+
+TIL j
+00000000
+00000000
+00100000
+01110000
+10101000
+01010100
+11101110
+01010100
+NAME corner2
+WAL true
+
+TIL k
+00111011
+00010101
+00101010
+01110111
+00101010
+00010101
+00001110
+00000100
+NAME corner3
+WAL true
+
+TIL l
+10111000
+00010100
+10101110
+01110100
+10101000
+01011100
+11101000
+01000000
+NAME corner4
+WAL true
+
+SPR A
+00000000
+00110000
+00111100
+00010100
+00011100
+00001000
+00011100
+00011100
+>
+00110000
+00111100
+00010100
+00011100
+00001000
+00011100
+00011100
+00011100
+POS 0 1,1
+
+SPR a
+00000000
+00000000
+01010000
+01110001
+11110010
+11111100
+00011100
+00100100
+>
+00000000
+00000000
+01010000
+01110010
+11110010
+11111100
+00011100
+00100100
+DLG SPR_0
+POS 0 14,14
+
+SPR b
+00000000
+00000000
+00000000
+00000000
+00000000
+00010000
+00000000
+00000000
+
+ITM 0
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME tea
+DLG ITM_0
+
+ITM 1
+00000000
+00000000
+01010000
+01110001
+11110010
+11111100
+00011100
+00100100
+>
+00000000
+00000000
+01010000
+01110010
+11110010
+11111100
+00011100
+00100100
+
+DLG SPR_0
+I'm a cat
+
+DLG ITM_0
+"""
+{sequence
+  - my dog is not very {clr1}b{clr1}ig, but she's just big enough to get in the way
+  - sometim{clr1}e{clr1}s she gets cranky, and decides she needs to sit in my lap while i'm working
+  - but she doesn't kno{clr1}w{clr1} how to lie down like most lap dogs do
+  - she sits up straight, and wobbles around, so that i have to {clr1}h{clr1}old her in place
+  - it blocks my view, and i have to type with just one hand, and i can't move my arm very far
+  - that makes it hard t{clr1}o{clr1} make a game
+  - but wh{clr1}y{clr1} should it be that i require a full view, or two hands, to make a game?
+  - why sh{clr1}o{clr1}uld i need my full range of motion just to make art?
+  - why sho{clr1}u{clr1}ld i need intense training, or knowledge, or resources and advanced tools just to express myself?
+  - this isn't like the older d{clr1}a{clr1}ys, where access to these things is hard to come by
+  - but there a{clr1}r{clr1}e still those for whom access is very limited
+  - or whose bodies don't allow them to work in th{clr1}e{clr1} same way that other people do
+  - is it fair that they shouldn't be included in this process?
+  - because of money?
+  - because of access?
+  - because of their hands or eyes?
+  - games are art, art with which you can interact, and art is for everyone
+  - i always see people asking, how do i get started making games? and the answer is usually simple: just make a game
+  - there are so many paths and ways to do it now
+  - but even so, it can still be hard
+  - and even when it gets finished, it can be hard to get that piece of art seen
+  - the way for us all to advance games is to find ways to help each other make them
+  - help the people who are new, or have different education, or access, or abilities
+  - support each others' works, don't criticize when it isn't
+w{clr1}a{clr1}nted
+  - promote the people making art you like, promote them
+{clr1}r{clr1}elentlessly, even when you don't know them
+  - the more an ar{clr1}t{clr1}ist's work is seen, the more their confidence grows
+  - and people making games, whether they consider {clr1}i{clr1}t or not, no matter what role they play in the production, are all artists
+  - everyone who expre{clr1}s{clr1}ses themself creatively in any way, even a child making a macaroni necklace, is an artist
+  - don't denigrate someone for making things that aren't immediate{clr1}l{clr1}y "impressive"
+  - to make anything at all and share it w{clr1}i{clr1}th the world requires immense concentration and courage
+  - to share that piece of yoursel{clr1}f{clr1} with the world, even if it was done on a whim
+  - w{clr1}e{clr1} are all artists
+  - and we can all make art
+}
+"""
+
+END 0
+love one another, and make it easier for that art to thrive
+
+VAR a
+42
+
+

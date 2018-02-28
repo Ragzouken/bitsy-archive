@@ -1,0 +1,1880 @@
+
+The Kingdom of Fungi
+
+# BITSY VERSION 4.6
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME outdoors
+97,135,34
+255,91,57
+255,230,201
+
+PAL 1
+NAME main hall
+36,61,18
+196,59,41
+82,235,255
+
+PAL 2
+NAME biology
+48,42,11
+92,255,212
+115,93,190
+
+PAL 3
+NAME end
+123,55,136
+255,85,182
+255,180,124
+173,45,94
+255,112,44
+93,214,255
+
+ROOM 0
+c,b,c,b,b,c,c,b,a,a,d,g,f,f,f,f
+b,c,c,b,b,c,b,c,a,a,0,0,f,f,f,f
+b,b,b,c,c,b,c,c,b,0,0,g,f,f,f,f
+d,d,d,d,0,0,0,a,0,0,a,f,f,f,f,f
+d,d,0,0,0,0,0,0,0,0,g,f,f,f,f,f
+d,d,0,0,0,0,0,0,0,g,e,e,f,f,f,f
+d,a,0,0,a,0,0,0,0,0,0,g,e,e,e,e
+d,a,0,a,0,a,0,0,0,0,d,0,d,d,d,a
+d,a,0,0,0,0,0,0,0,0,0,0,0,a,a,a
+d,a,0,0,0,0,0,a,0,a,0,0,0,0,a,a
+d,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d,a,0,0,a,0,0,0,0,0,0,0,0,d,a,a
+a,a,d,0,0,0,0,0,0,d,a,a,a,a,a,a
+a,a,a,0,a,a,a,a,a,a,a,a,a,a,a,a
+h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+NAME beginning
+EXT 15,10 1 0,10
+PAL 0
+
+ROOM 1
+f,f,f,f,f,f,f,f,f,k,b,c,b,c,c,b
+f,f,f,f,f,f,f,f,f,k,a,a,a,a,b,c
+f,f,f,f,f,f,f,f,f,f,a,a,a,a,a,b
+f,f,f,f,f,f,f,f,f,f,k,a,a,a,a,a
+f,f,f,f,n,n,f,f,f,f,f,k,a,a,a,a
+f,f,f,l,o,o,m,f,f,f,f,k,d,a,a,a
+e,e,e,l,0,0,m,e,e,e,e,e,k,0,0,a
+a,a,g,p,0,0,n,k,a,a,a,d,0,a,0,0
+g,b,n,a,0,0,o,p,b,b,k,a,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,a,a,0,0,a,a
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d
+a,a,a,a,0,0,0,0,0,0,a,a,a,0,d,d
+0,a,0,0,a,0,a,0,0,d,d,d,d,d,j,h
+d,d,d,d,d,d,d,d,d,j,h,h,h,h,i,i
+h,h,h,h,h,h,h,h,h,i,i,i,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+NAME uni entrance
+EXT 0,10 0 15,10
+EXT 4,6 2 5,15
+EXT 5,6 2 6,15
+PAL 0
+
+ROOM 2
+p,n,r,0,r,o,0,0,o,p,p,p,p,p,o,p
+n,r,0,0,0,p,0,0,g,p,o,n,p,p,r,r
+r,o,0,g,p,q,0,0,n,p,p,p,p,r,o,o
+o,0,0,p,q,0,0,g,p,p,n,n,p,o,0,0
+0,0,0,q,0,0,g,p,r,r,r,o,p,d,0,0
+0,0,g,q,0,0,p,r,o,o,o,r,p,s,0,0
+0,0,q,o,0,0,n,0,0,0,0,0,r,q,0,0
+0,0,q,d,0,0,n,q,q,k,0,0,d,q,0,0
+0,0,q,0,0,0,n,o,n,n,q,0,0,n,0,0
+0,0,q,0,0,0,n,n,n,q,o,0,0,q,0,0
+d,0,q,s,0,0,q,n,q,o,0,0,g,o,0,0
+s,0,0,q,0,0,o,q,q,0,0,q,o,0,0,g
+n,0,0,0,0,0,0,0,0,0,0,0,0,0,g,n
+n,s,0,0,0,0,0,0,0,0,0,0,0,g,p,n
+o,n,n,s,0,0,0,g,o,n,p,p,o,p,n,p
+n,p,p,n,p,d,0,p,p,p,n,p,n,p,p,n
+NAME entrance hall
+EXT 5,15 7 4,6
+EXT 6,15 7 5,6
+EXT 3,0 3 3,15
+EXT 7,6 4 15,6
+EXT 7,0 5 6,15
+EXT 15,3 6 0,3
+PAL 1
+
+ROOM 3
+f,f,f,f,o,o,o,o,o,f,f,f,f,f,f,e
+f,f,a,d,d,d,d,d,d,a,f,f,f,f,e,f
+f,a,d,d,0,0,t,0,0,0,a,f,f,f,f,f
+f,d,0,0,t,t,t,t,t,0,0,d,f,f,f,e
+f,0,0,0,0,t,t,t,t,0,0,a,d,f,e,f
+q,0,0,t,t,t,t,t,t,t,0,0,0,a,e,e
+d,0,0,0,t,t,t,t,t,0,0,0,0,0,a,e
+d,0,0,0,0,0,t,t,0,0,0,0,u,0,d,e
+d,0,0,u,0,0,0,0,0,0,0,0,0,0,0,e
+d,0,0,0,0,0,0,0,0,0,0,u,0,0,0,q
+d,0,u,0,u,0,0,0,u,0,0,0,0,u,0,d
+d,0,0,0,0,0,u,0,0,0,0,0,0,0,0,d
+r,0,0,0,0,0,0,0,0,0,u,0,0,0,a,d
+f,a,0,0,0,0,0,0,0,0,0,0,0,a,d,r
+f,k,a,0,0,0,0,0,0,0,0,a,d,d,f,f
+f,f,k,0,a,g,e,f,f,e,f,e,e,e,e,f
+NAME Biology class
+EXT 3,15 2 3,0
+PAL 2
+
+ROOM 4
+q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q
+q,q,q,a,u,u,u,u,u,u,u,u,a,q,q,q
+n,a,a,u,u,0,0,0,0,0,0,0,u,u,d,d
+n,a,a,0,0,0,0,0,0,0,0,0,0,0,0,d
+n,a,a,a,a,a,a,a,0,0,0,0,0,0,0,d
+n,a,a,u,0,0,0,0,0,0,0,0,0,0,0,d
+n,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+n,a,0,d,d,d,0,0,0,d,d,d,d,0,0,g
+n,a,0,0,0,0,0,0,0,0,0,0,0,0,0,n
+n,u,0,b,b,b,0,0,0,b,b,b,b,0,u,n
+n,0,0,0,0,0,d,d,d,0,0,0,0,0,a,n
+f,a,0,0,0,0,0,0,0,0,0,0,0,0,0,f
+f,k,u,0,0,0,b,b,b,0,0,0,0,u,g,f
+h,f,k,a,0,0,0,0,0,0,a,a,a,g,f,f
+i,h,h,h,h,h,f,f,f,f,f,f,f,f,f,f
+i,i,i,i,i,i,h,h,h,h,h,h,h,h,h,h
+NAME Palaeontology class
+EXT 15,6 2 7,6
+PAL 2
+
+ROOM 5
+f,f,q,f,f,f,f,f,q,f,p,p,o,q,f,f
+f,f,r,f,v,a,d,o,q,v,o,0,d,0,a,f
+q,f,n,f,0,0,0,0,0,0,0,0,0,0,0,f
+r,f,f,f,s,0,0,0,0,0,0,0,0,0,0,0
+f,f,f,p,o,b,b,b,0,0,0,0,0,0,0,0
+n,f,n,v,d,0,0,0,0,0,0,0,0,0,0,g
+f,f,f,s,0,0,0,0,0,0,0,b,b,b,b,q
+f,q,f,f,b,b,b,b,0,0,0,0,0,0,g,f
+f,f,f,p,0,0,0,0,0,0,0,0,0,g,f,n
+f,r,f,s,0,0,0,0,0,0,0,0,g,f,f,f
+f,f,f,f,b,b,b,b,0,0,b,b,v,r,f,f
+f,f,q,v,0,0,0,0,0,0,0,0,q,f,f,q
+n,f,p,d,0,0,0,0,0,0,0,0,m,f,f,n
+f,f,n,0,0,0,0,0,0,0,0,g,f,f,n,f
+f,n,f,s,0,0,0,0,0,0,0,q,f,f,q,j
+f,f,f,f,f,r,0,r,f,f,f,f,j,h,i,i
+NAME Geography class
+EXT 6,15 2 7,0
+PAL 2
+
+ROOM 6
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+t,e,e,e,e,q,v,q,q,g,e,e,e,e,t,t
+e,e,e,v,o,0,0,o,o,0,o,0,0,o,q,q
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,q
+r,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+q,o,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+v,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+t,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+t,0,0,0,0,0,0,0,j,h,h,h,v,t,0,0
+s,0,0,0,j,h,h,h,i,i,i,i,h,h,r,r
+r,t,0,j,i,i,i,i,i,i,q,q,i,i,h,h
+h,r,0,0,0,o,q,q,q,q,o,t,j,i,i,i
+i,h,h,r,0,0,0,0,0,0,0,0,0,t,r,j
+i,i,i,h,h,h,h,r,s,0,0,0,j,h,h,i
+i,i,i,i,i,i,i,h,h,h,h,h,i,i,i,i
+i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i
+NAME Philosophy class
+EXT 0,3 2 15,3
+PAL 2
+
+ROOM 7
+f,f,f,f,f,f,f,f,f,k,b,c,b,c,c,b
+f,f,f,f,f,f,f,f,f,k,a,a,a,a,a,a
+f,f,f,f,f,f,f,f,f,f,a,a,a,a,a,b
+f,f,f,f,f,f,f,f,f,f,k,0,a,a,a,a
+f,f,f,f,n,n,f,f,f,f,f,k,a,a,a,0
+f,f,f,l,o,o,m,f,f,f,f,k,d,a,a,a
+e,e,e,l,0,0,m,e,e,e,e,e,k,a,0,a
+a,a,g,p,0,0,n,k,a,a,a,d,0,a,a,0
+g,b,n,a,0,0,o,p,b,b,k,a,0,0,a,0
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,a
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d
+a,a,a,a,0,0,0,0,0,0,a,a,a,0,d,d
+0,a,0,0,a,0,a,0,0,d,d,d,d,d,j,h
+d,d,d,d,w,w,d,d,d,j,h,h,h,h,i,i
+h,h,h,h,w,w,h,h,h,i,i,i,i,i,i,i
+i,i,i,i,w,w,i,i,i,i,i,i,i,i,i,i
+NAME spores
+ITM 1 1,5
+ITM 1 2,4
+ITM 1 5,3
+ITM 1 8,2
+ITM 1 0,1
+ITM 1 2,1
+ITM 1 3,0
+ITM 1 0,2
+ITM 1 7,5
+ITM 1 10,4
+ITM 1 12,3
+ITM 1 14,2
+ITM 1 15,4
+ITM 1 0,7
+ITM 1 8,5
+ITM 1 9,4
+ITM 1 11,3
+ITM 1 13,2
+ITM 1 15,1
+ITM 1 14,5
+ITM 1 12,5
+ITM 1 10,6
+ITM 1 13,4
+ITM 1 11,6
+ITM 1 9,2
+ITM 1 11,1
+ITM 1 6,3
+ITM 1 7,2
+ITM 1 3,4
+ITM 1 0,5
+ITM 1 5,5
+ITM 1 6,4
+ITM 1 3,6
+ITM 1 1,7
+ITM 1 1,1
+ITM 1 4,0
+ITM 1 8,7
+ITM 1 9,7
+ITM 1 2,7
+ITM 1 6,6
+ITM 1 7,7
+ITM 1 0,4
+ITM 1 12,0
+ITM 1 13,0
+ITM 1 5,0
+EXT 4,6 2 5,15
+EXT 5,6 2 6,15
+END 0 4,15
+END 0 5,15
+PAL 3
+
+TIL 10
+00001000
+00100101
+00000000
+10010000
+00000010
+10000000
+00010001
+01000000
+>
+10101111
+10100101
+11010001
+01010101
+01111111
+11101011
+10101010
+01010101
+>
+00000001
+10001000
+00000000
+01000010
+00000000
+00100001
+00000100
+10000000
+NAME SPORE3
+WAL false
+
+TIL 11
+00001000
+00100101
+00000000
+10010000
+00000010
+10000000
+00010001
+01000000
+>
+00000001
+10001000
+00000000
+01000010
+00000000
+00100001
+00000100
+10000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME SPORE4
+WAL false
+
+TIL 12
+00001000
+00100101
+00000000
+10010000
+00000010
+10000000
+00010001
+01000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000001
+10001000
+00000000
+01000010
+00000000
+00100001
+00000100
+10000000
+NAME SPORE5
+WAL false
+
+TIL 13
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00001000
+00100101
+00000000
+10010000
+00000010
+10000000
+00010001
+01000000
+>
+00000001
+10001000
+00000000
+01000010
+00000000
+00100001
+00000100
+10000000
+NAME SPORE6
+WAL false
+
+TIL 14
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL a
+00000101
+00000010
+00101000
+00010000
+00000101
+10100010
+01000000
+00000000
+NAME grass01
+
+TIL b
+00000000
+11111000
+11000111
+11111000
+01001111
+11110001
+10011111
+00111000
+NAME log01
+WAL true
+
+TIL c
+11100001
+00111110
+11001111
+10001110
+01011001
+10001111
+11110001
+00111110
+NAME log02
+WAL true
+
+TIL d
+00000000
+00101000
+00010000
+00010000
+00000000
+00000101
+00000010
+00000010
+NAME grass02
+
+TIL e
+10101111
+10100101
+11010001
+01010101
+01111111
+11101011
+10101010
+01010101
+NAME trunk01
+WAL true
+
+TIL f
+10101101
+00100101
+00110001
+10110100
+11101110
+10011010
+11010011
+10010101
+NAME trunk02
+WAL true
+
+TIL g
+00000001
+00000011
+00000011
+00000101
+00011111
+00101011
+00101010
+01010101
+NAME trunk03
+WAL true
+
+TIL h
+10110110
+01001001
+11111111
+11010010
+00000000
+11111111
+00000000
+11111111
+>
+10110110
+01001001
+11111111
+00000000
+11111111
+00000000
+11111111
+00000000
+WAL true
+
+TIL i
+00000000
+11111111
+00000000
+11111111
+00000000
+11111111
+00000000
+11111111
+>
+11111111
+00000000
+11111111
+00000000
+11111111
+00000000
+11111111
+00000000
+WAL true
+
+TIL j
+00000000
+00000001
+00010111
+00011010
+00110100
+01011111
+00100000
+11111111
+>
+00000000
+00000001
+00010111
+00011000
+00111111
+01000000
+11111111
+00000000
+WAL true
+
+TIL k
+10000000
+11000000
+11000000
+10100000
+11111000
+10101110
+00101010
+01010101
+WAL true
+
+TIL l
+10101100
+00101100
+00111100
+10111100
+11101100
+10011100
+11011100
+10011100
+WAL true
+
+TIL m
+00111101
+00110101
+00110001
+00110100
+00111110
+00111010
+00110011
+00110101
+WAL true
+
+TIL n
+10101101
+00100101
+00110001
+10110100
+11101110
+10011010
+11111111
+11011101
+WAL true
+
+TIL o
+01010101
+01010101
+00010001
+00010001
+00000000
+00000000
+00000000
+00000000
+
+TIL p
+10101100
+10101100
+10111100
+10111100
+11101100
+10011000
+11011000
+10011000
+WAL true
+
+TIL q
+11111111
+01010100
+01010101
+01010001
+00010101
+00000100
+01010000
+00010001
+WAL true
+
+TIL r
+00100010
+00100000
+10001000
+10001000
+10101010
+10101010
+10101011
+11111111
+WAL true
+
+TIL s
+11000000
+01100000
+01000000
+01100000
+00000000
+01011000
+00010100
+10010110
+
+TIL t
+10001000
+00001000
+00001000
+00000000
+10000011
+00000000
+00000000
+00000000
+>
+11000001
+11000001
+00000000
+00000000
+00000000
+00010000
+00000000
+11000001
+>
+01100011
+11100011
+11100011
+00000000
+00111000
+00111000
+11111011
+11100011
+>
+00110110
+00110110
+11110111
+11111111
+01111100
+11101111
+11111111
+00111110
+>
+00011100
+00011100
+00011100
+11111111
+11000111
+11000111
+00000100
+00011100
+NAME spores
+
+TIL u
+00000000
+00011000
+00100110
+01101111
+01001011
+01111111
+00111100
+00000000
+
+TIL v
+11010110
+11001100
+00011010
+10110000
+00100000
+01010000
+11000000
+01000000
+
+TIL w
+10101111
+10100101
+11010001
+01010101
+01111111
+11101011
+10101010
+01010101
+NAME TREE
+WAL false
+
+TIL x
+00001000
+00100101
+00000000
+10010000
+00000010
+10000000
+00010001
+01000000
+>
+00000001
+10001000
+00000000
+01000010
+00000000
+00100001
+00000100
+10000000
+>
+10101111
+10100101
+11010001
+01010101
+01111111
+11101011
+10101010
+01010101
+NAME SPORE1
+WAL false
+
+TIL y
+10101111
+10100101
+11010001
+01010101
+01111111
+11101011
+10101010
+01010101
+>
+00001000
+00100101
+00000000
+10010000
+00000010
+10000000
+00010001
+01000000
+>
+00000001
+10001000
+00000000
+01000010
+00000000
+00100001
+00000100
+10000000
+NAME SPORE2
+WAL false
+
+TIL z
+00000101
+00000010
+00101000
+00010000
+00000101
+10100010
+01000000
+00000000
+
+SPR 10
+00000000
+00111000
+01011100
+01111110
+01111110
+00011110
+00011000
+00011000
+NAME Mushry
+DLG SPR_p
+POS 4 11,8
+
+SPR 11
+00000000
+00000000
+00111000
+01111100
+11110110
+11111111
+00011000
+00111100
+NAME Mushamin
+DLG SPR_q
+POS 4 4,8
+
+SPR 12
+00000000
+00000000
+00111100
+01011110
+11111111
+11111111
+11111111
+00111100
+NAME Musham
+DLG SPR_r
+POS 4 9,8
+
+SPR 13
+00000000
+00011000
+00101100
+01111110
+00001000
+00001000
+00011100
+00011100
+NAME Mushlas
+DLG SPR_s
+POS 4 8,11
+
+SPR 14
+00111100
+01110100
+01111110
+11111110
+00110000
+00110000
+00110000
+00100000
+NAME Musheen
+DLG SPR_t
+POS 4 5,8
+
+SPR 15
+00111100
+01110100
+01111110
+11111110
+00110000
+00110000
+00110000
+00100000
+NAME Mushander
+DLG SPR_u
+POS 4 6,11
+
+SPR 16
+00000000
+00000000
+00111000
+01111100
+11110110
+11111111
+00011000
+00111100
+NAME Mushiol
+DLG SPR_v
+POS 4 7,11
+
+SPR 17
+00111100
+01011010
+01111110
+00011000
+00011000
+00011000
+00011000
+00011000
+>
+00000000
+00111100
+01111110
+01111110
+00011000
+00011000
+00011000
+00011000
+NAME Mr Mushol
+DLG SPR_w
+POS 5 11,2
+
+SPR 18
+00000000
+00000000
+00111000
+01111100
+11110110
+11111111
+00011000
+00111100
+NAME Mushandrew
+DLG SPR_x
+POS 5 7,5
+
+SPR 19
+00011100
+00011100
+00001000
+00001000
+00011000
+00010000
+00010000
+00010000
+NAME Mushman
+DLG SPR_y
+POS 5 6,5
+
+SPR A
+00011000
+01111110
+01011010
+11111111
+11111111
+00011000
+00011000
+00111100
+>
+00001100
+00111111
+00111011
+01101111
+01111110
+11111100
+00001100
+00001110
+POS 0 2,4
+
+SPR a
+00111100
+01011010
+01111110
+00011000
+00011000
+00011000
+00011000
+00011000
+>
+00000000
+00111100
+01111110
+01111110
+00011000
+00011000
+00011000
+00011000
+NAME Musheth
+DLG SPR_0
+POS 0 3,13
+
+SPR b
+01100010
+11110111
+00100110
+01000010
+00111000
+00110111
+00010010
+00010010
+>
+11000110
+11110111
+01000010
+01000010
+00110000
+00111111
+00010110
+00010010
+NAME Mush-children
+DLG SPR_1
+POS 0 10,6
+
+SPR c
+00111100
+01011010
+01111110
+01011010
+00011000
+00011000
+00011000
+00011000
+>
+00000000
+00111100
+01111110
+01111110
+01011010
+00011000
+00011000
+00011000
+NAME Mushie
+DLG SPR_2
+POS 1 9,9
+
+SPR d
+00000000
+00000000
+00000000
+00011000
+01111110
+11011011
+11111111
+00111100
+>
+00000000
+00000000
+00000000
+00011000
+01111110
+01111110
+11111111
+00111100
+NAME Mushward
+DLG SPR_3
+POS 1 2,12
+
+SPR e
+00111100
+01111010
+01101110
+00011000
+00011000
+00111100
+00111100
+00111100
+>
+00011110
+00111101
+00110111
+00011000
+00011000
+00111100
+00111100
+00111100
+NAME Mushen
+DLG SPR_4
+POS 1 12,5
+
+SPR f
+00000000
+11101011
+00000000
+10101101
+00000000
+01101011
+00000000
+10011011
+NAME Palaeo Dept.
+DLG SPR_5
+POS 2 8,5
+
+SPR g
+00000000
+10011010
+00000000
+11101111
+00000000
+10110101
+00000000
+00111001
+NAME Biology Dept.
+DLG SPR_6
+POS 2 2,0
+
+SPR h
+00000000
+11011110
+00000000
+01101011
+00000000
+11010111
+00000000
+10000101
+NAME Philosophy Dept.
+DLG SPR_7
+POS 2 14,2
+
+SPR i
+00000000
+11011110
+00000000
+01101011
+00000000
+11010111
+00000000
+10000101
+NAME Geography Dept.
+DLG SPR_8
+POS 2 6,0
+
+SPR j
+00011100
+00111010
+00101111
+01111111
+11011000
+00001100
+00000100
+00000100
+>
+00001100
+00011110
+00110111
+01111101
+00001111
+00010000
+00010000
+00010000
+NAME Mushron
+DLG SPR_9
+POS 2 3,8
+
+SPR k
+00111000
+01010000
+01111100
+01100110
+00000010
+00000010
+00000010
+00000010
+>
+00110000
+01110000
+01011000
+01101110
+01000010
+00000010
+00000010
+00000010
+NAME Musherta
+DLG SPR_a
+POS 2 12,7
+
+SPR l
+01100010
+11110111
+00100110
+01000010
+00111000
+00110111
+00010110
+00010010
+>
+01100111
+01110011
+01000010
+01000010
+00111100
+00011011
+00010010
+00010010
+NAME Mushchildren
+DLG SPR_b
+POS 2 0,4
+
+SPR m
+00110100
+01011110
+01111100
+01101100
+00001100
+00001100
+00001100
+00011100
+>
+00111100
+01110110
+01011111
+01101101
+01001100
+00001100
+00001100
+00011110
+NAME Ms Mush
+DLG SPR_c
+POS 3 10,7
+
+SPR n
+00111100
+01110100
+01111110
+11111110
+00110000
+00110000
+00110000
+00100000
+NAME Mushgeoff
+DLG SPR_d
+POS 3 2,8
+
+SPR o
+00000000
+00000000
+00111000
+01111100
+11110110
+11111111
+00011000
+00111100
+NAME Mushtom
+DLG SPR_e
+POS 3 1,10
+
+SPR p
+00011100
+00011100
+00001000
+00001000
+00011000
+00010000
+00010000
+00010000
+NAME Mushinda
+DLG SPR_f
+POS 3 4,11
+
+SPR q
+00111100
+01011100
+01111000
+01110100
+01100100
+00000010
+00000010
+00000100
+NAME Mushothy
+DLG SPR_g
+POS 3 13,7
+
+SPR r
+00000000
+00111000
+01110100
+01111100
+01111100
+01111100
+00110000
+00110000
+NAME Mushona
+DLG SPR_h
+POS 3 6,12
+
+SPR s
+00000000
+00111000
+01011100
+01111110
+01111110
+00011110
+00011000
+00011000
+NAME Mushabel
+DLG SPR_i
+POS 3 12,9
+
+SPR t
+00011100
+00101100
+00011000
+00010000
+00100000
+00011100
+00000010
+00000100
+NAME Mushmel
+DLG SPR_j
+POS 3 14,10
+
+SPR u
+00000000
+00000000
+00111100
+01011110
+11111111
+11111111
+11111111
+00111100
+NAME Mushin
+DLG SPR_k
+POS 3 11,12
+
+SPR v
+00000000
+00011000
+00101100
+01111110
+00001000
+00001000
+00011100
+00011100
+NAME Mushia:
+DLG SPR_l
+POS 3 9,10
+
+SPR w
+00000000
+00011000
+00011000
+00001000
+00001000
+00001000
+00001000
+00011000
+>
+00000000
+00011100
+00011100
+00001000
+00001000
+00001000
+00001000
+00001000
+NAME Dr Mushlyn
+DLG SPR_m
+POS 4 7,3
+
+SPR x
+00000000
+00111000
+01110100
+01111100
+01111100
+01111100
+00110000
+00110000
+NAME Mushclam
+DLG SPR_14
+POS 4 3,8
+
+SPR y
+00111100
+01011100
+01111000
+01110100
+01100100
+00000010
+00000010
+00000100
+NAME Mushes
+DLG SPR_n
+POS 4 12,8
+
+SPR z
+00011100
+00101100
+00011000
+00010000
+00100000
+00011100
+00000010
+00000100
+NAME Mushan
+DLG SPR_o
+POS 4 10,8
+
+SPR 1a
+00111100
+01110100
+01111110
+11111110
+00110000
+00110000
+00110000
+00100000
+NAME Mushily
+DLG SPR_z
+POS 5 5,8
+
+SPR 1b
+00000000
+00111000
+01110100
+01111100
+01111100
+01111100
+00110000
+00110000
+NAME Mushony
+DLG SPR_10
+POS 5 7,8
+
+SPR 1c
+00111100
+01011100
+01111000
+01110100
+01100100
+00000010
+00000010
+00000100
+NAME Mushoe
+DLG SPR_11
+POS 5 12,7
+
+SPR 1d
+00011100
+00101100
+00011000
+00010000
+00100000
+00011100
+00000010
+00000100
+NAME Mushex
+DLG SPR_12
+POS 5 10,11
+
+SPR 1e
+00000000
+00111000
+01110100
+01111100
+01111100
+01111100
+00110000
+00110000
+NAME Musher
+DLG SPR_13
+POS 5 6,11
+
+SPR 1f
+01111100
+10000100
+10011111
+10010101
+10001110
+10000000
+01100000
+00011110
+>
+00111000
+01000100
+10000100
+10000100
+10011111
+10010101
+01001110
+00110000
+NAME Ms Mushanda
+DLG SPR_15
+POS 6 5,5
+
+SPR 1g
+00011100
+00101100
+00011000
+00010000
+00100000
+00011100
+00000010
+00000100
+NAME Mushtin
+DLG SPR_16
+POS 6 7,8
+
+SPR 1h
+00000000
+00111000
+01110100
+01111100
+01111100
+01111100
+00110000
+00110000
+NAME Mushio
+DLG SPR_17
+POS 6 3,9
+
+SPR 1i
+00111100
+01011100
+01111000
+01110100
+01100100
+00000010
+00000010
+00000100
+NAME Mushkevin
+DLG SPR_18
+POS 6 10,7
+
+SPR 1j
+00111100
+01110100
+01111110
+11111110
+00110000
+00110000
+00110000
+00100000
+NAME Mushla
+DLG SPR_19
+POS 6 1,6
+
+SPR 1k
+00000000
+00000000
+00111000
+01111100
+11110110
+11111111
+00011000
+00111100
+NAME Mushison
+DLG SPR_1a
+POS 6 3,7
+
+SPR 1l
+00011100
+00011100
+00001000
+00001000
+00011000
+00010000
+00010000
+00010000
+NAME Mushkas
+DLG SPR_1b
+POS 6 6,8
+
+SPR 1m
+00000000
+00111000
+01011100
+01111110
+01111110
+00011110
+00011000
+00011000
+NAME Mushine
+DLG SPR_1c
+POS 6 10,11
+
+SPR 1n
+01100010
+11110111
+00100110
+01000010
+00111000
+00110111
+00010110
+00010010
+>
+01100111
+01110011
+01000010
+01000010
+00111100
+00011011
+00010010
+00010010
+DLG SPR_1d
+POS 7 8,7
+
+SPR 1o
+01100010
+11110111
+00100110
+01000010
+00111000
+00110111
+00010110
+00010010
+>
+01100111
+01110011
+01000010
+01000010
+00111100
+00011011
+00010010
+00010010
+DLG SPR_1e
+POS 7 0,12
+
+SPR 1p
+01100010
+11110111
+00100110
+01000010
+00111000
+00110111
+00010110
+00010010
+>
+01100111
+01110011
+01000010
+01000010
+00111100
+00011011
+00010010
+00010010
+DLG SPR_1f
+POS 7 13,11
+
+SPR 1q
+01100010
+11110111
+00100110
+01000010
+00111000
+00110111
+00010110
+00010010
+>
+01100111
+01110011
+01000010
+01000010
+00111100
+00011011
+00010010
+00010010
+DLG SPR_1g
+POS 7 8,13
+
+SPR 1r
+01100010
+11110111
+00100110
+01000010
+00111000
+00110111
+00010110
+00010010
+>
+01100111
+01110011
+01000010
+01000010
+00111100
+00011011
+00010010
+00010010
+DLG SPR_1h
+POS 7 3,8
+
+SPR 1s
+00000000
+00000010
+00100000
+00000001
+00010000
+00000000
+10000000
+00000000
+>
+00000000
+00001000
+00000001
+00000100
+10000000
+00010000
+00000000
+00000000
+NAME SPORESPRITE
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG ITM_0
+
+ITM 1
+00000000
+00000010
+00100000
+00000001
+00010000
+00000000
+10000000
+00000000
+>
+00000000
+00001000
+00000001
+00000100
+10000000
+00010000
+00000000
+00000000
+NAME Spore
+COL 5
+
+DLG SPR_0
+Musheth: What a lovely day - perfectly damp! Are you off to Mushruniversity? Don't be late!
+
+DLG ITM_0
+You found a nice warm cup of tea
+
+DLG SPR_1
+"""
+Mushilda: I'm going to be as tall as the Oak Tree one day!
+Mushy: Don't be silly! Mushrooms don't grow that high!
+Mushua: What if we start climbing the tree? Maybe we can still reach the top?
+Mushley: I heard that there are villages of wild mushrooms up there, some of them have never even seen the undergrowth!
+"""
+
+DLG SPR_2
+Mushie: The Mushruniversity is so inspiring... did you know it was founded almost 850 years ago when the Oak was just a sapling?
+
+DLG SPR_3
+Mushward: I love the shade of the Oak. The mulch is so rich and soft here!
+
+DLG SPR_4
+Mushen: Some days it's nice to just take a break out here between classes... there's not mush room inside the tree. 
+
+DLG SPR_5
+The bark is engraved with bio-luminescent ink: {clr3}Palaeontology Department{clr3}
+
+DLG SPR_6
+The bark is engraved with bio-luminescent ink: {clr3}Biology Department{clr3}
+
+DLG SPR_7
+The bark is engraved with bio-luminescent ink: {clr3}Philosophy Department{clr3}
+
+DLG SPR_8
+The bark is engraved with bio-luminescent ink: {clr3}Geography Department{clr3}
+
+DLG SPR_9
+Mushron: Sometimes, at certain times of the year, travelling spores visit us with news and research from other universities. I'm finalising my preparations for the Spring Spore Summit as we speak!
+
+DLG SPR_a
+Musherta: The wisdom of our kingdom is bound into the roots of the Mushruniversity.
+
+DLG SPR_b
+"""
+Mushbeth: What did you learn in Biology today? In Palaeontology we learnt about the oldest fungi from 2.4 BILLION years ago!
+Mushid: Wow!!! In biology we learnt about the enzymes we use for digestion!
+Mushelle: Blergh, sounds nasty! I found out in Geography that some other fungi live at the bottom of the ocean, sounds cold, brrrr!
+Mushelda: Yeah but Mushelle you're forgetting about the fungi who live on hydrothermal vents, I don't think I could take that heat! It's good to think about the perspectives we gain from such a wide diversity of fungal friends, that's what we talked about in Philosophy today!
+"""
+
+DLG SPR_c
+Ms Mush: ...and so you can see that at the optimum temperature and moisture, we can accelerate the mycelium growth for our mushchildren. Many of you will recognise these feathery filaments from your own nurseries!
+
+DLG SPR_d
+Mushgeoff: *engraving notes onto a rock*
+
+DLG SPR_e
+Mushtom: Biology is my favourite class! Our bodies are so weird!
+
+DLG SPR_f
+Mushinda: *experimenting with spore moisture*
+
+DLG SPR_g
+Mushothy: It's amazing to think we all start out so small. I remember it like it was yesterday.
+
+DLG SPR_h
+Mushona: I wonder how the substrate affects the growth rate?
+
+DLG SPR_i
+Mushabel: The glow from the spores is mesmerising.
+
+DLG SPR_j
+Mushmel: *making notes*
+
+DLG SPR_k
+Mushin: Incredible!
+
+DLG SPR_l
+Mushia: *nodding along*
+
+DLG SPR_m
+Dr Mushlyn: ... the spores you see in these rocks are fossilised from the Ordovician period, around the time that fungi evolved into their first terrestrial forms.  
+
+DLG SPR_n
+Mushes: Evolution is amazing! I wonder where we'll be in another 300 million years!
+
+DLG SPR_o
+Mushan: I'd love to meet more aquatic mushrooms.
+
+DLG SPR_p
+Mushry: I wonder if one of the spores on those rocks is a distant relative of mine?
+
+DLG SPR_q
+Mushamin: It's amazing to think that for most of our evolution the fungi kingdom was just spores with no mushrooms. 
+
+DLG SPR_r
+Musham: *examining spores on a small rock*
+
+DLG SPR_s
+Mushlas: You'd never even notice this wealth of history unless you took the time to look closely at the rocks.
+
+DLG SPR_t
+Musheen: *drawing mushrooms in a book*
+
+DLG SPR_u
+Mushander: I want to discover the earliest spore!
+
+DLG SPR_v
+Mushiol: Our kingdom has seen so much throughout history.
+
+DLG SPR_w
+Mr Mushol: ...our fungal relatives live on every continent, in every biome, and have adapted to every condition imaginable! The collective knowledge of the world we share in the kingdom is ever growing due to our millennia of exploration of different environments.
+
+DLG SPR_x
+Mushandrew: I love learning about our adaptations, it makes me want to explore and meet more mushrooms and understand their way of life! 
+
+DLG SPR_y
+Mushman: *examining a map*
+
+DLG SPR_z
+Mushily: Can I travel the world?
+
+DLG SPR_10
+Mushony: The symbiotic relationships we have with plants and animals are what fascinate me most.
+
+DLG SPR_11
+Mushoe: *doodling spores*
+
+DLG SPR_12
+Mushex: *writing notes*
+
+DLG SPR_13
+Musher: I want to sail the skies as a floating spore!
+
+DLG SPR_14
+Mushclam: I found a mushroom in a shell once and I thought it was a clam!
+
+DLG SPR_15
+Ms Mushanda: ...in our society we are seldom alone, it is in our nature to work together with each other and help each other grow. The processes you learn about in biology, for example, would not be possible without the cooperation we share - so how does that reflect in our society?
+
+DLG SPR_16
+Mushtin: Who am I? Am I an individual or a part of something larger? Maybe I'm both?
+
+DLG SPR_17
+Mushio: Next week I get to deliver the lectures and I'm excited to share my research with everyone!
+
+DLG SPR_18
+Mushkevin: I love to think about the networks that connect us, how we travel through them and the variety of fungi we see along the way.
+
+DLG SPR_19
+Mushla: *looks lost in thought*
+
+DLG SPR_1a
+Mushison: Are there mushrooms in space?
+
+DLG SPR_1b
+Mushkas: We're so lucky to have had such a rich history of knowledge, I hope we never stop learning and sharing from that pool of wisdom!
+
+DLG SPR_1c
+Mushine: *staring at their reflection in the water*
+
+DLG SPR_1d
+Mushchildren: Oooh!
+
+DLG SPR_1e
+Mushchildren: The spores are here!
+
+DLG SPR_1f
+Mushchildren: Hellooo!
+
+DLG SPR_1g
+Mushchildren: What will we learn this season?
+
+DLG SPR_1h
+Mushchildren: I see more there over that bridge!
+
+END 0
+.'-."'-=.';,-:#*'.,:-:'.,.'-."'-=.';,-.'-."':-:'.,*'.,:-:'.,.'-."'-=.';,-:#*'.,:-:'-=.';,-:#*'.,:-:'.,.'-."'-=.';,-:#*'.,:-:'.,.'-."'-=.';,-:#*'.,:-:'.,.'-."'-=.';,-:#*':#*'.,:-:'.,.'-."'-=.';,-:#*'.,:-:'.,.'-."'-=.';,-:#*'.,:-:'.,."'-=.';,-:#*'.,::-:'.,*'.,:-:'.,.'-."'-=.';,-:#*'.,:-:'-=.';,-:#*'.,:-:'.,.'-."'-=.';,-:#*'.,:-:'.,*'.,:-:'.,.'-."'-=.';,-:#*'.,:-:'.,."'-=.';,-:#*'.,:-:':'.,.'-."'-=.';,-:#*'.,:-:'.,.'-."'-=.';,-:#*'.,:-:'.,*'.,:-:'.,.'-."'-=.';,-:#*'.,:-:'.,."'-=.';,-:#*'.,:-:'.,.'-."'-=.';,-:#*'.,:,:-:'.,.'-."'-=.';,-:#*'.,:-:'.,.'-."'-=.';,-:#*'.,:-:'.,*'.,:-:'.,.'-."'-=.';,-:#*'.,:-:'.,."'-=.';,-:#*'.,:-:'.,=.';,-:#*'.,:-:'.
+
+VAR a
+42
+
+
