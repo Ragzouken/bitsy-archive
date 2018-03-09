@@ -1,0 +1,727 @@
+
+{clr2}Tea for Two{clr2}{br}                     {clr1}Two for Tea{clr1}
+
+# BITSY VERSION 4.6
+
+! ROOM_FORMAT 1
+
+PAL 0
+200,180,180
+235,235,200
+235,200,180
+
+ROOM 0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,o,p,11,12,x,w,a,a,a,a,a
+a,a,a,a,i,0,0,0,0,0,0,q,a,a,a,a
+a,a,a,j,0,1d,0,0,0,1c,0,0,r,a,a,a
+a,a,a,k,0,0,0,1b,0,0,0,0,s,a,a,a
+a,a,l,0,0,1c,0,0,0,0,0,1b,0,t,a,a
+a,a,m,0,1b,0,0,0,0,0,0,0,0,u,a,a
+a,a,n,0,0,0,13,17,17,16,0,0,1d,v,a,a
+a,l,0,0,19,0,14,18,18,15,0,1a,0,0,t,a
+a,m,0,1b,0,0,0,0,0,0,0,0,1c,0,u,a
+a,n,1d,0,1c,0,c,d,10,b,0,0,1b,0,v,a
+a,y,h,h,h,g,e,e,e,e,f,h,h,h,z,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+ITM 0 7,10
+EXT 7,10 1 7,10
+PAL 0
+
+ROOM 1
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,o,p,11,12,x,w,a,a,a,a,a
+a,a,a,a,i,0,0,0,0,0,0,q,a,a,a,a
+a,a,a,j,0,1d,0,0,0,1c,0,0,r,a,a,a
+a,a,a,k,0,0,0,1b,0,0,0,0,s,a,a,a
+a,a,l,0,0,1c,0,0,0,0,0,1b,0,t,a,a
+a,a,m,0,1b,0,0,0,0,0,0,0,0,u,a,a
+a,a,n,0,0,0,13,17,17,16,0,0,1d,v,a,a
+a,l,0,0,19,0,14,18,18,15,0,1a,0,0,t,a
+a,m,0,1b,0,0,0,0,0,0,0,0,1c,0,u,a
+a,n,1d,0,1c,0,c,d,10,b,0,0,1b,0,v,a
+a,y,h,h,h,g,e,e,e,e,f,h,h,h,z,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+END 0 7,11
+END 1 4,9
+END 2 7,2
+END 2 8,2
+END 3 5,12
+END 3 10,12
+END 4 2,12
+END 4 3,12
+END 4 4,12
+END 4 11,12
+END 4 12,12
+END 4 13,12
+END 5 11,9
+PAL 0
+
+TIL 10
+00000000
+00000000
+00000000
+00000000
+00000000
+11111110
+11111111
+00000001
+
+TIL 11
+11110001
+00000000
+00000101
+00001011
+00000101
+00001110
+00000011
+00000100
+
+TIL 12
+00001111
+10000000
+00100000
+11010000
+10100000
+01110000
+11000000
+00100000
+
+TIL 13
+00000000
+01010000
+00101111
+01000000
+00100000
+00100110
+00100110
+00100000
+
+TIL 14
+00100000
+00100101
+00101010
+00100000
+01000000
+00101111
+01010000
+00000101
+
+TIL 15
+01000100
+10100100
+00000100
+01000100
+00000010
+11110100
+00001010
+01000000
+
+TIL 16
+00000000
+00001010
+11110100
+00000010
+00000100
+00000100
+00000100
+00000100
+
+TIL 17
+00000000
+00000000
+11111111
+00000000
+00000000
+01110000
+00000011
+00000000
+
+TIL 18
+00000001
+00010010
+10101000
+00000010
+00000000
+11111111
+00000000
+01010101
+
+TIL 19
+11111111
+10100001
+10100001
+10100001
+10100001
+10111111
+10000001
+11111111
+
+TIL a
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+WAL true
+
+TIL b
+00000000
+00000000
+00000010
+00000010
+00000010
+00011110
+00111110
+00101010
+
+TIL c
+00000000
+00000000
+01000000
+01000000
+01000000
+01111000
+01111100
+01010100
+WAL true
+
+TIL d
+00000000
+00000000
+00000000
+00000000
+00000000
+01111111
+11111111
+10000000
+WAL false
+
+TIL e
+11111111
+00000000
+00000000
+00000000
+01010101
+10101010
+00000000
+00111000
+WAL true
+
+TIL f
+11111111
+01000000
+00100000
+00100000
+01010000
+10100011
+00000000
+00011100
+WAL false
+
+TIL g
+11111111
+00000010
+00000100
+00001000
+00000101
+11001010
+00000000
+00001110
+WAL false
+
+TIL h
+11111111
+00000000
+01110000
+00000000
+00000000
+11000011
+00000000
+00111000
+WAL false
+
+TIL i
+11111111
+11111110
+11111100
+11111000
+11110000
+11100000
+11000000
+10000000
+WAL true
+
+TIL j
+11111111
+11111111
+11111110
+11111110
+11111100
+11111100
+11111000
+11111000
+WAL true
+
+TIL k
+11110000
+11110000
+11100000
+11100000
+11000000
+11000000
+10000000
+10000000
+WAL true
+
+TIL l
+11111111
+11111111
+11111111
+11111110
+11111110
+11111110
+11111100
+11111100
+WAL true
+
+TIL m
+11111100
+11111000
+11111000
+11111000
+11110000
+11110000
+11110000
+11100000
+WAL true
+
+TIL n
+11100000
+11100000
+11000000
+11000000
+11000000
+10000000
+10000000
+10000000
+WAL true
+
+TIL o
+11111111
+11111111
+11111111
+11111111
+11111111
+11111100
+11110000
+11000000
+WAL true
+
+TIL p
+11111111
+11111100
+11110000
+11000000
+00000000
+00000000
+00000000
+00000000
+WAL true
+
+TIL q
+11111111
+01111111
+00111111
+00011111
+00001111
+00000111
+00000011
+00000001
+WAL true
+
+TIL r
+11111111
+11111111
+01111111
+01111111
+00111111
+00111111
+00011111
+00011111
+WAL true
+
+TIL s
+00001111
+00001111
+00000111
+00000111
+00000011
+00000011
+00000001
+00000001
+WAL true
+
+TIL t
+11111111
+11111111
+11111111
+01111111
+01111111
+01111111
+00111111
+00111111
+WAL true
+
+TIL u
+00111111
+00011111
+00011111
+00011111
+00001111
+00001111
+00001111
+00000111
+WAL true
+
+TIL v
+00000111
+00000111
+00000011
+00000011
+00000011
+00000001
+00000001
+00000001
+WAL true
+
+TIL w
+11111111
+11111111
+11111111
+11111111
+11111111
+00111111
+00001111
+00000011
+WAL true
+
+TIL x
+11111111
+00111111
+00001111
+00000011
+00000000
+00000000
+00000000
+00000000
+WAL true
+
+TIL y
+11111111
+10000000
+11110000
+10000000
+11000000
+11100011
+11111000
+11111111
+WAL true
+
+TIL z
+11111111
+00000001
+01110001
+00000001
+00000011
+11000111
+00011111
+11111111
+WAL true
+
+TIL 1a
+11111111
+10000101
+10000101
+10000101
+10000101
+11111101
+10000001
+11111111
+
+TIL 1b
+00000000
+00100000
+00101000
+00100000
+00000000
+00101000
+00000000
+00001000
+
+TIL 1c
+00000000
+00000000
+00010000
+00000100
+00000000
+00000100
+00000100
+00000000
+
+TIL 1d
+00000000
+00000000
+00010000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+SPR A
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+00000000
+POS 0 7,11
+
+SPR b
+00110000
+00110010
+00100100
+01111000
+10110000
+10111110
+00001010
+00001010
+>
+00110000
+00110000
+00100000
+01111110
+10110000
+10111110
+00001010
+00001010
+DLG SPR_1
+POS 0 6,11
+
+SPR c
+00001100
+00001100
+00000100
+01111110
+00001101
+01111101
+01010000
+01010000
+>
+00001100
+01001100
+00100100
+00011110
+00001101
+01111101
+01010000
+01010000
+POS 0 9,11
+
+SPR d
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+00000000
+DLG SPR_0
+POS 0 8,11
+
+SPR e
+00110000
+10110010
+10100100
+01111000
+00110000
+00111110
+00001010
+00001010
+>
+00110000
+00110000
+10100010
+11111100
+00110000
+00111110
+00001010
+00001010
+DLG SPR_3
+POS 1 6,11
+
+SPR f
+00001100
+00001100
+01000101
+00111111
+00001100
+01111100
+01010000
+01010000
+>
+00001100
+01001101
+00100101
+00011110
+00001100
+01111100
+01010000
+01010000
+DLG SPR_4
+POS 1 9,11
+
+SPR g
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+00000000
+DLG SPR_2
+POS 1 8,11
+
+ITM 0
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+DLG ITM_0
+
+DLG ITM_0
+{clr2}"{shk}OH NO{shk}"{clr2}{br}{br}{clr2}"The tea's {shk}escaping!{shk}"{clr2}
+
+DLG SPR_1
+"""
+{cycle
+  - {clr2}"{wvy}Ahh{wvy}, nothing like a nice cup of tea with a friend!"{clr2}
+  - {clr2}"*{shk}slurp{shk}*"{clr2}
+  - {clr2}"I do so enjoy drinking this tea out of this cup!"{clr2}
+}
+"""
+
+DLG SPR_0
+"""
+{cycle
+  - {clr2}"Oh boy, I sure am enjoying this cup of tea!"{clr2}
+  - {clr2}"*{shk}slurp{shk}*"{clr2}
+  - {clr2}"Yes'm, it sure is a tasty beverage I am drinking!"{clr2}
+}
+"""
+
+DLG SPR_2
+"""
+{sequence
+  - {clr1}"Don't worry about me, {shk}go!!!{shk}"{clr1}
+  - {clr1}"I'll distract them, {shk}hurry!!!{shk}"{clr1}
+  - {clr1}"{wvy}{shk}AAARRGHHH!!!{shk}{wvy}"{clr1}
+  - {clr1}*{shk}splash{shk}*{clr1}{br}
+    {clr2}"{shk}Ah!{shk} Ouch, spilled a bit."{clr2}{splashed = 1}
+  - {clr1}...{clr1}
+}
+"""
+
+DLG SPR_3
+"""
+{shuffle
+  - {clr2}"The {shk}nerve!{shk}"{clr2}
+  - {clr2}"The {shk}audacity!{shk}"{clr2}
+  - {clr2}"The {shk}gall!{shk}"{clr2}
+  - {clr2}"The {shk}cheek!{shk}"{clr2}
+  - {clr2}"The {shk}moxie!{shk}"{clr2}
+  - {clr2}"The {shk}temerity!{shk}"{clr2}
+  - {clr2}"The {shk}audaciousness!{shk}"{clr2}
+  - {clr2}"The {shk}impudence!{shk}"{clr2}
+  - {clr2}"The {shk}impertinence!{shk}"{clr2}
+  - {clr2}"The {shk}insolence!{shk}"{clr2}
+  - {clr2}"The {shk}presumptuousness!{shk}"{clr2}
+}
+"""
+
+DLG SPR_4
+"""
+{
+  - splashed == 0 ?
+    {shuffle
+  - {clr2}"My {shk}word!{shk}"{clr2}
+  - {clr2}"{shk}Egads!{shk}"{clr2}
+  - {clr2}"*{shk}gasp{shk}*"{clr2}
+  - {clr2}"Good {shk}lord!{shk}"{clr2}
+  - {clr2}"By {shk}gum!{shk}"{clr2}
+  - {clr2}"Big {shk}mood!{shk}"{clr2}
+  - {clr2}"For {shk}shame!{shk}"{clr2}
+  - {clr2}"I {shk}say!{shk}"{clr2}
+  - {clr2}"Holy {shk}moley!{shk}"{clr2}
+  - {clr2}"Dear {shk}me!{shk}"{clr2}
+  - {clr2}"{shk}Goodness!{shk}"{clr2}
+  - {clr2}"{shk}Gracious!{shk}"{clr2}
+  - {clr2}"My {shk}stars!{shk}"{clr2}
+  - {clr2}"Oh {shk}no!{shk}"{clr2}
+  - {clr2}"Oh {shk}my!{shk}"{clr2}
+  - {clr2}"I'll {shk}be!{shk}"{clr2}
+  - {clr2}"{shk}Oh!{shk}"{clr2}
+  - {clr2}"{shk}Ohh!!{shk}"{clr2}
+  - {clr2}"{shk}Ohhh!!!{shk}"{clr2}
+  - {clr2}"Gad{shk}zooks!{shk}"{clr2}
+  - {clr2}"Minced {shk}oaths!{shk}"{clr2}
+  - {clr2}"Cods{shk}wallop!{shk}"{clr2}
+}
+  - else ?
+    {shuffle
+  - {clr2}"{shk}Ouch!{shk} Still stings..."{clr2}
+  - {clr2}"{shk}Yikes!{shk} Still hurts..."{clr2}
+  - {clr2}"{shk}Oof!{shk} Still burns..."{clr2}
+}
+"""
+
+END 0
+{clr2}"*{wvy}phew{wvy}*"{clr2}{br}{br}{clr2}"It came back!"{clr2}{br}{br}{br}{br}{clr2}"*{shk}sluuuuuuuuuuuuuuuuuuuuuuuurp{shk}*"{clr2}
+
+END 1
+{clr2}"{shk}Oh no!{shk} It's headed for the open window on the left!"{clr2}{br}{clr2}*{shk}stumble{shk}* *{shk}trip{shk}* *{shk}crash{shk}*{clr2}{br}{br}{clr2}"{shk}{wvy}GET BACK HERE!!!{wvy}{shk}"{clr2}{br}{br}{clr1}The voices fade into the distance as you abscond.{clr1}{br}{clr1}No one can say what the future holds for you...{br}But if nothing else, it will be determined on your own terms.{clr1}
+
+END 2
+{clr2}"{shk}Oh no!{shk} It's headed for the crystal chandelier!"{clr2}{br}{clr1}*{shk}splash{shk}*{clr1}{br}{br}{clr2}"*{wvy}sigh{wvy}*"{br}{br}"There goes our mood lighting."{clr2}
+
+END 3
+{clr2}"{shk}Oh no!{shk} It's headed for the diamond-encrusted rug!"{clr2}{br}{clr1}*{shk}splash{shk}*{clr1}{br}{br}{clr2}"Ugh, that stain is never going to come out..."{clr2}
+
+END 4
+{clr2}"{shk}Oh no!{shk} It's headed for the all-natural hardwood!"{clr2}{br}{clr1}*{shk}splash{shk}*{clr1}{br}{br}{clr2}"Such a waste..."{clr2}
+
+END 5
+{clr2}"{shk}Oh no!{shk} It's headed for the open window on the right!"{clr2}{br}{clr2}*{shk}stumble{shk}* *{shk}trip{shk}* *{shk}crash{shk}*{clr2}{br}{br}{clr2}"{shk}{wvy}GET BACK HERE!!!{wvy}{shk}"{clr2}{br}{br}{clr1}The voices fade into the distance as you abscond.{clr1}{br}{clr1}No one can say what the future holds for you...{br}But if nothing else, it will be determined on your own terms.{clr1}
+
+VAR splashed
+0
+
+

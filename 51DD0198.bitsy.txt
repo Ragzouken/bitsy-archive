@@ -1,0 +1,750 @@
+"Rescued by my courage, she must be mine"
+
+# BITSY VERSION 3.5
+
+! ROOM_FORMAT 1
+
+PAL 0
+0,0,0
+192,192,192
+255,255,255
+
+ROOM 0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+0,0,0,0,0,0,0,0,0,0,a,a,a,a,a,a
+0,0,0,0,0,0,0,0,0,0,0,0,a,a,a,a
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+0,0,0,0,0,0,0,0,0,0,b,0,0,0,0,0
+0,0,0,b,0,0,0,0,0,0,0,0,0,0,0,0
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,b
+0,0,0,0,0,b,0,0,0,0,0,0,0,b,0,b
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,b
+b,b,b,b,b,b,b,b,b,0,b,b,b,b,b,0
+EXT 9,15 1 7,0
+PAL 0
+
+ROOM 1
+c,c,c,c,c,c,0,0,0,0,c,c,c,c,c,c
+c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,c
+c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,c
+c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,c
+c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,c
+c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,c
+c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,c
+c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,c
+c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,c
+c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,c
+c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,c
+c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,c
+c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,c
+c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,c
+c,d,d,c,c,c,c,d,d,c,c,c,c,d,d,c
+c,c,c,c,d,d,d,d,0,d,d,d,c,c,c,c
+WAL c
+EXT 8,15 2 0,2
+PAL 0
+
+ROOM 2
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+c,c,c,c,c,c,c,c,c,d,d,d,d,d,d,d
+a,a,d,d,d,d,a,a,c,c,c,c,c,d,d,d
+a,a,d,d,d,d,a,a,c,c,c,c,c,d,d,d
+a,a,a,a,a,a,a,a,c,c,c,c,c,d,d,d
+d,d,d,d,d,d,a,a,a,c,c,c,c,d,d,d
+d,d,d,d,d,d,d,a,a,a,a,a,c,d,d,d
+d,d,d,d,d,d,d,d,d,d,a,a,c,d,d,d
+d,d,d,d,d,d,d,d,d,d,a,a,c,d,d,d
+d,d,d,c,c,c,c,c,c,c,c,a,c,d,d,d
+d,d,d,c,c,c,c,c,c,c,c,c,c,d,d,d
+d,d,d,d,d,c,c,c,c,c,c,c,c,d,d,d
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+END undefined 5,4
+END undefined 4,4
+PAL 0
+
+TIL a
+11100110
+10001101
+00011011
+10110111
+01101110
+00010111
+10001001
+00000011
+>
+00000000
+00000010
+00001000
+01100100
+11010100
+11111000
+10100000
+00100000
+
+TIL b
+00000000
+00000000
+00000000
+10000000
+11000000
+11100000
+11110000
+11110000
+
+TIL c
+11111111
+10100101
+10111101
+10011001
+10011001
+10111101
+11111111
+11111111
+
+TIL d
+00000000
+01010100
+00101010
+01010100
+00101010
+01010100
+00101010
+00000000
+
+SPR 10
+00010010
+11111110
+10011000
+00010000
+00011000
+00011000
+00011100
+11111100
+>
+01001000
+01111110
+00011010
+00010000
+00011000
+00011000
+11111100
+11111100
+POS 2 4,4
+
+SPR A
+00011000
+00011000
+00011000
+00111100
+01111110
+10111101
+00100100
+00100100
+POS 0 5,6
+
+SPR a
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+POS 0 8,12
+
+SPR b
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 1 7,2
+
+SPR c
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 1 5,4
+
+SPR d
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 1 9,4
+
+SPR e
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 1 3,7
+
+SPR f
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 1 11,7
+
+SPR g
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 1 7,9
+
+SPR h
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 1 9,13
+
+SPR i
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 2,1
+
+SPR j
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 2,1
+
+SPR k
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 5,2
+
+SPR l
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 8,1
+
+SPR m
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 11,3
+
+SPR n
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 13,1
+
+SPR o
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+
+SPR p
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 15,4
+
+SPR q
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 13,6
+
+SPR r
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 15,8
+
+SPR s
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 13,11
+
+SPR t
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 15,15
+
+SPR u
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 10,14
+
+SPR v
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 6,15
+
+SPR w
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 0,13
+
+SPR x
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 6,10
+
+SPR y
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 0,9
+
+SPR z
+00000000
+11000000
+11000000
+01000000
+01011100
+01010100
+01110111
+00000000
+>
+00000000
+11000000
+11000000
+01000000
+01110111
+00010100
+00011100
+00000000
+POS 2 2,7
+
+DLG 10
+Well, what are you waiting for?
+
+DLG a
+Welcome to the land of the gorgons. The cave is that way.
+
+DLG b
+We speak for her.
+
+DLG c
+believe it or not I know what it is to turn into stone.
+
+DLG d
+I know what it is to feel someone's eyes burn into yours.
+
+DLG e
+you turn and look into their eyes and they gaze like burning embers
+
+DLG f
+and if you knew better, you would cry out, but you don't, you fall silent. 
+
+DLG g
+you stand there stock still and everything freezes, even though you should fight or run or kick or scream. You should know better, shouldn't you?
+
+DLG h
+but surely you know all that, don't you, my brave hero?
+
+DLG i
+I was beautiful once... I know that is hard to believe.
+
+DLG j
+I was beautiful once, I know that is hard to believe. 
+
+DLG k
+but I wanted to be more than beautiful. I wanted to devote my life to something bigger than that. 
+
+DLG l
+I wanted my life to be important. Mortal lives have to be important. 
+
+DLG m
+I wanted to serve. Unlike my sisters, well willing to sleep for years for nothing. That's why I chose to serve the goddess Athena. 
+
+DLG n
+The goddess of wisdom- that seemed worthy. 
+
+DLG o
+She liked her girls, chaste and so I was. I only thought of her, of being a vessel for her. 
+
+DLG p
+I thought, I could be so much more for her. 
+
+DLG q
+Then one night, I was there late in the temple, I know I shouldn't have been but it was so peaceful at night
+
+DLG r
+kind of like it is now, kind of like how it is here. I remember the cool marble underneath my feet. 
+
+DLG s
+Then, I heard HIM behind me... and you know the rest? That's why you're here isn't it?
+
+DLG t
+but really.. what he did to me in that temple hurt, but what turned me into stone really wasn't him, it was her, turning away from me. 
+
+DLG u
+the goddess, in all of her wisdom, could not believe I was innocent
+
+DLG v
+Ovid, in all of his wisdom will say I'm a skank that deserves that ugliness inside and out
+
+DLG w
+and you... why are you here? To save a damsel?
+
+DLG x
+if her father wanted to save her, they would, you know that right?
+
+DLG y
+but they don't want to-- it's really one monster or the next
+
+DLG z
+how the hell do you know if she even wants to be saved?
+
+END 0
+
+
+END undefined
+You slice off her head, and a winged horse crawls out of her carcass, and like an echo, her voice says, 
+
