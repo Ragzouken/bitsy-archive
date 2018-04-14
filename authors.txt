@@ -63,3 +63,4 @@ manofdoom,X,X
 MetalChouchen,X,X
 magicalbitch,X,X
 ninfa,X,X
+Stuart Lilford,X,X
