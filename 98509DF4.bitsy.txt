@@ -1,0 +1,1212 @@
+
+I need to go to work and I can't find {shk}MY GLASSES!{shk}
+
+# BITSY VERSION 4.6
+
+! ROOM_FORMAT 1
+
+PAL 0
+136,116,204
+109,69,189
+90,52,168
+
+ROOM 0
+0,o,n,n,n,n,n,n,u,n,n,n,n,n,p,0
+0,m,a,a,a,a,a,a,m,a,y,y,a,a,m,0
+0,m,11,0,0,0,0,0,m,11,0,0,i,z,m,0
+0,m,12,0,0,0,0,0,m,12,0,0,0,0,m,0
+0,m,0,0,0,0,0,j,l,0,0,i,0,0,m,0
+0,m,0,0,0,j,0,0,k,0,12,11,12,j,m,0
+0,m,0,j,0,0,0,0,m,0,0,i,11,11,m,0
+0,m,h,0,d,e,0,0,m,0,0,0,i,11,m,0
+0,m,0,0,0,0,0,0,m,d,10,10,e,0,m,0
+0,m,g,g,f,0,0,0,o,n,n,n,n,n,m,0
+0,m,0,0,0,0,z,0,m,a,a,a,t,s,m,0
+13,l,0,0,i,0,0,0,l,0,0,i,0,0,m,0
+13,k,j,0,0,h,0,0,k,0,0,0,j,0,m,0
+13,m,x,v,w,w,j,0,m,x,0,v,v,w,m,0
+0,q,n,n,n,n,n,n,n,n,n,n,n,n,r,0
+0,1b,a,a,a,a,a,a,a,a,a,a,a,a,1a,0
+NAME apartment
+ITM 2 13,12
+ITM 3 9,11
+ITM 1 9,7
+ITM 2 2,12
+EXT 0,12 1 15,8
+PAL 0
+
+ROOM 1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,16,0,15,15,15,15,15,15,15,15
+0,0,0,0,0,0,17,18,19,0,0,0,0,0,0,0
+14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+NAME bus stop
+ITM 4 9,8
+END 0 8,8
+PAL 0
+
+TIL 10
+11111111
+11111111
+11111111
+11101111
+11111111
+11100111
+11111111
+00000000
+NAME dresser center
+WAL true
+
+TIL 11
+11000001
+10001100
+00111110
+01000011
+00111000
+11111101
+11111110
+00001111
+NAME clothes 1
+
+TIL 12
+00000110
+00000000
+00001100
+01001100
+00000000
+00110001
+01100000
+11000000
+NAME clothescrud
+
+TIL 13
+00111100
+01101110
+11001111
+10000001
+10000001
+11001111
+01101110
+00111100
+NAME arrow
+
+TIL 14
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME blackness
+WAL true
+
+TIL 15
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME invisiblewall
+WAL true
+
+TIL 16
+11111111
+10000001
+10111101
+10111101
+10000001
+10100101
+10000001
+10111101
+NAME busstoptop
+
+TIL 17
+00001000
+00001000
+00001000
+00001000
+00001000
+00001000
+00001000
+00111110
+NAME busstopbottom
+
+TIL 18
+01111111
+00100000
+01111111
+00100000
+01111111
+01111111
+01111111
+00100000
+NAME benchleft
+WAL true
+
+TIL 19
+11111110
+00000100
+11111110
+00000100
+11111110
+11111110
+11111110
+00000100
+NAME benchright
+
+TIL a
+00110011
+00000000
+10011001
+00000000
+10101010
+01010101
+11111111
+00000000
+NAME wall bottom
+WAL true
+
+TIL d
+11111110
+01111110
+11111101
+01110011
+01101111
+01101111
+01101111
+01000000
+NAME dresser left
+WAL true
+
+TIL e
+11111111
+11111110
+11111111
+11111010
+11111110
+11111010
+11111110
+00000010
+NAME dresser right
+WAL true
+
+TIL f
+11111111
+01100101
+11111111
+11001111
+10110111
+01110111
+01111111
+01001111
+NAME kitchen right
+WAL true
+
+TIL g
+11111111
+10011010
+11111111
+11111111
+11111111
+11111111
+11111111
+11111001
+NAME kitchen left
+WAL true
+
+TIL h
+00100100
+00000000
+00100100
+00010010
+00010010
+00100100
+00100100
+00000000
+>
+00000000
+00100100
+01001000
+01001000
+00100100
+00000000
+00100100
+00000000
+NAME stank
+
+TIL i
+00000000
+00000000
+00011000
+00000010
+01101000
+01100000
+00000000
+00000110
+NAME crud 1
+
+TIL j
+00000000
+00000000
+01001010
+00000100
+01001010
+00000000
+00010000
+00000000
+NAME grunge
+
+TIL k
+01000010
+01000010
+01100010
+01000010
+01000010
+01000010
+01111110
+00000000
+NAME door bottom
+
+TIL l
+01111110
+01111110
+01111110
+00000000
+01111110
+01000010
+01000010
+01000010
+NAME door top
+WAL true
+
+TIL m
+01111110
+01111110
+01111110
+01111110
+01111110
+01111110
+01111110
+01111110
+NAME wall side
+WAL true
+
+TIL n
+11111111
+11111111
+11111111
+00000000
+00000000
+00000000
+01000100
+00000000
+NAME wall top
+WAL true
+
+TIL o
+01111111
+01111111
+01111111
+01111110
+01111110
+01111110
+01111110
+01111110
+NAME wall top left
+WAL true
+
+TIL p
+11111110
+11111110
+11111110
+01111110
+01111110
+01111110
+01111110
+01111110
+NAME wall top right
+WAL true
+
+TIL q
+01111111
+01111111
+01111111
+01000000
+01000000
+01000000
+01000100
+01000000
+NAME wall bottom left
+WAL true
+
+TIL r
+11111110
+11111110
+11111110
+00000010
+00000010
+00000010
+01000110
+00000010
+NAME wall bottom right
+WAL true
+
+TIL s
+00001100
+11111110
+00000010
+10011010
+00000010
+10011010
+10011010
+01100110
+NAME shower right
+
+TIL t
+00000000
+11111111
+10000000
+10011001
+10000000
+10011001
+10011001
+01100110
+NAME shower left
+
+TIL u
+11111111
+11111111
+11111111
+01111110
+01111110
+01111110
+01111110
+01111110
+NAME wall T
+WAL true
+
+TIL v
+11010111
+00010000
+00010110
+00000000
+11111111
+01010101
+01010101
+11111111
+NAME counter center
+WAL true
+
+TIL w
+11111111
+00000001
+01001101
+00000001
+11111111
+01010101
+01010101
+11111111
+NAME counter right
+WAL true
+
+TIL x
+11110110
+10000110
+10100110
+10000000
+11111111
+11010101
+11010101
+11111111
+NAME counter left
+WAL true
+
+TIL y
+00110011
+11111111
+10000001
+10000001
+10100001
+10010001
+11000011
+11111111
+NAME pillows
+
+TIL z
+00010011
+11010100
+00101000
+00011000
+01111110
+01111110
+00111100
+00111100
+NAME pot
+WAL true
+
+TIL 1a
+00110010
+00000010
+10011010
+00000010
+10101010
+01010110
+11111110
+00000000
+NAME wall bottom corner right
+
+TIL 1b
+01110011
+01000000
+01011001
+01000000
+01101010
+01010101
+01111111
+00000000
+NAME wall bottom corner left
+
+SPR 10
+00111111
+01111111
+01111111
+01111010
+11011111
+11100000
+11011111
+11011111
+NAME couch left
+DLG SPR_j
+POS 0 4,4
+
+SPR 11
+11111100
+11111110
+11111110
+00011110
+11111011
+10000111
+01111011
+01111011
+NAME couch right
+DLG SPR_h
+POS 0 5,4
+
+SPR 12
+00111100
+01000110
+10010011
+10010011
+10011011
+10000011
+01000110
+00111100
+NAME clock
+DLG SPR_l
+POS 0 3,1
+
+SPR A
+00011000
+00011100
+00011000
+01111100
+10111110
+00111101
+00100100
+00100000
+>
+00011000
+00111000
+00011000
+00111110
+01111101
+10111100
+00100100
+00000100
+POS 0 6,3
+
+SPR a
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+01111100
+>
+00000000
+00000000
+01010001
+01110010
+01110010
+01111100
+00111100
+01111100
+NAME cat
+DLG SPR_0
+POS 0 13,5
+
+SPR b
+11111111
+10000000
+10110000
+10000010
+10110010
+11111110
+01111110
+00000010
+NAME tv left
+DLG SPR_2
+POS 0 4,6
+
+SPR c
+11111111
+00000001
+00000101
+10000001
+10000101
+11111111
+11111110
+11000000
+NAME tv right
+DLG SPR_1
+POS 0 5,6
+
+SPR d
+11111110
+10000001
+10000101
+10000101
+10000001
+11111111
+10000001
+10010001
+NAME fridge top
+POS 0 5,9
+
+SPR e
+10000101
+10100101
+10000101
+10101101
+10000101
+10000001
+10000001
+11111111
+NAME fridge bottom
+DLG SPR_3
+POS 0 5,10
+
+SPR f
+11111111
+10000011
+10101001
+10101011
+11111111
+10111111
+10111111
+11111111
+NAME sink right
+DLG SPR_5
+POS 0 4,10
+
+SPR g
+11111111
+11000001
+10011001
+11011001
+11111111
+11111011
+11111011
+11111111
+NAME sink left
+DLG SPR_4
+POS 0 3,10
+
+SPR h
+10000001
+10101101
+10000001
+11111111
+10000001
+10110001
+10000001
+11111111
+NAME oven
+DLG SPR_i
+POS 0 2,10
+
+SPR i
+01111110
+10000001
+10111101
+10000001
+11111111
+10101011
+10101011
+11111111
+NAME trashcan
+DLG SPR_7
+POS 0 5,13
+
+SPR l
+11110101
+00000100
+00100100
+00000000
+11111111
+01010101
+01010101
+11111111
+NAME counter center
+
+SPR m
+01110000
+00100000
+01101101
+01111101
+01101101
+01101111
+01101101
+01000000
+NAME radiator left
+DLG SPR_f
+POS 0 5,1
+
+SPR n
+00000000
+00000000
+10110110
+11110110
+10110110
+10111110
+10110110
+10000010
+NAME radiator right
+DLG SPR_g
+POS 0 6,1
+
+SPR o
+01000000
+11111111
+01111111
+01111111
+01111111
+00111111
+00011111
+00001000
+NAME bathub left
+DLG SPR_m
+POS 0 12,11
+
+SPR p
+00000110
+11111111
+11111111
+11111110
+11111110
+11111100
+11111000
+00010000
+NAME bathtub right
+DLG SPR_n
+POS 0 13,11
+
+SPR q
+11111111
+11011011
+11011011
+01011010
+01000010
+01111110
+00111100
+01111110
+NAME toliet bottom
+DLG SPR_9
+POS 0 10,11
+
+SPR r
+00000000
+00000000
+01111110
+10000001
+11111111
+10000001
+10001101
+10000001
+NAME toilet top
+POS 0 10,10
+
+SPR t
+11111111
+11100111
+10100101
+00000000
+11111111
+01010101
+01010101
+11111111
+NAME sink
+DLG SPR_8
+POS 0 10,13
+
+SPR u
+10111111
+10111111
+11111111
+10111111
+10111111
+11010100
+11111111
+01100000
+NAME bed left
+DLG SPR_b
+POS 0 10,2
+
+SPR v
+11111111
+11111111
+11111111
+11111111
+11111111
+10011111
+11111111
+00000110
+NAME bed right
+DLG SPR_k
+POS 0 11,2
+
+SPR w
+00000000
+00000000
+01111110
+10000001
+10111101
+10000001
+01111110
+01111110
+NAME catbox
+DLG SPR_a
+POS 0 2,8
+
+SPR x
+00000000
+00000000
+00000000
+00000000
+11111111
+11111111
+01111110
+00111100
+NAME bowl
+DLG SPR_c
+POS 0 10,7
+
+SPR y
+00000000
+01111000
+01111000
+00000000
+00011110
+10011110
+00000000
+01000000
+NAME cat dishes
+DLG SPR_d
+POS 0 7,2
+
+SPR z
+11111111
+10000001
+10100101
+10011001
+10000001
+10000001
+11000011
+01111110
+NAME hamper
+DLG SPR_e
+POS 0 13,8
+
+ITM 1
+00000000
+00000000
+00000000
+01000100
+00100010
+00111110
+00110110
+00000000
+NAME sunglasses
+DLG ITM_1
+
+ITM 2
+00000000
+00000000
+00000000
+00000000
+00110000
+00000000
+00000000
+00000000
+NAME quarteritem
+DLG ITM_0
+
+ITM 3
+00000000
+00000010
+00000100
+00001000
+00110000
+01110000
+00100000
+00000000
+NAME broom
+DLG ITM_2
+
+ITM 4
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME trigger
+DLG ITM_3
+
+DLG SPR_1
+{time = time -1}Ugh, my TV needs dusting.
+
+DLG SPR_2
+{time = time -1}My TV is like the only fancy thing I own.
+
+DLG SPR_3
+"""
+{time = time -1}{
+  - foundlettuce >=1 ?
+    Seriously, {shk}NO. TIME. FOR. SNACKS.{shk}
+  - talkedtocat >= 1 ?
+    {shk}No time for snacks{shk}- wait. Maybe I should get Sheila a treat. I grab some lettuce. (Weirdo loves lettuce){foundlettuce = 1}
+  - else ?
+    {shk}No time for snacks right now!{shk}
+}
+"""
+
+DLG SPR_4
+{time = time -1}Ugh, why does it smell like {wvy}onions...{wvy}
+
+DLG SPR_5
+{time = time -1}My sink is full of dirty dishes.
+
+DLG SPR_6
+They're not in the oven...
+
+DLG SPR_7
+{time = time -1}I keep forgetting to take the trash out.
+
+DLG ITM_1
+My prescription sunglasses? I can't go out in these, I'm gonna look like a tool! At least they'll help me see around the house while I look for my actual glasses.
+
+DLG SPR_8
+{time = time -1}I guess I could wash my hands while I'm here.
+
+DLG SPR_9
+{time = time -1}My glasses are not in the toilet. (Thank god!)
+
+DLG SPR_a
+{time = time -1}At least she's USING the catbox lately...
+
+DLG SPR_b
+"""
+{time = time -1}{sequence
+  - God, how does all this stuff get under the bed? 
+  - 
+}{
+  - {item "sunglasses"} >= 1 ?
+    There's just a bunch of shoes under this side of the bed.
+  - else ?
+    I can't see much of anything under here without my glasses!
+}
+"""
+
+DLG SPR_c
+"""
+{time = time -1}This is the bowl where I keep my keys and stuff. {sequence
+  - Ooh! I found a quarter in here. {quarters = quarters + 1} I have {say quarters} quarter(s) now.
+  - Nothing else useful in here.
+}
+"""
+
+DLG SPR_d
+{time = time -1}Sheila's got plenty of food in her cat dish.
+
+DLG SPR_e
+"""
+{time = time -1}{
+  - foundhamperquarter >= 1 ?
+    I've already been through the hamper.
+  - else ?
+    It's my laundry hamper. I riffle through the wrinkled clothes looking for my glasses. (Or is it 'rifle?' I think it's rifl-) {shk}AGGGH I'M WASTING TIME{shk} Ooh, I found a quarter!{quarters = quarters + 1}
+    {foundhamperquarter = 1}I have {say quarters} quarter(s) now.
+}
+"""
+
+DLG SPR_0
+"""
+{time = time -1}{
+  - foundlettuce >= 1 ?
+    {sequence
+      - Sheila sniffs, then grabs the lettuce from my hand. She gets up from the string she was guarding. I take the string from her because it makes her crazy, apparently.{foundstring = 1}
+      - "{wvy}prRrRr...{wvy}" Sheila ignores me and continues to chew on her lettuce.
+    }
+  - else ?
+    {talkedtocat = 1}Sheila is sitting in a pile of my laundry. She doesn't like me poking about.
+    {shuffle
+      - "{shk}pfffft!{shk}" 
+      - "{shk}mmrrrrrrr...{shk}" 
+      - "{shk}ROWR!{shk}" 
+    }{cycle
+      - She is in a mood today!
+      - (Stupid cat.)
+      - (I wasn't going to touch you!)
+      - (I give you treats, y'know!)
+    }
+}
+"""
+
+DLG SPR_f
+"""
+{time = time -1}{sequence
+  - The radiator is basically solid dust at this point. 
+  -
+}{
+  - {item "sunglasses"} >= 1 ?
+    Nothing but dust-bunnies behind this side of the radiator.
+  - else ?
+    You can't really see behind the radiator. It's too blurry without your glasses!
+}
+"""
+
+DLG SPR_g
+"""
+{time = time -1}{sequence
+  - Is it even like safe to clean a radiator? Won't it light on fire or something? ...
+  - 
+}{
+  - {item "sunglasses"} >= 1 ?
+    {
+      - foundradiatorquarter == 0 ?
+        Oh hey, there's a quarter back there! {quarters = quarters + 1}{foundradiatorquarter = 1}I have {say quarters} quarter(s) now.
+      - else ?
+        You look behind this side of the radiator, but there's nothing there anymore.
+    }
+  - else ?
+    You can't really see back behind it. It's too blurry without your glasses!
+}
+"""
+
+DLG ITM_0
+"""
+Nice, a quarter! I better find my glasses and 5 quarters for the bus before I leave my house, or I'll be in trouble.{quarters = quarters + 1}
+I have {say quarters} quarter(s) now.{endMessage = "teststring"}
+"""
+
+DLG SPR_h
+"""
+{time = time -1}{
+  - foundpaperclip > 0 ?
+    Pretty sure there's nothing else in here.
+  - else ?
+    I search under the right couch cushion.
+ {searchedrightcouch = searchedrightcouch + 1}{
+    - searchedrightcouch > 3 ?
+      For the {say searchedrightcouch}th time. 
+    - searchedrightcouch > 1 ?
+      Again. Just in case. 
+  }{shuffle
+    - ...But I come up empty-handed.
+    - Nothing!
+    - Nothing but lint.
+    - There's a bunch of useless crumbs, but that's about it.
+    - What's this?? Are these my glasses??? ...No, wait, it's just a paperclip. I guess I'll keep it. It might be an important part of a puzzle.{foundpaperclip = 1}
+  }
+}
+"""
+
+DLG SPR_i
+"""
+{time = time -1}{sequence
+  - I look inside the oven for my glasses. Nope.
+  - My glasses are not in the oven!
+}
+"""
+
+DLG SPR_j
+"""
+{time = time -1}{
+  - foundcouchquarter > 0 ?
+    Pretty sure there's nothing else in here.
+  - else ?
+    I search under the left couch cushion.
+ {searchedleftcouch = searchedleftcouch + 1}{
+    - searchedleftcouch > 3 ?
+      For the {say searchedleftcouch}th time. 
+    - searchedleftcouch > 1 ?
+      Again. Just in case. 
+  }{shuffle
+    - ...But I come up empty-handed.
+    - Nothing!
+    - Nothing but lint.
+    - There's a bunch of useless crumbs, but that's about it.
+    - What's this?? I found a quarter in here! {quarters = quarters + 1}I have {say quarters} quarter(s) now.{foundcouchquarter = 1}
+  }
+}
+"""
+
+DLG SPR_k
+"""
+{time = time -1}{
+  - {item "sunglasses"} >= 1 ?
+    {sequence
+      -I peer under this side of the bed. Omigod!! Is that {shk}my glasses?!{shk} They must've fallen down. {shk}AAGGH{shk}, they're just out of reach! 
+      -I can see my glasses under the bed, just out of reach! 
+    }{
+      - {item "broom"} >= 1 ?
+        {
+          - foundpaperclip >= 1?
+            {
+              - foundstring >= 1?
+                 I tie the paperclip to the end of the broom handle to make a hook, and gingerly poke at my glasses... {shk}GOT 'EM!{shk}{foundglasses = 1}{br}{rbw}{wvy}I FOUND MY GLASSES!!!{wvy}{rbw}{br}{br}Now I just have to catch the bus! 
+              - else ?
+                I try to twist the paperclip into a grabby-hook on the end of the broom handle, but it won't stay on there.
+            }
+          - else?
+            I thrash the broom around trying to reach the glasses, but it just pushes them back. It can't quite hook onto them.
+        }
+    }
+  - else ?
+    There's all kinds of stuff under this side of the bed. But without my glasses I can't really tell what.
+}
+"""
+
+DLG ITM_2
+I left this broom here Thursday when I thought I was going to clean the bathroom. I grab it in desperation.
+
+DLG SPR_l
+"""
+I check the clock. {
+  - time >= 1 ?
+    {say time} minutes until the bus arrives.
+  - else ?
+    The bus has already left. You missed it.
+}
+"""
+
+DLG ITM_3
+"""
+Welp.{endMessage = ""}{
+  - foundglasses >= 1 ?
+    {score = score + 55}{endMessage = endMessage + "You found your glasses! "}
+  - {item "sunglasses"} >= 1 ?
+    {score = score + 20}{endMessage = endMessage + "You found your prescription sunglasses. "}
+  - else ?
+    {endMessage = endMessage + "You can't see hardly anything. "}
+}{
+  - time <= 0 ?
+    {score = score + time}{endMessage = endMessage + "You missed the bus and had to walk.  "}
+  - quarters < 5 ?
+    {endMessage = endMessage + "You didn't have change for the bus. "}
+  - else ?
+    {score = score + 30 + time}{endMessage = endMessage + "You caught the bus with " + time + " minutes to spare! "}
+}{
+  - quarters == 6 ?
+    {score = score + 5}{endMessage = endMessage + "You found an extra quarter around the house. "}
+    
+}{
+  - score >= 100 ?
+   {endMessage = endMessage + "This day's looking better and better!"}
+  - score >= 75 ?
+    {endMessage = endMessage + "Everything turned out ok."}
+  - score >= 25 ?
+    {endMessage = endMessage + "Pretty crappy start to the day."}
+  - else ?
+    {endMessage = endMessage + "This day turned out to be hot garbage."}
+}
+
+"""
+
+DLG SPR_m
+{time = time -1}No glasses in the bathtub.
+
+DLG SPR_n
+{time = time -1}{wvy}Grrrrr...{wvy} There's kitty litter in the bottom of the tub! Sheila's been sleeping in here again.
+
+END 0
+{say endMessage}{br}Score: {say score}
+
+END undefined
+Ok, leave, I guess.
+
+VAR quarters
+0
+
+VAR searchedleftcouch
+0
+
+VAR searchedrightcouch
+0
+
+VAR foundpaperclip
+0
+
+VAR foundcouchquarter
+0
+
+VAR talkedtocat
+0
+
+VAR foundlettuce
+0
+
+VAR foundstring
+0
+
+VAR foundhamperquarter
+0
+
+VAR foundradiatorquarter
+0
+
+VAR foundglasses
+0
+
+VAR score
+0
+
+VAR endMessage
+undefined
+
+VAR time
+25
+
+
