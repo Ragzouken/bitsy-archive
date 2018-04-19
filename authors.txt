@@ -74,3 +74,5 @@ Glutnix,X,X
 Silversober - Lisa,X,X
 Emma Daues,X,X
 Hazel-Rah,X,X
+Daniel P. Lopez,X,X
+
