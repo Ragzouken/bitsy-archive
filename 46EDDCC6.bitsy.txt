@@ -1,0 +1,966 @@
+
+"{wvy}zzz...{wvy}"{br}{br}{clr2}*{shk}BZZZZ{shk}*{clr2}{br}{br}"{shk}Aaahh{shk}! I'm late for my archeology final!"
+
+# BITSY VERSION 4.6
+
+! ROOM_FORMAT 1
+
+PAL 0
+161,74,96
+255,104,168
+255,231,161
+
+PAL 1
+161,50,67
+255,120,120
+255,246,157
+
+PAL 2
+161,33,36
+255,187,138
+248,255,136
+
+PAL 3
+132,245,255
+25,77,53
+159,139,255
+
+PAL 4
+191,255,220
+10,63,71
+120,119,138
+
+PAL 5
+161,66,110
+255,138,201
+255,226,194
+
+PAL 6
+225,255,237
+9,36,48
+90,89,109
+
+ROOM 0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,l,h,0,i,a,a,a,a,a,a
+a,a,a,a,a,a,l,i,n,o,x,a,a,a,a,a
+a,a,a,a,a,a,k,j,j,j,m,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+EXT 10,9 1 2,9
+PAL 5
+
+ROOM 1
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,q,r,h,0,a,a,a,a,a,a,a,a,a,a
+a,a,u,q,r,i,a,a,a,a,a,a,a,a,a,a
+a,a,a,u,q,r,x,a,a,a,a,a,a,a,a,a
+a,a,a,a,u,q,m,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+EXT 3,9 1 3,10
+EXT 4,10 1 4,11
+EXT 5,11 1 5,12
+EXT 6,12 2 2,2
+EXT 2,10 1 2,9
+EXT 3,11 1 3,10
+EXT 4,12 1 4,11
+PAL 0
+
+ROOM 2
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,q,r,r,h,0,0,t,0,i,h,0,r,a,a
+a,a,u,q,r,t,s,n,i,o,t,n,s,o,x,a
+a,a,a,u,q,j,j,j,j,j,j,j,j,j,m,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,q,r,h,0,a,a,a,a,a,a,a,a,a,a
+a,a,u,q,r,i,a,a,a,a,a,a,a,a,a,a
+a,a,a,u,q,r,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,u,q,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+EXT 3,9 1 3,10
+EXT 4,10 1 4,11
+EXT 5,11 1 5,12
+EXT 3,2 2 3,3
+EXT 4,3 2 4,4
+EXT 3,4 2 3,3
+EXT 2,3 2 2,2
+EXT 14,4 3 8,12
+PAL 1
+
+ROOM 3
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,q,r,r,h,0,0,t,0,i,h,0,r,a,a
+a,a,u,q,r,t,s,n,i,o,t,n,s,o,a,a
+a,a,a,u,q,j,j,j,j,j,j,j,j,j,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,q,r,h,0,a,a,l,h,i,l,i,i,a,a
+a,a,u,q,r,i,a,a,l,i,j,q,j,r,a,a
+a,a,a,u,q,r,a,a,l,i,l,0,0,l,a,a
+a,a,a,a,u,q,a,a,q,j,q,v,w,q,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+EXT 3,9 1 3,10
+EXT 4,10 1 4,11
+EXT 5,11 1 5,12
+EXT 3,2 2 3,3
+EXT 4,3 2 4,4
+EXT 3,4 2 3,3
+EXT 2,3 2 2,2
+EXT 11,12 4 4,7
+PAL 2
+
+ROOM 4
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,q,r,r,h,0,0,t,0,i,h,0,r,a,a
+a,a,u,q,r,t,s,n,i,o,t,n,s,o,a,a
+a,a,a,u,q,j,j,j,j,j,j,j,j,j,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,y,y,y,y,y,y,y,y,y,y,y,y,x,a
+a,a,j,v,w,j,j,v,w,v,w,j,j,j,m,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,q,r,h,0,a,a,l,h,i,l,i,i,a,a
+a,a,u,q,r,i,a,a,l,i,j,q,j,r,a,a
+a,a,a,u,q,r,a,a,l,i,l,0,0,l,a,a
+a,a,a,a,u,q,a,a,q,j,q,j,j,q,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+EXT 14,7 5 2,13
+PAL 3
+
+ROOM 5
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,l,r,0,i,h,0,0,0,0,r,h,0,a,a
+a,a,l,o,10,n,o,10,i,t,10,o,i,10,a,a
+a,a,q,j,z,j,j,z,j,j,z,j,j,z,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+EXT 4,12 6 2,9
+EXT 7,12 7 2,9
+EXT 10,12 8 2,9
+EXT 13,12 9 2,9
+PAL 4
+
+ROOM 6
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,l,r,0,h,0,0,0,0,0,h,0,r,a,a
+a,a,l,0,0,0,0,r,0,0,14,0,0,0,a,a
+a,a,l,s,t,i,s,o,n,t,s,i,0,0,a,a
+a,a,q,j,13,12,13,12,13,12,11,12,f,j,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,l,r,0,i,h,0,0,0,0,r,h,0,a,a
+a,a,l,o,10,n,o,10,i,t,10,o,i,10,a,a
+a,a,q,j,z,j,j,z,j,j,z,j,j,z,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME acari
+ITM 1 13,9
+ITM 4 4,9
+ITM 5 6,9
+ITM 6 8,9
+END 0 11,9
+PAL 6
+
+ROOM 7
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,l,r,0,h,0,0,0,0,0,h,0,r,a,a
+a,a,l,0,0,0,0,r,0,0,14,0,0,0,a,a
+a,a,l,s,t,i,s,o,n,t,s,i,0,0,a,a
+a,a,q,j,13,12,13,12,13,12,11,12,f,j,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,l,r,0,i,h,0,0,0,0,r,h,0,a,a
+a,a,l,o,10,n,o,10,i,t,10,o,i,10,a,a
+a,a,q,j,z,j,j,z,j,j,z,j,j,z,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME arc
+ITM 1 13,9
+ITM a 8,9
+ITM 9 6,9
+ITM 8 4,9
+END 1 11,9
+PAL 6
+
+ROOM 8
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,l,r,0,h,0,0,0,0,0,h,0,r,a,a
+a,a,l,0,0,0,0,r,0,0,14,0,0,0,a,a
+a,a,l,s,t,i,s,o,n,t,s,i,0,0,a,a
+a,a,q,j,13,12,13,12,13,12,11,12,f,j,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,l,r,0,i,h,0,0,0,0,r,h,0,a,a
+a,a,l,o,10,n,o,10,i,t,10,o,i,10,a,a
+a,a,q,j,z,j,j,z,j,j,z,j,j,z,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME orc
+ITM 1 13,9
+ITM 7 4,9
+ITM 2 6,9
+ITM 3 8,9
+END 2 11,9
+PAL 6
+
+ROOM 9
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,l,r,0,h,0,0,0,0,0,h,0,r,a,a
+a,a,l,0,0,0,0,r,0,0,14,0,0,0,a,a
+a,a,l,s,t,i,s,o,n,t,s,i,0,0,a,a
+a,a,q,j,13,12,13,12,13,12,11,12,f,j,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,l,r,0,i,h,0,0,0,0,r,h,0,a,a
+a,a,l,o,10,n,o,10,i,t,10,o,i,10,a,a
+a,a,q,j,z,j,j,z,j,j,z,j,j,z,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME orchid
+ITM 1 13,9
+ITM b 4,9
+ITM d 6,9
+ITM c 8,9
+END 3 11,9
+PAL 6
+
+ROOM a
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ITM 0 7,8
+PAL 0
+
+TIL 10
+00000000
+00000000
+00000000
+01111100
+10000010
+10000010
+10000010
+10000010
+
+TIL 11
+00000000
+00000000
+00011000
+00101000
+00101110
+00110011
+00111101
+00100100
+
+TIL 12
+00000000
+00000000
+00000000
+00111110
+01000010
+11111110
+01100110
+01000100
+
+TIL 13
+00000011
+00000111
+00011100
+00101011
+00111110
+00111111
+00111101
+00100100
+>
+00000011
+00000111
+00011100
+00101101
+00111010
+00111111
+00111101
+00100100
+
+TIL 14
+00011000
+00100100
+01001010
+01010010
+00100100
+00011000
+00000000
+00000000
+
+TIL a
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+WAL true
+
+TIL f
+00000101
+00000010
+00111010
+01001010
+11111111
+11111111
+01010001
+01010001
+
+TIL h
+00101000
+00010000
+00000000
+01000100
+00000000
+00001000
+00000000
+00000000
+>
+00101000
+00010000
+00000000
+00000000
+00010000
+01000000
+00000100
+00000000
+WAL true
+
+TIL i
+00000000
+00000000
+01010000
+00000000
+01010000
+00000000
+00000000
+00000000
+WAL true
+
+TIL j
+00000000
+00000000
+00000000
+00000000
+00000000
+01010101
+00000000
+00000000
+
+TIL k
+00000000
+00111111
+00100001
+00111111
+01000001
+10000011
+11111101
+10001000
+WAL true
+
+TIL l
+00000000
+00100000
+00000000
+00100000
+00000000
+00100000
+00000000
+00100000
+WAL true
+
+TIL m
+10111111
+01011111
+10111111
+01011111
+10111111
+01011111
+10111111
+01111111
+
+TIL n
+00000000
+00111110
+00101010
+00110110
+00101010
+00100010
+00010100
+00001000
+WAL true
+
+TIL o
+00000000
+00000000
+00000000
+00000000
+00011100
+00010100
+00001000
+00010100
+WAL true
+
+TIL q
+00000000
+00100000
+00000000
+00100000
+00000000
+00010101
+01000000
+00000000
+
+TIL r
+00000000
+00000000
+00000000
+00000000
+00000000
+01000000
+00000000
+00100000
+
+TIL s
+00000000
+00000000
+00000000
+00001000
+00101000
+00101010
+01111111
+00000000
+WAL true
+
+TIL t
+00000000
+00000000
+00000000
+00000000
+00100000
+01010000
+00100000
+00000000
+WAL true
+
+TIL u
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+WAL false
+
+TIL v
+00000000
+00011111
+00000000
+01111110
+01111110
+00000000
+11111110
+01000100
+
+TIL w
+00000000
+00000000
+01000000
+11100000
+11100000
+00010101
+01000000
+00000000
+
+TIL x
+11111111
+11111111
+11111111
+11111111
+11111111
+11011111
+10111111
+01011111
+WAL true
+
+TIL y
+00000000
+00100001
+10000100
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000100
+01010001
+00000000
+00000000
+00000000
+00000000
+00000000
+WAL true
+
+TIL z
+10001010
+10001010
+10000010
+10000010
+10000010
+01010101
+00000000
+00000000
+
+SPR A
+01000000
+00011000
+01011000
+10110100
+00111000
+10111100
+01100100
+00000000
+>
+00011010
+10011000
+01110000
+00111100
+00110000
+01111000
+00010000
+00100000
+POS 0 7,9
+
+SPR a
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+DLG SPR_0
+POS a 8,8
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG ITM_0
+
+ITM 1
+00110000
+00110000
+00011000
+10111100
+01111100
+00111100
+00101000
+00101000
+NAME tea(ch)
+DLG ITM_d
+
+ITM 2
+00000011
+00000111
+00011100
+00101011
+00111110
+00111111
+00111101
+00100100
+>
+00000011
+00000111
+00011100
+00101101
+00111010
+00111111
+00111101
+00100100
+NAME orc
+DLG ITM_1
+
+ITM 3
+00000011
+00000111
+00011100
+00101011
+00111110
+00111111
+00111101
+00100100
+>
+00000011
+00000111
+00011100
+00101101
+00111010
+00111111
+00111101
+00100100
+NAME orc
+DLG ITM_2
+
+ITM 4
+00000011
+00000111
+00011100
+00101011
+00111110
+00111111
+00111101
+00100100
+>
+00000011
+00000111
+00011100
+00101101
+00111010
+00111111
+00111101
+00100100
+NAME acari
+DLG ITM_3
+
+ITM 5
+00000011
+00000111
+00011100
+00101011
+00111110
+00111111
+00111101
+00100100
+>
+00000011
+00000111
+00011100
+00101101
+00111010
+00111111
+00111101
+00100100
+NAME acari
+DLG ITM_4
+
+ITM 6
+00000011
+00000111
+00011100
+00101011
+00111110
+00111111
+00111101
+00100100
+>
+00000011
+00000111
+00011100
+00101101
+00111010
+00111111
+00111101
+00100100
+NAME acari
+DLG ITM_5
+
+ITM 7
+00000011
+00000111
+00011100
+00101011
+00111110
+00111111
+00111101
+00100100
+>
+00000011
+00000111
+00011100
+00101101
+00111010
+00111111
+00111101
+00100100
+NAME orc
+DLG ITM_6
+
+ITM 8
+00000011
+00000111
+00011100
+00101011
+00111110
+00111111
+00111101
+00100100
+>
+00000011
+00000111
+00011100
+00101101
+00111010
+00111111
+00111101
+00100100
+NAME arc
+DLG ITM_7
+
+ITM 9
+00000011
+00000111
+00011100
+00101011
+00111110
+00111111
+00111101
+00100100
+>
+00000011
+00000111
+00011100
+00101101
+00111010
+00111111
+00111101
+00100100
+NAME arc
+DLG ITM_8
+
+ITM a
+00000011
+00000111
+00011100
+00101011
+00111110
+00111111
+00111101
+00100100
+>
+00000011
+00000111
+00011100
+00101101
+00111010
+00111111
+00111101
+00100100
+NAME arc
+DLG ITM_9
+
+ITM b
+00000011
+00000111
+00011100
+00101011
+00111110
+00111111
+00111101
+00100100
+>
+00000011
+00000111
+00011100
+00101101
+00111010
+00111111
+00111101
+00100100
+NAME orchid
+DLG ITM_a
+
+ITM c
+00000011
+00000111
+00011100
+00101011
+00111110
+00111111
+00111101
+00100100
+>
+00000011
+00000111
+00011100
+00101101
+00111010
+00111111
+00111101
+00100100
+NAME orchid
+DLG ITM_b
+
+ITM d
+00000011
+00000111
+00011100
+00101011
+00111110
+00111111
+00111101
+00100100
+>
+00000011
+00000111
+00011100
+00101101
+00111010
+00111111
+00111101
+00100100
+NAME orchid
+DLG ITM_c
+
+DLG SPR_0
+I'm a cat, but there are no pets allowed at the university.
+
+DLG ITM_0
+You didn't have time to take your morning tea :(
+
+DLG ITM_1
+"Did you do the reading? I can't believe it was {wvy}all{wvy} appendices!"
+
+DLG ITM_2
+"I'm gonna {shk}ace{shk} this! Fictional philosophy is my favourite!"
+
+DLG ITM_3
+"{wvy}Ugh{wvy}, I {shk}hate{shk} this class. This test is gonna gross me out..."
+
+DLG ITM_5
+"Is this test cumulative? {shk}I only studied mites{shk}!!!"
+
+DLG ITM_6
+"I was kinda hoping this was just a discussion course..."
+
+DLG ITM_7
+"I hope this test isn't just memorization..."
+
+DLG ITM_8
+"Do you think they'll ask about anything from {wvy}this{wvy} century?"
+
+DLG ITM_4
+"""
+"Arthropoda, Arachnida, Acari...
+Arthropoda, Arachnida, Acari..."
+"""
+
+DLG ITM_9
+"I heard next year we get to go on a {shk}real dig{shk}!"
+
+DLG ITM_a
+"If there's a practical section, this is gonna be {wvy}rough{wvy}."
+
+DLG ITM_b
+"Still can't believe they named these things after genitals..."
+
+DLG ITM_c
+"{wvy}I hope I do well{wvy}! I've always wanted to be a botanist!"
+
+DLG ITM_d
+"Hey! No picking up the teacher!"
+
+END 0
+{shk}Uh oh{shk}! You wrote the wrong exam! You did your best, but all the detailed drawings of ticks gave you the {shk}heebie-jeebies{shk}!{br}That's what you get for stumbling into {wvy}Acarology{wvy} 101!
+
+END 1
+You made it on time and wrote your exam flawlessly!{br}Looks like you're on track to passing {rbw}Archeology{rbw} 101!
+
+END 2
+{shk}Uh oh{shk}! You wrote the wrong exam! You did your best, but you haven't even seen the movies.{br}You're not really prepared to give an ivory tower interpretation of the books!{br}That's what you get for stumbling into {wvy}Orc Ontology{wvy} 101!
+
+END 3
+{shk}Uh oh{shk}! You wrote the wrong exam! You did your best, but it turns out that they can get away with offering an entire course on a single flower because it's actually really hard!{br}That's what you get for stumbling into {wvy}Orchidology{wvy} 101!
+
+VAR a
+42
+
+

@@ -1,0 +1,524 @@
+8,Peter Februar
+6,helloworld_nrw
+5,Inco-Nito
+5,Shadownat3
+5,NicoAndOliver
+5,andimlenny
+4,Yenoxx
+4,toorte
+4,tom brinton
+4,TheBookOfBrady
+4,Saranomy
+4,ianmart1n
+4,Casino
+4,April Whitehead
+4,Shonté
+4,Zeego
+4,AfterglowGames
+3,Edited
+3,Jambudd
+3,Shalune
+3,AlaynaMCole
+3,Clara / quixoticduck
+3,tommakesstuff
+3,JDM23
+3,suger
+3,0014x
+3,rarelikeaunicorn
+3,chriskettlefrisby
+3,Red Skald
+3,VtheWanderer
+2,Moon
+2,mutantcassidy
+2,hardclumping
+2,Paolo Jose Cruz
+2,puprika
+2,deepbluezengames
+2,~Jellyfish~
+2,Jess Driscoll
+2,pixel games
+2,prep
+2,Limosky
+2,ManofPixels
+2,Redye
+2,memeware
+2,zetef
+2,Riz'nt
+2,ReZStudios
+2,Pedro Paiva
+2,Liam Salmon
+2,Taras Tymoshenko
+2,Mr. Boyfriend
+2,Su Kızılağaç
+2,roaderful
+2,Calixarene
+2,JcupDavis
+2,Slugzzz
+2,JohnLee Cooper
+2,LandOfLincoln
+2,AdventurJourney
+2,Ruune
+2,PhantomDreamer
+2,Sophie Houlden
+2,CleansingKaschmir
+2,DrowniAce
+2,NotBambi
+2,SOULSKATER
+2,Living meme
+2,Lorenzo Pilia
+2,lajiao
+2,Graic
+2,Shaggy Fires
+2,Zushi3DHero
+2,Harder You Fools
+2,Jonas Hansen
+2,Liam Cooke
+2,Clorotch
+2,Ballad of Song
+2,MrTedders
+2,Maxime Monast
+2,thanerose
+2,Tyler Brothers
+2,PixelCod
+2,lordvark
+2,Maÿllis
+2,leonie
+2,birdstare
+2,Lvl 14 Bard
+2,GIllianC
+2,Tom Ciccone
+2,Liquidus
+2,glitterylilac
+2,plasticrabbit
+2,hanna.borbola
+2,Ludonaut
+2,ruthvik
+2,Nenekiri
+2,Papercookies
+2,chompicore
+2,Nadia Wendt
+2,RogueSquirrel
+2,pine-cone
+2,MifficalDragon
+2,Guided_Elf1
+2,Kai20
+2,lunarDust
+2,raulhaagensen
+2,Saida Woolf
+2,creativecomputing
+1,HeskHwis
+1,No Time To Play
+1,Veksell
+1,AQUANAUTS HOLIDAY
+1,eanbowman
+1,David Pixel
+1,PierrePlrd
+1,seraph621
+1,literaturegeek
+1,markside85
+1,Izln
+1,Minenik
+1,Batgut
+1,Moss.
+1,Adam Saltsman
+1,Plum
+1,Fede Makes Games
+1,Sjors Houkes
+1,single_image
+1,dwfries
+1,OffworldHometown
+1,EHL
+1,Arcanacra
+1,Virento Voshe
+1,Fishbonez
+1,Pigeonkind Games
+1,ArtSvetlakov
+1,boudiboudin
+1,halkon
+1,ashlow
+1,llove
+1,Infinitestrike
+1,ultrastoic
+1,Nifflas
+1,Soundole
+1,migrafael
+1,ted
+1,Josia Roncancio
+1,Vidyasaur
+1,joannak
+1,Ed Naujokas
+1,katanarouge
+1,Anders Christian Larsson
+1,mrainwater
+1,Thayle L
+1,KurtoGaNg
+1,Benal
+1,Frankiextra
+1,Limonsky
+1,wilcoweb
+1,feardeer
+1,simon
+1,neven
+1,MissShellsGames
+1,ian anders
+1,DGTILL
+1,Mnemogenic
+1,Kacper Woźniak
+1,Centuria game dev
+1,Enterim
+1,Games I'm ashamed of
+1,moraresu
+1,Ali Star 302
+1,whatnot
+1,Claire Morley, Ashley Gwinnel
+1,riffsircar
+1,Prototype
+1,alligator
+1,EYDAPYHh
+1,Illud
+1,Tiny Worlds
+1,TENCOW
+1,EtoDemerzel
+1,dpoulsen
+1,Batch Coder
+1,eevee
+1,dom2d
+1,JudeAsterix
+1,jleen
+1,Coleo_Kin, Mark Wonnacott
+1,amithea
+1,Cosi1125
+1,jojodee
+1,andromedarts
+1,POP'D
+1,imigraal
+1,rook
+1,CaptainCryptic
+1,voxeledphoton
+1,ergi
+1,guinevak
+1,Unsteady Butterfly
+1,WingedRobot
+1,JSant
+1,eli fessler
+1,dfgw
+1,FalsionMono
+1,lykakspars
+1,banaanzxcvbnm
+1,Tyu
+1,Peckan
+1,HermitLioness730
+1,Yukon W.
+1,Haché
+1,DGMKPixy
+1,HeyKarakItsAli
+1,skodone
+1,LostTrainDude
+1,Mimic Kairatta
+1,Efe Alaçamlı
+1,nyankoe
+1,defaced
+1,Clement Panchout
+1,gdcvdqpl
+1,ouroborose
+1,Kurtness
+1,hotelbones
+1,Jean Carlos Leo Garcia
+1,rednax
+1,Vaida
+1,Daniel Linssen
+1,goop
+1,JustDeku
+1,Ellie Rosalind
+1,rice-bunny
+1,Rae
+1,Ebriosus Beati
+1,Dan Cox
+1,CHz
+1,raz_zhang
+1,573 Games
+1,mapedorr
+1,zzot
+1,CGALBO1
+1,Mr. Yellow
+1,PedroPetalite
+1,popoishere
+1,stuey
+1,RhythmLynx
+1,saucetin
+1,Orikingium Studios
+1,Pokiha
+1,taynull
+1,Luke Mayo
+1,Ahmed Khalifa (Amidos)
+1,onkelerik
+1,communistsister
+1,zemmi
+1,rumpel
+1,Santum
+1,Pilchard
+1,Way2Smart
+1,Rïn
+1,James Earl Cox III
+1,DatKewlKat
+1,G.P. Lackey
+1,SirBickle101
+1,Cybergnose Café, Spica
+1,Chris Floyd
+1,gia✦grimoire
+1,SunsetDynamite
+1,ghhghgghghghgh
+1,kagisapa
+1,WyotJunctor
+1,felitastic
+1,Nathan Altice
+1,mikesuszek
+1,otterdisaster
+1,Jack Le Hamster
+1,Froach Club
+1,Spaghatto
+1,Willis Sandow
+1,Fran Segura
+1,Lily Lapidese
+1,PDR
+1,Andy Miller
+1,laitze.fan
+1,bec
+1,Tinybeegames
+1,bethany
+1,aliabra
+1,alithomas
+1,Gmitchell
+1,secureconnectionboi
+1,southtonk
+1,akaCheezy
+1,Benb17
+1,HeraldineGames
+1,Crackmaniak
+1,Adeline
+1,James Mackey
+1,ajkolenc
+1,Jess Gates
+1,ererbe
+1,excuseforjuice
+1,Ash
+1,Brastin3
+1,paulthegrub
+1,MLB
+1,shiny objects studio
+1,Foxx The Sleepy
+1,MEZZANINE
+1,Moshi
+1,rhebok
+1,GunShotGaming 2
+1,DasBilligeAlien
+1,p184
+1,Squiddo
+1,HinterBurnerGames
+1,Redfeather123
+1,AgentAPM
+1,DisturbeD98
+1,Jake Tucker
+1,Louie Chung
+1,jakeypeach
+1,supiket
+1,Visager
+1,Jodediah Holems
+1,TheoRosen
+1,partitiongames
+1,ComputerJames
+1,himawariness
+1,jam
+1,granfaloney
+1,ImDaBanana
+1,Ollie M
+1,DCP
+1,reshmuh
+1,theunburnedwitch
+1,tuckie
+1,IMLXH
+1,cubehero
+1,HabaekJung
+1,EvieEve
+1,theExtinctGamer
+1,NothingAD
+1,gringogidget
+1,JimmyTwist
+1,Wood Giant Studio
+1,m3g1dd0
+1,Harney-Barrow
+1,ametAlias
+1,hmnprsn
+1,birdrobot
+1,xandotoaster
+1,Devin Raposo
+1,CheeseCake
+1,kungpowpenis
+1,FyEnw
+1,Dave2075
+1,ThatUniGuy
+1,darkpony
+1,Adam Saltsman, bexsaltsman
+1,meowchelle
+1,Lychee Games
+1,Rugiku
+1,lex lex
+1,Martfoil
+1,The Elusive Man
+1,UltraTea
+1,RikematDev
+1,Bloodfin
+1,twowoods
+1,Coby
+1,Kydrang
+1,hot local wizards
+1,ElectrumCube
+1,cooljpeg
+1,uururernen
+1,Notanthronee
+1,Jeremiah Watts
+1,miscslaineous
+1,TheHashSlingingSlasher
+1,Xipher
+1,Zenuel
+1,BoyzInBlackk
+1,OfficiousBrick
+1,Mysidia (Violet)
+1,timconceivable
+1,bubez
+1,CubicKerfuffle
+1,swordpeddler
+1,Capital Ex
+1,Luke Davies
+1,baobab
+1,Vincent Vially
+1,NoRain
+1,Tymus
+1,machinescreen
+1,lightcastle
+1,remyripple
+1,Middle Mouse
+1,JStP
+1,Permafried Games
+1,JTHomeslice
+1,roboman
+1,Damooni
+1,carrotchipper
+1,Nash High
+1,justinrunge
+1,VugarSevdimaliyev
+1,jbradleywrites
+1,ErgoTM
+1,ManOoPixels
+1,StoriesWithoutBordersJam
+1,Chad Redden
+1,the_dyl_pickle
+1,Beto Raposa
+1,Jamesheg
+1,Belty118
+1,Koutsie
+1,ASquirrelsTail
+1,videodante
+1,CounterWiddershins
+1,Porpentine
+1,Sophie Mallinson
+1,anegri
+1,Sekamelica
+1,Jordan Oloman
+1,Sand Gardeners
+1,Oscar
+1,grim
+1,RugFlipper
+15,Anonymous
+1,ayens
+1,Yuwrenn
+1,kalale
+1,Flatfish
+1,Michael Klier
+1,hippietrashcan
+1,thetoolong
+1,sulko
+1,Crip
+1,chesse20
+1,wolfcartel
+1,leafykayo
+1,Ned
+1,LittleGames
+1,BedWords
+1,Jerry Vishnevsky
+1,Merc Shmiff
+1,Gweebit PROD
+1,DigitPenguin
+1,Lotophagia
+1,adam80027
+1,VOOOLN
+1,LJRadio
+1,Pizza GameDev
+1,Brando_
+1,Esteban Grine
+1,Arcadim
+1,Znlwomble
+1,oblatespheroid
+1,squali
+1,popoplant
+1,Yirggzmb
+1,blazerboy
+1,tom_content
+1,Bea Malsky
+1,AnitaGZ
+1,jeeyoh
+1,mikadointagli
+1,triplefox
+1,Antoine Clavreul
+1,natnatart
+1,pixelartm
+1,@buggyglitch
+1,Celia
+1,ocean-gem
+1,Efergan
+1,dreif
+1,gepember
+1,saint_somatic
+1,rahver
+1,Casey Danger
+1,yxvi
+1,jamesjpk123
+1,ZaqLovesBooks
+1,dzudza
+1,Voidstrider
+1,glim
+1,SnakeSqueaker
+1,screen implosion
+1,kwisd
+1,OhLookCake
+1,Olima
+1,Robocop
+1,John Bujalski
+1,Diane
+1,gmx0
+1,Seik Sugaloth
+1,StephenTeodoro
+1,AD1Crazy
+1,mogibear
+1,Tuna Pamir
+1,thebedisburning
+1,cavegift
+1,Brad Collins
+1,Savage//Noble
+1,mikeytw
+1,noiseart
+1,Morakimo
+1,FleshPuzzle
+1,hyper structure
+1,SmickyG
+1,T. J. Field
+1,astrochili
+1,wlsdn347
+1,pwhite102
+1,Kabirosborne
+1,Enric Llagostera
+1,erabbit
+1,tktk27
+1,Josh Avanier
+1,Ian Burnette
+1,Stavros Skamagkis

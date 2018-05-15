@@ -1,0 +1,218 @@
+
+Write your game's title hevery blind (just without glasses but look my eyesight is very my eye sight is not good ok) (also i had a drink but am barely even tipsy but whatever)
+
+# BITSY VERSION 4.6
+
+! ROOM_FORMAT 1
+
+PAL 0
+204,157,169
+209,255,225
+78,40,255
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,d,0,0,0,0,0,0,0,0,0
+0,0,0,c,0,0,0,0,c,c,c,c,c,0,0,0
+0,0,c,c,0,0,0,0,0,b,0,0,0,0,0,c
+0,c,c,0,0,0,0,0,0,0,0,0,0,0,0,c
+0,c,0,0,0,0,c,c,c,c,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,b,0,0,0,0,0,b,0,0,c,c,0,0
+0,0,0,c,0,0,b,0,0,0,0,c,c,0,0,0
+0,0,0,b,0,0,0,0,b,0,0,0,0,0,0,0
+0,d,0,0,0,b,0,0,0,0,0,0,0,0,c,0
+0,0,0,0,0,0,0,0,0,0,0,b,0,0,c,0
+0,c,c,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,c,0,0,0,c,c,c,c,0,c,c,c,c,0,0
+0,c,d,c,c,c,0,0,0,0,0,0,0,0,0,0
+0,0,c,0,c,0,0,0,0,0,0,0,0,0,0,0
+ITM 1 1,14
+PAL 0
+
+TIL a
+11111111
+10000001
+10000001
+10011001
+10011001
+10000001
+10000001
+11111111
+
+TIL b
+00000000
+00000000
+00010000
+00000000
+00010100
+01010100
+01010100
+00000000
+>
+00000000
+00000000
+01000000
+00100000
+00101000
+10101000
+10101000
+00000000
+WAL true
+
+TIL c
+00111100
+01111110
+01111111
+01111111
+00111110
+00011000
+00011000
+00011000
+WAL true
+
+TIL d
+00000000
+00000000
+00111100
+01100100
+01001110
+01111100
+00111000
+111111001
+>
+00000000
+00000000
+00011100
+00100100
+00100100
+00111100
+01111110
+01111110
+
+SPR A
+00000000
+00100000
+00100100
+00111100
+00010100
+00111100
+00011100
+00010100
+>
+00000000
+00000100
+00100100
+00111100
+01110100
+00011100
+00111100
+01100100
+POS 0 4,4
+
+SPR a
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+DLG SPR_0
+POS 0 8,12
+
+SPR b
+00000000
+00001000
+00111000
+01101000
+00111100
+00001100
+00111010
+01101110
+>
+00000000
+00001000
+00111100
+01110100
+00010100
+00111000
+01111100
+00000000
+DLG SPR_1
+POS 0 11,5
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG ITM_0
+
+ITM 1
+00000000
+00001000
+00011100
+00111110
+00001000
+00001000
+000010000
+00010000
+DLG ITM_1
+
+DLG ITM_0
+You found a nice warm cup of tea
+
+DLG SPR_0
+i am not a cat
+
+DLG SPR_1
+"""
+{cycle
+  - i legit cant see what im writing but hey at least my fingers rmmbr keys on the keyboard lmao
+  - do u kno how hard it is to see a white small mouse curoser on a mainly white screen? its kinda hell 
+  - i am squinting a lot but heck its all a blurry mess- i can sorta see out lines but still hell this is this is really hard
+    
+    im not retyping all i typed just bc i has to delete a word a word lmao
+  - i can like see the diff editors panels just very blury i veyr very slightly know what the sprites look like
+  - look i got minus five in like both eyes.. i am pretty blind.. i need to be like a couple of centermeters near something to see it.. but my ear piecring is being a bitnch so im withou im not wearing my glasses at the moment to not bug my ear
+  - i also yes had a drink tho i dont feel tipsy.. must be bc i ate two chicken thighs just now lol like in between finishing my drink eh does it matter lol
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+}
+"""
+
+DLG ITM_1
+this is an umbrella.. grab it before it rains or something lol
+
+VAR a
+42
+
+

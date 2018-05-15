@@ -1,0 +1,690 @@
+
+You land on a desert planet blowing with strange winds. You're here on business...
+
+# BITSY VERSION 4.6
+
+! ROOM_FORMAT 1
+
+PAL 0
+200,200,111
+62,131,187
+149,95,91
+
+ROOM 0
+f,j,a,a,a,a,a,d,0,0,k,e,a,j,a,d
+j,a,a,a,a,a,a,i,k,0,0,h,f,a,a,a
+a,j,a,j,g,g,i,0,0,0,0,0,h,a,a,a
+a,a,a,i,0,0,0,0,0,0,0,0,0,e,a,a
+a,f,i,0,k,0,0,0,0,0,0,0,0,h,g,a
+g,k,0,0,0,0,0,0,0,0,0,0,0,0,h,g
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,k,0,0,0,0,0,0,0,0,k,0,0,0,0,0
+k,k,0,0,0,0,0,0,0,k,0,0,0,0,k,k
+f,d,0,0,0,0,0,0,0,0,0,0,0,f,b,d
+a,b,d,0,0,0,0,0,0,0,0,k,f,j,a,a
+a,j,c,0,0,0,0,0,0,0,0,f,b,a,a,a
+a,a,b,b,d,0,0,0,0,0,f,b,a,j,a,a
+j,a,a,a,c,k,0,0,0,0,e,a,j,a,a,a
+e,j,a,a,d,j,b,d,0,f,b,a,a,j,a,f
+h,a,a,a,a,d,f,i,k,h,a,a,a,f,g,i
+NAME CENTER
+EXT 0,6 1 15,6
+EXT 0,7 1 15,7
+EXT 0,8 1 15,8
+EXT 15,6 2 0,6
+EXT 15,7 2 0,7
+EXT 15,8 2 0,8
+EXT 8,15 4 8,0
+EXT 8,0 3 8,15
+EXT 9,0 3 9,15
+EXT 10,0 3 10,15
+PAL 0
+
+ROOM 1
+f,a,j,j,a,a,a,a,j,a,a,a,a,j,a,d
+e,a,j,a,a,a,a,f,g,g,a,a,a,a,j,c
+a,j,a,a,j,a,j,i,0,0,h,a,a,j,a,a
+j,j,g,g,f,a,c,k,0,0,k,a,j,j,a,a
+j,c,k,0,h,g,i,0,0,0,0,a,j,a,a,a
+j,i,k,0,0,0,0,0,0,0,f,a,j,g,g,g
+c,k,0,0,0,0,0,0,0,f,b,a,c,k,0,0
+c,k,0,0,k,f,b,b,b,b,a,j,i,0,0,0
+c,0,0,f,b,a,j,a,a,a,a,c,0,0,0,k
+c,0,k,e,a,a,j,j,a,a,j,i,0,0,f,b
+c,k,k,e,a,j,a,a,a,a,c,k,0,f,a,j
+c,0,k,h,g,f,a,f,g,g,i,0,0,e,a,a
+c,k,0,0,0,g,g,i,0,0,0,0,k,a,a,a
+a,b,d,k,0,0,0,0,0,0,0,0,f,j,f,g
+f,a,j,b,b,d,0,0,k,f,b,b,j,j,a,d
+h,j,a,a,a,f,b,b,b,j,j,a,a,a,j,i
+NAME WEST
+ITM 0 9,2
+EXT 15,6 0 0,6
+EXT 15,7 0 0,7
+EXT 15,8 0 0,8
+PAL 0
+
+ROOM 2
+f,a,j,g,g,g,g,g,g,g,g,g,a,a,j,d
+a,j,i,k,0,0,0,0,0,0,0,k,h,a,j,c
+a,c,k,k,0,0,0,0,0,0,0,k,k,h,f,a
+a,a,d,0,0,0,0,0,0,0,0,0,0,0,h,a
+j,a,c,0,0,0,0,0,0,0,0,0,0,0,k,a
+h,g,i,k,0,0,0,0,k,0,k,0,0,0,f,a
+k,k,k,k,0,0,k,f,b,a,d,0,0,0,e,a
+0,0,k,0,0,0,f,j,j,a,a,d,0,0,e,a
+k,0,0,0,0,0,e,j,a,j,a,c,0,f,a,j
+f,d,0,0,0,0,h,g,f,a,g,i,0,h,d,a
+a,j,d,0,0,0,0,k,h,i,k,0,0,k,h,a
+j,j,c,k,0,0,0,0,0,0,0,0,0,0,k,e
+j,a,c,k,0,0,0,0,0,0,0,0,0,k,f,a
+a,a,a,d,k,0,0,0,0,0,0,k,k,f,a,j
+j,a,a,a,b,d,0,0,0,0,k,k,f,f,j,j
+h,g,a,a,a,i,a,b,b,b,b,a,j,a,j,i
+NAME EAST
+ITM 1 9,14
+EXT 0,6 0 15,6
+EXT 0,7 0 15,7
+EXT 0,8 0 15,8
+PAL 0
+
+ROOM 3
+f,a,g,g,g,g,a,j,a,g,a,a,a,j,j,d
+j,i,k,0,0,0,h,a,i,0,h,a,a,g,a,a
+c,k,k,0,0,0,k,g,0,0,0,j,i,k,h,a
+c,k,0,0,0,0,0,k,0,0,f,d,k,k,0,a
+c,0,0,0,0,0,k,d,0,0,e,c,k,0,0,a
+a,d,0,0,0,k,f,c,0,0,e,c,0,0,f,a
+j,a,b,b,b,b,b,c,k,0,h,i,0,0,h,j
+j,j,g,g,g,g,a,j,d,0,0,0,0,0,k,e
+j,i,0,0,0,k,h,a,c,0,0,0,0,0,0,e
+c,k,0,0,0,0,k,j,i,0,0,f,d,0,0,e
+c,0,0,0,0,0,0,g,0,0,f,j,c,0,k,e
+c,0,0,0,0,0,k,0,0,0,e,j,i,0,0,e
+c,0,0,0,0,k,k,k,0,0,h,d,k,k,0,e
+c,k,0,0,0,0,f,d,0,0,0,f,k,k,k,a
+a,d,k,k,0,f,f,c,0,0,k,e,d,k,f,a
+h,a,b,b,b,b,a,i,0,k,k,e,a,b,a,i
+NAME NORTH
+ITM 2 14,4
+EXT 8,15 0 8,0
+EXT 9,15 0 9,0
+EXT 10,15 0 10,0
+PAL 0
+
+ROOM 4
+f,a,a,j,a,f,g,i,0,h,g,g,f,a,j,d
+a,j,a,a,a,i,0,0,0,0,0,k,h,d,a,a
+j,j,a,f,i,0,0,0,0,0,0,0,0,h,a,a
+j,d,i,i,k,0,0,0,0,0,0,0,0,0,h,g
+f,i,k,0,0,0,0,0,0,0,0,0,0,0,0,k
+c,k,0,0,0,0,0,0,0,0,0,0,0,n,0,n
+c,k,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,d,0,0,0,0,0,0,0,m,k,f,d,k,0,n
+a,c,0,0,0,0,0,0,0,n,f,j,a,d,k,m
+a,c,k,0,n,0,0,0,0,0,h,d,a,i,k,0
+a,a,d,n,0,0,0,n,0,0,0,h,i,k,0,k
+j,a,c,k,0,n,0,0,n,0,0,0,k,0,0,0
+a,a,a,d,0,0,m,0,0,n,0,k,0,0,n,k
+a,j,a,c,k,0,0,l,k,0,0,m,n,k,k,l
+j,j,g,i,k,0,l,n,m,0,l,n,k,l,m,k
+h,i,k,m,n,l,k,k,0,l,k,k,k,n,m,k
+NAME SOUTH
+ITM 3 2,15
+EXT 8,0 0 8,15
+EXT 15,15 5 0,0
+PAL 0
+
+ROOM 5
+l,n,k,l,0,n,m,l,0,0,0,0,0,0,0,0
+n,0,k,0,0,0,0,0,0,0,0,0,0,0,0,0
+l,0,n,k,n,0,0,0,0,0,0,0,0,0,0,0
+k,0,0,0,k,0,m,0,0,0,0,0,0,0,0,0
+0,0,k,0,0,0,0,0,0,0,0,0,0,0,0,0
+m,0,0,m,0,0,0,0,0,0,0,0,0,0,0,0
+n,0,0,0,0,0,0,0,0,0,0,0,n,0,0,0
+0,0,0,0,0,0,0,0,n,m,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,m,k,m,n,0,0,0,0
+0,0,0,0,0,0,0,f,b,d,l,m,0,0,0,0
+0,0,0,0,0,0,m,e,a,j,d,k,n,0,0,0
+0,0,0,0,0,0,m,h,g,g,i,k,0,0,0,0
+0,0,0,0,m,0,0,0,k,n,n,0,0,0,0,0
+0,0,0,0,k,n,0,k,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME DESERT
+ITM 5 14,11
+ITM 6 13,14
+ITM 4 12,12
+EXT 0,0 4 15,15
+PAL 0
+
+TIL a
+10111000
+01000101
+10000010
+10000010
+10001110
+01110001
+10100000
+10100000
+WAL true
+
+TIL b
+00000111
+10111000
+01000100
+11000101
+00101110
+00010001
+10100000
+10100000
+WAL true
+
+TIL c
+10000010
+01000010
+01000010
+01100100
+10011000
+00010000
+10011000
+11100100
+WAL true
+
+TIL d
+00000010
+11100101
+10010010
+01011000
+00100101
+00100100
+10111000
+11000100
+WAL true
+
+TIL e
+00100000
+00100000
+00100000
+10010011
+00001100
+01000100
+00001100
+00010011
+WAL true
+
+TIL f
+01100100
+10010001
+10010010
+01100110
+00001001
+01001001
+00001110
+10010001
+WAL true
+
+TIL g
+10100000
+00010001
+00101110
+11000101
+01000100
+00111000
+00000010
+00001000
+WAL true
+
+TIL h
+00010000
+00010001
+00001110
+00000001
+00100000
+01010000
+00100100
+00000000
+WAL true
+
+TIL i
+10010100
+00001000
+00001010
+00010000
+11100110
+00001001
+00001001
+00100110
+WAL true
+
+TIL j
+10100000
+01110111
+10001000
+10100100
+10010100
+01110111
+10001100
+10010010
+WAL true
+
+TIL k
+00000000
+00000000
+01000000
+00000100
+00000000
+00010000
+00000000
+00000000
+
+TIL l
+00000000
+01000000
+00001000
+00000000
+00000100
+00100000
+00000000
+00000001
+
+TIL m
+00000000
+00000000
+00000010
+00000000
+00000000
+00000000
+00010000
+00000000
+
+TIL n
+00000000
+00000000
+00000000
+00100000
+00000000
+00000000
+00000000
+00000000
+
+SPR A
+00011000
+00101100
+00111100
+00011000
+00011000
+00011000
+00010000
+00000000
+>
+00011000
+00101100
+00111100
+00011000
+00011000
+00011000
+00001000
+00000000
+POS 0 8,7
+
+SPR a
+00000000
+00111000
+01000100
+10101010
+10000010
+01111100
+01010100
+00101010
+>
+00000000
+00011100
+00100010
+01010101
+01000001
+00111110
+00101010
+01010100
+NAME Alien 1
+DLG SPR_0
+POS 3 3,11
+
+SPR b
+00110110
+00100010
+00010100
+00011100
+01100011
+00100010
+00011100
+00101010
+>
+01101100
+01000100
+00101000
+00111000
+11000110
+01000100
+00111000
+00101000
+NAME Alien 2
+DLG SPR_1
+POS 2 8,3
+
+SPR c
+00000000
+00111100
+01000010
+11111111
+11000011
+01010111
+00111100
+01000010
+>
+00000000
+00000000
+00111100
+01000010
+11111111
+11000011
+01010110
+10111101
+NAME Alien 3
+DLG SPR_3
+POS 1 8,4
+
+SPR d
+00010000
+00101000
+01000100
+01000100
+10010010
+10111010
+10111010
+10010010
+NAME Ship 1
+POS 0 6,5
+
+SPR e
+10000010
+10010010
+10111010
+10111010
+10111010
+10010010
+11111110
+01101100
+NAME Ship 2
+DLG SPR_2
+POS 0 6,6
+
+SPR f
+00001100
+00010010
+00111111
+00111011
+00010010
+00010010
+00101010
+01010100
+>
+00001100
+00010010
+00111111
+00111011
+00010010
+00010010
+00010110
+00101010
+NAME Alien 4
+DLG SPR_4
+POS 4 7,9
+
+ITM 0
+00000000
+00000000
+00000000
+00001110
+00010010
+00100100
+00101100
+11111110
+NAME disc 1
+DLG ITM_0
+
+ITM 1
+00000000
+00000000
+01110000
+01001000
+00100100
+00110100
+01111100
+10000010
+NAME disc 2
+DLG ITM_1
+
+ITM 2
+00000000
+00000000
+01110000
+01010000
+01001100
+00100100
+11111110
+00000000
+NAME disc 3
+DLG ITM_2
+
+ITM 3
+00000000
+00000000
+00011100
+00010100
+01100100
+01001110
+11111111
+00000000
+NAME disc 4
+DLG ITM_3
+
+ITM 4
+01110001
+10001110
+10010110
+10001010
+01010101
+01000001
+00110001
+00001110
+DLG ITM_4
+
+ITM 5
+00000001
+00000011
+00000101
+00001010
+00010100
+00101000
+01010000
+11111000
+DLG ITM_5
+
+ITM 6
+11000000
+00110000
+00001100
+00000011
+00100000
+00010000
+00001000
+10000000
+DLG ITM_6
+
+DLG SPR_0
+"""
+{
+  - discs == 4 ?
+    Thank. You. So. Much! It. Is. Much. Quieter. Now. My. People. Owe. You. A. Great. Debt... Like. About. $200. Plus. Expenses.
+  - else ?
+    Hello. Traveler. How. Goes. It... Thank. You. For. Coming... We. Just. Moved. In... And. Do. Not. Know. Where. This. Infernal. Noise. Is. Coming. From.
+}
+"""
+
+DLG SPR_1
+"""
+{
+  - discs == 4 ?
+    nnow ii'm eeven mmore iimpressed. wwhat wwas ccausing tthe ssound aanyway? ii llook fforward tto rreading yyour aanalysis. uunfortunately iit sseems tthe vvibrations wwere ccaused bby tthe wwinds oon tthis pplanet, sso ii'm jjust ggoing tto bborrow NOP's vvibe-ccanceling hheadphones.
+  - else ?
+    iive ffollowed yyour wwork. qquite iimpressive ffor aa hhuman! ii hhope yyou'll bbe aable tto ffind tthe ssource oof tthis ssound. iit's vvibrating mmy sshell iin aa mmost uuncomfortable ffashion.
+}
+"""
+
+DLG SPR_2
+"""
+{
+  - discs == 4 ?
+    {sequence
+  - You're able to combine the shards together using the toolkit in your ship. Looks like... a golden disc covered in concentric circular ridges?
+  - Your instruments suggest the sound (singing?) covering the surface has stopped. Apparently caused by wind blowing over the disc shards just right.
+  - Guess your job here is done. Time to move on. (end "You wave goodbye to the aliens as you lift off, leaving them to settle into their new home in peace and quiet.")
+}
+  - else ?
+    It's the QSS Rabbitstar, your ship. It was a long journey here, but you're being well paid for this job. Now just to find one of the locals.
+}
+"""
+
+DLG SPR_3
+"""
+{
+  - discs == 4 ?
+    *still rocking out*{br}
+WHAT NOW?! OH SWEET RECORD, MY DUDE!{br}*untz untz untz*
+  - else ?
+    *rocking out*{br}HUH?! NO, I CAN'T HEAR ANYTHING BESIDES MY MUSIC WHY DO YOU ASK??{br}*duh duh dunnnn *
+}
+"""
+
+DLG ITM_0
+"""
+{
+  - discs == 0 ?
+    It's a strange shard of metal stuck in the ground. You yank it out. {discs = discs + 1}
+  - discs == 1 ?
+    Another shard. This one has little ridges on it? {discs = discs + 1}
+  - discs == 2 ?
+    This shard is a little sparkly. It glints in the pale light of the triple ice moons. {discs = discs + 1}
+  - discs == 3 ?
+    You know, it looks like these shards are all part of the same object. Maybe if you can get all the little ridges to line up... {discs = discs + 1}
+}
+"""
+
+DLG ITM_1
+"""
+{
+  - discs == 0 ?
+    It's a strange shard of metal stuck in the ground. You yank it out. {discs = discs + 1}
+  - discs == 1 ?
+    Another shard. This one has little ridges on it? {discs = discs + 1}
+  - discs == 2 ?
+    This shard is a little sparkly. It glints in the pale light of the triple ice moons. {discs = discs + 1}
+  - discs == 3 ?
+    You know, it looks like these shards are all part of the same object. Maybe if you can get all the little ridges to line up... {discs = discs + 1}
+}
+"""
+
+DLG ITM_2
+"""
+{
+  - discs == 0 ?
+    It's a strange shard of metal stuck in the ground. You yank it out. {discs = discs + 1}
+  - discs == 1 ?
+    Another shard. This one has little ridges on it? {discs = discs + 1}
+  - discs == 2 ?
+    This shard is a little sparkly. It glints in the pale light of the triple ice moons. {discs = discs + 1}
+  - discs == 3 ?
+    You know, it looks like these shards are all part of the same object. Maybe if you can get all the little ridges to line up... {discs = discs + 1}
+}
+"""
+
+DLG ITM_3
+"""
+{
+  - discs == 0 ?
+    It's a strange shard of metal stuck in the ground. You yank it out. {discs = discs + 1}
+  - discs == 1 ?
+    Another shard. This one has little ridges on it? {discs = discs + 1}
+  - discs == 2 ?
+    This shard is a little sparkly. It glints in the pale light of the triple ice moons. {discs = discs + 1}
+  - discs == 3 ?
+    You know, it looks like these shards are all part of the same object. Maybe if you can get all the little ridges to line up... {discs = discs + 1}
+}
+"""
+
+DLG SPR_4
+"""
+{
+  - discs == 4 ?
+    You Got It To Stop! I Can Hear Myself Thing Again! Okay, How About This For A Planet Name: "Oo Bop Aa"? Well, Tough, I Already Filed The Paperwork. It Sounds Better In Our Language Anyway.
+  - else ?
+    Man, This Planet Is So Cool. Endless Stretches Of Sand and Rock. It's Totally METAL. It's Called Planet P-314, But I Think We'll Have To Give It A Proper Name. Just As Soon As This Weird Music Stops Playing... Wasn't This Place Supposed To Be Uninhabited?
+}
+"""
+
+DLG ITM_4
+"""
+{
+  - voyager == 0 ?
+    A large dish antenna. Leftover from an ancient civilization? {voyager = voyager + 1}
+  - voyager == 1 ?
+    A large dish antenna. This stuff seem to be made in a similar style to the shards you've been finding. Maybe they're related... {voyager = voyager + 1}
+  - voyager == 2 ?
+    A large dish antenna. Oh look here, some alien markings, including a symbol ancient humans called "V".
+}
+"""
+
+DLG ITM_5
+"""
+{
+  - voyager == 0 ?
+    A boom arm with several damaged magnetometers along its length. Leftover from an ancient civilization? {voyager = voyager + 1}
+  - voyager == 1 ?
+    A boom arm with several damaged magnetometers along its length. This stuff seem to be made in a similar style to the shards you've been finding. Maybe they're related... {voyager = voyager + 1}
+  - voyager == 2 ?
+    A boom arm with several damaged magnetometers along its length. Oh look here, some alien markings, including a symbol ancient humans called "V".
+}
+"""
+
+DLG ITM_6
+"""
+{
+  - voyager == 0 ?
+    A series of wave detectors, spectrometers, and radio antennae are scattered about. Leftover from an ancient civilization? {voyager = voyager + 1}
+  - voyager == 1 ?
+    A series of wave detectors, spectrometers, and radio antennae are scattered about. This stuff seem to be made in a similar style to the shards you've been finding. Maybe they're related... {voyager = voyager + 1}
+  - voyager == 2 ?
+    A series of wave detectors, spectrometers, and radio antennae are scattered about. Oh look here, some alien markings, including a symbol ancient humans called "V".
+}
+"""
+
+END 0
+
+
+END undefined
+
+
+END undefinee
+
+
+VAR discs
+0
+
+VAR voyager
+0
+
+
+
+

@@ -1,0 +1,174 @@
+
+Deep forest - A very very fantastic unbirthday
+
+# BITSY VERSION 4.6
+
+! ROOM_FORMAT 1
+
+PAL 0
+134,203,148
+166,55,152
+239,254,255
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,a,a,a,a,a,a,a,a,a,a,a,a,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,b,0,0,0,0,0,a,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,b,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,a,0,b,b,b,b,b,0,0,0,0,a,0
+0,a,0,0,0,b,b,b,b,b,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,a,0,0,0,0,0,0,0,a,0
+0,a,0,0,b,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,a,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,a,a,a,a,a,a,a,a,a,a,a,a,a,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ITM 0 4,5
+PAL 0
+
+TIL a
+11111111
+10111101
+11100111
+10111101
+11011011
+11100111
+10111101
+11111111
+WAL true
+
+TIL b
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+WAL true
+
+TIL c
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL d
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+SPR A
+00011000
+01111110
+01101010
+01111110
+01111110
+00111100
+00100100
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS 0 7,5
+
+SPR a
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+NAME Cheshire
+DLG SPR_0
+POS 0 8,12
+
+SPR b
+00111100
+00111100
+00111100
+00111100
+01111110
+00111100
+00111100
+00011000
+NAME hatter
+DLG SPR_1
+POS 0 11,9
+
+SPR c
+00100100
+00100100
+00100100
+00111100
+00111100
+00111100
+00111100
+00111100
+NAME liebre
+DLG SPR_3
+POS 0 11,7
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG ITM_0
+
+DLG SPR_0
+Cheshire: Alice in Wonderland, how do you get to Wonderland? â™© Over the hill or underland, or just behind the tree?
+
+DLG ITM_0
+You found a nice warm cup of tea. Happy unbirthday to you! 
+
+DLG SPR_1
+Mad Hatter: A very merry unbirthday... A very merry unbirthday to us! Oh! What a delightful child! It's your unbirthday too, darling?
+
+DLG SPR_2
+March Hare: 
+
+DLG SPR_3
+"""
+March Hare: You enjoyed our singing? You must have a cup of tea! Come on! Don't be shy! Today is your unbirthday too! Sing with us! 
+Alice in Wonderland, how do you get to Wonderland?
+Over the hill or underland, or just behind the tree?
+When clouds go rolling by, they roll away and leave the sky.
+Where is the land beyond the eye, that people can not see, where can it be?
+Where do stars go, where is the crescent moon?
+They must be somewhere in the sunny afternoon.
+Alice in Wonderland, where is the path to Wonderland?
+Over the hill or here or there, I wonder where.
+"""
+
+VAR a
+42
+
+

@@ -1,0 +1,2555 @@
+
+The Pixel Cat 
+
+# BITSY VERSION 4.8
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME blue
+169,242,250
+59,59,59
+59,59,59
+
+PAL 1
+NAME green
+83,212,179
+59,59,59
+59,59,59
+
+PAL 2
+NAME orange
+255,195,152
+59,59,59
+59,59,59
+
+PAL 3
+NAME purple
+210,158,255
+59,59,59
+59,59,59
+
+ROOM 0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,m,w,1i,1h,0,0,0,0,0,0,0,27,27,27,a
+a,0,23,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,25,24,26,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,q,q,f,t,t,0,0,0,0,0,a
+a,0,0,0,0,q,m,b,z,11,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,1t,1u,22,0,u,i,f,0,0,0,0,a,a,a
+a,a,1v,1w,0,q,j,y,f,m,0,21,20,a,a,a
+a,a,1y,1x,0,0,d,b,u,0,0,0,1z,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME title
+EXT 8,10 1 7,10
+EXT 6,10 1 7,10
+EXT 7,9 1 7,10
+PAL 1
+
+ROOM 1
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,m,w,1i,18,0,0,0,0,0,0,0,27,27,27,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,2a,2a,2a,2a,2a,2a,2a,2a,2a,2a,2a,2a,2a,2a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,o,f,l,p,0,j,t,0,m,p,t,u,0,0,a
+a,0,j,o,0,b,0,e,j,h,j,u,b,m,0,a
+a,0,0,x,p,s,m,e,1j,1j,1j,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME 1-1
+EXT 15,10 3 0,10
+PAL 1
+
+ROOM 3
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,m,w,1i,18,0,a,0,a,a,a,a,27,27,27,a
+a,0,0,0,0,0,a,0,0,0,a,a,a,a,a,a
+a,0,0,0,a,a,a,a,a,0,0,0,0,0,0,a
+a,a,a,a,a,0,0,0,a,0,a,a,a,a,0,a
+a,0,0,0,a,0,a,0,a,0,0,0,0,a,0,a
+a,0,a,0,a,0,a,0,a,a,a,a,0,a,0,a
+a,0,a,0,a,0,a,0,0,0,0,a,0,a,0,a
+a,0,a,0,a,0,a,0,a,a,a,a,0,a,0,a
+a,0,a,0,a,0,a,0,a,0,0,0,0,a,0,a
+29,0,a,0,0,0,a,0,0,0,a,a,0,a,0,28
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,0,i,f,m,q,0,o,f,l,p,0,0,0,0,a
+a,0,0,f,t,d,b,q,f,11,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME 1-2
+ITM 2 10,7
+ITM 1 7,1
+ITM 0 12,10
+EXT 15,10 4 0,10
+PAL 1
+
+ROOM 4
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,m,w,1i,18,0,1n,0,1k,0,0,0,27,27,27,a
+a,0,0,0,0,0,1n,0,1k,0,0,0,0,0,0,a
+a,0,0,0,0,0,1n,1q,0,1r,2a,2a,2a,0,2a,a
+a,0,0,0,0,0,1n,0,0,0,0,0,0,0,0,28
+a,0,0,0,0,0,1m,1m,1m,1l,1m,1m,1m,1m,1m,a
+a,0,0,0,0,0,0,0,2a,1l,2a,0,0,0,0,a
+a,0,0,0,0,0,0,0,2a,1l,2a,0,0,0,0,a
+a,0,0,0,0,0,0,0,2a,1l,2a,0,0,0,0,a
+a,2a,2a,0,2a,2a,2a,2a,2a,1l,2a,2a,2a,0,2a,a
+29,0,0,0,0,0,0,0,0,1l,0,0,0,0,0,28
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,d,i,p,p,t,f,0,p,o,f,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME 1-3
+EXT 15,10 5 0,10
+EXT 15,4 5 0,4
+PAL 1
+
+ROOM 5
+a,a,a,a,a,a,a,a,28,a,a,a,a,a,a,a
+a,m,w,1i,19,0,0,a,1l,a,a,a,27,27,27,a
+a,0,0,0,0,0,0,a,1l,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,1l,a,0,0,0,a,a,a
+29,0,0,0,0,0,0,0,1l,a,0,a,0,a,a,a
+a,a,a,a,a,a,a,a,a,a,0,a,0,a,a,a
+a,a,a,a,a,a,a,a,a,a,0,a,0,a,a,a
+a,0,0,0,t,f,d,s,f,u,0,a,0,0,0,28
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,2a,2a,2a,2a,2a,2a,2a,2a,2a,2a,2a,2a,2a,2a,a
+29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,b,0,x,j,t,f,0,d,i,p,j,d,f,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME 2-1
+ITM 0 2,10
+ITM 1 4,10
+ITM 1 8,10
+ITM 1 12,10
+ITM 0 6,10
+ITM 0 10,10
+ITM 0 14,10
+ITM 2 2,4
+ITM 2 4,4
+ITM 2 6,4
+ITM 3 1,7
+ITM b 4,7
+ITM b 5,7
+ITM b 6,7
+ITM b 7,7
+ITM b 8,7
+ITM b 9,7
+EXT 8,0 6 8,15
+EXT 15,7 h 1,7
+EXT 15,10 h 1,10
+PAL 0
+
+ROOM 6
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,m,w,1i,19,a,a,a,a,a,a,a,27,27,27,a
+a,0,0,0,0,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,1q,0,1r,a,a,a,a,a,a,a,a,1q,0,1r,a
+28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+a,a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,29,a,a,a,a,a,a,a
+NAME 2-2
+EXT 0,9 7 15,9
+END undefineo 15,9
+PAL 0
+
+ROOM 7
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,m,w,1i,19,0,0,0,0,0,0,0,27,27,27,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,1o,1o,2a,2a,2a,2a,2a,2a,2a,2a,2a,2a,2a,2a,a
+a,1p,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,28,a,a,a,a,a,a,a,a
+NAME 2-3
+EXT 7,15 8 7,0
+PAL 0
+
+ROOM 8
+a,a,a,a,a,a,a,29,a,a,a,a,a,a,a,a
+a,m,w,1i,19,1n,a,1l,a,a,a,a,27,27,27,a
+a,1n,a,a,a,1n,a,1l,a,a,a,a,a,a,a,a
+a,1n,0,0,0,0,0,1l,0,0,0,0,0,0,0,a
+a,1n,1l,1n,a,a,a,a,a,a,1n,a,a,1n,1l,a
+a,1n,1l,1n,0,0,0,0,0,0,1n,a,a,1n,1l,a
+a,1n,1l,1n,1l,a,a,a,a,1l,0,0,0,0,1l,a
+a,1n,1l,1n,1l,0,0,0,1n,1l,1n,a,a,1n,a,a
+a,1n,1l,1n,a,a,a,1l,1n,1l,1n,a,a,1n,a,a
+a,1n,1l,0,0,0,a,1l,1n,1l,0,0,0,0,0,a
+a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,1l,a,0,u,i,f,0,a,a
+a,a,a,a,a,a,a,1l,a,t,f,x,f,s,a,a
+a,a,a,a,a,a,a,1l,a,2b,2b,2b,2b,2b,a,a
+a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a,a
+NAME 2-4
+EXT 7,15 9 7,0
+PAL 0
+
+ROOM 9
+a,a,a,a,a,a,a,29,a,a,a,a,a,a,a,a
+a,m,w,1i,19,a,a,1l,a,a,a,a,27,27,27,a
+a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,1l,0,0,0,0,0,0,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,1l,a,a,a
+a,0,0,0,0,0,a,a,a,a,a,a,1l,0,0,a
+a,1l,a,a,a,1l,a,a,a,a,a,a,a,a,1l,a
+a,1l,a,a,a,1l,0,0,0,0,0,0,0,0,1l,a
+a,1l,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,1l,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,0,u,i,f,0,a,a
+a,a,a,a,a,a,a,a,a,t,f,x,f,s,a,a
+a,a,a,a,a,a,a,a,a,2b,2b,2b,2b,2b,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME 2-5
+ITM 4 13,3
+EXT 13,3 a 13,3
+EXT 15,9 b 0,9
+PAL 0
+
+ROOM a
+a,a,a,a,a,a,a,29,a,a,a,a,a,a,a,a
+a,m,w,1i,19,a,a,1l,a,a,a,a,2c,27,27,a
+a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,1l,0,0,0,0,0,0,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,1l,a,a,a
+a,0,0,0,0,0,a,a,a,a,a,a,1l,0,0,a
+a,1l,a,a,a,1l,a,a,a,a,a,a,a,a,1l,a
+a,1l,a,a,a,1l,0,0,0,0,0,0,0,0,1l,a
+a,1l,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,1l,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,0,u,i,f,0,a,a
+a,a,a,a,a,a,a,a,a,t,f,x,f,s,a,a
+a,a,a,a,a,a,a,a,a,2b,2b,2b,2b,2b,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME 2-5 (2)
+EXT 15,9 c 0,9
+PAL 0
+
+ROOM b
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,m,w,1i,1a,a,0,0,0,0,a,a,27,27,27,a
+a,a,a,a,a,a,0,a,a,0,a,a,a,a,a,a
+a,0,0,0,0,0,0,a,a,0,0,0,0,0,0,a
+a,0,a,a,0,a,a,a,a,a,a,0,a,a,0,a
+a,0,a,a,0,0,0,0,0,0,0,0,a,a,0,a
+a,0,a,a,0,a,a,0,a,a,a,0,a,a,0,a
+a,0,0,0,0,a,a,0,a,a,a,0,a,a,0,a
+a,a,a,0,a,a,0,0,0,0,0,0,a,a,0,a
+29,0,a,0,a,a,a,a,a,a,a,0,a,a,0,0
+a,1l,a,0,a,0,0,0,0,0,a,0,a,a,1l,a
+a,1l,a,0,a,1l,a,a,a,1l,a,0,a,a,1l,a
+a,1l,a,0,a,1l,0,a,0,1l,a,0,0,a,1l,a
+a,1l,a,a,a,1l,a,a,a,1l,a,a,a,a,1l,a
+a,1l,0,0,0,1l,0,a,0,1l,0,0,0,0,1l,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME 3-1
+ITM 5 8,14
+ITM 2 3,12
+ITM 2 7,1
+ITM 1 3,3
+ITM 0 12,3
+ITM 0 9,5
+ITM 2 12,12
+ITM 1 9,8
+EXT 8,14 c 9,14
+EXT 15,9 e 0,9
+PAL 2
+
+ROOM c
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,m,w,1i,1a,a,0,0,0,0,a,a,2c,27,27,a
+a,a,a,a,a,a,0,a,a,0,a,a,a,a,a,a
+a,0,0,0,0,0,0,a,a,0,0,0,0,0,0,a
+a,0,a,a,0,a,a,a,a,a,a,0,a,a,0,a
+a,0,a,a,0,0,0,0,0,0,0,0,a,a,0,a
+a,0,a,a,0,a,a,0,a,a,a,0,a,a,0,a
+a,0,0,0,0,a,a,0,a,a,a,0,a,a,0,a
+a,a,a,0,a,a,0,0,0,0,0,0,a,a,0,a
+29,0,a,0,a,a,a,a,a,a,a,0,a,a,0,28
+a,1l,a,0,a,0,0,0,0,0,a,0,a,a,1l,a
+a,1l,a,0,a,1l,a,a,a,1l,a,0,a,a,1l,a
+a,1l,a,0,a,1l,0,a,0,1l,a,0,0,a,1l,a
+a,1l,a,a,a,1l,a,a,a,1l,a,a,a,a,1l,a
+a,1l,0,0,0,1l,0,a,0,1l,0,0,0,0,1l,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME 3-1 (2)
+ITM 6 12,3
+ITM 6 5,5
+ITM 6 1,7
+ITM 6 12,12
+ITM 3 3,12
+ITM 4 7,8
+EXT 7,8 d 7,8
+EXT 15,9 f 0,9
+PAL 2
+
+ROOM d
+a,a,a,a,a,a,a,a,2e,a,a,a,a,a,a,2d
+a,m,w,1i,1a,a,0,0,0,0,a,a,2c,2c,27,a
+a,a,a,a,a,a,0,a,a,0,a,a,a,a,a,a
+2d,0,0,0,0,0,0,a,a,0,0,0,0,0,0,a
+a,0,a,a,0,a,a,a,a,a,a,0,a,a,0,a
+a,0,2f,a,0,0,0,0,0,0,0,0,a,a,0,2e
+a,0,a,a,0,a,a,0,a,a,a,0,a,2d,0,a
+a,0,0,0,0,a,2d,0,a,2f,a,0,a,a,0,a
+a,a,a,0,2e,a,0,0,0,0,0,0,a,a,0,a
+29,0,a,0,a,a,a,a,a,a,a,0,a,a,0,28
+a,1l,a,0,a,0,0,0,0,0,a,0,a,a,1l,a
+a,1l,a,0,a,1l,a,a,a,1l,a,0,a,a,1l,a
+2f,1l,a,0,a,1l,0,a,0,1l,a,0,0,a,1l,a
+a,1l,a,a,a,1l,a,a,a,1l,a,a,a,a,1l,a
+a,1l,0,0,0,1l,0,a,0,1l,0,0,0,0,1l,a
+a,a,a,2d,a,a,a,2e,a,a,a,a,2d,a,a,a
+NAME 3-1 (3)
+EXT 15,9 g 0,9
+PAL 2
+
+ROOM e
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,m,w,1i,1a,a,0,0,0,0,a,a,27,27,27,a
+a,a,a,a,a,a,0,0,0,0,a,a,a,a,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,b,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,28,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+29,0,0,0,0,0,0,0,0,0,0,c,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,28,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,d,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,28,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME 3-2
+END undefined 11,7
+END undefinee 11,10
+END undefinef 11,13
+PAL 2
+
+ROOM f
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,m,w,1i,1a,a,0,0,0,0,a,a,2c,27,27,a
+a,a,a,a,a,a,0,0,0,0,a,a,a,a,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,b,0,0,0,c,0,0,a
+a,0,0,0,0,0,0,0,28,0,0,0,28,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,d,0,0,0,e,0,0,a
+a,0,0,0,0,0,0,0,28,0,0,0,28,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME 3-2 (2)
+END undefineg 8,7
+END undefineg 12,7
+END undefineg 8,11
+END undefineg 12,11
+PAL 2
+
+ROOM g
+a,a,a,a,a,a,a,a,a,a,2d,a,a,a,a,a
+a,m,w,1i,2g,a,b,0,2i,0,a,a,2c,2h,27,a
+2e,a,a,a,a,a,28,0,0,0,a,a,a,a,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,c,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,28,a
+a,0,0,0,0,0,0,0,0,0,2i,0,0,0,0,a
+2f,0,2i,0,0,0,0,0,0,0,0,0,0,0,0,2e
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,2i,0,a
+29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,2i,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+2f,0,2i,0,0,0,0,0,0,0,0,0,0,2i,0,2d
+a,0,0,0,0,2i,0,0,0,0,0,0,0,0,28,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,d,a
+a,a,a,a,2e,a,a,a,a,a,a,2d,a,a,a,a
+NAME 3-2 (3)
+END undefineh 10,5
+END undefineh 8,1
+END undefineh 2,6
+END undefineh 7,10
+END undefineh 2,12
+END undefineh 5,13
+END undefineh 13,8
+END undefineh 13,12
+END undefinei 6,2
+END undefinej 14,4
+END undefinek 14,13
+PAL 2
+
+ROOM h
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,m,w,1i,19,a,a,a,a,a,a,a,27,27,27,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,0,1a,y,1a,2j,1g,0,0,0,0,i,j,11,0,a
+a,a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,1l,a,a,a,a,a,a,a
+28,0,0,0,0,0,0,0,1l,0,0,0,0,0,0,28
+a,a,a,a,a,a,a,a,a,a,a,1l,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,1l,a,a,a,a
+29,0,0,0,0,0,0,0,0,0,0,1l,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,g,b,n,j,m,z,0,0,j,t,0,0,0,0,a
+a,0,j,n,q,p,s,u,b,o,u,11,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+ITM 7 4,7
+ITM 8 5,7
+ITM 9 6,7
+ITM a 7,7
+ITM a 3,7
+ITM b 11,3
+ITM b 12,3
+ITM b 13,3
+ITM b 6,3
+ITM b 5,3
+ITM b 4,3
+ITM b 3,3
+ITM b 2,3
+EXT 8,0 6 8,15
+EXT 0,7 5 14,7
+EXT 15,7 i 1,7
+PAL 0
+
+ROOM i
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,m,w,1i,19,a,a,a,a,a,a,a,27,27,27,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,28,a,a,a,a,a,a,a
+a,28,0,0,28,a,a,a,0,a,a,a,0,0,0,a
+a,0,0,0,0,a,28,0,0,0,28,a,0,28,0,a
+29,0,0,0,28,a,a,a,2k,a,a,a,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,28,0,0,28,a,a,a,2k,a,a,a,0,0,0,a
+a,0,0,0,0,a,28,0,0,0,28,a,0,28,0,a
+a,28,0,0,28,a,a,a,0,a,a,a,0,0,0,a
+a,a,a,a,a,a,a,a,28,a,a,a,a,a,a,a
+a,28,a,a,a,a,a,a,a,a,a,a,a,a,28,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+EXT 8,0 6 8,15
+EXT 0,7 5 14,7
+EXT 1,5 i 1,7
+EXT 4,7 i 1,7
+EXT 4,5 i 8,6
+EXT 8,4 i 8,14
+EXT 6,6 i 8,10
+EXT 10,6 i 8,14
+EXT 6,10 i 8,14
+EXT 14,13 i 3,10
+EXT 1,13 i 12,5
+EXT 1,11 i 12,9
+EXT 13,6 i 3,10
+EXT 1,9 i 12,9
+EXT 4,9 i 8,10
+EXT 4,11 i 8,6
+EXT 8,12 i 2,7
+EXT 10,10 i 12,11
+EXT 13,10 j 7,9
+END undefinel 8,7
+END undefinel 8,9
+PAL 3
+
+ROOM j
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,a,a,a,a,a,a,a,a,a,a,a,a,0,a
+a,0,a,0,0,0,0,0,0,0,0,0,0,a,0,a
+a,0,a,0,a,a,a,a,a,a,a,a,0,a,0,a
+a,0,a,0,a,2l,2l,2l,2l,2l,2l,a,0,a,0,a
+a,0,a,0,a,2l,0,1s,1s,0,2l,a,0,a,0,a
+a,0,a,0,a,2l,1q,2m,2n,1r,2l,a,0,a,0,a
+a,0,a,0,a,2l,0,0,0,0,2l,a,0,a,0,a
+a,0,a,0,a,2l,0,0,0,2o,2l,a,0,a,0,a
+a,0,a,0,a,2l,2l,2l,2l,2l,2l,a,0,a,0,a
+a,0,a,0,a,a,a,a,a,a,a,a,0,a,0,a
+a,0,a,0,0,0,0,0,0,0,0,0,0,a,0,a
+a,0,a,a,a,a,a,a,a,a,a,a,a,a,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+END undefinem 8,7
+END undefinem 7,7
+END undefinen 9,9
+PAL 3
+
+TIL 10
+00000000
+01111110
+00000110
+00001100
+00011000
+00110000
+01111110
+01111110
+NAME z
+
+TIL 11
+00000000
+00111100
+00111100
+00111100
+00011000
+00011000
+00000000
+00011000
+NAME !
+
+TIL 12
+00000000
+01111110
+01111110
+01100110
+00001110
+00001000
+00000000
+00001000
+NAME ?
+
+TIL 13
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+NAME Box
+WAL true
+
+TIL 14
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME top line
+
+TIL 15
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+NAME bottom line
+
+TIL 16
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+NAME right line
+
+TIL 17
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+NAME left line
+
+TIL 18
+00000000
+00011000
+00111000
+00011000
+00011000
+00011000
+00011000
+00111100
+NAME 1
+
+TIL 19
+00000000
+00111100
+00111100
+00000100
+00111100
+00100000
+00111100
+00111100
+NAME 2
+
+TIL 20
+00000000
+00000000
+10000000
+10000000
+10000000
+01000000
+01000111
+00111000
+>
+00000000
+00000000
+00000000
+00000000
+10000000
+10000000
+01000111
+00111000
+
+TIL 21
+00000000
+00000001
+00000010
+00000010
+00000010
+00000010
+00000001
+00000001
+>
+00000000
+00000000
+00000000
+00000011
+00000100
+00000010
+00000010
+00000011
+
+TIL 22
+00000000
+00000000
+00010100
+00101010
+00100010
+00010100
+00001000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL 23
+00000000
+00011000
+00111100
+01111110
+00011000
+00011000
+00011000
+00011000
+NAME Up
+
+TIL 24
+00000000
+00011000
+00011000
+00011000
+00011000
+01111110
+00111100
+00011000
+NAME Down
+
+TIL 25
+00000000
+00100000
+01100000
+11111110
+11111110
+01100000
+00100000
+00000000
+NAME Left
+
+TIL 26
+00000000
+00000100
+00000110
+01111111
+01111111
+00000110
+00000100
+00000000
+NAME Right
+
+TIL 27
+00000000
+00101000
+01111100
+01111100
+00111000
+00010000
+00000000
+00000000
+
+TIL 28
+00000000
+00011000
+00000000
+01011010
+01011010
+00000000
+00011000
+00000000
+
+TIL 29
+00000000
+00000000
+00100100
+00011000
+00011000
+00100100
+00000000
+00000000
+
+TIL a
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME wall
+WAL true
+
+TIL b
+00000000
+00111100
+01111110
+01100010
+01100010
+01111110
+01100010
+01100010
+NAME a
+
+TIL c
+00000000
+01111100
+01100100
+01100100
+01111110
+01100010
+01100010
+01111110
+NAME b
+
+TIL d
+00000000
+00111110
+01111110
+01100000
+01100000
+01100000
+01111110
+00111110
+NAME c
+
+TIL e
+00000000
+01111000
+01100100
+01100010
+01100010
+01100010
+01111110
+01111100
+NAME d
+
+TIL f
+00000000
+00111100
+01111100
+01000000
+01111000
+01000000
+01111100
+00111100
+NAME e
+
+TIL g
+00000000
+00111110
+01111110
+01100000
+01111000
+01111000
+01100000
+01100000
+NAME f
+
+TIL h
+00000000
+00111100
+01111110
+01100000
+01101100
+01100010
+01111110
+00111100
+NAME g
+
+TIL i
+00000000
+01100010
+01100010
+01100010
+01111110
+01111110
+01100010
+01100010
+NAME h
+
+TIL j
+00000000
+01111110
+00011000
+00011000
+00011000
+00011000
+01111110
+01111110
+NAME i
+
+TIL k
+00000000
+00001100
+00001100
+00001100
+00001100
+01101100
+01111100
+00111000
+NAME j
+
+TIL l
+00000000
+01100010
+01100100
+01101000
+01110000
+01111000
+01101100
+01100110
+NAME k
+
+TIL m
+00000000
+01100000
+01100000
+01100000
+01100000
+01100000
+01111110
+01111110
+NAME l
+
+TIL n
+00000000
+01100010
+01100010
+01110110
+01111110
+01101010
+01100010
+01100010
+NAME m
+
+TIL o
+00000000
+01100010
+01100010
+01110010
+01111010
+01101110
+01100110
+01100010
+NAME n
+
+TIL p
+00000000
+00111100
+01100110
+01100110
+01100110
+01100110
+01100110
+00111100
+
+TIL q
+00000000
+01111100
+01111110
+01100010
+01111110
+01111100
+01100000
+01100000
+NAME p
+
+TIL r
+00000000
+00111100
+01100010
+01100010
+01100010
+01101010
+00111100
+00000110
+NAME q
+
+TIL s
+00000000
+01111100
+01100010
+01100010
+01100010
+01111100
+01100100
+01100110
+NAME r
+
+TIL t
+00000000
+01111100
+01111110
+01000000
+01111110
+00000110
+01111110
+00111110
+NAME s
+
+TIL u
+00000000
+01111110
+01111110
+00011000
+00011000
+00011000
+00011000
+00011000
+NAME t
+
+TIL v
+00000000
+01100010
+01100010
+01100010
+01100010
+01100010
+01111110
+01111110
+NAME u
+
+TIL w
+00000000
+01100010
+01100010
+01100010
+01100010
+01100010
+00111100
+00011000
+NAME v
+
+TIL x
+00000000
+01101010
+01101010
+01101010
+01101010
+01101010
+01111110
+00111100
+NAME w
+
+TIL y
+00000000
+01000010
+01100110
+00111100
+00011000
+00111100
+01100110
+01000010
+NAME x
+
+TIL z
+00000000
+01100110
+01100110
+00111100
+00011000
+00011000
+00011000
+00011000
+NAME y
+
+TIL 1a
+00000000
+00111100
+00111100
+00000100
+00011100
+00000100
+00111100
+00111100
+NAME 3
+
+TIL 1b
+00000000
+00110100
+00110100
+00110100
+00111100
+00111100
+00001100
+00001100
+NAME 4
+
+TIL 1c
+00000000
+00111100
+00110000
+00110000
+00111100
+00001100
+00001100
+00111100
+NAME 5
+
+TIL 1d
+00000000
+00111100
+00110000
+00110000
+00111100
+00110100
+00110100
+00111100
+NAME 6
+
+TIL 1e
+00000000
+00111100
+00111100
+00001100
+00001100
+00001100
+00001100
+00001100
+NAME 7
+
+TIL 1f
+00000000
+00111100
+00101100
+00101100
+00111100
+00101100
+00101100
+00111100
+NAME 8
+
+TIL 1g
+00000000
+00111100
+00101100
+00101100
+00111100
+00001100
+00001100
+00001100
+NAME 9
+
+TIL 1h
+00000000
+00011100
+00110010
+00110010
+00101010
+00100110
+00100110
+00011100
+NAME 0
+
+TIL 1i
+00000000
+00000000
+00000000
+01111110
+01111110
+00000000
+00000000
+00000000
+NAME hyphen
+
+TIL 1j
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11000000
+11000000
+NAME period
+
+TIL 1k
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+NAME middle line
+
+TIL 1l
+11111111
+00000000
+11111111
+00000000
+11111111
+00000000
+11111111
+00000000
+NAME ladder
+
+TIL 1m
+11111111
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME platform
+WAL true
+
+TIL 1n
+11011011
+11011011
+11011011
+11011011
+11011011
+11011011
+11011011
+11011011
+NAME a
+WAL true
+
+TIL 1o
+00000000
+11111111
+10101001
+10101001
+11111111
+10010101
+10010101
+11111111
+NAME b
+
+TIL 1p
+01000000
+01010111
+01010100
+01000100
+01000100
+01000100
+01000100
+01111111
+NAME b
+
+TIL 1q
+00000000
+00000000
+00000100
+00000010
+00000000
+00001010
+00000000
+00000010
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+WAL true
+
+TIL 1r
+00000000
+00000000
+00100000
+01000000
+00000000
+01010000
+00000000
+01000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+WAL true
+
+TIL 1s
+00000000
+00000000
+00000000
+00010001
+01010101
+01010101
+01010101
+11111111
+WAL true
+
+TIL 1t
+00000000
+00001000
+00010100
+00010010
+00100010
+00100001
+01000001
+01000000
+
+TIL 1u
+00000000
+00001000
+00010100
+00100100
+00100010
+01000010
+11000001
+00000001
+
+TIL 1v
+10000100
+10000100
+10000100
+10000001
+10011000
+01000000
+11100000
+00111111
+
+TIL 1w
+00100001
+00100001
+00100001
+10000001
+00011001
+00000010
+00000100
+11111000
+
+TIL 1x
+00100000
+01000000
+10000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL 1y
+00000000
+00000000
+00000000
+00000101
+00010110
+11110100
+00010010
+00011110
+
+TIL 1z
+10000000
+01100000
+00100000
+00100000
+00100000
+00101111
+00100100
+00111100
+>
+10000000
+01100000
+00100000
+00100000
+00100000
+00101111
+00100100
+00111100
+
+TIL 2a
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+WAL true
+
+TIL 2b
+00000000
+00000000
+00000000
+00011000
+00011000
+00000000
+00000000
+00000000
+
+TIL 2c
+00000000
+00101000
+01010100
+01000100
+00101000
+00010000
+00000000
+00000000
+
+TIL 2d
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+>
+11111111
+11110011
+10111111
+11111111
+11111111
+11110011
+11011111
+11111111
+NAME glitch block
+
+TIL 2e
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+>
+11011111
+11111111
+11111111
+10110111
+11111111
+11111011
+11011111
+11111111
+
+TIL 2f
+11111111
+10111011
+11111111
+11111111
+10001111
+11111111
+11111011
+11111111
+>
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL 2g
+00000000
+00111100
+00111100
+00001100
+00011100
+00001100
+00111100
+00111100
+>
+00000000
+00111100
+00100100
+00000100
+00110100
+00101100
+00000100
+00111100
+
+TIL 2h
+00000000
+00100100
+01010000
+01000010
+00100100
+00010100
+00000000
+00000000
+>
+00000000
+00101000
+01010100
+01000100
+00101000
+00010000
+00000000
+00000000
+
+TIL 2i
+00000000
+00001000
+00101000
+00110100
+00100100
+01001010
+01011010
+00111100
+>
+00000000
+00000000
+00010100
+00011100
+00100110
+01000010
+01011010
+00111100
+
+TIL 2j
+00000000
+00000000
+01111110
+00000000
+00000000
+01111110
+00000000
+00000000
+
+TIL 2k
+00000000
+00011000
+00000000
+01011010
+01011010
+00000000
+00011000
+00000000
+>
+00000000
+00011000
+00000000
+01000010
+01000010
+00000000
+00011000
+00000000
+
+TIL 2l
+01111110
+10000001
+10111101
+10100101
+10100101
+10111101
+10000001
+01111110
+WAL true
+
+TIL 2m
+11111111
+10000000
+10111111
+10100000
+10100000
+10111111
+10000000
+11111111
+
+TIL 2n
+11111111
+00000001
+11111101
+00000101
+00000101
+11111101
+00000001
+11111111
+
+TIL 2o
+00000000
+00000000
+00111100
+00100100
+00100100
+00111100
+00000000
+00000000
+>
+00000000
+00000000
+00111100
+00111100
+00111100
+00111100
+00000000
+00000000
+
+SPR 10
+11100111
+11011011
+10100101
+11000011
+01111110
+11100111
+11100111
+01111110
+DLG SPR_n
+POS f 4,9
+
+SPR 11
+00000000
+00000000
+00000000
+01011010
+01111110
+10100101
+00000000
+00000000
+>
+00000000
+00000000
+10000001
+11000011
+00111100
+00011000
+00000000
+00000000
+NAME bat
+DLG SPR_o
+POS f 2,4
+
+SPR 12
+00000000
+00000000
+00000000
+01011010
+01111110
+10100101
+00000000
+00000000
+>
+00000000
+00000000
+10000001
+11000011
+00111100
+00011000
+00000000
+00000000
+NAME bat
+DLG SPR_p
+POS f 4,13
+
+SPR 13
+01010100
+10111110
+01101010
+01110110
+01001001
+01111110
+00011100
+00010100
+>
+00010100
+00111110
+00101010
+00110110
+01001001
+01111110
+01011100
+01010100
+DLG SPR_q
+POS g 5,8
+
+SPR 14
+00000000
+00000000
+00000000
+01011010
+01111110
+10100101
+00000000
+00000000
+>
+00000000
+00000000
+10000001
+11000011
+00111100
+00011000
+00000000
+00000000
+NAME bat
+DLG SPR_r
+POS g 6,4
+
+SPR 15
+00000000
+00000000
+00000000
+01011010
+01111110
+10100101
+00000000
+00000000
+>
+00000000
+00000000
+10000001
+11000011
+00111100
+00011000
+00000000
+00000000
+NAME bat
+DLG SPR_s
+POS g 9,11
+
+SPR 16
+00000000
+00000000
+00000000
+01011010
+01111110
+10100101
+00000000
+00000000
+>
+00000000
+00000000
+10000001
+11000011
+00111100
+00011000
+00000000
+00000000
+DLG SPR_t
+POS g 11,7
+
+SPR 17
+01111100
+01010100
+01111101
+01101101
+11000110
+11101101
+01111101
+01000100
+DLG SPR_v
+POS j 6,9
+
+SPR A
+00000000
+00000000
+00010100
+00111110
+00101010
+00111110
+01011101
+00010100
+>
+00000000
+00000000
+00010100
+00111110
+00101010
+01111111
+00011100
+00010100
+POS 0 7,10
+
+SPR a
+00000000
+01111110
+10000011
+10101011
+10101011
+10000011
+01111111
+11111110
+NAME Computer
+DLG SPR_0
+POS 8 14,9
+
+SPR b
+00011000
+00011000
+01111110
+10000001
+10010101
+10010101
+10000001
+01111110
+NAME bulb
+DLG SPR_7
+POS 4 8,3
+
+SPR c
+00000100
+11010100
+01010100
+01000100
+11000100
+01000100
+01000100
+11111100
+NAME empty shack
+DLG SPR_6
+POS 7 2,9
+
+SPR d
+00000000
+01111110
+10000001
+10100101
+10100101
+11000011
+10000001
+01111110
+NAME info 1
+DLG SPR_2
+POS 4 3,9
+
+SPR e
+00000000
+01111110
+10000001
+10100101
+10100101
+11000011
+10000001
+01111110
+NAME info 2
+DLG SPR_1
+POS 4 13,3
+
+SPR f
+00000000
+01111110
+10000001
+10100101
+10100101
+11000011
+10000001
+01111110
+NAME info 3
+DLG SPR_3
+POS 4 13,9
+
+SPR h
+00000000
+01111110
+10000001
+10100101
+10100101
+11000011
+10000001
+01111110
+NAME info 4
+DLG SPR_4
+POS 6 2,8
+
+SPR i
+00000000
+01111110
+10000001
+10100101
+10100101
+11000011
+10000001
+01111110
+NAME info 5
+DLG SPR_5
+POS 6 13,8
+
+SPR j
+00000000
+00000000
+00010100
+10011100
+11011100
+01111000
+00111000
+00101000
+
+SPR k
+00000000
+00000000
+10100000
+11100010
+11100010
+01111100
+01111000
+01001000
+>
+00000000
+00000000
+00000000
+10100100
+11100010
+11111100
+01111000
+01001000
+DLG SPR_8
+POS 8 5,9
+
+SPR l
+00000000
+01111100
+01010100
+01111100
+00010000
+01010100
+00010000
+01000100
+>
+00000000
+00000000
+01111100
+01010100
+01111100
+00111000
+00010000
+00101000
+DLG SPR_9
+POS b 6,8
+
+SPR m
+00000000
+00000000
+00011110
+00010101
+00011100
+00101000
+00001000
+00100010
+NAME Ninja Squad a
+DLG SPR_a
+POS b 6,14
+
+SPR n
+00000000
+00111000
+01101000
+10111000
+00010000
+01010100
+00000000
+00100100
+NAME Ninja Squad d
+DLG SPR_b
+POS b 8,12
+
+SPR o
+00000000
+00000000
+00001111
+00001010
+00101110
+00000100
+00010100
+00001010
+NAME Ninja Squad b
+DLG SPR_c
+POS b 6,12
+
+SPR p
+00000000
+00000000
+00111000
+01101000
+10111000
+01010000
+00000000
+00101000
+NAME Ninja Squad c
+DLG SPR_u
+POS c 8,14
+
+SPR q
+00000000
+00000000
+00011110
+00010101
+00011100
+00101000
+00001000
+00100010
+DLG SPR_d
+POS c 6,14
+
+SPR r
+00000000
+00111000
+01101000
+10111000
+00010000
+01010100
+00000000
+00100100
+DLG SPR_e
+POS c 8,12
+
+SPR s
+00000000
+00000000
+00001111
+00001010
+00101110
+00000100
+00010100
+00001010
+DLG SPR_f
+POS c 6,12
+
+SPR t
+00000000
+01111100
+01010100
+01111100
+00010000
+01010100
+00010000
+01000100
+>
+00000000
+00000000
+01111100
+01010100
+01111100
+00111000
+00010000
+00101000
+DLG SPR_g
+POS c 6,8
+
+SPR u
+00000000
+00000000
+00111100
+00101010
+00100010
+00101100
+00111000
+00101000
+DLG SPR_h
+POS d 8,12
+
+SPR v
+11100111
+11011011
+10100101
+11000011
+01111110
+11100111
+11100111
+01111110
+DLG SPR_i
+POS e 5,9
+
+SPR w
+00000000
+00000000
+00000000
+01011010
+01111110
+10100101
+00000000
+00000000
+>
+00000000
+00000000
+10000001
+11000011
+00111100
+00011000
+00000000
+00000000
+NAME bat
+DLG SPR_j
+POS e 5,4
+
+SPR x
+00000000
+00000000
+00000000
+01011010
+01111110
+10100101
+00000000
+00000000
+>
+00000000
+00000000
+10000001
+11000011
+00111100
+00011000
+00000000
+00000000
+NAME bat
+DLG SPR_k
+POS e 2,6
+
+SPR y
+00000000
+00000000
+00000000
+01011010
+01111110
+10100101
+00000000
+00000000
+>
+00000000
+00000000
+10000001
+11000011
+00111100
+00011000
+00000000
+00000000
+NAME bat
+DLG SPR_l
+POS e 7,12
+
+SPR z
+00000000
+00000000
+00000000
+01011010
+01111110
+10100101
+00000000
+00000000
+>
+00000000
+00000000
+10000001
+11000011
+00111100
+00011000
+00000000
+00000000
+NAME bat
+DLG SPR_m
+POS e 2,13
+
+ITM 0
+00001000
+00001000
+00001000
+00011000
+00111000
+00010000
+00000000
+00000000
+>
+00000000
+00000000
+00001000
+00001000
+00001000
+00011000
+00111000
+00010000
+NAME quarter note
+
+ITM 1
+00000000
+00000000
+00001000
+00001100
+00001010
+00011000
+00111000
+00010000
+>
+00001000
+00001100
+00001010
+00011000
+00111000
+00010000
+00000000
+00000000
+NAME eighth note
+
+ITM 2
+00000000
+00011000
+00100100
+01001010
+01001010
+00100100
+00011000
+00000000
+>
+00000000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00000000
+NAME coin
+
+ITM 3
+00000000
+00000000
+01111111
+01000001
+01111111
+01001001
+01000001
+01111111
+NAME Treasure
+DLG ITM_0
+
+ITM 4
+00000000
+00000000
+00000000
+00000000
+00000000
+01001010
+01001010
+10110101
+DLG ITM_1
+
+ITM 5
+00000000
+00000000
+00111000
+01101000
+10111000
+01010000
+00000100
+00010000
+NAME Ninja Kick
+DLG ITM_2
+
+ITM 6
+00000000
+00000000
+00111100
+01111110
+01011010
+01111110
+00111100
+00100100
+NAME Skull
+DLG ITM_3
+
+ITM 7
+00000000
+01111100
+01000000
+01000000
+01000000
+01000000
+01000000
+01111100
+
+ITM 8
+00000000
+00011000
+00100100
+01000010
+01000010
+01111110
+01000010
+01000010
+
+ITM 9
+00000000
+01111100
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+
+ITM a
+00000000
+00101000
+01010100
+01000100
+01000100
+00101000
+00010000
+00000000
+
+ITM b
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+DLG SPR_0
+"""
+{sequence
+  - Computer: "Hello World"
+    Type friend's name to find with GPS. (...Enter Name...)
+    Your friend is in LV-3
+  - Computer: "Bye World"
+    Battery at 0%
+  - (The computer is turned off and needs to be charged)
+}
+"""
+
+DLG SPR_2
+Hello! I want to help you. Are you looking for something?
+
+DLG SPR_1
+If you're looking for a friend go this way.
+
+DLG SPR_3
+If you're looking for family go this way.
+
+DLG ITM_0
+"""
+Neko found a treasure chest.
+You try to open the lock.
+Lock Picking Skill: 0
+It will not open...
+You take the whole chest with you.
+"""
+
+DLG SPR_4
+Go left to search for your friend in the sewers.
+
+DLG SPR_5
+Go right to search for your friend in the dungeon.
+
+DLG SPR_6
+"""
+{sequence
+  - Neko slowly creeps into an empty shack. The pipes are rattling and the floor boards creak. He looks around for his friend. He finds nothing.
+  - Neko gives the shack one last look around. He finds a spider making its web in the corner. Neko leaves the shack.
+  - Neko already looked around the old shack.
+}
+"""
+
+DLG SPR_7
+Just look on the bright side!
+
+DLG SPR_8
+"""
+{sequence
+  - Mr. Whiskers: Are you looking for something pal? I've got just the thing. Cat Nip! How much you want?
+  - Mr. Whiskers: Ohh... you're looking for your friend... I saw someone head down deeper into the sewers.
+}
+"""
+
+DLG ITM_1
+You hurt yourself by falling on some spikes in a pit.
+
+DLG SPR_9
+"""
+{sequence
+  - Coach M: I'm doing jumping jacks. Training for the big race.
+  - Coach M: Why do I train in the sewers?! Builds character
+  - Coach M: I saw a dog go over there
+}
+"""
+
+DLG SPR_a
+"""
+{sequence
+  - Alpha Ninja: Sneak attack! Watch your back, you never know who is lurking in the sewers.
+  - Alpha Ninja: Some lizard might have mutated so always be prepared.
+  - Alpha Ninja: I stick with my squad at all times!
+}
+"""
+
+DLG SPR_b
+"""
+{sequence
+  - Ninja Delta: Watch out for Omega! When he trains he just starts throwing kicks everywhere without looking.
+  - Ninja Delta: Training in the sewers is relaxing.
+}
+"""
+
+DLG SPR_c
+"""
+{sequence
+  - Ninja Beta: Hi-Ya! Ka-Pow! I might be short, but I pack a punch.
+  - Ninja Beta: We are the Tera Squad! Alpha, Beta, Delta, and Omega.
+}
+"""
+
+DLG ITM_2
+Ninja Omega does a flying kick and hits you square in the face. You wake up a few minutes later.
+
+DLG SPR_d
+"""
+{sequence
+  - Alpha Ninja: Sneak attack! Watch your back, you never know who is lurking in the sewers.
+  - Alpha Ninja: Some lizard might have mutated so always be prepared.
+  - Alpha Ninja: I stick with my squad at all times!
+}
+"""
+
+DLG SPR_e
+"""
+{sequence
+  - Ninja Delta: Watch out for Omega! When he trains he just starts throwing kicks everywhere without looking.
+  - Ninja Delta: Training in the sewers is relaxing.
+}
+"""
+
+DLG SPR_f
+"""
+{sequence
+  - Ninja Beta: Hi-Ya! Ka-Pow! I might be short, but I pack a punch.
+  - Ninja Beta: We are the Tera Squad! Alpha, Beta, Delta, and Omega.
+}
+"""
+
+DLG SPR_g
+"""
+{sequence
+  - Coach M: I'm doing jumping jacks. Training for the big race.
+  - Coach M: Why do I train in the sewers?! Builds character
+  - Coach M: I saw a dog go over there
+}
+"""
+
+DLG ITM_3
+You jump on a helpless mutated mushroom.
+
+DLG SPR_h
+"""
+{sequence
+  - Sewer Snake: The sewer is getting glitchy.
+  - Sewer Snake: It seems your life force is effecting everything.
+}
+"""
+
+DLG SPR_i
+"""
+{sequence
+  - Dracula: If you want to reunite with your friend you must answer this question.
+  - Dracula: What is more important- 
+    A. Having Fun
+    B. Making Money
+    C. Finding Love
+}
+"""
+
+DLG SPR_j
+Dracula asks the toughest questions sometimes. Why can't he just let you see your friend.
+
+DLG SPR_k
+I would go with the money. You know you got bills to pay and stuff to buy. Money makes the world move.
+
+DLG SPR_l
+Always pick love. I mean life has no meaning with out love, right?...
+
+DLG SPR_m
+Fun! Fun! FUN! You've got to have fun, except in the sun because us bats are nocturnal.
+
+DLG SPR_n
+"""
+{sequence
+  - Dracula: If you want to reunite with your friend you must answer this question.
+  - Dracula: Which is the first pokemon?
+    A. Bulbasaur
+    B. Mew
+    C. Rhydon
+    D. Arceus
+}
+"""
+
+DLG SPR_o
+"""
+Dude I didn't know Dracula was into pokemon. Wait am I a pokemon?! {rbw}{wvy}Supersonic{wvy}{rbw}
+Ughh I'm just a zubat...
+"""
+
+DLG SPR_p
+Easy Peasy! When in doubt, go with C
+
+DLG SPR_q
+"""
+{sequence
+  - Satan: If you want to reunite with your friend you must answer this question.
+  - Satan: What is my favorite holiday?
+    A. Mondays
+    B. Summer
+}
+"""
+
+DLG SPR_r
+"""
+{sequence
+  - Satan is really mad that you lost two lives. He doesn't want to deal with it. There is so much paper work to be done.
+  - Just answer the question. He needs it for the paper work.
+}
+"""
+
+DLG SPR_s
+"""
+{sequence
+  - Dude you gone and done it this time! The game is falling apart, you went too deep into the sewers and ended up in the underworld, and now Satan wants answers.
+  - I hope that friend of yours is okay
+}
+"""
+
+DLG SPR_t
+Man it's tough down here in the underworld. I get no reception.
+
+DLG SPR_u
+Ninja Omega: Are you alright? It looks like you lost a heart.
+
+DLG SPR_v
+Spirit Priest: That tomb leads to another world. You will be able to see your family. The cube will let communicate with your parents. You can only choose one.
+
+END 0
+
+
+END undefined
+You tell Dracula that having fun is the most important. Dracula laughs and tells your friend to come out of the shadows. The three of you play video games all night long having fun. The End
+
+END undefinee
+You tell Dracula that making money is the most important. He chuckles and tells you to go make a million dollars and come back to rescue your friend. The End
+
+END undefinef
+You tell Dracula that love is the most important. Tears start falling from Dracula's face. He tells you that he once found love. You sit down and listen to his whole life story. At the end of the story you are in tears hugging your friend, which you didn't realize was next to you this whole time. The End
+
+END undefineg
+"Correct! That was the first pokemon," Dracula says this while snickering. Your friend jumps out of the shadows and says surprise! Happy Birthday buddy! Me and old Dr. Acula here wanted to give you a surprise birthday. The End
+
+END undefineh
+You lost your last life in the fiery pits of the under world. GAME OVER
+
+END undefinei
+You tell Satan that Mondays are his favorite holidays. His laugh shakes the fiery caverns of the underworld. I LOVE MONDAYS! Everyone else starts the work week and I'm at home chillin' like a villian. I mean I love my job and all that jazz, but nothing beats home. You know what I mean? Your friend pops up from behind Satan. A black cat named almond. Almond and you head home while joking around that Monday is today. The End
+
+END undefinej
+You tell Satan that Summer is his favorite holiday. "You've got to be kidding," he says. I want to escape the heat. Winter vacation is the best. The crystal clear snow. The cool breeze nipping at your nose. The chilly... Well, you get the idea. Your friend Cinnamon, a sassy tiger appears from yonder. Cinnamon pounces on you and licks your face. It is a great reunion. The End
+
+END undefinek
+You're a rebel and you know how to get out of messy situations. You wink at Satan and answer his question with a question. What is my favorite holiday. Satan seems annoyed and tells you to just answer his question. You keep winking at him and tell him C is the correct answer. Satan puts his hand on his head in frustration. He waves his hand as if summoning something. Blue flames appear. Your friend steps out unscathed, a black cat named Anubis. Satan tells Anubis to take you far far away. On the way home you tell Anubis the long story and how everything turned out all right. The End
+
+END undefinel
+You step on a land mine and lose all three of your lives. The land mine was soo powerful that it didn't give you any chance. A very frustrating maze indeed. Maybe paper and pencil can help you solve this horribly designed death trap. The End
+
+END undefinem
+Neko wanders into a strange shrine. There is a glowing light from within a tomb. Neko climbs into the tomb because the curiosity is getting too intense. Neko discovers that he has landed in a strange land. Everything is a new color that he has never seen before. Neko realizes that he is at home and he hears voices. Neko's family is in the house and they sound muffled. Neko tries to interact with them but just passes through them. Neko has become a ghost cat. Tha End
+
+END undefinen
+Neko touches the crystal cube. It warps into a tesseract and he can hear conversations he had before with his parents. Neko figures out that he can listen to any conversation he has ever had with his mom and dad. This brings Neko to tears. He safely tucks the infinity cube into his bag and heads home. The End
+
+END undefineo
+Neko stumbles into a dark dungeon. He finds a torch and starts making the long descent. Could his friend possibly be in this place. Neko stumbles upon living skeletons, slimes, and spiders. They all tell him that his friend was captured by some monsters and taken to the sewers. Neko decides to hit the reset button on the game.
+
+VAR a
+42
+
+

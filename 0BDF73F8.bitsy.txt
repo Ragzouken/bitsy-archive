@@ -1,0 +1,1273 @@
+
+The Prophet asked, "What is the cost of prosperity?"
+
+# BITSY VERSION 4.8
+
+! ROOM_FORMAT 1
+
+PAL 0
+62,64,63
+124,127,125
+248,255,251
+
+ROOM 0
+b,0,a,a,a,0,0,a,a,a,0,0,0,a,a,0
+b,h,a,0,a,h,a,a,0,h,a,a,0,h,a,a
+b,a,d,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,e
+b,0,0,0,0,0,0,e,f,0,0,0,0,0,f,0
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b,e,0,0,0,0,0,0,0,0,f,0,0,0,0,0
+b,0,0,0,0,0,0,0,0,0,e,0,0,0,0,0
+b,0,0,f,e,0,0,0,0,0,0,0,0,0,0,0
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,f,0
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+NAME side-entrance
+EXT 15,3 1 0,3
+EXT 15,4 1 0,4
+EXT 15,5 1 0,5
+EXT 15,6 1 0,6
+EXT 15,7 1 0,7
+EXT 15,8 1 0,8
+EXT 15,9 1 0,9
+EXT 15,10 1 0,10
+PAL 0
+
+ROOM 1
+0,a,a,i,m,o,o,s,r,o,o,l,i,a,a,0
+a,h,a,i,m,o,t,s,r,t,o,l,i,a,h,a
+a,a,a,i,j,n,n,q,p,n,n,k,i,a,a,a
+0,e,0,g,0,0,0,0,0,0,e,0,g,0,u,e
+0,0,0,0,f,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,f,0
+0,0,0,0,e,f,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,e,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f,0,0,0,0,0,0,0,0,0,f,f,0,0,0,0
+0,0,u,f,0,0,0,0,0,0,0,0,0,0,0,0
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+NAME main-entrance
+EXT 15,4 2 0,4
+EXT 15,5 2 0,5
+EXT 15,6 2 0,6
+EXT 15,7 2 0,7
+EXT 15,8 2 0,8
+EXT 15,9 2 0,9
+EXT 15,10 2 0,10
+PAL 0
+
+ROOM 2
+a,a,a,a,a,h,a,a,a,h,a,a,a,a,a,a
+a,a,h,a,a,a,a,a,a,a,a,a,h,a,a,a
+a,a,a,a,b,u,0,0,0,f,b,a,a,a,a,a
+0,0,0,0,f,0,0,0,0,0,0,0,0,0,0,b
+0,0,0,0,0,0,0,0,0,0,0,0,e,f,0,b
+0,0,0,0,0,0,0,0,0,0,0,f,0,0,0,b
+0,0,0,f,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,f,b
+f,0,e,f,0,0,0,0,0,0,0,0,f,e,0,b
+0,0,f,0,0,0,0,0,0,0,0,0,0,0,u,b
+c,c,c,c,b,0,e,0,0,0,b,c,c,c,c,c
+c,c,c,c,b,0,0,0,0,0,b,c,c,c,c,c
+c,c,c,c,b,0,0,0,0,0,b,c,c,c,c,c
+c,c,c,c,b,0,0,0,0,f,b,c,c,c,c,c
+c,c,c,c,c,c,c,0,c,c,c,c,c,c,c,c
+NAME council-chamber
+EXT 15,6 3 0,6
+EXT 7,15 7 7,0
+PAL 0
+
+ROOM 3
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,h,a,a,a,h,a,a,a,a,h,a,a,a,h,a
+a,a,a,a,a,a,a,a,a,a,a,v,a,a,a,a
+b,0,0,0,f,0,0,0,0,0,u,w,e,0,0,0
+b,0,0,0,e,f,0,0,0,0,e,f,0,0,0,0
+b,0,0,0,0,0,0,0,0,0,0,0,0,f,0,0
+0,0,0,0,0,0,0,0,f,0,0,0,f,0,0,0
+b,0,0,0,0,0,0,f,f,0,0,0,0,0,0,f
+b,0,f,0,0,0,0,0,0,0,0,0,0,f,e,0
+b,e,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+NAME crystal-pre1
+EXT 10,6 4 10,6
+EXT 11,5 4 11,5
+EXT 12,6 4 12,6
+EXT 11,7 4 11,7
+PAL 0
+
+ROOM 4
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,h,a,a,a,h,a,a,a,a,h,a,a,a,h,a
+a,a,a,a,a,a,a,a,a,a,a,v,a,a,a,a
+b,0,0,0,f,0,0,0,0,0,u,w,e,0,0,0
+b,0,0,0,e,f,0,0,0,0,e,f,0,0,0,0
+b,0,0,0,0,0,0,0,0,0,0,0,0,f,0,0
+0,0,0,0,0,0,0,0,f,0,0,0,f,0,0,0
+b,0,0,0,0,0,0,f,f,0,0,0,0,0,0,f
+b,0,f,0,0,0,0,0,0,0,0,0,0,f,e,0
+b,e,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+NAME crystal-pre2
+EXT 0,6 5 15,6
+EXT 15,3 9 0,3
+EXT 15,4 9 0,4
+EXT 15,5 9 0,5
+EXT 15,6 9 0,6
+EXT 15,7 9 0,7
+EXT 15,8 9 0,8
+EXT 15,9 9 0,9
+PAL 0
+
+ROOM 5
+a,a,a,a,a,h,a,a,a,h,a,a,a,a,a,a
+a,a,h,a,a,a,a,a,a,a,a,a,h,a,a,a
+a,a,a,a,b,u,0,0,0,f,b,a,a,a,a,a
+0,0,0,0,f,0,0,0,0,0,0,0,0,0,0,b
+0,0,0,0,0,0,0,0,0,0,0,0,e,f,0,b
+0,0,0,0,0,0,0,0,0,0,0,f,0,0,0,b
+0,0,0,f,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,f,b
+f,0,e,f,0,0,0,0,0,0,0,0,f,e,0,b
+0,0,f,0,0,0,0,0,0,0,0,0,0,0,u,b
+c,c,c,c,b,0,e,0,0,0,b,c,c,c,c,c
+c,c,c,c,b,0,0,0,0,0,b,c,c,c,c,c
+c,c,c,c,b,0,0,0,0,0,b,c,c,c,c,c
+c,c,c,c,b,0,0,0,0,f,b,c,c,c,c,c
+c,c,c,c,c,c,c,0,c,c,c,c,c,c,c,c
+NAME council2
+EXT 15,6 4 0,6
+EXT 7,15 6 7,0
+PAL 0
+
+ROOM 6
+c,c,c,a,a,a,a,0,a,a,a,a,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,10,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,x,0,y,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,z,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+NAME jail2
+ITM 0 7,9
+EXT 7,0 5 7,15
+EXT 7,9 8 7,9
+PAL 0
+
+ROOM 7
+c,c,c,a,a,a,a,0,a,a,a,a,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,10,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,x,0,y,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,z,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+NAME jail1
+ITM 0 7,9
+EXT 7,0 2 7,15
+EXT 7,9 8 7,9
+PAL 0
+
+ROOM 8
+c,c,c,a,a,a,a,0,a,a,a,a,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,10,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,x,0,y,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,z,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,b,0,0,0,0,0,0,0,b,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+NAME jail-end
+ITM 1 7,5
+EXT 7,0 5 7,15
+END undefined 6,9
+END undefined 7,8
+END undefined 8,9
+PAL 0
+
+ROOM 9
+a,a,a,a,a,a,a,a,a,a,a,a,a,c,c,c
+a,h,a,a,a,h,a,h,a,a,a,h,a,c,c,c
+a,a,a,a,a,a,a,a,a,a,a,a,a,c,c,c
+0,0,0,0,0,0,0,0,0,0,0,0,b,c,c,c
+0,0,0,0,0,0,0,0,0,0,0,0,b,c,c,c
+0,0,0,0,0,0,0,0,0,0,0,0,b,c,c,c
+0,0,0,0,0,0,0,0,0,0,0,0,b,c,c,c
+0,0,0,0,0,0,0,0,11,0,0,0,b,c,c,c
+0,0,0,0,0,0,0,0,0,0,0,0,b,c,c,c
+0,0,0,0,0,0,0,0,0,0,0,0,b,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+NAME crystal
+ITM 2 8,6
+EXT 0,3 4 15,3
+EXT 0,4 4 15,4
+EXT 0,5 4 15,5
+EXT 0,6 4 15,6
+EXT 0,7 4 15,7
+EXT 0,8 4 15,8
+EXT 0,9 4 15,9
+EXT 8,6 a 8,6
+PAL 0
+
+ROOM a
+a,a,a,a,a,a,a,a,a,a,a,a,a,c,c,c
+a,h,a,a,a,h,a,h,a,a,a,h,a,c,c,c
+a,a,a,a,a,a,a,a,a,a,a,a,a,c,c,c
+0,0,0,0,0,0,0,0,0,0,0,0,b,c,c,c
+0,0,0,0,0,0,0,0,0,0,0,0,b,c,c,c
+0,0,0,0,0,0,0,0,0,0,0,0,b,c,c,c
+0,0,0,0,0,0,0,0,0,0,0,0,b,c,c,c
+0,0,0,0,0,0,0,0,11,0,0,0,b,c,c,c
+0,0,0,0,0,0,0,0,0,0,0,0,b,c,c,c
+0,0,0,0,0,0,0,0,0,0,0,0,b,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c
+NAME crystal-end
+END undefined 7,6
+END undefined 8,5
+END undefined 9,6
+END undefined 8,7
+PAL 0
+
+TIL 10
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+01000001
+01010001
+01000000
+01000000
+01000100
+00100000
+00011000
+00000000
+
+TIL 11
+01000010
+00000000
+00100100
+01011010
+00111100
+00000000
+00000000
+00000000
+
+TIL a
+00000000
+00000010
+00000010
+01111111
+00100000
+00100000
+00000000
+11110111
+WAL true
+
+TIL b
+01010101
+01010111
+01110001
+01010101
+01010101
+10010101
+01011100
+01010101
+WAL true
+
+TIL c
+11110111
+10111111
+11111101
+01011111
+11111110
+11111011
+11101111
+01111110
+WAL true
+
+TIL d
+00000000
+00111100
+00100100
+11000011
+01000010
+01010010
+01000010
+11000011
+WAL true
+
+TIL e
+00000000
+00000001
+01000000
+11000000
+00000000
+00001000
+00000000
+00000000
+
+TIL f
+00000000
+00000000
+00000000
+00000001
+00000000
+00000000
+01000000
+00000000
+
+TIL g
+00100100
+00100100
+00100100
+01100110
+10100101
+10011001
+01000010
+00111100
+WAL true
+
+TIL h
+00011000
+00100100
+00100100
+01100111
+00100100
+00111100
+00000000
+11110111
+WAL true
+
+TIL i
+00100100
+00100100
+00100100
+11100111
+00100100
+00100100
+00100100
+11100111
+WAL true
+
+TIL j
+10001000
+10001000
+10000000
+10001000
+10001000
+11111111
+10000000
+10000000
+WAL true
+
+TIL k
+10001001
+10000001
+10001001
+00001001
+10000001
+11111111
+00000001
+00000001
+WAL true
+
+TIL l
+10000001
+00001001
+00000001
+10000001
+10001001
+00000001
+10001001
+00001001
+WAL true
+
+TIL m
+10000000
+10001000
+10001000
+10000000
+10001000
+10000000
+10001000
+10001000
+WAL true
+
+TIL n
+00000000
+10000000
+00001000
+10000000
+10001000
+11111111
+00000000
+00000000
+WAL true
+
+TIL o
+10000000
+10001000
+10000000
+10001000
+00000000
+10001000
+00001000
+10001000
+WAL true
+
+TIL p
+10001000
+10001000
+10000000
+10000000
+10001000
+01111111
+00000000
+00000000
+WAL true
+
+TIL q
+00000001
+10001001
+00001001
+10001001
+10000001
+11111110
+00000000
+00000000
+WAL true
+
+TIL r
+10001000
+10000000
+10000000
+10001000
+10001000
+10000000
+10001000
+10000000
+WAL true
+
+TIL s
+10001001
+10001001
+00000001
+00000001
+00001001
+10000001
+10000001
+10000001
+WAL true
+
+TIL t
+00000000
+00100100
+01100110
+11000011
+11000011
+01100110
+00111100
+00011000
+WAL true
+
+TIL u
+00000000
+11111000
+10000100
+10000101
+01111100
+00001110
+00100000
+00000100
+WAL true
+
+TIL v
+01101110
+01000011
+11000001
+10000001
+10000001
+10000001
+10000001
+11000011
+WAL true
+
+TIL w
+01000000
+01100111
+00000100
+01010110
+00000000
+00100000
+00000000
+00000001
+
+TIL x
+00000000
+01001100
+00100000
+00010010
+00000100
+00001000
+01111000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL y
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00101000
+00000000
+01111010
+00010001
+00010001
+00010001
+00000010
+00001100
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL z
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00110010
+01001000
+00000100
+00000100
+01000100
+00100000
+00010000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+SPR A
+01000010
+01100110
+01011010
+00100100
+00011000
+01111110
+00011000
+00100100
+>
+00000000
+01000010
+01100110
+01011010
+00100100
+00011000
+01111110
+00100100
+POS 0 2,3
+
+SPR a
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+>
+00000000
+00000000
+01010100
+01110010
+01110010
+01111100
+00111100
+00100100
+NAME cat1
+DLG SPR_0
+POS 0 13,7
+
+SPR b
+00000000
+01110000
+11111001
+01110001
+01110010
+01111100
+00111100
+00100100
+>
+00000000
+01110000
+11111001
+01110010
+01110010
+01111100
+00111100
+00100100
+NAME helpful
+DLG SPR_1
+POS 1 7,6
+
+SPR c
+00000000
+00001010
+01011111
+10001110
+01001110
+00111110
+00111100
+00100100
+>
+00000000
+00001010
+10011111
+01001110
+01001110
+00111110
+00111100
+00100100
+NAME soldier1
+DLG SPR_2
+POS 1 7,3
+
+SPR d
+00000000
+00000000
+10001010
+10011111
+01001110
+00111110
+00111110
+00100100
+>
+00000000
+00001010
+10011111
+01001110
+01001110
+00111110
+00111100
+00100100
+NAME soldier2
+DLG SPR_3
+POS 1 4,3
+
+SPR e
+00000000
+01010000
+11111001
+01110001
+01110010
+01111100
+00111100
+00100100
+>
+00000000
+01010000
+11111001
+01110010
+01110010
+01111100
+00111100
+00100100
+NAME soldier3
+DLG SPR_4
+POS 1 9,3
+
+SPR f
+01010000
+11111000
+01110000
+01110000
+01111010
+00111101
+00101100
+00000100
+>
+00000000
+01010000
+11111000
+01110000
+01110011
+01111100
+00111100
+00100100
+NAME soldier4
+DLG SPR_5
+POS 1 11,3
+
+SPR g
+00111000
+01110000
+11111001
+01110001
+01110010
+01111100
+00111100
+00100100
+>
+00000000
+00111000
+01110001
+11111010
+01110010
+01111100
+01111100
+00100100
+NAME wizard
+DLG SPR_7
+POS 2 9,5
+
+SPR h
+00010000
+00000000
+01010100
+01110010
+01110010
+01111100
+00111100
+00100100
+>
+01000000
+00000000
+01010001
+01110010
+01110010
+01111100
+00111100
+00100100
+NAME priest
+DLG SPR_8
+POS 2 9,8
+
+SPR i
+00100000
+01110000
+11111001
+01110001
+01110010
+01111100
+00111100
+00100100
+>
+00100000
+01110000
+11111001
+01110010
+01110010
+01111100
+00111100
+00100100
+NAME speaker
+DLG SPR_6
+POS 2 4,7
+
+SPR j
+00000000
+00000000
+00000000
+01010000
+01110000
+01111110
+01111101
+00111101
+>
+00000000
+00000000
+00000000
+00000000
+01010000
+01111110
+01111101
+01111110
+NAME mittenaya1
+POS 3 11,6
+
+SPR k
+00000000
+00000000
+00000000
+00000000
+00000000
+11111110
+01111101
+11111101
+NAME mittenaya2
+DLG SPR_9
+POS 4 11,6
+
+SPR l
+00011100
+00001110
+10011111
+10001110
+01001110
+00111110
+00111100
+00100100
+>
+00000000
+00011100
+10001110
+01011111
+01001110
+00111110
+00111110
+00100100
+NAME wizard2
+DLG SPR_a
+POS 4 1,5
+
+SPR m
+00001000
+00000000
+00101010
+01001110
+01001110
+00111110
+00111100
+00100100
+>
+00000010
+00000000
+10001010
+01001110
+01001110
+00111110
+00111100
+00100100
+NAME priest2
+DLG SPR_b
+POS 4 1,7
+
+SPR n
+00000000
+00100100
+00111100
+00111100
+00011000
+00111100
+00011000
+00100100
+>
+00100100
+00111100
+00111100
+00011000
+00111100
+00011000
+00011000
+00100100
+NAME dark2
+DLG SPR_c
+POS 6 7,5
+
+SPR o
+00000000
+00100100
+00111100
+00111100
+00011000
+00111100
+00011000
+00100100
+>
+00100100
+00111100
+00111100
+00011000
+00111100
+00011000
+00011000
+00100100
+NAME dark1
+DLG SPR_d
+POS 7 7,5
+
+ITM 0
+00000000
+00000000
+00000000
+10000000
+01000000
+00100000
+00011000
+00111100
+NAME lever
+DLG ITM_0
+
+ITM 1
+00000000
+00100100
+00111100
+00111100
+00011000
+00111100
+00011000
+00100100
+
+ITM 2
+00100000
+00011000
+00001100
+00000110
+00001100
+00011000
+00011000
+00000000
+>
+00000100
+00011000
+00110000
+01100000
+00110000
+00011000
+00011000
+00000000
+DLG ITM_1
+
+DLG ITM_0
+"""
+As you pull the lever, the enemy ruler lets out a cry of anguish.
+A cacophony of voices join in the cry.
+The sounds of battle fade in an instant.
+It is done. The enemy and all of their people are dead.
+Their souls removed from the world along with the dark taint.
+You are reminded of a passage from the Old One's texts:
+The Prophet asked, "What is the cost of prosperity?"
+"""
+
+DLG SPR_0
+"""
+{
+  - introcat == 0 ?
+    YOUR HIGHNESS! YOU RETURN!
+    
+    The Old Ones must favor you to see you safely through the enemy forces at the walls!{introcat = 1}
+    
+
+}The court is assembled just past the main gates.
+Old Ones be with you!
+"""
+
+DLG SPR_1
+"""
+{
+  - helpful == 0 ?
+    We're saved! Our great and furry leader returns with the key!
+    We're holding the line as well as we can, but you should hurry to the council chamber.
+    
+    The enemy has already broken through the outer gates! {helpful = 1}
+  - else ?
+    Cat speed, Your Highness!
+}
+"""
+
+DLG SPR_2
+My lives for yours, Your Furriness!
+
+DLG SPR_3
+We'll hold the line as long as we can.
+
+DLG SPR_4
+These gates can take quite the beating!
+
+DLG SPR_5
+I'm down to only two lives, but they are yours, Your Highness.
+
+DLG SPR_6
+"""
+{
+  - speaker == 0 ?
+    Your return is most timely, Your Furriness.
+    The kittens grow weary of this war, and the evil taint within the enemy remains unwavering.
+    
+    I trust you were able to find the key?
+    In your absence we have managed to capture the dark ruler of the enemy forces. {speaker = 1}
+    
+
+}Speak to the other two council members to get a better grip on the situation.
+"""
+
+DLG SPR_7
+"""
+{
+  - wizard == 0 ?
+    Greetings, Your Highness.
+    
+    As I'm sure you've heard, we've captured the enemy leader!
+    I was able to momentarily disable their connection to the dark taint. They are enchained in the room to the south.
+    If my calculations are correct, killing them would permanently end the enemy's connection to the taint. It would also kill all of their people, though...
+    But that's a sacrifice I'm sure you'd be willing to make for the sake of your own people.
+    Go pull the lever and end this. {wizard = 1}
+  - else ?
+    Just kill that wretch and be done with it!
+}
+"""
+
+DLG SPR_8
+"""
+{
+  - priest == 0 ?
+    The Old Ones predicted your success, good friend. 
+    Their blessing be upon you.
+    
+    Since you have retrieved the key, there is nothing stopping you from using it!
+    
+    Mittenaya is waiting in the crystal chamber. She will unite the key with the crystal and end this taint.
+    She has trained all day and night for months to partition her soul for this moment. 
+    
+    She is ready. 
+    
+    Head through the door behind me to find her! {priest = 1}
+  - else ?
+    Mittenaya is waiting. Hurry, friend.
+}
+"""
+
+DLG SPR_9
+"""
+{
+  - mittenaya == 0 ?
+    I'm... sorry... Your Furriness.
+    
+    I fought... them back. But I'm... afraid they've...
+    taken the last... of my lives...
+    {mittenaya = 1}
+
+}*Mittenaya is still*
+"""
+
+DLG SPR_a
+"""
+{
+  - wizardc == 0 ?
+    The only way forward is to kill the enemy leader.
+    Forget the key. Forget the enemy people.
+    Don't let anymore good cats and kittens die by their hands!
+    Pull the lever and end this!
+    
+    {wizardc = 1}
+}You know what to do.
+"""
+
+DLG SPR_b
+"""
+{
+  - priestc == 0 ?
+    Mittenaya was our only hope!
+    
+    Anyone else who tries to unite the key and the crystal will permanently die!
+    
+    The process takes your soul, killing you even if you have all nine lives left!
+    {priestc = 1}
+
+}What will we do now?
+"""
+
+DLG SPR_c
+"""
+The darkness consumes all.
+
+You cannot hope to defeat me.
+"""
+
+DLG SPR_d
+"""
+The darkness consumes all.
+
+You cannot hope to defeat me.
+"""
+
+DLG ITM_1
+"""
+As you reach out to touch the crystal, the key flies from your paw.
+
+The crystal begins to vibrate in an otherworldly manner.
+Dark clouds surge in through the door and windows of the chamber, swirling over the crystal before being consumed by it.
+You feel a great weight leave your shoulders as the taint is banished from the world.
+
+As you take one last look around the room, you are reminded of a passage from the text of the Old Ones:
+The Prophet asked, "What is the cost of prosperity?"
+"""
+
+END 0
+
+
+END undefined
+The Old One replied, "Everything."
+
+VAR introcat
+0
+
+VAR helpful
+0
+
+VAR speaker
+0
+
+VAR wizard
+0
+
+VAR priest
+0
+
+VAR mittenaya
+0
+
+VAR wizardc
+0
+
+VAR priestc
+0
+
+

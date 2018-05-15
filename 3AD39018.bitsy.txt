@@ -1,0 +1,208 @@
+
+The Wise Man's Wisdom
+
+# BITSY VERSION 4.8
+
+! ROOM_FORMAT 1
+
+PAL 0
+139,164,166
+255,255,255
+0,0,0
+
+ROOM 0
+c,d,c,d,c,d,c,d,c,d,c,d,c,d,c,d
+b,b,b,b,b,b,b,b,b,b,b,b,b,e,e,e
+b,b,b,b,b,b,b,b,b,b,b,b,e,e,b,b
+b,b,b,b,b,b,b,b,b,b,b,e,e,b,b,a
+b,b,b,b,b,b,b,b,b,e,e,e,b,b,a,a
+b,b,b,b,b,b,b,e,e,e,b,b,b,a,a,a
+b,b,b,b,e,e,e,e,b,b,b,a,a,a,a,a
+b,b,e,e,e,b,b,b,b,a,a,a,a,a,a,a
+b,e,e,b,b,b,a,a,a,a,a,a,a,a,a,a
+e,e,b,b,a,a,a,a,a,a,a,a,a,a,a,a
+b,b,b,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+EXT 15,2 1 0,12
+PAL 0
+
+ROOM 1
+c,d,c,d,c,d,c,d,c,d,c,d,c,d,c,d
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,e,e,e,e,e,e,e
+b,b,b,b,b,b,b,b,e,e,b,b,b,b,b,b
+b,b,b,b,b,e,e,e,e,b,b,a,a,a,a,a
+b,b,b,e,e,e,b,b,b,b,a,a,a,a,a,a
+b,b,e,e,b,b,b,a,a,a,a,a,a,a,a,a
+b,e,e,b,b,a,a,a,a,a,a,a,a,a,a,a
+e,e,b,b,a,a,a,a,a,a,a,a,a,a,a,a
+e,b,b,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,b,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+PAL 0
+
+TIL a
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+WAL true
+
+TIL b
+00000000
+00100010
+01000100
+00000000
+00000000
+00100010
+01000100
+00000000
+>
+00010001
+00000000
+00000000
+10001000
+00010001
+00000000
+00000000
+10001000
+
+TIL c
+11111111
+11111111
+11111111
+01111111
+00011111
+00100111
+01000100
+00000000
+>
+11111111
+11111111
+11111111
+01111111
+00011111
+00000111
+00000000
+10001000
+
+TIL d
+11111111
+11111111
+11111111
+11111110
+11111000
+11100010
+01000100
+00000000
+>
+11111111
+11111111
+11111111
+11111110
+11111001
+11100000
+00000000
+10001000
+
+TIL e
+00000000
+00100010
+01000100
+00000000
+00000000
+00100010
+01000100
+00000000
+>
+00010001
+00000000
+00000000
+10001000
+00010001
+00000000
+00000000
+10001000
+WAL true
+
+SPR A
+00000000
+00000011
+00000011
+00111100
+01111111
+01111101
+00011101
+00010101
+POS 0 1,10
+
+SPR a
+00000000
+00011000
+11111111
+11010101
+10101011
+11111111
+00011000
+00011000
+DLG SPR_0
+POS 0 0,10
+
+SPR b
+00000000
+01100000
+01100000
+01011111
+00001101
+00001101
+00011101
+00010101
+DLG SPR_1
+POS 1 14,5
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG ITM_0
+
+DLG ITM_0
+You found a nice warm cup of tea
+
+DLG SPR_0
+-> Wise Man ->
+
+DLG SPR_1
+"""
+WISE MAN: My child, I can see you have journeyed far to reach me. What wisdom do you seek?
+
+YOU: O Wise Man, tales of your unparalleled wisdom are known across the land. I have travelled here to seek your assistance in answering a question that has plagued me for all of my life. Many a night I have spent tossing and turning, unable to sleep, deeply pondering this one question, the answer to which has so thoroughly eluded me.
+That is: What does it mean to be good or bad? How can I be sure that what I am doing is good?
+
+*The wise man thinks for a moment, then bows his head solemnly.*
+
+WISE MAN: theres actually zero difference between good & bad things. you imbecile. you fucking moron (end)
+"""
+
+VAR a
+42
+
+
