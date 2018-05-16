@@ -80,3 +80,4 @@ puprika,X,X
 Jodediah Holems,X,X
 Tymus,X,X
 Lenny Magner,X,X
+tom brinton,X,X

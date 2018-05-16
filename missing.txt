@@ -5,7 +5,6 @@
 5,NicoAndOliver
 4,Yenoxx
 4,toorte
-4,tom brinton
 4,TheBookOfBrady
 4,Saranomy
 4,ianmart1n
@@ -182,7 +181,6 @@
 1,dom2d
 1,JudeAsterix
 1,jleen
-1,Coleo_Kin, Mark Wonnacott
 1,amithea
 1,Cosi1125
 1,jojodee
