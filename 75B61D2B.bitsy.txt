@@ -1,0 +1,1870 @@
+
+Teenage bedroom
+
+# BITSY VERSION 4.6
+
+! ROOM_FORMAT 1
+
+PAL 0
+192,142,138
+249,205,175
+249,205,175
+
+PAL 1
+170,136,154
+230,184,193
+230,184,193
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,a,b,b,b,0,d,d,d,0,b,b,f,0,0
+0,0,g,0,t,q,v,0,0,0,w,t,u,h,0,0
+0,0,g,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,g,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,g,x,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,g,x,0,0,0,0,0,0,0,0,y,0,0,0
+0,0,g,0,0,0,0,0,0,0,0,0,0,h,0,0
+0,0,g,0,0,0,0,0,0,0,0,0,0,h,0,0
+0,0,g,x,0,0,0,0,0,0,0,11,0,h,0,0
+0,0,g,x,0,0,0,0,0,0,0,0,0,h,0,0
+0,0,g,x,0,0,0,12,0,13,0,0,z,h,0,0
+0,0,i,j,k,o,n,m,m,m,m,m,m,l,0,0
+0,0,p,q,q,10,q,q,q,q,q,q,q,r,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME main
+ITM 0 5,6
+ITM 1 11,4
+ITM 2 10,8
+ITM 3 5,12
+ITM 4 12,12
+ITM 5 5,3
+PAL 0
+
+ROOM 1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,a,b,b,b,0,d,d,d,0,b,b,f,0,0
+0,0,g,0,t,t,v,0,0,0,w,t,u,h,0,0
+0,0,g,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,g,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,g,x,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,g,x,0,0,0,0,0,0,0,0,y,0,0,0
+0,0,g,0,0,0,0,0,0,0,0,0,0,h,0,0
+0,0,g,0,0,0,0,0,0,0,0,0,0,h,0,0
+0,0,g,x,0,0,0,0,0,0,0,11,0,h,0,0
+0,0,g,x,0,0,0,0,0,0,0,0,0,h,0,0
+0,0,g,x,0,0,0,12,0,13,0,0,z,h,0,0
+0,0,i,j,k,o,n,m,m,m,m,m,m,l,0,0
+0,0,p,q,q,10,q,q,q,q,q,q,q,r,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME night
+END 0 5,13
+PAL 1
+
+TIL 10
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME blank wall
+WAL true
+
+TIL 11
+00000000
+00000000
+00000110
+00000110
+00000110
+00000110
+00000110
+00000000
+NAME piano seat
+
+TIL 12
+01001000
+01001000
+01001000
+01001000
+01000000
+01000000
+00000000
+00000000
+NAME desk 11,6
+
+TIL 13
+00001010
+00001010
+00001010
+00001010
+00000010
+00000010
+00000000
+00000000
+NAME desk 11,8
+
+TIL a
+01111111
+11101010
+11010101
+10101010
+11010101
+10101010
+11010101
+10101010
+NAME wall 1,1
+WAL true
+
+TIL b
+11111111
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+NAME wall 1,2
+WAL true
+
+TIL d
+11111111
+10101010
+01010101
+10101010
+01010101
+11111111
+00000000
+10101010
+NAME wall 1,6
+WAL true
+
+TIL f
+11111110
+10101011
+01010101
+10101011
+01010101
+10101011
+01010101
+10101011
+NAME wall 1,12
+WAL true
+
+TIL g
+11010101
+10101010
+11010101
+10101010
+11010101
+10101010
+11010101
+10101010
+NAME wall 2,1
+WAL true
+
+TIL h
+01010101
+10101011
+01010101
+10101011
+01010101
+10101011
+01010101
+10101011
+NAME wall 2,12
+WAL true
+
+TIL i
+11010101
+10101010
+11010101
+10101010
+11010101
+10101010
+11010101
+11101010
+NAME wall 12,1
+WAL true
+
+TIL j
+11111111
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+NAME wall 12,2
+WAL true
+
+TIL k
+11111110
+10101011
+01010101
+10101011
+01010101
+10101011
+01010101
+10101011
+NAME wall 12,3
+WAL true
+
+TIL l
+01010101
+10101011
+01010101
+10101011
+01010101
+10101011
+01010101
+10101011
+NAME wall 12,12
+WAL true
+
+TIL m
+11111111
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+NAME wall 12,11
+WAL true
+
+TIL n
+01111111
+10101010
+11010101
+10101010
+11010101
+10101010
+11010101
+10101010
+NAME wall 12,5
+WAL true
+
+TIL o
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+10000001
+NAME wall 12,4
+
+TIL p
+01111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME wall 13,1
+
+TIL q
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME wall 13,2
+
+TIL r
+11111110
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME wall 13,12
+
+TIL t
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME wall 2,3
+
+TIL u
+11111111
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+NAME wall 2,11
+
+TIL v
+11110000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME wall 2,5
+
+TIL w
+00011111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME wall 2,9
+
+TIL x
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+NAME wall 3,2
+
+TIL y
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+NAME wall 6,11
+
+TIL z
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+NAME wall 11,11
+
+SPR 10
+00000000
+00000000
+00000000
+00000000
+11100111
+00100100
+00100100
+11100111
+NAME desk 9,7
+DLG SPR_s
+POS 0 8,10
+
+SPR 11
+00000000
+00000000
+00000000
+00000000
+11111110
+00000010
+01100010
+11111110
+NAME desk 9,8
+DLG SPR_r
+POS 0 9,10
+
+SPR 12
+01000000
+01011010
+01111111
+01000000
+01011000
+01011000
+01000000
+01111111
+NAME desk 10,6
+DLG SPR_q
+POS 0 7,11
+
+SPR 13
+00100100
+00100101
+11111111
+00000000
+00000000
+00000011
+00000000
+11111111
+NAME desk 10,7
+DLG SPR_p
+POS 0 8,11
+
+SPR 14
+00000010
+11011010
+11111110
+00000010
+00001010
+00000010
+00000010
+11111110
+NAME desk 10,8
+DLG SPR_o
+POS 0 9,11
+
+SPR 15
+11111111
+10101010
+01010101
+10101010
+01010101
+10101111
+01011000
+10110010
+NAME window 1,5 night
+DLG SPR_1i
+POS 1 6,2
+
+SPR 16
+11111111
+10101010
+01010101
+10101010
+01010101
+11101010
+00110101
+00011010
+NAME window 1,9 night
+DLG SPR_1j
+POS 1 10,2
+
+SPR 17
+11111111
+10000000
+10000000
+10000000
+10011111
+10111111
+10111111
+10111111
+NAME wardrobe 2,2 night
+DLG SPR_u
+POS 1 3,3
+
+SPR 18
+10111111
+10111011
+10111011
+10111111
+10111111
+10111011
+10111011
+10111111
+NAME wardrobe 3,2 night
+DLG SPR_v
+POS 1 3,4
+
+SPR 19
+10111111
+10111111
+10111111
+10011111
+10000000
+10000000
+10000000
+10000000
+NAME wardrobe 4,2 night
+DLG SPR_w
+POS 1 3,5
+
+SPR A
+00000000
+00101000
+00101000
+00111000
+01010100
+01111100
+00111000
+00000000
+>
+00000000
+00010100
+00010100
+00011100
+00101010
+00111110
+00011100
+00000000
+POS 0 5,13
+
+SPR a
+11111111
+10101010
+01010101
+10101010
+01010101
+10101111
+01011000
+10110010
+NAME window 1,5
+DLG SPR_0
+POS 0 6,2
+
+SPR b
+11111111
+10101010
+01010101
+10101010
+01010101
+11101010
+00110101
+00011010
+NAME window 1,9
+DLG SPR_1
+POS 0 10,2
+
+SPR c
+11111111
+10000000
+10000000
+10000000
+10011111
+10111111
+10111111
+10111111
+NAME wardrobe 2,2
+DLG SPR_2
+POS 0 3,3
+
+SPR d
+10111111
+10111011
+10111011
+10111111
+10111111
+10111011
+10111011
+10111111
+NAME wardrobe 3,2
+DLG SPR_3
+POS 0 3,4
+
+SPR e
+10111111
+10111111
+10111111
+10011111
+10000000
+10000000
+10000000
+10000000
+NAME wardrobe 4,2
+DLG SPR_4
+POS 0 3,5
+
+SPR f
+00000000
+00000000
+00001111
+00011010
+00010101
+00011010
+00011111
+00011111
+NAME bed 2,6
+DLG SPR_5
+POS 0 7,3
+
+SPR g
+00000000
+00000000
+11111111
+10101010
+01010101
+10101010
+11111111
+11111111
+NAME bed 2,7
+POS 0 8,3
+
+SPR h
+00000000
+00000000
+11111000
+10101100
+01010100
+10101100
+11111100
+11111100
+NAME bed 2,8
+DLG SPR_6
+POS 0 9,3
+
+SPR i
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+NAME bed 3,6
+DLG SPR_7
+POS 0 7,4
+
+SPR j
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+NAME bed 3,8
+DLG SPR_8
+POS 0 9,4
+
+SPR k
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+00001111
+00000000
+NAME bed 4,6
+DLG SPR_9
+POS 0 7,5
+
+SPR l
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+NAME bed 4,7
+DLG SPR_a
+POS 0 8,5
+
+SPR m
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+11111000
+00000000
+NAME bed 4,8
+DLG SPR_b
+POS 0 9,5
+
+SPR n
+01110101
+00101011
+10110101
+00101011
+10110101
+00101011
+10110101
+00101011
+NAME window 12,3
+DLG SPR_c
+POS 0 13,4
+
+SPR o
+10110101
+00101011
+10110101
+00101011
+10110101
+00101011
+10110101
+00101011
+NAME window 12,4
+DLG SPR_d
+POS 0 13,5
+
+SPR p
+10110101
+00101011
+10110101
+00101011
+10110101
+00101011
+10110101
+00101011
+NAME window 12,5
+DLG SPR_e
+POS 0 13,6
+
+SPR q
+10110101
+00101011
+10110101
+00101011
+10110101
+00101011
+01110101
+11101011
+NAME window 12,6
+DLG SPR_f
+POS 0 13,7
+
+SPR r
+10111111
+10100000
+10101001
+10101101
+10111111
+10100000
+10101000
+10101100
+NAME bookshelves 7,2
+DLG SPR_j
+POS 0 3,8
+
+SPR s
+11111100
+00000100
+10100100
+10100100
+11111100
+00000100
+00010100
+10010100
+NAME bookshelves 7,3
+DLG SPR_i
+POS 0 4,8
+
+SPR t
+10101100
+10111111
+10100000
+10101100
+10101100
+10101101
+10101101
+10111111
+NAME bookshelves 8,2
+DLG SPR_h
+POS 0 3,9
+
+SPR u
+11010100
+11111100
+00000100
+00100100
+10100100
+10110100
+10110100
+11111100
+NAME bookshelves 8,3
+DLG SPR_k
+POS 0 4,9
+
+SPR v
+00000001
+00111101
+01010101
+01111101
+01111101
+00000001
+00000001
+00000001
+NAME amp 7,11
+DLG SPR_g
+POS 0 12,8
+
+SPR w
+00000001
+00000001
+00000001
+00000001
+01111101
+01001101
+01011101
+01001101
+NAME piano 8,11
+DLG SPR_l
+POS 0 12,9
+
+SPR x
+01011101
+01001101
+01011101
+01001101
+01011101
+01001101
+01011101
+01001101
+NAME piano 9,11
+DLG SPR_m
+POS 0 12,10
+
+SPR y
+01011101
+01001101
+01011101
+01001101
+01111101
+00000001
+00000001
+00000001
+NAME piano 10,11
+DLG SPR_n
+POS 0 12,11
+
+SPR z
+00000000
+00000000
+00000000
+00000000
+01111111
+01000000
+01001011
+01111111
+NAME desk 9,6
+DLG SPR_t
+POS 0 7,10
+
+SPR 1a
+00000000
+00000000
+00001111
+00011010
+00010101
+00011010
+00011111
+00011111
+NAME bed 2,6 night
+DLG SPR_x
+POS 1 7,3
+
+SPR 1b
+00000000
+00000000
+11111111
+10101010
+01010101
+10101010
+11111111
+11111111
+NAME bed 2,7 night
+POS 1 8,3
+
+SPR 1c
+00000000
+00000000
+11111000
+10101100
+01010100
+10101100
+11111100
+11111100
+NAME bed 2,8 night
+DLG SPR_y
+POS 1 9,3
+
+SPR 1d
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+NAME bed 3,6 night
+DLG SPR_z
+POS 1 7,4
+
+SPR 1e
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+NAME bed 3,8 night
+DLG SPR_10
+POS 1 9,4
+
+SPR 1f
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+00001111
+00000000
+NAME bed 4,6 night
+DLG SPR_11
+POS 1 7,5
+
+SPR 1g
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+NAME bed 4,7 night
+DLG SPR_12
+POS 1 8,5
+
+SPR 1h
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+11111000
+00000000
+NAME bed 4,8 night
+DLG SPR_13
+POS 1 9,5
+
+SPR 1i
+01110101
+00101011
+10110101
+00101011
+10110101
+00101011
+10110101
+00101011
+NAME window 12,3 night
+DLG SPR_1k
+POS 1 13,4
+
+SPR 1j
+10110101
+00101011
+10110101
+00101011
+10110101
+00101011
+10110101
+00101011
+NAME window 12,4 night
+DLG SPR_1l
+POS 1 13,5
+
+SPR 1k
+10110101
+00101011
+10110101
+00101011
+10110101
+00101011
+10110101
+00101011
+NAME window 12,5 night
+DLG SPR_1m
+POS 1 13,6
+
+SPR 1l
+10110101
+00101011
+10110101
+00101011
+10110101
+00101011
+01110101
+11101011
+NAME window 12,6 night
+DLG SPR_1n
+POS 1 13,7
+
+SPR 1m
+10111111
+10100000
+10100000
+10100000
+10111111
+10100000
+10100000
+10100000
+NAME bookshelves 7,2 night
+DLG SPR_14
+POS 1 3,8
+
+SPR 1n
+11111100
+00000100
+10100100
+10100100
+11111100
+00000100
+00000100
+00000100
+NAME bookshelves 7,3 night
+DLG SPR_15
+POS 1 4,8
+
+SPR 1o
+10100000
+10111111
+10100000
+10100000
+10100000
+10100001
+10100011
+10111111
+NAME bookshelves 8,2 night
+DLG SPR_16
+POS 1 3,9
+
+SPR 1p
+00000100
+11111100
+00000100
+00000100
+10000100
+10010100
+10010100
+11111100
+NAME bookshelves 8,3 night
+DLG SPR_17
+POS 1 4,9
+
+SPR 1q
+00000001
+00111101
+01010101
+01111101
+01111101
+00000001
+00000001
+00000001
+NAME amp 7,11 night
+DLG SPR_18
+POS 1 12,8
+
+SPR 1r
+00000001
+00000001
+00000001
+00000001
+01111101
+01001101
+01011101
+01001101
+NAME piano 8,11 night
+DLG SPR_19
+POS 1 12,9
+
+SPR 1s
+01011101
+01001101
+01011101
+01001101
+01011101
+01001101
+01011101
+01001101
+NAME piano 9,11 night
+DLG SPR_1a
+POS 1 12,10
+
+SPR 1t
+01011101
+01001101
+01011101
+01001101
+01111101
+00000001
+00000001
+00000001
+NAME piano 10,11 night
+DLG SPR_1b
+POS 1 12,11
+
+SPR 1u
+00000000
+00000000
+00000000
+00000000
+01111111
+01000000
+01000000
+01111111
+NAME desk 9,6 night
+DLG SPR_1c
+POS 1 7,10
+
+SPR 1v
+00000000
+00000000
+00000000
+00000000
+11100111
+00100100
+00100100
+11100111
+NAME desk 9,7 night
+DLG SPR_1d
+POS 1 8,10
+
+SPR 1w
+00000000
+00000000
+00000000
+00000000
+11111110
+00000010
+00000010
+11111110
+NAME desk 9,8 night
+DLG SPR_1e
+POS 1 9,10
+
+SPR 1x
+01000000
+01000000
+01111111
+01000000
+01000000
+01000000
+01000000
+01111111
+NAME desk 10,6 night
+DLG SPR_1f
+POS 1 7,11
+
+SPR 1y
+00100100
+00100100
+11111111
+00000000
+00000000
+00000000
+00000000
+11111111
+NAME desk 10,7 night
+DLG SPR_1g
+POS 1 8,11
+
+SPR 1z
+00000010
+00000010
+11111110
+00000010
+00000010
+00000010
+00000010
+11111110
+NAME desk 10,8 night
+DLG SPR_1h
+POS 1 9,11
+
+ITM 0
+01110000
+01111000
+01111000
+00000000
+00001110
+00001110
+00001110
+00001100
+NAME papers 4,5
+DLG ITM_1
+
+ITM 1
+00000111
+00001111
+11001110
+11100000
+11100000
+11101111
+00001111
+00000111
+NAME papers 10,3
+DLG ITM_2
+
+ITM 2
+00011110
+00001110
+00001110
+01100000
+01110000
+01110000
+00110000
+00000000
+NAME papers 7,9
+DLG ITM_3
+
+ITM 3
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME room entry
+DLG ITM_0
+
+ITM 4
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+NAME powerpoint
+DLG ITM_4
+
+ITM 5
+11111111
+00000000
+00000000
+00001110
+00011011
+00001110
+00001010
+00000000
+NAME teddy
+DLG ITM_5
+
+DLG SPR_0
+I had to leave the curtains closed all the time because this window looks right into the kitchen next door.
+
+DLG SPR_1
+I had to leave the curtains closed all the time because this window looks right into the kitchen next door.
+
+DLG SPR_c
+"""
+This window looks out to the park across the street.
+There's a playground, but I don't think I ever saw any kids playing there.
+"""
+
+DLG SPR_d
+"""
+This window looks out to the park across the street.
+There's a playground, but I don't think I ever saw any kids playing there.
+"""
+
+DLG SPR_e
+"""
+This window looks out to the park across the street.
+There's a playground, but I don't think I ever saw any kids playing there.
+"""
+
+DLG SPR_f
+"""
+This window looks out to the park across the street.
+There's a playground, but I don't think I ever saw any kids playing there.
+"""
+
+DLG SPR_g
+"""
+{
+  - count >= 9 ?
+    My old bass amp! I'm surprised none of my brothers claimed it. (exit "night,8,7")
+  - amp == 0 ?
+    {count = count + 1}
+{amp = 1}My old bass amp! I'm surprised none of my brothers claimed it.
+  - else ?
+    My old bass amp! I'm surprised none of my brothers claimed it.
+}
+"""
+
+DLG ITM_0
+"""
+I haven't been in here since I moved out years ago.
+I don't even remember half of what I left behind. But my parents asked me to sort it before I go, so it's time to dig in.
+"""
+
+DLG SPR_l
+"""
+{
+  - count >= 9 ?
+    I definitely didn't have room to take a whole electric piano away with me to university.
+    
+    I kinda regret giving up playing, though. (exit "night,8,7")
+  - piano == 0 ?
+    {count = count + 1}
+{piano = 1}I definitely didn't have room to take a whole electric piano away with me to university.
+    
+    I kinda regret giving up playing, though.
+  - else ?
+    I definitely didn't have room to take a whole electric piano away with me to university.
+    
+    I kinda regret giving up playing, though.
+}
+"""
+
+DLG ITM_4
+This whole room only has two power sockets, and they're both in this corner of the room. 
+
+DLG SPR_t
+"""
+{
+  - count >= 9 ?
+    This desk saw me through so many late nights.
+    High school workloads are rough. (exit "night,8,7")
+  - desk == 0 ?
+    {count = count + 1}
+{desk = 1}This desk saw me through so many late nights.
+    High school workloads are rough.
+  - else ?
+    This desk saw me through so many late nights.
+    High school workloads are rough.
+}
+"""
+
+DLG ITM_2
+"""
+{
+  - count >= 9 ?
+    All these posters got creased when they fell off the ceiling. (exit "night,8,7")
+  - else ?
+    {count = count + 1}All these posters got creased when they fell off the ceiling.
+}
+"""
+
+DLG ITM_3
+"""
+{
+  - count >= 9 ?
+    More posters. The LOUDROCK!!! poster specials sure gave me a lot of material. (exit "night,8,7")
+  - else ?
+    {count = count + 1}More posters. The LOUDROCK!!! poster specials sure gave me a lot of material.
+}
+"""
+
+DLG ITM_5
+"""
+{
+  - count == 9 ?
+    I was given this teddy when I was a little kid.
+    I was too embarrassed to take it with me, but I think I've got a place for it now. (exit "night,8,7")
+  - else ?
+    {count = count + 1}I was given this teddy when I was a little kid.
+    I was too embarrassed to take it with me, but I think I've got a place for it now.
+}
+"""
+
+DLG ITM_1
+"""
+{
+  - count >= 9 ?
+    I don't think I ever even listened to most of these bands.
+    I just put the posters up because I thought band guys with long hair and tattoos were cool. (exit "night,8,7")
+  - else ?
+    {count = count + 1}I don't think I ever even listened to most of these bands.
+    I just put the posters up because I thought band guys with long hair and tattoos were cool.
+}
+"""
+
+DLG SPR_b
+"""
+{
+  - count >= 9 ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one. (exit "night,8,7")
+  - bed == 0 ?
+    {count = count + 1}
+{bed = 1}I got this bed when we moved here. 
+    I'd only had single beds before this one.
+  - else ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one.
+}
+"""
+
+DLG SPR_4
+"""
+{
+  - count >= 9 ?
+    I took most all my clothes with me when I left.
+    My old school shoes are still tucked in here, though. (exit "night,8,7")
+  - wardrobe == 0 ?
+    {count = count + 1}
+{wardrobe = 1}I took most all my clothes with me when I left.
+    My old school shoes are still tucked in here, though.
+  - else ?
+    I took most all my clothes with me when I left.
+    My old school shoes are still tucked in here, though.
+}
+"""
+
+DLG SPR_k
+"""
+{
+  - count >= 9 ?
+    Oh wow, old issues of LOUDROCK!!! magazine.
+    I used to lurk the newsagent at the shopping center I worked in as a teenager, waiting for new issues of this to come out. (exit "night,8,7")
+  - shelves == 0 ?
+    {count = count + 1}
+{shelves = 1}Oh wow, old issues of LOUDROCK!!! magazine.
+    I used to lurk the newsagent at the shopping center I worked in as a teenager, waiting for new issues of this to come out.
+  - else ?
+    Oh wow, old issues of LOUDROCK!!! magazine.
+    I used to lurk the newsagent at the shopping center I worked in as a teenager, waiting for new issues of this to come out.
+}
+"""
+
+DLG SPR_m
+"""
+{
+  - count >= 9 ?
+    I definitely didn't have room to take a whole electric piano away with me to university.
+    
+    I kinda regret giving up playing, though. (exit "night,8,7")
+  - piano == 0 ?
+    {count = count + 1}
+{piano = 1}I definitely didn't have room to take a whole electric piano away with me to university.
+    
+    I kinda regret giving up playing, though.
+  - else ?
+    I definitely didn't have room to take a whole electric piano away with me to university.
+    
+    I kinda regret giving up playing, though.
+}
+"""
+
+DLG SPR_n
+"""
+{
+  - count >= 9 ?
+    I definitely didn't have room to take a whole electric piano away with me to university.
+    
+    I kinda regret giving up playing, though. (exit "night,8,7")
+  - piano == 0 ?
+    {count = count + 1}
+{piano = 1}I definitely didn't have room to take a whole electric piano away with me to university.
+    
+    I kinda regret giving up playing, though.
+  - else ?
+    I definitely didn't have room to take a whole electric piano away with me to university.
+    
+    I kinda regret giving up playing, though.
+}
+"""
+
+DLG SPR_s
+"""
+{
+  - count >= 9 ?
+    This desk saw me through so many late nights.
+    High school workloads are rough. (exit "night,8,7")
+  - desk == 0 ?
+    {count = count + 1}
+{desk = 1}This desk saw me through so many late nights.
+    High school workloads are rough.
+  - else ?
+    This desk saw me through so many late nights.
+    High school workloads are rough.
+}
+"""
+
+DLG SPR_r
+"""
+{
+  - count >= 9 ?
+    This desk saw me through so many late nights.
+    High school workloads are rough. (exit "night,8,7")
+  - desk == 0 ?
+    {count = count + 1}
+{desk = 1}This desk saw me through so many late nights.
+    High school workloads are rough.
+  - else ?
+    This desk saw me through so many late nights.
+    High school workloads are rough.
+}
+"""
+
+DLG SPR_q
+"""
+{
+  - count >= 9 ?
+    This desk saw me through so many late nights.
+    High school workloads are rough. (exit "night,8,7")
+  - desk == 0 ?
+    {count = count + 1}
+{desk = 1}This desk saw me through so many late nights.
+    High school workloads are rough.
+  - else ?
+    This desk saw me through so many late nights.
+    High school workloads are rough.
+}
+"""
+
+DLG SPR_p
+"""
+{
+  - count >= 9 ?
+    This desk saw me through so many late nights.
+    High school workloads are rough. (exit "night,8,7")
+  - desk == 0 ?
+    {count = count + 1}
+{desk = 1}This desk saw me through so many late nights.
+    High school workloads are rough.
+  - else ?
+    This desk saw me through so many late nights.
+    High school workloads are rough.
+}
+"""
+
+DLG SPR_o
+"""
+{
+  - count >= 9 ?
+    This desk saw me through so many late nights.
+    High school workloads are rough. (exit "night,8,7")
+  - desk == 0 ?
+    {count = count + 1}
+{desk = 1}This desk saw me through so many late nights.
+    High school workloads are rough.
+  - else ?
+    This desk saw me through so many late nights.
+    High school workloads are rough.
+}
+"""
+
+DLG SPR_h
+"""
+{
+  - count >= 9 ?
+    Oh wow, old issues of LOUDROCK!!! magazine.
+    I used to lurk the newsagent at the shopping center I worked in as a teenager, waiting for new issues of this to come out. (exit "night,8,7")
+  - shelves == 0 ?
+    {count = count + 1}
+{shelves = 1}Oh wow, old issues of LOUDROCK!!! magazine.
+    I used to lurk the newsagent at the shopping center I worked in as a teenager, waiting for new issues of this to come out.
+  - else ?
+    Oh wow, old issues of LOUDROCK!!! magazine.
+    I used to lurk the newsagent at the shopping center I worked in as a teenager, waiting for new issues of this to come out.
+}
+"""
+
+DLG SPR_i
+"""
+{
+  - count >= 9 ?
+    Oh wow, old issues of LOUDROCK!!! magazine.
+    I used to lurk the newsagent at the shopping center I worked in as a teenager, waiting for new issues of this to come out. (exit "night,8,7")
+  - shelves == 0 ?
+    {count = count + 1}
+{shelves = 1}Oh wow, old issues of LOUDROCK!!! magazine.
+    I used to lurk the newsagent at the shopping center I worked in as a teenager, waiting for new issues of this to come out.
+  - else ?
+    Oh wow, old issues of LOUDROCK!!! magazine.
+    I used to lurk the newsagent at the shopping center I worked in as a teenager, waiting for new issues of this to come out.
+}
+"""
+
+DLG SPR_j
+"""
+{
+  - count >= 9 ?
+    Oh wow, old issues of LOUDROCK!!! magazine.
+    I used to lurk the newsagent at the shopping center I worked in as a teenager, waiting for new issues of this to come out. (exit "night,8,7")
+  - shelves == 0 ?
+    {count = count + 1}
+{shelves = 1}Oh wow, old issues of LOUDROCK!!! magazine.
+    I used to lurk the newsagent at the shopping center I worked in as a teenager, waiting for new issues of this to come out.
+  - else ?
+    Oh wow, old issues of LOUDROCK!!! magazine.
+    I used to lurk the newsagent at the shopping center I worked in as a teenager, waiting for new issues of this to come out.
+}
+"""
+
+DLG SPR_a
+"""
+{
+  - count >= 9 ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one. (exit "night,8,7")
+  - bed == 0 ?
+    {count = count + 1}
+{bed = 1}I got this bed when we moved here. 
+    I'd only had single beds before this one.
+  - else ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one.
+}
+"""
+
+DLG SPR_9
+"""
+{
+  - count >= 9 ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one. (exit "night,8,7")
+  - bed == 0 ?
+    {count = count + 1}
+{bed = 1}I got this bed when we moved here. 
+    I'd only had single beds before this one.
+  - else ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one.
+}
+"""
+
+DLG SPR_8
+"""
+{
+  - count >= 9 ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one. (exit "night,8,7")
+  - bed == 0 ?
+    {count = count + 1}
+{bed = 1}I got this bed when we moved here. 
+    I'd only had single beds before this one.
+  - else ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one.
+}
+"""
+
+DLG SPR_7
+"""
+{
+  - count >= 9 ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one. (exit "night,8,7")
+  - bed == 0 ?
+    {count = count + 1}
+{bed = 1}I got this bed when we moved here. 
+    I'd only had single beds before this one.
+  - else ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one.
+}
+"""
+
+DLG SPR_6
+"""
+{
+  - count >= 9 ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one. (exit "night,8,7")
+  - bed == 0 ?
+    {count = count + 1}
+{bed = 1}I got this bed when we moved here. 
+    I'd only had single beds before this one.
+  - else ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one.
+}
+"""
+
+DLG SPR_5
+"""
+{
+  - count >= 9 ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one. (exit "night,8,7")
+  - bed == 0 ?
+    {count = count + 1}
+{bed = 1}I got this bed when we moved here. 
+    I'd only had single beds before this one.
+  - else ?
+    I got this bed when we moved here. 
+    I'd only had single beds before this one.
+}
+"""
+
+DLG SPR_3
+"""
+{
+  - count >= 9 ?
+    I took most all my clothes with me when I left.
+    My old school shoes are still tucked in here, though. (exit "night,8,7")
+  - wardrobe == 0 ?
+    {count = count + 1}
+{wardrobe = 1}I took most all my clothes with me when I left.
+    My old school shoes are still tucked in here, though.
+  - else ?
+    I took most all my clothes with me when I left.
+    My old school shoes are still tucked in here, though.
+}
+"""
+
+DLG SPR_2
+"""
+{
+  - count >= 9 ?
+    I took most all my clothes with me when I left.
+    My old school shoes are still tucked in here, though. (exit "night,8,7")
+  - wardrobe == 0 ?
+    {count = count + 1}
+{wardrobe = 1}I took most all my clothes with me when I left.
+    My old school shoes are still tucked in here, though.
+  - else ?
+    I took most all my clothes with me when I left.
+    My old school shoes are still tucked in here, though.
+}
+"""
+
+DLG SPR_u
+Empty wardrobe.
+
+DLG SPR_v
+Empty wardrobe.
+
+DLG SPR_w
+Empty wardrobe.
+
+DLG SPR_x
+Grown up bed.
+
+DLG SPR_y
+Grown up bed.
+
+DLG SPR_z
+Grown up bed.
+
+DLG SPR_10
+Grown up bed.
+
+DLG SPR_11
+Grown up bed.
+
+DLG SPR_12
+Grown up bed.
+
+DLG SPR_13
+Grown up bed.
+
+DLG SPR_14
+Useful bookshelves.
+
+DLG SPR_15
+Useful bookshelves.
+
+DLG SPR_16
+Useful bookshelves.
+
+DLG SPR_17
+Useful bookshelves.
+
+DLG SPR_18
+Lonely amp.
+
+DLG SPR_19
+Trusty piano.
+
+DLG SPR_1a
+Trusty piano.
+
+DLG SPR_1b
+Trusty piano.
+
+DLG SPR_1c
+Faithful desk.
+
+DLG SPR_1d
+Faithful desk.
+
+DLG SPR_1e
+Faithful desk.
+
+DLG SPR_1f
+Faithful desk.
+
+DLG SPR_1g
+Faithful desk.
+
+DLG SPR_1h
+Faithful desk.
+
+DLG SPR_1i
+I had to leave the curtains closed all the time because this window looks right into the kitchen next door.
+
+DLG SPR_1j
+I had to leave the curtains closed all the time because this window looks right into the kitchen next door.
+
+DLG SPR_1k
+"""
+This window looks out to the park across the street.
+It's dark. There light in the park hasn't come on.
+"""
+
+DLG SPR_1l
+"""
+This window looks out to the park across the street.
+It's dark. There light in the park hasn't come on.
+"""
+
+DLG SPR_1m
+"""
+This window looks out to the park across the street.
+It's dark. There light in the park hasn't come on.
+"""
+
+DLG SPR_1n
+"""
+This window looks out to the park across the street.
+It's dark. There light in the park hasn't come on.
+"""
+
+END 0
+That was a tiring afternoon, but the old room is sorted at last.
+
+VAR count
+0
+
+VAR wardrobe
+0
+
+VAR bed
+0
+
+VAR shelves
+0
+
+VAR amp
+0
+
+VAR piano
+0
+
+VAR desk
+0
+
+
