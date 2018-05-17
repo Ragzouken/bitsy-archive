@@ -8,7 +8,6 @@
 4,TheBookOfBrady
 4,Saranomy
 4,Casino
-4,April Whitehead
 4,Zeego
 4,AfterglowGames
 3,Edited
