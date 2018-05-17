@@ -1,0 +1,1829 @@
+
+Welcome to the undermarket, friend.
+
+# BITSY VERSION 4.8
+
+! ROOM_FORMAT 1
+
+PAL 0
+145,134,85
+70,139,76
+50,72,40
+
+PAL 1
+152,152,205
+153,214,201
+149,203,163
+
+PAL 2
+7,100,99
+5,102,15
+4,81,103
+
+PAL 3
+110,95,241
+74,242,164
+238,137,245
+
+PAL 4
+89,82,33
+40,112,36
+43,172,29
+
+PAL 5
+109,105,23
+20,99,18
+54,41,112
+
+ROOM 0
+11,z,w,0,0,0,u,0,0,0,0,10,z,11,z,12
+z,17,0,0,0,0,y,u,r,t,s,c,10,z,z,z
+w,0,0,0,0,0,0,u,x,v,0,f,b,18,z,11
+0,0,e,c,0,0,0,u,0,0,0,0,0,14,10,z
+x,x,a,n,m,0,y,u,0,0,0,0,19,z,z,z
+14,16,x,x,v,v,y,0,0,0,0,0,19,z,11,z
+z,z,1b,0,0,0,u,0,a,p,n,a,19,z,z,12
+z,11,z,1a,0,0,u,0,v,v,v,0,e,f,13,z
+12,z,z,1a,0,0,y,u,x,v,0,0,0,0,0,18
+z,17,13,m,p,0,x,u,0,0,0,0,r,s,0,0
+z,1a,e,d,x,v,u,u,x,v,v,x,x,0,b,14
+z,14,15,0,0,0,y,0,0,0,0,14,15,16,1c,z
+z,z,z,1a,0,u,u,0,0,0,19,z,z,z,11,z
+z,11,z,14,0,y,0,q,e,b,19,z,12,z,z,z
+z,z,z,z,1b,0,0,16,15,16,1c,z,z,z,z,11
+11,z,12,z,z,0,19,z,z,z,z,11,z,z,z,z
+ITM 0 5,4
+ITM 1 13,10
+ITM 2 10,2
+EXT 6,0 1 3,15
+EXT 0,4 3 15,7
+EXT 15,9 4 0,5
+EXT 6,15 5 8,0
+EXT 5,15 5 7,0
+PAL 0
+
+ROOM 1
+0,1g,z,z,z,11,z,z,1h,19,z,1d,1e,z,12,z
+0,1c,z,12,z,z,z,1d,1h,1g,z,1b,i,z,z,z
+1c,z,z,1d,13,13,13,1i,1h,1i,1e,z,z,z,z,z
+z,z,z,1b,0,1i,1i,1i,1h,1i,1i,1e,z,z,11,z
+z,12,z,z,m,h,1k,1j,1h,1i,1i,1i,1e,z,z,z
+z,z,z,z,z,z,1n,1m,1h,1j,0,a,o,z,z,z
+12,z,z,11,z,z,1f,1h,13,1m,z,z,z,z,z,z
+z,z,z,z,z,1d,1i,1h,1i,1i,13,13,1e,z,z,1d
+z,z,1d,13,13,1i,1i,1h,1i,0,g,i,19,z,1d,14
+z,z,1a,0,1k,1l,1j,1h,1k,1j,r,r,s,z,z,z
+z,1d,j,r,s,13,1h,1i,13,1m,z,z,z,z,z,12
+z,z,z,z,z,1f,1h,0,q,k,z,z,z,1e,z,z
+12,z,11,z,1d,1k,1h,1g,z,z,z,z,1d,0,1e,z
+z,z,z,1d,1i,1h,13,19,z,11,z,z,1b,16,1c,z
+z,z,q,l,1i,1h,1i,1c,12,z,z,z,z,z,z,z
+z,z,1f,1k,1l,1h,1c,z,z,z,z,z,z,z,z,z
+ITM 4 12,8
+ITM 3 4,3
+EXT 3,15 0 6,0
+EXT 8,0 2 7,15
+PAL 1
+
+ROOM 2
+0,0,0,0,0,0,0,0,0,0,0,0,1q,0,0,0
+0,0,0,1q,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,1r,0,0,0,0,0,1r,0,0,h,0
+0,0,1r,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,g,0,0,0,0,0,0,0,1q,0,0,0,0,0
+0,0,0,0,0,1s,0,0,0,0,0,0,0,1r,0,0
+0,0,0,0,0,0,0,0,0,0,0,15,14,16,k,0
+0,0,0,0,0,0,0,0,0,0,1c,z,z,z,z,1p
+1q,0,15,14,15,l,1t,1t,1t,19,z,z,z,z,11,z
+0,1o,z,z,z,1p,1t,0,0,1o,z,z,z,12,z,z
+1o,z,z,z,z,z,1p,0,1o,z,z,z,z,z,z,12
+z,z,11,z,12,z,z,1h,z,z,z,11,z,z,z,1d
+12,z,11,z,z,z,z,1h,z,12,z,z,z,z,1d,0
+EXT 7,15 1 8,0
+PAL 3
+
+ROOM 3
+z,11,z,z,z,z,z,z,z,z,z,z,z,z,z,z
+z,z,z,z,z,z,z,z,w,10,z,z,z,z,12,z
+z,z,z,z,z,z,w,13,0,0,10,z,z,z,z,z
+z,z,z,12,z,z,1a,0,u,23,1g,z,z,z,z,z
+z,z,z,z,z,w,0,q,y,o,m,10,z,z,z,z
+z,z,z,z,z,1a,v,x,v,v,v,0,10,z,z,z
+z,z,w,13,13,0,0,0,23,0,v,0,0,10,13,13
+z,w,0,0,r,s,0,0,0,0,x,v,v,x,x,0
+z,1b,22,0,v,x,v,v,x,v,24,16,14,15,16,15
+z,z,1b,15,15,0,0,u,0,0,1c,z,z,z,z,z
+z,z,z,z,z,1b,0,y,0,1c,z,z,z,z,z,z
+z,z,z,z,z,z,1a,u,19,z,z,z,z,z,z,z
+z,z,z,z,z,z,1a,22,a,z,z,z,z,z,z,z
+z,12,z,z,z,z,1b,15,1c,z,z,z,z,z,z,z
+z,z,z,z,z,z,z,z,z,z,z,z,z,z,11,z
+z,z,z,z,z,z,z,z,z,z,z,z,z,z,z,z
+ITM 5 3,8
+ITM 6 7,3
+EXT 15,7 0 0,4
+PAL 5
+
+ROOM 4
+z,z,z,z,z,z,z,z,z,z,z,z,z,z,z,z
+z,z,z,z,z,z,z,1y,z,z,z,1n,1u,1v,1m,z
+1y,z,z,z,z,z,z,z,z,z,z,1b,14,0,19,z
+z,z,z,11,z,z,z,z,z,z,z,z,z,1b,1c,z
+1w,1m,z,z,z,1n,1m,z,12,z,z,z,z,z,z,z
+v,0,13,1m,z,1a,19,z,z,z,z,z,z,1y,z,z
+16,16,1x,16,13,0,0,13,1u,1v,13,1m,z,z,z,z
+z,z,z,z,1b,16,0,0,0,0,0,19,z,z,11,z
+z,z,z,z,z,z,1a,x,0,0,0,19,z,z,z,z
+z,z,12,z,z,z,1a,0,x,0,0,0,13,13,1m,z
+z,z,z,z,1n,1w,0,x,0,0,16,1x,0,0,19,z
+z,1y,z,1n,0,0,x,0,0,1c,z,z,1b,14,1c,z
+z,z,z,1a,0,a,0,0,19,z,z,1y,z,z,z,z
+z,z,z,1b,1x,0,0,0,0,1m,z,z,z,z,z,z
+11,z,z,z,z,1b,1x,16,14,1c,z,z,11,z,z,z
+z,z,z,1y,z,z,z,z,z,z,z,z,z,z,z,1y
+EXT 0,4 0 15,9
+EXT 0,5 0 15,9
+EXT 0,6 4 0,5
+PAL 4
+
+ROOM 5
+1z,1z,1z,1z,1z,20,1z,x,u,1z,1z,1z,1z,1z,1z,1z
+1z,1z,21,1z,1z,0,0,u,x,0,0,1z,1z,1z,20,1z
+1z,1z,1z,21,1z,0,x,x,u,0,0,1z,1z,1z,1z,21
+1z,20,1z,1z,1z,0,0,u,0,0,0,1z,21,1z,20,1z
+1z,1z,1z,1z,1z,0,0,u,0,0,0,1z,1z,1z,1z,1z
+20,1z,1z,1z,1z,21,0,u,0,21,1z,1z,1z,20,1z,1z
+1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z
+1z,1z,20,1z,1z,1z,1z,1z,1z,1z,1z,20,1z,1z,1z,1z
+1z,1z,1z,1z,21,1z,1z,1z,1z,21,1z,1z,1z,1z,20,1z
+1z,1z,1z,1z,1z,20,1z,1z,1z,1z,1z,1z,1z,21,1z,1z
+1z,1z,20,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,21
+1z,21,1z,1z,1z,1z,1z,1z,21,1z,20,1z,1z,1z,1z,21
+1z,1z,21,1z,1z,1z,1z,1z,1z,1z,1z,1z,20,1z,1z,1z
+1z,1z,1z,1z,1z,20,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z
+20,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,20,1z,21,1z
+1z,1z,1z,1z,1z,21,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z
+ITM 7 8,5
+ITM 7 7,5
+EXT 8,0 0 5,15
+EXT 7,0 0 5,15
+EXT 7,5 6 7,5
+PAL 2
+
+ROOM 6
+1z,1z,1z,1z,1z,20,1z,x,u,1z,1z,1z,1z,1z,1z,1z
+1z,1z,21,1z,1z,0,0,u,x,0,0,1z,1z,1z,20,1z
+1z,1z,1z,21,1z,0,x,x,u,0,0,1z,1z,1z,1z,21
+1z,20,1z,1z,1z,0,0,u,0,0,0,1z,21,1z,20,1z
+1z,1z,1z,1z,1z,0,0,u,0,0,0,1z,1z,1z,1z,1z
+20,1z,1z,1z,1z,21,0,u,0,21,1z,1z,1z,20,1z,1z
+1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z
+1z,1z,20,1z,1z,1z,1z,1z,1z,1z,1z,20,1z,1z,1z,1z
+1z,1z,1z,1z,21,1z,1z,1z,1z,21,1z,1z,1z,1z,20,1z
+1z,1z,1z,1z,1z,20,1z,1z,1z,1z,1z,1z,1z,21,1z,1z
+1z,1z,20,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,21
+1z,21,1z,1z,1z,1z,1z,1z,21,1z,20,1z,1z,1z,1z,21
+1z,1z,21,1z,1z,1z,1z,1z,1z,1z,1z,1z,20,1z,1z,1z
+1z,1z,1z,1z,1z,20,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z
+20,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z,20,1z,21,1z
+1z,1z,1z,1z,1z,21,1z,1z,1z,1z,1z,1z,1z,1z,1z,1z
+ITM 7 7,5
+EXT 8,0 0 5,15
+EXT 7,0 0 5,15
+END undefined 7,5
+PAL 2
+
+TIL 10
+11111111
+01111111
+01110111
+01010111
+01010101
+01010101
+00010101
+00010001
+NAME vines right
+
+TIL 11
+11111111
+11101111
+11010111
+11101111
+11111111
+11111011
+11110101
+11111011
+NAME filled flower
+WAL true
+
+TIL 12
+11111111
+11111011
+11110101
+11111011
+11011111
+10101111
+11011111
+11111111
+NAME filled flower2
+WAL true
+
+TIL 13
+11111111
+01010100
+00010000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME edge bottom
+
+TIL 14
+00000000
+00000000
+00000000
+01000000
+10100000
+01000100
+01010100
+11111111
+>
+00000000
+00000000
+01000000
+10100000
+01000000
+01010000
+01010100
+11111111
+NAME edge upper a
+
+TIL 15
+00000000
+00000000
+00000000
+00000000
+00010000
+00101010
+01010010
+11111111
+NAME edge upper b
+
+TIL 16
+00000000
+00000000
+00000000
+00000000
+00000000
+00010100
+01011101
+11111111
+
+TIL 17
+11111111
+11111110
+11111010
+11101010
+11101000
+10101000
+10001000
+10000000
+>
+11111111
+11111110
+11111100
+11110100
+11110000
+11010000
+11010000
+10000000
+NAME vines left a
+
+TIL 18
+11111111
+01111111
+01110111
+01010111
+01010101
+01010101
+00010101
+00010001
+>
+11111111
+11111111
+11111011
+10101010
+10101010
+10101010
+00101010
+00100010
+NAME vines right a
+
+TIL 19
+00000001
+00000001
+00000011
+00000001
+00000011
+00000001
+00000111
+00000001
+NAME edge right
+
+TIL 20
+11011011
+10100101
+00111100
+01011010
+01111110
+10011001
+11111111
+00011000
+WAL true
+
+TIL 21
+00111100
+01111110
+01111110
+11111111
+11000011
+00011000
+10011001
+11011011
+WAL true
+
+TIL 22
+10010100
+01001110
+00101011
+00101110
+01010000
+10001111
+10011110
+01101010
+>
+00110100
+01001110
+10001011
+10001110
+01110000
+00101111
+00011110
+00001010
+NAME ratboy 2
+
+TIL 23
+00101000
+01110010
+11010101
+01110100
+00000010
+11111001
+01111001
+01010110
+>
+00101001
+01110010
+11010100
+01110100
+10001010
+01110001
+01111001
+01010110
+NAME ratboy3
+
+TIL 24
+00010100
+01001110
+10101011
+00101110
+01010001
+10001110
+10011110
+01101100
+>
+01010100
+10101110
+00101011
+01001110
+10010001
+10011110
+01101110
+00000010
+NAME ratboy run
+
+TIL a
+00000000
+00000000
+00010000
+01010110
+11111110
+01011010
+01011010
+01000010
+NAME table a
+WAL true
+
+TIL b
+00010100
+00011100
+00110100
+00111100
+00000010
+01010101
+00011100
+00010100
+NAME kobold a
+
+TIL c
+00001010
+01011110
+01111010
+00111110
+00000000
+00011011
+00101111
+00001010
+>
+00001010
+01011110
+01111010
+01111110
+00000000
+00011011
+00101111
+00001010
+NAME kobold b
+
+TIL d
+00010100
+00011100
+00110100
+00011100
+00000010
+01010101
+00011100
+00010100
+>
+00010100
+00011100
+00110100
+00111100
+00000010
+01010101
+00011100
+00010100
+NAME kobold c
+
+TIL e
+00101000
+00111000
+00101100
+00111000
+01000000
+10101010
+00111000
+00101000
+>
+00101000
+00111000
+00101100
+00111100
+01000000
+10101010
+00111000
+00101000
+NAME kobold d
+
+TIL f
+00010100
+00010100
+00011100
+00110100
+00111000
+00000010
+01011101
+00010100
+>
+00010100
+00010100
+00011100
+00110100
+00011001
+01000010
+00011100
+00010100
+NAME kobold e
+
+TIL g
+00000000
+00111000
+00101100
+00111000
+11000110
+11101110
+10111010
+00101000
+>
+00111000
+00101100
+00111000
+11000110
+11101110
+10111010
+00101000
+00101000
+NAME birdboy a
+
+TIL h
+00000010
+00111001
+00101100
+00111000
+11000110
+11101110
+10111010
+00101000
+>
+00111001
+00101100
+00111000
+11000110
+11101110
+10111010
+00101000
+00101000
+NAME birdboy b
+
+TIL i
+00000000
+00111000
+01101000
+00111000
+01000110
+01101110
+00111010
+00101000
+>
+00111000
+01101000
+00111000
+01000110
+01101110
+00111010
+00101000
+00101000
+NAME birdboy c
+
+TIL j
+00000000
+01111000
+00101100
+00111000
+11000111
+11101110
+10111100
+00101000
+NAME birdboy r 
+
+TIL k
+00000000
+00011110
+00110100
+00011100
+11100011
+01110111
+00111101
+00010100
+NAME birdboy point
+
+TIL l
+00000000
+00111000
+00101110
+00111000
+11000111
+11101110
+11111101
+10101010
+>
+00111000
+00101110
+00111000
+11000111
+11101110
+11111101
+10101010
+00101000
+NAME birdboy wing
+
+TIL m
+00000000
+00011100
+00110110
+00111110
+11111111
+01000010
+01000010
+01000010
+NAME table d
+WAL false
+
+TIL n
+00000000
+00000000
+01010000
+01110110
+11111111
+01111110
+01000010
+01000010
+NAME table b
+WAL true
+
+TIL o
+00000000
+00000000
+00000000
+00000000
+11111111
+01111110
+01000010
+01000010
+NAME table c
+WAL true
+
+TIL p
+00000000
+00000000
+00001000
+00101100
+01111111
+01100110
+01000010
+01000010
+NAME table e
+WAL true
+
+TIL q
+11111111
+10101011
+10000001
+10000001
+11111111
+01111110
+01011010
+01000010
+NAME stall a
+WAL true
+
+TIL r
+11111111
+10101010
+10000000
+10000010
+10100101
+11111111
+11111111
+11000001
+NAME stall b
+WAL true
+
+TIL s
+11111111
+01010101
+00000001
+00100011
+10101101
+11111111
+11111111
+10000011
+NAME stall d
+WAL true
+
+TIL t
+11111111
+10101010
+00000000
+00010000
+01010110
+11111111
+11111111
+10000001
+NAME stall c
+WAL true
+
+TIL u
+00000000
+00010000
+00000000
+00100100
+00000000
+00010000
+00000100
+00100000
+NAME dirt path a
+
+TIL v
+00000000
+00000000
+01000010
+00000000
+00001000
+10100010
+00000000
+00000000
+NAME dirt path b
+
+TIL w
+11111111
+11111110
+11111010
+11101010
+11101000
+10101000
+10001000
+10000000
+NAME vines left
+
+TIL x
+00000000
+00001000
+01000000
+00100001
+00000100
+10000000
+00100000
+00000010
+NAME dirt path c
+
+TIL y
+00100100
+00000000
+01000000
+00001010
+01000000
+00010000
+00000100
+00100000
+NAME dirt path d
+
+TIL z
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME filled
+WAL true
+
+TIL 1a
+10000000
+11100000
+10000000
+11000000
+10000000
+11100000
+10000000
+11000000
+NAME edge left
+
+TIL 1b
+11100000
+10000000
+11000000
+10000000
+10000000
+11000010
+11101010
+11111111
+NAME edge lower corner
+
+TIL 1c
+00000111
+00000001
+00000011
+00000001
+00100111
+01010001
+00100101
+11111111
+NAME edge right corner
+
+TIL 1d
+11111111
+11011111
+10101110
+11011010
+11111100
+10110000
+11000000
+10000000
+NAME tree a
+
+TIL 1e
+11111111
+11111111
+01111101
+00011010
+00011101
+00101111
+00010011
+00000001
+NAME tree b
+
+TIL 1f
+10000000
+11100000
+10001000
+11110100
+10001000
+11100000
+10000000
+11000000
+NAME tree edge l
+
+TIL 1g
+00000001
+00000101
+00001011
+00000101
+00000011
+00001001
+00010111
+00001001
+NAME tree edge right
+
+TIL 1h
+11000011
+10111101
+10000001
+11000011
+10111101
+10000001
+11000011
+10111101
+NAME ladder
+
+TIL 1i
+10000100
+01010100
+01000010
+00101010
+10100000
+00010010
+01010010
+01000100
+NAME bark
+WAL true
+
+TIL 1j
+00000000
+00000000
+00000100
+00001110
+11110101
+01010100
+01010100
+01010100
+NAME rail r
+
+TIL 1k
+00000000
+00000000
+00100000
+01110000
+10101111
+00101010
+00101010
+00101010
+NAME rail l
+
+TIL 1l
+00000000
+00000000
+00000000
+00000000
+11111111
+01010101
+01010101
+01010101
+NAME rail m
+
+TIL 1m
+11111111
+01010101
+00010001
+00000001
+00000011
+00000001
+00000111
+00000001
+NAME underrail a
+
+TIL 1n
+11111111
+11010100
+10010000
+10000000
+11100000
+10000000
+11000000
+10000000
+NAME underrail b
+
+TIL 1o
+00000001
+01000011
+10101111
+01011101
+01011010
+01111101
+11101111
+11010111
+NAME tree c
+
+TIL 1p
+11000000
+11100000
+11100000
+11111000
+11011100
+10101100
+11011110
+11111111
+NAME tree d
+
+TIL 1q
+00000000
+00001010
+00010101
+00000000
+00000000
+00000000
+01010000
+10101000
+>
+00001010
+00001010
+00000100
+00000000
+00000000
+01010000
+01010000
+00100000
+
+TIL 1r
+00000000
+00000000
+00000000
+00101000
+01010100
+01000100
+00000000
+00000000
+>
+00000000
+00000000
+10000010
+01101100
+00010000
+00000000
+00000000
+00000000
+
+TIL 1s
+00000010
+00111001
+00101100
+00111000
+11000111
+11101110
+00111000
+00000000
+>
+00111001
+00101100
+00111000
+11000110
+11101110
+10111010
+00000000
+00000000
+NAME birdboy fly
+
+TIL 1t
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME block
+WAL true
+
+TIL 1u
+11111111
+10010100
+01100100
+00000100
+00000100
+00000011
+00000000
+00000000
+
+TIL 1v
+11111111
+01001010
+01001010
+01000100
+01000000
+10000000
+00000000
+00000000
+
+TIL 1w
+11111111
+10101001
+10101001
+10101001
+01001001
+00000110
+00000000
+00000000
+
+TIL 1x
+00000000
+01010000
+00100101
+00000010
+00000000
+00100010
+10101010
+11111111
+>
+10100000
+01000000
+00001010
+00000100
+00000000
+00100010
+10101010
+11111111
+
+TIL 1y
+11111111
+11111111
+10101111
+11011111
+11111111
+11110101
+11111011
+11111111
+>
+11111111
+11010111
+11101111
+11111111
+11111111
+11101011
+11110111
+11111111
+WAL true
+
+TIL 1z
+11011011
+10011001
+00111100
+00111100
+01111110
+01111110
+11111111
+10011001
+WAL true
+
+SPR A
+01101000
+00111000
+00101100
+00111000
+01000000
+10101010
+00111000
+00001000
+>
+01101000
+00111000
+00101100
+00111100
+01000000
+10101010
+00111000
+00110000
+POS 0 5,14
+
+SPR a
+00010110
+10011100
+10110100
+10111100
+10000010
+01010101
+00111100
+00010100
+>
+00010110
+10011100
+10110100
+10011100
+10000010
+01010101
+00111100
+00010100
+NAME kobold warrior
+DLG SPR_0
+POS 0 6,13
+
+SPR b
+00010110
+00111100
+01110100
+01111100
+00000010
+00110101
+01011100
+00010100
+>
+00010110
+00111100
+01110100
+00111100
+00000010
+00110101
+01011100
+00010100
+NAME kobold talking
+DLG SPR_1
+POS 0 7,6
+
+SPR c
+00010111
+00111100
+01110100
+01111100
+00000010
+00010101
+01011100
+00010000
+>
+00010110
+00111101
+01110100
+01111100
+00000010
+01010101
+00011100
+00001100
+NAME kobold walking
+DLG SPR_6
+POS 0 11,9
+
+SPR d
+10000000
+11001000
+10011110
+10110101
+10111100
+10100010
+11011101
+10010100
+>
+10000000
+11001000
+10011110
+10110101
+10011100
+10100010
+11011101
+10010100
+NAME kobold shaman
+DLG SPR_5
+POS 0 4,6
+
+SPR e
+01110111
+01011101
+00110100
+00111100
+01000010
+00110101
+00011100
+00010100
+>
+01110111
+01011101
+00110100
+00011100
+00000010
+00110101
+01011100
+00010100
+NAME kobold waving
+DLG SPR_2
+POS 0 5,9
+
+SPR f
+00000000
+01111000
+00101100
+00111000
+11000110
+11101110
+10111010
+00101000
+>
+01111000
+00101100
+00111000
+11000110
+11101110
+10111010
+00101000
+00101000
+NAME birdboy bounce
+DLG SPR_4
+POS 1 3,9
+
+SPR g
+00000000
+01111000
+00101100
+00111000
+11000110
+11101110
+10111010
+00001000
+>
+01111000
+00101100
+00111000
+11000110
+11101110
+10111010
+00100000
+00100000
+NAME birdboy walking
+DLG SPR_3
+POS 1 10,5
+
+SPR h
+00101000
+00011100
+01010110
+10011100
+10100000
+10011101
+10111100
+01010100
+>
+00101000
+10011100
+10010110
+01011100
+01100000
+01011101
+00111100
+00010100
+NAME ratboy
+DLG SPR_7
+POS 3 6,7
+
+SPR i
+00101000
+00011100
+00010111
+10011111
+10100000
+01011101
+00111100
+00010100
+>
+00010100
+00011100
+01010111
+01011110
+01100000
+01011100
+00111101
+00010100
+NAME wolfboy
+DLG SPR_8
+POS 4 4,12
+
+SPR j
+00001010
+00011110
+01110110
+01111100
+00000011
+00011111
+00011111
+01111111
+NAME dogboy head
+POS 4 12,2
+
+SPR k
+00001010
+00011110
+01110110
+01111110
+00010001
+00101010
+00001111
+00001010
+>
+00001010
+00011110
+01110110
+00111110
+00010001
+00101011
+00001110
+00001010
+NAME wolfgirl
+DLG SPR_9
+POS 4 6,12
+
+SPR l
+00000000
+00000000
+00000000
+00000000
+11000000
+11110000
+11101100
+11100000
+>
+00000000
+00000000
+00000000
+00000100
+11001000
+11110000
+11100000
+11100000
+NAME dogboy body
+DLG SPR_b
+POS 4 13,2
+
+SPR m
+00000000
+00010100
+00011100
+00110100
+00011100
+00000010
+01011101
+00010100
+>
+00000000
+00010100
+00011100
+00010110
+01011100
+00100001
+00011100
+00010100
+NAME Pip
+DLG SPR_c
+POS 4 13,10
+
+SPR n
+00000000
+00111100
+01101000
+00111000
+11000110
+11101110
+10111010
+00101000
+>
+00111100
+01101000
+00111000
+11000110
+11101110
+10111010
+00101000
+00101000
+NAME birdboy
+DLG SPR_a
+POS 2 8,12
+
+SPR o
+01001010
+10101110
+01011010
+01011110
+01000001
+01011111
+01101110
+01001010
+>
+00001010
+01001110
+01011010
+01011110
+01000001
+01011111
+01101110
+01001010
+NAME watchman
+DLG SPR_d
+POS 5 9,1
+
+ITM 0
+00000000
+10000000
+11000000
+10000000
+11000000
+01110000
+01011100
+01111000
+NAME deerskull
+DLG ITM_0
+
+ITM 1
+00000000
+00000000
+00000000
+00000000
+00000100
+00001110
+01110100
+00100100
+NAME mushrooms
+DLG ITM_1
+
+ITM 2
+00000000
+00000000
+00000001
+00000011
+00000100
+00001111
+00010101
+00100111
+NAME spear
+DLG ITM_2
+
+ITM 3
+00000000
+00000000
+00000000
+00000000
+01000001
+01110111
+01101111
+00111010
+NAME nest
+DLG ITM_4
+
+ITM 4
+00000011
+00000001
+00000111
+00000001
+01100011
+00100001
+10101101
+10101001
+>
+00000011
+00000001
+00000111
+00000001
+00000011
+10001001
+10101001
+10101001
+NAME worms
+DLG ITM_3
+
+ITM 5
+00000000
+00000000
+00010000
+00101000
+01111100
+01011100
+01110100
+00111000
+NAME egg
+DLG ITM_5
+
+ITM 6
+00000000
+00000000
+00000000
+00011100
+00111000
+01111000
+11110000
+00010000
+>
+00000001
+00000010
+00000000
+00011100
+00111000
+01111010
+11110001
+00010000
+NAME crow
+DLG ITM_6
+
+ITM 7
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME ending
+DLG ITM_7
+
+DLG SPR_7
+"""
+{
+  - {item "egg"} == 0 ?
+    Yee, Fiz! Got some fresh eggs for you this week - just don't let the birdboys know...
+  - {item "egg"} == 1 ?
+    Er, it seems we're all out of eggs, Fiz. I always tell you to get here early...
+}
+"""
+
+DLG SPR_8
+"""
+{cycle
+  - Bork! You said you were bringing the tent!!
+  - Bork bork!! I've been busy!! 
+  - It's not my fault, I just had to chase that rabbit ok!!
+  - It's not like you remembered either!!
+  - {wvy}Arooooooo!!{wvy}
+}
+"""
+
+DLG SPR_9
+"""
+{cycle
+  - What do you mean you forgot the tent!?
+  - You told me you were going to bring it!! Bork!
+  - What are we going to do now?! 
+  - {wvy}Aroooooo!{wvy}
+  - This is unborklieveable.
+}
+"""
+
+DLG SPR_0
+"""
+{sequence
+  - Hey Fiz. Anything out there I should know about? Everyone's here apart from the wolfboys, they're running late. I think you'll find anything you're after.
+  - Hi again, Fiz. Keep your sticky fingers to yourself this time, please?
+  - Hey Fiz, keeping out of trouble?
+}{shuffle
+  - Don't you find the birdboys a bit snobby? Think they're all so high and mighty, with all their flapping around.
+  - Mind the wolfboys, they're prone to snapping right now. Think it's the time of the month.
+  - You can't trust a ratboy, Fiz! Once I saw one chew through a whole metal spear!
+  - When's your next turn for guard duty? Oh right, I forgot about all the...swiping.
+  - The elder's been trying to feed me stinkbug juice again, bleeegh.
+  - I hope you're not hanging around with that shifty looking Pip again.
+}{
+  - complete == 7 ?
+    I knew it, I knew I'd seen you swiping stuff. I can't believe you did it again! Wait, come back here!
+}
+"""
+
+DLG SPR_1
+"""
+Some may call this junk. Me, I call them treasures.{
+  - complete == 7 ?
+    Try to hide it all you want. I know you're a thief...and so do the other traders.
+}
+"""
+
+DLG SPR_6
+"""
+{
+  - stolen <= 3 ?
+    Can't find purple toothwort anywhere, Fiz. Maybe the ratboys have it?
+  - stolen >= 4 ?
+    I hope you're not getting in to trouble again, Fiz?
+}
+"""
+
+DLG SPR_5
+"""
+{
+  - {item "0"} == 1 ?
+    Since when did you become a shaman? You're always a fraud, Fiz. Always. But you can still eat your egg-mother's medicine, okay?  
+  - {item "deerskull"} == 0 ?
+    Traditional kobold medicine, just like your egg-mother used to brew! 
+}
+"""
+
+DLG SPR_2
+"""
+{sequence
+  - Fresh moles! Fresh frogs! Hole food, hole food! Slug soup! Snail fritters! Fresh and tasty from Kingly Kobold Cuisine!
+  - Rat tails so crispy even a ratboy can't say no!!
+  - You won't beetle-eve how nutritious our bumper bug bundles are!
+  - Kingly Kobold Cuisine welcomes all customer feedback! 
+}
+"""
+
+DLG ITM_0
+"""
+A stag skull, complete with antlers. Perfect for any self-respecting kobold shaman outfit. {stolen = stolen + 1}
+{deerskull = deerskull + 1}
+"""
+
+DLG ITM_1
+"""
+Bitter mushrooms. One of your egg-sisters uses these to make a great stew.{stolen = stolen + 1}
+{mushrooms = mushrooms + 1}
+"""
+
+DLG ITM_2
+"""
+Traditional round wooden shield and flint spear. Classic reliable kobold manufacture. Not any use against anything wearing actual armour.{stolen = stolen + 1}
+{spear = spear + 1}
+"""
+
+DLG SPR_4
+"""
+{shuffle
+  - Cricket onna stick! Worm inna bun! Seed cakes, get your seed cakes!
+  - No of course we don't serve eggs here! Gross little kobold, go away!
+  - Go nuts for our nut bowls!
+  - For all you hawkboys and owlgirls out there, we've got vole-au-vents and shrew skewers too!
+}
+"""
+
+DLG SPR_3
+"""
+{
+  - stolen == 0 ?
+    I'm watching you, kobold! All shinies must be paid for in advance! Claws off!
+  - stolen == 1 ?
+    Shoo! Shoo! Sticky little kobold claws aren't welcome!
+  - stolen >= 2 ?
+    I know a thieving kobold when I see one, scram!! My shinies!
+}
+"""
+
+DLG ITM_3
+"""
+Wiggly worms, so hard to catch. Full of delicious vitamins! Comes highly recommended by goblins.{stolen = stolen + 1}
+{worms = worms + 1}
+"""
+
+DLG ITM_4
+"""
+A birdboy nest, woven out of spider silk, pretty ribbons, downy wool and pricky twigs. Would make a good bed. Or hat.{stolen = stolen + 1}
+{nest = nest + 1}
+"""
+
+DLG SPR_a
+Birdboys only, little fella! Unless you can fly, that is?
+
+DLG SPR_b
+*bork bork!*
+
+DLG ITM_5
+"""
+A delicious birdboy egg...don't worry, it's not fertilised!{stolen = stolen + 1}
+{egg = egg + 1}
+"""
+
+DLG ITM_6
+"""
+A scruffy looking crow. There's good eating on a crow.{stolen = stolen + 1}
+{crow = crow + 1}
+"""
+
+DLG SPR_d
+"""
+No sign of any humans tonight. Let's hope it stays that way! {sequence
+  - Go back in to the undermarket and enjoy yourself, Fiz.
+  - Mind how you go.
+  - No need to worry, I'm looking out.
+}{
+  - complete == 7 ?
+    You've got that glint in your eye again, Fiz. The elders are not going to be happy if they catch you again...
+}
+"""
+
+DLG SPR_c
+"""
+{
+  - stolen == 0 ?
+    {sequence
+      - Yo Fiz. Did you get anything good? The wolfboys are distracted right now, they won't notice anything. Just keep it quiet, yeah?
+      - What's the harm, eh? 
+      - Okay so I know they caught us last time, but you've kept your snout clean since, right? 
+    }
+  - stolen >= 1 ?
+    {shuffle
+      - Ooh, what have you got?
+      - There's more?
+      - I knew you'd come through! 
+    } 
+}{
+  - deerskull == 1 ?
+    Niiiice. And she didn't even notice? Ah well. Some stupid human will pay to put this on their wall. {deerskull = deerskull - 1}
+    {complete = complete + 1}
+{stolen = stolen - 1}
+  - mushrooms == 1 ?
+    These smell {wvy}soooooooo{wvy} good! Not worth much though. {mushrooms = mushrooms - 1}
+    {complete = complete + 1}
+{stolen = stolen - 1}
+  - spear == 1 ?
+    Fiz, you know we've have these just lying around all the time at home? Thanks though, I guess. {spear = spear - 1}
+{complete = complete + 1}
+{stolen = stolen - 1}
+  - nest == 1 ?
+    So soft! So snuggly! Some goblin would love this as a bed. Nice one! {nest = nest - 1}
+{complete = complete + 1}
+{stolen = stolen - 1}
+  - worms == 1 ?
+    Worms? Really? We can just go dig those up whenever... but I suppose they are pretty big. Birdboys farm them? They actually charge coins for these? Weird.{worms = worms - 1}
+{complete = complete + 1}
+{stolen = stolen - 1}
+  - egg == 1 ?
+    {shk}Oh my gosh!!{shk} You did it! I can't believe it! How much {rbw}delicious yolk{rbw} do you think is inside one of these huge eggs??{egg = egg - 1}
+{complete = complete + 1}
+{stolen = stolen - 1}
+  - crow == 1 ?
+    Good eating on a crow. Good job.{crow = crow - 1}
+{complete = complete + 1}
+{stolen = stolen - 1}
+}
+"""
+
+DLG ITM_7
+"""
+{
+  - complete >= 7 ?
+    Don't come back here, Fiz! You aren't welcome! 
+  - complete <= 6 ?
+    You keep pushing your luck, Fiz! Next time you're on thin ice!
+}
+"""
+
+END 0
+
+
+END undefined
+Why do you always take things without asking?
+
+VAR stolen
+0
+
+VAR deerskull
+0
+
+VAR mushrooms
+0
+
+VAR spear
+0
+
+VAR nest
+0
+
+VAR worms
+0
+
+VAR egg
+0
+
+VAR crow
+0
+
+VAR complete
+0
+
+

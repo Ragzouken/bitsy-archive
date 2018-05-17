@@ -79,6 +79,7 @@
 2,birdstare
 2,Lvl 14 Bard
 2,GIllianC
+2,Sophie Mallinson
 2,Tom Ciccone
 2,Liquidus
 2,glitterylilac
@@ -87,6 +88,7 @@
 2,Ludonaut
 2,ruthvik
 2,Nenekiri
+2,leafykayo
 2,Papercookies
 2,chompicore
 2,Nadia Wendt
@@ -114,6 +116,7 @@
 1,Batgut
 1,Moss.
 1,Adam Saltsman
+1,Ash Nieman
 1,Plum
 1,Fede Makes Games
 1,Sjors Houkes
@@ -163,6 +166,7 @@
 1,moraresu
 1,Ali Star 302
 1,whatnot
+1,kewbish
 1,Claire Morley, Ashley Gwinnel
 1,riffsircar
 1,Prototype
@@ -187,6 +191,7 @@
 1,rook
 1,CaptainCryptic
 1,voxeledphoton
+1,Prullansky
 1,ergi
 1,guinevak
 1,Unsteady Butterfly
@@ -230,6 +235,7 @@
 1,raz_zhang
 1,573 Games
 1,mapedorr
+1,Punksmurf
 1,CGALBO1
 1,Mr. Yellow
 1,PedroPetalite
@@ -256,6 +262,7 @@
 1,SirBickle101
 1,Cybergnose Café, Spica
 1,Chris Floyd
+1,Salvatore Pane
 1,gia✦grimoire
 1,SunsetDynamite
 1,ghhghgghghghgh
@@ -274,6 +281,7 @@
 1,PDR
 1,Andy Miller
 1,laitze.fan
+1,None Hitwonder, Mary T., Pete Ellison
 1,bec
 1,Tinybeegames
 1,bethany
@@ -364,6 +372,7 @@
 1,hot local wizards
 1,ElectrumCube
 1,cooljpeg
+1,pedro
 1,uururernen
 1,Notanthronee
 1,Jeremiah Watts
@@ -379,6 +388,7 @@
 1,CubicKerfuffle
 1,swordpeddler
 1,Capital Ex
+1,cardern
 1,Luke Davies
 1,baobab
 1,Vincent Vially
@@ -409,8 +419,8 @@
 1,ASquirrelsTail
 1,videodante
 1,CounterWiddershins
+1,JPLikesGames
 1,Porpentine
-1,Sophie Mallinson
 1,anegri
 1,Sekamelica
 1,Jordan Oloman
@@ -430,8 +440,9 @@
 1,Crip
 1,chesse20
 1,wolfcartel
-1,leafykayo
 1,Ned
+1,lenarakahn
+1,dogucan
 1,LittleGames
 1,BedWords
 1,Jerry Vishnevsky
@@ -493,9 +504,11 @@
 1,Tuna Pamir
 1,thebedisburning
 1,cavegift
+1,zihe zhao
 1,Brad Collins
 1,Savage//Noble
 1,mikeytw
+1,12amstatic
 1,noiseart
 1,Morakimo
 1,FleshPuzzle
