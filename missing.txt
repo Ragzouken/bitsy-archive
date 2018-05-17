@@ -7,10 +7,8 @@
 4,toorte
 4,TheBookOfBrady
 4,Saranomy
-4,ianmart1n
 4,Casino
 4,April Whitehead
-4,Shonté
 4,Zeego
 4,AfterglowGames
 3,Edited
@@ -21,7 +19,6 @@
 3,JDM23
 3,suger
 3,0014x
-3,rarelikeaunicorn
 3,chriskettlefrisby
 3,Red Skald
 3,VtheWanderer
@@ -233,7 +230,6 @@
 1,raz_zhang
 1,573 Games
 1,mapedorr
-1,zzot
 1,CGALBO1
 1,Mr. Yellow
 1,PedroPetalite
@@ -477,6 +473,7 @@
 1,yxvi
 1,jamesjpk123
 1,ZaqLovesBooks
+1,zzot
 1,dzudza
 1,Voidstrider
 1,glim

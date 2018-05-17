@@ -1,0 +1,1829 @@
+
+The Ohno
+
+# BITSY VERSION 4.6
+
+! ROOM_FORMAT 1
+
+PAL 0
+205,159,97
+255,241,104
+255,252,240
+
+ROOM 0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,e,c,f,c,c,e,c,c,c,e,c,f,c,d,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Room0
+EXT 15,12 1 0,12
+PAL 0
+
+ROOM 1
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,e,c,f,c,c,e,c,c,c,e,c,f,c,d,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Room1
+EXT 15,12 2 0,12
+PAL 0
+
+ROOM 2
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,e,c,f,c,c,e,c,c,c,e,c,f,c,d,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Room2
+EXT 15,12 3 0,12
+PAL 0
+
+ROOM 3
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,e,c,f,c,c,e,c,c,c,e,c,f,c,d,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Room3
+EXT 15,12 5 0,12
+PAL 0
+
+ROOM 5
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,e,c,f,c,c,e,c,c,c,e,c,f,c,d,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Room4
+EXT 15,12 6 0,12
+PAL 0
+
+ROOM 6
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,e,c,f,c,c,e,c,c,c,e,c,f,c,d,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,s,r,y,0,0,0,0,0,0
+0,0,0,0,0,0,0,t,q,x,0,0,0,0,0,0
+0,0,0,0,0,0,0,u,v,w,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Room5
+EXT 8,11 7 1,1
+PAL 0
+
+ROOM 7
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,z,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME The Ohno
+EXT 15,14 8 0,12
+PAL 0
+
+ROOM 8
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,12,0,0,0,0,0,11,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,z,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Choice Room
+EXT 11,4 9 8,11
+EXT 5,4 g 7,10
+PAL 0
+
+ROOM 9
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,e,c,f,c,c,e,c,c,c,e,c,f,c,d,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,s,r,y,0,0,0,0,0,0
+0,0,0,0,0,0,z,t,q,x,0,0,0,0,0,0
+13,0,0,0,0,0,0,u,v,w,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,z,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME AfterOhNo
+EXT 0,12 b 15,12
+PAL 0
+
+ROOM a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,e,c,f,c,c,e,c,c,c,e,c,f,c,d,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Blank Room
+PAL 0
+
+ROOM b
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,e,c,f,c,c,e,c,c,c,e,c,f,c,d,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME After4
+EXT 0,12 c 15,12
+PAL 0
+
+ROOM c
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,e,c,f,c,c,e,c,c,c,e,c,f,c,d,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME After3
+EXT 0,12 d 15,12
+PAL 0
+
+ROOM d
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,e,c,f,c,c,e,c,c,c,e,c,f,c,d,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME After2
+EXT 0,12 e 15,12
+PAL 0
+
+ROOM e
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,e,c,f,c,c,e,c,c,c,e,c,f,c,d,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME After1
+EXT 0,12 f 15,12
+PAL 0
+
+ROOM f
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,e,c,f,c,c,e,c,c,c,e,c,f,c,d,c
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME After0
+END undefined 0,12
+PAL 0
+
+ROOM g
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,z,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME StarEnding
+ITM 1 7,5
+END 0 7,5
+PAL 0
+
+TIL 10
+00000000
+00000000
+00000100
+00000110
+00111111
+00100110
+00100100
+00100000
+NAME Arrow
+
+TIL 11
+00011000
+00111100
+01111110
+11111111
+00011000
+00011000
+00011000
+00011000
+NAME ToEarth
+
+TIL 12
+00011000
+00011000
+00011000
+00011000
+11111111
+01111110
+00111100
+00011000
+
+TIL 13
+00000000
+00100000
+01100000
+11100000
+11111100
+01100100
+00100100
+00000100
+NAME Arrow2
+
+TIL 14
+00000000
+00000000
+00000000
+00011000
+00011000
+00000000
+00000000
+00000000
+NAME Wall
+WAL true
+
+TIL a
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME Sky
+
+TIL b
+11111111
+11111111
+11111111
+11111111
+11000000
+00000000
+00000000
+00000000
+NAME Sand1
+WAL true
+
+TIL c
+11111111
+11111111
+11111111
+11111111
+00000000
+00000000
+00000000
+00000000
+NAME Sand2
+WAL true
+
+TIL d
+11111111
+11111111
+11111111
+11111111
+00000011
+00000000
+00000000
+00000000
+NAME Sand3
+WAL true
+
+TIL e
+11111111
+11111111
+11111111
+11100111
+00100000
+01001100
+00000000
+00000000
+NAME Sand4
+WAL true
+
+TIL f
+11111111
+11111111
+11111111
+11111111
+01111100
+00001100
+00000000
+00000000
+NAME Sand5
+WAL true
+
+TIL g
+00001000
+00011000
+00101000
+01001000
+00001000
+00001000
+00001000
+01111111
+NAME One
+
+TIL h
+00000000
+11110000
+10010000
+10010000
+00110000
+01100000
+01000000
+11111100
+NAME Two
+
+TIL i
+00111000
+01101000
+01001000
+00011000
+00001000
+00001000
+01011000
+01110000
+NAME Three
+
+TIL j
+00000000
+00010100
+00101100
+01000100
+01111100
+00000100
+00000100
+00000100
+NAME Four
+
+TIL k
+00000000
+00111100
+00100000
+00100000
+00111000
+00001000
+01001000
+01111000
+NAME Five
+
+TIL l
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL m
+11111111
+00000000
+11101011
+11101011
+11101011
+11101000
+11101010
+11111111
+NAME Th
+
+TIL n
+11110000
+11110110
+11110110
+00010110
+00010110
+01110110
+00010000
+11111111
+
+TIL o
+10111111
+10111111
+10111111
+10111111
+10110000
+10000100
+10100100
+11111111
+NAME Hn
+
+TIL p
+11111111
+11111111
+11111111
+11111111
+00111111
+10111111
+00111111
+11111111
+
+TIL q
+11111111
+10000001
+10111101
+10100101
+10100101
+10111101
+10000001
+11111111
+
+TIL r
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+00000000
+
+TIL s
+00000000
+00000000
+00000000
+00000000
+00000000
+00000111
+00000100
+00000100
+
+TIL t
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+
+TIL u
+00000100
+00000100
+00000111
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL v
+00000000
+00000000
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL w
+00100000
+00100000
+11100000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL x
+00100000
+00100000
+00100000
+00100000
+00100000
+00100000
+00100000
+00100000
+
+TIL y
+00000000
+00000000
+00000000
+00000000
+00000000
+11100000
+00100000
+00100000
+
+TIL z
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME Brown
+
+SPR 10
+00000000
+01111110
+01111110
+01111110
+01111110
+00011000
+00011000
+00011000
+NAME Sign2
+DLG SPR_p
+POS 8 4,4
+
+SPR 11
+00000000
+01111110
+01111110
+01111110
+01111110
+00011000
+00011000
+00011000
+NAME Sign3
+DLG SPR_o
+POS 8 10,4
+
+SPR 12
+00000000
+01111000
+01001000
+01111000
+11111100
+10110100
+01111000
+01001000
+>
+00000000
+01111000
+01111000
+01111000
+11111100
+10110100
+01111000
+01001000
+NAME Professor2
+DLG SPR_q
+POS b 13,10
+
+SPR 13
+00000000
+00000000
+01111000
+01111000
+00101000
+00111000
+00001000
+11111000
+NAME Scared2
+DLG SPR_r
+POS b 11,14
+
+SPR 14
+00000000
+00000000
+00011100
+00010111
+11111111
+00010111
+00011100
+00000000
+DLG SPR_s
+POS b 6,10
+
+SPR 15
+00000000
+00000000
+00001111
+00001101
+00000101
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00011111
+00000101
+00000101
+00000000
+00000000
+00000000
+NAME Legs2
+POS b 5,10
+
+SPR 16
+00111000
+00111000
+00111000
+00010000
+01111100
+01010100
+00111000
+00101000
+NAME AfterObserve1
+DLG SPR_v
+POS c 8,14
+
+SPR 17
+00111000
+00111000
+00111000
+00010000
+01111100
+01010100
+00111000
+00101000
+NAME AfterObserve2
+DLG SPR_u
+POS c 7,14
+
+SPR 18
+00111000
+00111000
+00111000
+00010000
+01111100
+01010100
+00111000
+00101000
+NAME AfterObserve3
+DLG SPR_t
+POS c 12,10
+
+SPR 19
+01110000
+01110000
+01110000
+00100100
+00111100
+00100000
+01110000
+01010000
+NAME NC2
+DLG SPR_16
+POS c 5,10
+
+SPR A
+00011000
+00011000
+00011000
+00111100
+01111110
+10111101
+00100100
+00100100
+POS 0 0,12
+
+SPR a
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+>
+00000000
+00000000
+01010100
+01110100
+01110010
+01111100
+00111100
+00100100
+NAME Cat
+DLG SPR_0
+POS 0 12,10
+
+SPR b
+00000000
+00011000
+01011010
+01011010
+01111110
+00011000
+00111100
+00100100
+>
+00011000
+00011000
+00011000
+11111111
+00011000
+00011000
+00011000
+00011000
+NAME Guy 1
+DLG SPR_1
+POS 0 4,10
+
+SPR c
+00000000
+00000000
+01111000
+01111000
+00101000
+00111000
+00001000
+11111000
+>
+00000000
+00011000
+00011000
+00011000
+00001000
+00111000
+00001000
+11111000
+NAME Scared Kid
+DLG SPR_2
+POS 5 10,14
+
+SPR d
+00000000
+01110010
+01110010
+01110010
+00111100
+00100000
+01110000
+11010000
+>
+00000000
+01110111
+01110111
+01110111
+00111100
+00100000
+01110000
+11010000
+NAME Scientist
+DLG SPR_3
+POS 1 8,10
+
+SPR e
+00000000
+00000000
+00000000
+00001010
+00000100
+00000100
+01111100
+01001000
+NAME Insect
+DLG SPR_4
+POS 1 3,14
+
+SPR f
+00000000
+00000000
+00000000
+00001010
+00000100
+00000100
+01111100
+01001000
+>
+00000000
+00001010
+00000100
+00000100
+01111100
+01001000
+00000000
+00000000
+NAME Insect2
+DLG SPR_5
+POS 1 12,10
+
+SPR g
+00000000
+00000000
+10111010
+11111110
+00111000
+00010000
+00111000
+00010000
+NAME Girl
+DLG SPR_6
+POS 2 12,10
+
+SPR h
+00111000
+00111000
+00010000
+11111110
+11111110
+01111100
+01111100
+00101000
+NAME Man
+DLG SPR_7
+POS 2 5,14
+
+SPR i
+00011111
+00011111
+11100100
+11101100
+01001000
+01111000
+01000000
+11100000
+NAME Protest1
+DLG SPR_8
+POS 2 4,10
+
+SPR j
+00011111
+00011111
+11100100
+11101100
+01001000
+01111000
+01000000
+11100000
+>
+00000000
+00011111
+11111111
+11101100
+01001100
+01111000
+01000000
+11100000
+NAME Protest2
+DLG SPR_9
+POS 2 5,10
+
+SPR k
+00011111
+00011111
+11100100
+11101100
+01001000
+01111000
+01000000
+11100000
+>
+00000000
+00011111
+11111111
+11101100
+01001100
+01111000
+01000000
+11100000
+NAME Protest3
+DLG SPR_a
+POS 2 6,10
+
+SPR l
+00000000
+00011100
+01111100
+01100111
+00100111
+00111000
+00100000
+01100000
+NAME Reporter
+DLG SPR_b
+POS 3 4,10
+
+SPR m
+01110000
+01110000
+01110000
+00100100
+00111100
+00100000
+01110000
+01010000
+NAME News Caster
+DLG SPR_c
+POS 3 5,10
+
+SPR n
+00111000
+00111000
+00111000
+00010000
+01111100
+01010100
+00111000
+00101000
+NAME Observer
+DLG SPR_d
+POS 3 6,13
+
+SPR o
+00111000
+00111000
+00111000
+00010000
+01111100
+01010100
+00111000
+00101000
+NAME Observer2
+DLG SPR_e
+POS 3 7,13
+
+SPR p
+00111000
+00111000
+00111000
+00010000
+01111100
+01010100
+00111000
+00101000
+NAME Observer3
+DLG SPR_f
+POS 3 11,10
+
+SPR q
+00000000
+00000000
+00011100
+00010111
+11111111
+00010111
+00011100
+00000000
+DLG SPR_g
+POS 5 4,10
+
+SPR r
+00000000
+01111000
+01001000
+01111000
+11111100
+10110100
+01111000
+01001000
+>
+00000000
+01111000
+01111000
+01111000
+11111100
+10110100
+01111000
+01001000
+NAME Professor
+DLG SPR_h
+POS 5 12,10
+
+SPR s
+00000000
+00000000
+00001111
+00001101
+00000101
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00011111
+00000101
+00000101
+00000000
+00000000
+00000000
+NAME legs
+POS 5 3,10
+
+SPR t
+00000000
+01111110
+01111110
+01111110
+01111110
+00011000
+00011000
+00011000
+NAME Sign
+DLG SPR_i
+POS 6 6,9
+
+SPR v
+10010010
+01010100
+00111000
+11111110
+00111000
+01010100
+10010010
+00010000
+>
+01001000
+01010110
+10111000
+01111100
+00111010
+11010100
+00100100
+00000000
+NAME Speech2
+DLG SPR_k
+POS 7 9,3
+
+SPR w
+10010010
+01010100
+00111000
+11111110
+00111000
+01010100
+10010010
+00010000
+>
+10000010
+01000100
+00111000
+00111000
+00111000
+01000100
+10000010
+00000000
+NAME Speech1
+DLG SPR_j
+POS 7 3,1
+
+SPR x
+10010010
+01010100
+00111000
+11111110
+00111000
+01010100
+10010010
+00010000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME Star3
+DLG SPR_l
+POS 7 6,8
+
+SPR y
+10010010
+01010100
+00111000
+11111110
+00111000
+01010100
+10010010
+00010000
+>
+00110000
+00110000
+00111110
+11111110
+11111000
+00011000
+00011000
+00010000
+NAME Star4
+DLG SPR_m
+POS 7 15,10
+
+SPR z
+10010010
+01010100
+00111000
+11111110
+00111000
+01010100
+10010010
+00010000
+>
+00010000
+00010000
+00111000
+11111110
+00111000
+00010000
+00010000
+00010000
+NAME Star5
+DLG SPR_n
+POS 7 0,13
+
+SPR 1a
+00000000
+00011100
+01111100
+01100111
+00100111
+00111000
+00100000
+01100000
+NAME Reporter2
+DLG SPR_17
+POS c 4,10
+
+SPR 1b
+00000000
+00000000
+10111010
+11111110
+00111000
+00010000
+00111000
+00010000
+NAME Girl2
+DLG SPR_w
+POS d 6,10
+
+SPR 1c
+00111000
+00111000
+00010000
+11111110
+11111110
+01111100
+01111100
+00101000
+NAME Man2
+DLG SPR_10
+POS d 7,14
+
+SPR 1d
+00011111
+00011111
+11100100
+11101100
+01001000
+01111000
+01000000
+11100000
+NAME AfterProtest
+DLG SPR_z
+POS d 3,10
+
+SPR 1e
+00011111
+00011111
+11100100
+11101100
+01001000
+01111000
+01000000
+11100000
+>
+00000000
+00011111
+11111111
+11101100
+01001100
+01111000
+01000000
+11100000
+NAME AfterP2
+DLG SPR_y
+POS d 4,10
+
+SPR 1f
+00011111
+00011111
+11100100
+11101100
+01001000
+01111000
+01000000
+11100000
+>
+00000000
+00011111
+11111111
+11101100
+01001100
+01111000
+01000000
+11100000
+NAME AfterP3
+DLG SPR_x
+POS d 5,10
+
+SPR 1g
+00000000
+01110010
+01110010
+01110010
+00111100
+00100000
+01110000
+11010000
+>
+00000000
+01110111
+01110111
+01110111
+00111100
+00100000
+01110000
+11010000
+NAME Scientist2
+DLG SPR_11
+POS e 10,10
+
+SPR 1h
+00000000
+00000000
+00000000
+00001010
+00000100
+00000100
+01111100
+01001000
+NAME AfterInsect
+DLG SPR_12
+POS e 5,14
+
+SPR 1i
+00000000
+00000000
+00000000
+00001010
+00000100
+00000100
+01111100
+01001000
+>
+00000000
+00001010
+00000100
+00000100
+01111100
+01001000
+00000000
+00000000
+NAME AfterInsect2
+DLG SPR_13
+POS e 12,10
+
+SPR 1j
+00000000
+00011000
+01011010
+01011010
+01111110
+00011000
+00111100
+00100100
+NAME Guy2
+DLG SPR_14
+POS f 4,10
+
+SPR 1k
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+>
+00000000
+00000000
+01010100
+01110100
+01110010
+01111100
+00111100
+00100100
+NAME Cat2
+DLG SPR_15
+POS f 1,12
+
+SPR 1l
+10010010
+01010100
+00111000
+11111110
+00111000
+01010100
+10010010
+00010000
+>
+01001000
+01010110
+10111000
+01111100
+00111010
+11010100
+00100100
+00000000
+POS g 2,1
+
+SPR 1m
+10010010
+01010100
+00111000
+11111110
+00111000
+01010100
+10010010
+00010000
+>
+10000010
+01000100
+00111000
+00111000
+00111000
+01000100
+10000010
+00000000
+POS g 14,7
+
+SPR 1n
+10010010
+01010100
+00111000
+11111110
+00111000
+01010100
+10010010
+00010000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+POS g 8,13
+
+SPR 1o
+10010010
+01010100
+00111000
+11111110
+00111000
+01010100
+10010010
+00010000
+>
+00110000
+00110000
+00111110
+11111110
+11111000
+00011000
+00011000
+00010000
+POS g 3,8
+
+SPR 1p
+10010010
+01010100
+00111000
+11111110
+00111000
+01010100
+10010010
+00010000
+>
+00010000
+00010000
+00111000
+11111110
+00111000
+00010000
+00010000
+00010000
+POS g 12,2
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG ITM_0
+
+ITM 1
+01101100
+00101100
+00111111
+01111110
+11011100
+00001111
+00001010
+00001000
+>
+00110100
+00100110
+10111110
+11111110
+01011100
+00001111
+00011001
+00000000
+NAME YouStarItem
+
+DLG SPR_0
+"""
+{sequence
+  - I've been disguised as a cat for years, looking for the entrance to the Ohno.
+  - Hmm? Oh, no I'm not the professor! I work as an investigative journalist, looking for the first signs of the Ohno. You can find her hanging around over there.
+}
+"""
+
+DLG ITM_0
+You found a nice warm cup of tea
+
+DLG SPR_1
+"""
+{sequence
+  - We found it! We found the Ohno! 
+  - Head to the professor over there, she'll explain everything! Get going!
+}
+"""
+
+DLG SPR_2
+"""
+{sequence
+  - I'm...scared. The Ohno...what if it's bad? What if we shouldn't explore it...?
+  - Oh no, I can't get these thoughts about of my head.
+}
+"""
+
+DLG SPR_3
+"""
+{sequence
+  - I'm examining the flora and fauna of this region. We never imagined the Ohno to be here, right under our feet.
+  - No, no, no, I'm not the professor. Though I'm flattered you confused me for her. {rbw}*Blush*{rbw}
+  - She should be hanging around the entrance of the Ohno. Check around there.
+}
+"""
+
+DLG SPR_4
+We insects feel it too...the Ohno has opened...Human, what have you brought to this world?
+
+DLG SPR_5
+Don't listen to that downer over there! We insects {rbw}love{rbw} the prospect of the Ohno! The adventure! The intrigue! That's what an insect's life is all about!
+
+DLG SPR_6
+"""
+{sequence
+  - My grandfather died looking for the Ohno. He thought had found an opening, but it was a sinkhole. 
+  - He died doing what he loved, but he would have loved living to see the Ohno more...
+  - No one ever talks about him, but if it wasn't for his accident, we would have never looked in this area.
+  - Please remember his name...Dr.Leif Jirushi.
+  - I am his granddaughter, Sarah Jirushi. I will bring honor to the Jirushi name.
+}
+"""
+
+DLG SPR_7
+There are always protesters. Pay no mind to them, they yell only to watch their own lips move. They know nothing of the importance of this day.
+
+DLG SPR_8
+Leave the Ohno alone!
+
+DLG SPR_9
+We shouldn't be here! This isn't our land!
+
+DLG SPR_a
+Let nature set its own course!
+
+DLG SPR_b
+I'm getting my camera ready before the big reveal. Channel 3000 news will be the first to broadcast the opening of the Ohno!
+
+DLG SPR_c
+"""
+{sequence
+  - Hello, this is Jenna Mc-- no, no that sounds awful.
+  - Hi, this is--no, I can't start with Hi!
+  - Hello, Jenna Mc...Mc...what's my last name?!
+  - Hello! Jenna! Here! From! Channel! No I'm too excited!
+  - I'll get it. I just need to breathe!
+}
+"""
+
+DLG SPR_d
+"""
+{sequence
+  - I'm just here to watch this whole thing.
+  - What a bunch of idiot. This isn't the opening of the Ohno. The Ohno has always been open. I live here. These people are just now realizing it.
+}
+"""
+
+DLG SPR_e
+People come all this way for something that isn't even new or exciting. The Ohno is just a geiser. Or a volcano. It's just an ordinary natural occurance.
+
+DLG SPR_f
+The men over there are wrong. They think they've seen the Ohno, but that was {shk}not{shk} the Ohno. They've lived here their whole lives and have never seen it, I promise you.
+
+DLG SPR_g
+"""
+{sequence
+  - The sky is such a flat shade of yellow. Is that the sun? Or something else?
+  - I'm not afraid of death. To be human means to die. How can you fear the inevitable?
+  - Huh? The Ohno? Never heard of it.
+}
+"""
+
+DLG SPR_h
+"""
+{sequence
+  - The Ohno is right over there.
+  - Oh yes, I'm the professor! I'm the one that discovered the whereabouts of the Ohno! Hehehehe I cannot contain my excitement! 
+  - I'm over here because even I don't really know what the Ohno actually is! To be honest with you...{wvy}I found it one day when I tripped and fell into it.{wvy} It took me a few days to get out. People thought I died, but I didn't...I think.
+  - The Ohno is terrifying. I found it, but I'll stay over here. Maybe you can check it out.
+}
+"""
+
+DLG SPR_i
+The Ohno...I think - The Professor
+
+DLG SPR_j
+Underwhelming, ain't it.
+
+DLG SPR_k
+We are the people who discovered the Ohno in the past. The Ohno has been found over and over again. And forgotten over and over again.
+
+DLG SPR_l
+Over time, our bodies turned into this. Yours will too, if you decide to stay here.
+
+DLG SPR_m
+"""
+{sequence
+  - Well, we don't call this the Ohno. This is actually called The Chrysalis. Legend has it, one person entered the Chrysalis and decided to leave. He was found mumbling to himself, saying "oh no...oh no..."
+  - That may or may not be true. But how else can you explain the silly name?
+}
+"""
+
+DLG SPR_n
+In the next room is two arrows. One pointing up leads to human civilization. If you do not wish to live with us, then please take the arrow. You will forget your time here. If you want to stay with us and be free of humanly stress and fear, then touch the arrow pointing down. Then you can live the rest of your days here, happy, twinkling like a star.
+
+DLG SPR_o
+To human civilization 
+
+DLG SPR_p
+To the Chrysalis 
+
+DLG SPR_q
+So...how was it?! Did you enter?!
+
+DLG SPR_r
+Did...you survive? Did we all survive??
+
+DLG SPR_s
+I felt something rumble underneath my back...was it you?
+
+DLG SPR_t
+We watched you enter and exit within minutes. What did you see?
+
+DLG SPR_u
+HA! I told you it's just a little spittly thing! All this commotion for nothing!
+
+DLG SPR_v
+"""
+{sequence
+  - ...
+  - You look different.
+  - Don't talk to me.
+}
+"""
+
+DLG SPR_w
+LEIF JIRUSHI! LEIF JIRUSHI!!!!
+
+DLG SPR_x
+This girl won't stop shouting over me!
+
+DLG SPR_y
+Tell that girl to shut up!
+
+DLG SPR_z
+My arms are getting tired, and this girl won't be quiet. I'm ready to go home.
+
+DLG SPR_10
+Gosh, and I thought the protests were bad. That girl is a marching parade of anger all by herself.
+
+DLG SPR_11
+Why didn't the professor enter the Ohno? Why did you go down there?! I should be the one going down there. I'm better than that idiot!
+
+DLG SPR_12
+Are you human or are you something else?
+
+DLG SPR_13
+My family will be here soon! We're all going to visit the Ohno together!
+
+DLG SPR_14
+I got tired of jumping.
+
+DLG SPR_15
+"""
+{sequence
+  - Well, well, well. You did it. You escaped the Ohno. You survived.
+  - I've been to the Ohno. I've been waiting for someone to enter and exit just like I did.
+  - Those "people" down there. They didn't choose to become stars. They simply couldn't escape. The option wasn't there for them. Only certain people have the option to leave.
+  - One man, Leif Jirushi. He entered the Ohno by accident. They weren't expecting him, so he instantly became a star down there. He's the star that flickers on and off
+  - I am happy to see you decided to leave, but exiting the Ohno only leaves you open to more challenges, more adversities that these little scientists and enthusiasts will never understand.
+  - If you're ready, come with me.
+}
+"""
+
+DLG SPR_16
+Hello! Jenna for Channel 3000 news. How was it entering The Ohno?
+
+DLG SPR_17
+*whispers* don't talk to me! Talk to our news anchor!
+
+END 0
+You become a star in the Chrysalis. Part human, part light at first, until your brightness engulfs you, and you forget why you ever wanted limbs in the first place.
+
+END undefined
+You follow the cat-disguised person out of the dessert. Your fingers still shine with bits of stardust.
+
+VAR a
+42
+
+

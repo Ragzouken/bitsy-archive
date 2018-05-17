@@ -1,0 +1,608 @@
+
+Whatever Comes Next
+
+# BITSY VERSION 4.5
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME Graveyard
+14,14,31
+199,199,199
+199,199,199
+
+PAL 1
+255,255,255
+255,255,255
+255,255,255
+
+ROOM 0
+0,0,0,c,0,0,0,0,0,f,0,0,0,0,0,0
+0,0,d,a,e,0,0,0,0,f,0,0,c,0,0,0
+0,0,0,0,0,0,0,0,0,f,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,f,h,h,h,h,0,0
+0,0,0,0,c,0,0,0,0,f,0,0,0,0,0,0
+0,0,0,0,a,d,d,0,0,f,0,0,0,0,0,0
+0,0,0,0,0,h,h,h,h,f,0,0,0,0,0,0
+0,0,0,0,0,d,d,0,0,f,0,0,d,0,0,0
+0,0,0,0,h,h,h,h,h,f,h,h,0,h,h,0
+0,0,0,0,d,d,d,0,0,f,0,0,d,d,0,0
+0,0,0,0,h,h,h,h,h,f,h,h,h,h,h,0
+0,0,0,0,0,0,0,0,0,f,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,j,f,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,f,0,0,0,0,0,0
+h,h,h,h,h,h,h,h,h,g,0,0,0,0,0,0
+0,j,j,j,j,j,j,j,j,j,0,0,0,0,0,0
+NAME Graveyard
+END undefined 9,0
+PAL 0
+
+TIL a
+00011000
+00011000
+00111100
+01111110
+11111111
+11111111
+11111111
+11111111
+
+TIL b
+01111000
+01111100
+01010100
+01111100
+00111100
+00111000
+00111000
+00111100
+>
+01111100
+01010100
+01111100
+00111100
+00111000
+00111000
+00111100
+00000000
+
+TIL c
+00000000
+00000000
+00011000
+00011000
+01111110
+01111110
+00011000
+00011000
+
+TIL d
+00000000
+00000000
+00011100
+00111110
+01111111
+01111111
+01111111
+01111111
+
+TIL e
+00000000
+00000000
+00000000
+00000000
+00001100
+00110010
+10111110
+11111101
+
+TIL f
+01110110
+01011100
+01101110
+00111010
+01011000
+01100010
+00110100
+01011010
+
+TIL g
+01111010
+11010110
+01111100
+01010010
+11111110
+01101000
+10111010
+00000000
+
+TIL h
+00000000
+11011011
+01000110
+10101011
+10110001
+00101010
+10101111
+00000000
+
+TIL i
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00110000
+11111000
+
+TIL j
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL k
+00000000
+00000000
+00011100
+00111110
+01111111
+01111111
+01111111
+01111111
+WAL true
+
+SPR A
+00011000
+00011000
+00011000
+00111100
+01111110
+10111101
+00100100
+00100100
+POS 0 0,14
+
+SPR a
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+DLG SPR_0
+
+SPR b
+00000000
+00000000
+01111110
+01111110
+01111110
+01111110
+00011000
+00011000
+DLG SPR_1
+POS 0 10,0
+
+SPR c
+00111100
+00111100
+00111100
+00011000
+01111110
+00011000
+00011000
+00011000
+DLG SPR_6
+POS 0 3,2
+
+SPR d
+00111100
+00111100
+00111100
+00011000
+01111110
+00011000
+00011000
+00011000
+DLG SPR_5
+POS 0 12,8
+
+SPR g
+00111100
+00111100
+00111100
+00011000
+01111110
+00011000
+00011000
+00011000
+DLG SPR_7
+POS 0 14,10
+
+SPR h
+00111100
+00111100
+00111100
+00011000
+01111110
+00011000
+00011000
+00011000
+DLG SPR_8
+POS 0 4,6
+
+SPR i
+00111100
+00111100
+00111100
+00011000
+01111110
+00011000
+00011000
+00011000
+DLG SPR_9
+POS 0 6,10
+
+SPR j
+00111100
+00111100
+00111100
+00011000
+01111110
+00011000
+00011000
+00011000
+DLG SPR_a
+POS 0 10,15
+
+SPR k
+00000000
+00000000
+00011100
+00111110
+01111111
+01111111
+01111111
+01111111
+DLG SPR_2
+POS 0 13,2
+
+SPR l
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+DLG SPR_3
+POS 0 15,5
+
+SPR m
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00100000
+11110000
+DLG SPR_4
+POS 0 5,1
+
+SPR n
+00000000
+00000000
+00011100
+00111110
+01111111
+01111111
+01111111
+01111111
+DLG SPR_b
+POS 0 4,7
+
+SPR o
+00000000
+00000000
+00011100
+00111110
+01111111
+01111111
+01111111
+01111111
+DLG SPR_c
+POS 0 14,9
+
+SPR p
+00011000
+00011000
+00111100
+01111110
+11111111
+11111111
+11111111
+11111111
+DLG SPR_d
+POS 0 12,2
+
+SPR q
+00000000
+00000000
+00000000
+00000000
+00001100
+00110010
+10111110
+11111101
+DLG SPR_e
+POS 0 14,7
+
+SPR r
+01111000
+01111100
+01010100
+01111100
+00111100
+00111000
+00111000
+00111100
+>
+01111100
+01010100
+01111100
+01111100
+00111000
+00111000
+00111100
+00000000
+DLG SPR_f
+POS 0 15,0
+
+SPR s
+01111000
+01111100
+01010100
+01111100
+00111100
+00111000
+00111000
+00111100
+>
+01111100
+01010100
+01111100
+01111100
+00111000
+00111000
+00111100
+00000000
+DLG SPR_g
+POS 0 13,7
+
+SPR t
+01111000
+01111100
+01010100
+01111100
+00111100
+00111000
+00111000
+00111100
+>
+01111100
+01010100
+01111100
+01111100
+00111000
+00111000
+00111100
+00000000
+DLG SPR_h
+POS 0 3,7
+
+SPR u
+01111000
+01111100
+01010100
+01111100
+00111100
+00111000
+00111000
+00111100
+>
+01111100
+01010100
+01111100
+01111100
+00111000
+00111000
+00111100
+00000000
+DLG SPR_i
+POS 0 7,5
+
+SPR v
+00000000
+00000000
+00000000
+00000000
+00011000
+00011000
+00111100
+00011000
+DLG SPR_j
+POS 0 6,8
+
+SPR w
+00111100
+00111100
+00111100
+00011000
+01111110
+00011000
+00011000
+00011000
+DLG SPR_k
+POS 0 5,8
+
+SPR x
+01111000
+01111100
+01010100
+01111100
+00111100
+00111000
+00111000
+00111100
+>
+01111100
+01010100
+01111100
+01111100
+00111000
+00111000
+00111100
+00000000
+DLG SPR_l
+POS 0 6,1
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG ITM_0
+
+DLG SPR_0
+I'm a cat
+
+DLG ITM_0
+You found a nice warm cup of tea
+
+DLG SPR_1
+Graveyard Exit
+
+DLG SPR_2
+"""
+Fist Name, Last Name
+Birth Date, Death Date
+Profession? Family?
+Say something nice.
+Say something nice.
+End in peace.
+"""
+
+DLG SPR_3
+Not all ghosts want to be seen. 
+
+DLG SPR_4
+A broken cross. 
+
+DLG SPR_5
+This person died at a young age. Do you ever wonder what happened?
+
+DLG SPR_6
+My mother spent a few thousand dollars on this giant cross. She wanted it off the path to prevent too much foot traffic and dirt, but now she's resting next to a broken tombstone.I can't help but laugh. I hope she's laughing as well.
+
+DLG SPR_7
+"""
+{sequence
+  - I wrote this gravestone. Maybe read it first before talking to me.
+  - I don't regret what I wrote. Well, I do regret one thing--the typo.
+}
+"""
+
+DLG SPR_8
+What am I supposed to do here? I look at the gravestone and close my eyes, but should I be feeling something as I do that?
+
+DLG SPR_9
+"""
+{cycle
+  - This is my gravestone.
+  - ...I'm not dead. I just like to look at this sometimes to remind myself of my own mortality.
+  - ...is that weird? Well then, maybe you should stop peering into a stranger's life.
+}
+"""
+
+DLG SPR_a
+This is as close as I can get. 
+
+DLG SPR_b
+"""
+Ling Flanagon, 2000 - 2089.
+A loving parent, a caring child up until the very end. 
+"""
+
+DLG SPR_d
+"""
+Iman Weigand, 2000 - 
+whereabouts unknown for over twenty years. A member of the Weigand family donated money to create this grave for Iman.   
+"""
+
+DLG SPR_e
+"""
+Ja-
+1756 - 18-
+In his li-
+Rest
+"""
+
+DLG SPR_f
+I'm not buried here, but this graveyard is more popular. I just like to visit.
+
+DLG SPR_g
+This guy keeps hovering over my grave. I wish he'd leave. Ghosts have boundaries too.
+
+DLG SPR_h
+Ling? Is that me? I can't move from this gave. I can't stop staring at it.
+
+DLG SPR_i
+"""
+{sequence
+  - It's a beautifully dark day for a graveyard stroll. Who are you coming to speak to?
+  - Or are you someone who enjoys strolls in graveyards? Hmm? I don't judge.
+  - Even ghosts stroll. There's a ghost here that isn't buried here. I enjoy their company.
+  - You have questions for me? Do ghosts date? Do we remember our deaths? Ho ho ho, what silly questions.
+  - Mortals think too much.}
+"""
+
+DLG SPR_j
+Did you cry when your grandbaba died? My daddy did, but I didn't. I told my dad that baba is feeding the plants for all the animals. I think daddy liked hearing that.
+
+DLG SPR_k
+My kid keeps saying baba's body helps feed the grass, but baba's body isn't down here. I don't know how to tell him the truth.
+
+DLG SPR_c
+"""
+Sidney Voight.
+A bad father. He lived as a bad father, and he died as one. I've morned you in my sleep, hated you through my bleeding ears. I hate you.
+"""
+
+DLG SPR_l
+Even faith dies.
+
+END 0
+
+
+END undefined
+End
+
+VAR a
+42
+
+
