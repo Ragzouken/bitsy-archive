@@ -1,0 +1,188 @@
+
+
+
+# BITSY VERSION 4.5
+
+! ROOM_FORMAT 1
+
+PAL 0
+255,197,243
+255,252,249
+255,84,185
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,d,d,d,0,0,0,0,0,0
+0,0,0,0,0,d,d,d,0,d,d,d,0,0,0,0
+0,0,0,0,0,d,0,0,0,0,0,d,0,0,0,0
+0,0,0,0,0,d,0,0,0,0,0,d,0,0,0,0
+0,0,0,0,0,d,0,0,0,0,0,d,0,0,0,0
+0,0,0,0,0,d,0,0,0,0,0,e,0,0,0,0
+0,0,0,0,0,d,0,0,0,0,0,d,0,0,0,0
+0,0,0,0,0,d,d,d,e,d,d,d,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAL 0
+
+TIL b
+11000000
+11100000
+10100000
+10110000
+10011000
+10001100
+10000110
+11111111
+
+TIL d
+11111111
+11000011
+11000011
+11011011
+11011011
+11000011
+11111111
+11111111
+WAL true
+
+TIL e
+11111111
+11000011
+11000011
+11011011
+11011011
+11000011
+11111111
+11111111
+WAL false
+
+SPR A
+00011000
+00011000
+00011000
+00111100
+01111110
+10111101
+00100100
+00100100
+POS 0 8,7
+
+SPR a
+01111110
+01000010
+01000010
+01000010
+01111110
+00011000
+11111111
+00000000
+DLG SPR_0
+POS 0 8,4
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG ITM_0
+
+DLG ITM_0
+You found a nice warm cup of tea
+
+DLG SPR_0
+"""
+{shuffle
+  - I'm lonely, I live here in lonely box, with all my invisible items.
+  - Lonely fridge, lonely hand, lonely lamp.
+  - I use dating apps like Tinder to try and meet people, but I'm very awkward, I don't want to seem creepy.
+  - I've got friends sure. Sure I do. Sure, I'm just not too good at keeping up with them.
+  - I'm afraid of certain social occasions, and others I get nothing from. Being a student who's scared of parties really puts a dent in my chances of socialising.
+  - Can't even drink or smoke kush, weed, dope. Boo hoo.
+  - Is this a cry for help? No. Yes. I don't know. I just feel lonely.
+  - I remember being all alone in the playground at school sometimes, feeling disconnected from my friends. The odd one out.
+  - I remember feeling alone in my home. It was never really empty, but there was never anyone I wanted to talk to.
+  - I like being alone. I hate being alone.
+  - I'm L O N E L Y, but I'll ask to leave all to soon if I'm uncomfortable.
+  - I always thought being interested in cool stuff like sciencefiction, video games, films, cool stuff you know, meant that I wasn't cool. It's an idea that has isolated me since childhood.
+  - We were all convinced I had Asperger's for a while, I do not, I just find conversation hard if we're not on the same footing.
+  - Lonely is a six letter word. It contains the letters of the words 'one' and 'only'
+  - Loneliness is the main cause of my sadness, feeling unable to connect fully with anybody. 
+  - It's a state which is easy to see as terminal, permanent, because of the absolute feeling of being trapped inside your own bubble or box, with nobody wanting to join you.
+  - My phone can act as a connector and disconnector, it's a great way to reduce loneliness, but when nobody is contacting me, it is one of the main causes for my feelings of abandonment.
+  - I have all this stuff, I just want people... nope, just the stuff actually thanks bye.
+  - I don't want to marry. I don't want that be in a legally binding string on which loneliness can crystallise.   
+  - Warmth, nuzzling into the fabric of a jumper, these feelings I miss.
+  - I am a lone, pick up your phone, call me at home, I won't pick up because I'm alone don't you get it.
+  - Don't you understand? I don't. I don't even know why I'm writing this. Look at me, is this toxic or not? I can't tell. It's certainly not Brittney Spears.
+  - I'm attracted to people who seek out adventure, but also warmth. To loners. To minds which turn inwards to get at the insights that can only be gotten at by looking at yourself from outside.
+  - I want to believe that I am not alone.
+  - I want to believe.
+  - I want.
+  - I need, solace, warmth, body, pure hot love, or hot chocolate... one of the two.
+  - Limbs like heavy weights, I'd raise an arm to wave and say hi, but I can't get them off the ground, sorry.
+  - I'm really really sorry. Sorry to everyone, literally, even people I've not met yet.
+  - This is lame.
+  - My body is a holy place, no-one really believes in it anymore. That's a bad joke I wrote when I was like 15, I wrote lots of them.
+  - My partner has a sellotape fetish, I try to play along but always end up coming unstuck. Bad joke #2
+  - I look at events happening now from a future point of view sometimes, as if I was famous and giving an interview about what was going on at the time. Famous enough to be interviewed by some tosspot from Vice or Dazed. You know? The dream.
+  - I have no need for people like you in my life, probably, I'm talking about like 8/10 people. But wouldn't it be lonelier without all the filler people. Yes that's what you are to me.
+  - "I wish I could..." Don't even get me started
+  - If this is all too much for you, please don't continue, I wouldn't.
+  - Have you ever felt like you really connected with someone but then it turns out they didn't think the same of you. Yes, not often but a couple of times. Recently, after a date for instance.
+  - Hi I live here too, I'm your imaginary friend.
+  - I like to wear dresses, I think they are more fun to mess around with when you are wearing them. Much more theatrical. I am scared of wearing them in public since I'm an overweight guy, and it wouldn't be worth the hassle. I only have two, one doesn't fit anymore since I've been comfort eating a lot for the past two years.
+  - I eat a lot more when I'm sad, and that makes me feel even worse than I already do, geez it's like some kind of crazy destructive cycle or something.
+  - I've known a lot of people with a complicated relationship to food, mainly all about feelings of self worth and trying to comfort or align to painful emotions relating to our food habits and other people in general.
+  - Sometimes I'll get a takeaway to have by myself and feel a combination of elation and sadness when it arrives. I sometimes pretend to be shouting to somebody else that food's here, to hide my embarrassment about being alone from the delivery person.
+  - It's not all bad. Honestly, I'm usually fine, even prefer, being alone.
+  - There's something about being alone which is beautiful, that unrestrained freedom that people would probably see as madness if they were watching.
+  - When I'm alone I talk to myself or sing nonsense a lot, I always have, I used to think it meant I was mental, I don't anymore.
+  - I don't want to become a creepy, stinking recluse, ever. Please don't let me.
+  - Alone in a crowd? Yeah I get that sometimes, not always. I sometimes feel alone even when I'm with my closest loved ones.
+  - The dearest people I know are those who have made me feel accepted for all of my weirdness.
+  - This is nothing special is it, this is nothing special, this is nothing.
+  - I don't want to die. I used to, I'd fantasise about it, about how my death would make the people who claimed to love me realise that they didn't ever understand me. I knew it was wrong to think that, but I did anyway.
+  - I wanted to die because I didn't know how to live when I couldn't express myself truthfully. Hemmed in. Clipped, cropped movements and words.
+  - The idea of a one-night-stand seems really lonely to me, also like a furniture description, one nightstand. Is a nightstand a thing?
+  - I have had conversations with a God I don't really believe in, just in case they could help me out and give me a break.
+  - Literally I can spend ages...(enter unhealthy habit related to loneliness and self-pity).
+  - I qualified for special transport back from school, free, sitting in that minibus with other underprivileged/disabled kids, I felt so alone, disconnected from the experiences of any friends.
+  - I have never had very many friends. Always skulking around, unable to talk, unwilling to talk. Like what are we going to talk about?
+  - I had two teddies I would sleep next to for a long time, a dog and a rabbit. I was scared of losing them. We were very close.
+  - One day I realised that, in my case, bullies could only be evaded by being on the same side as them, and mocking myself, laughing along, being more extreme and more messed up than they ever could. But not as if I believed it, or was giving in, but from a position of power. That scared them. (Please don't use this as advice without considering if it matches your own situation, I was 14 and this is an idiosyncratic experience).
+  - After I found out about how to scare bullies it was never about making me seem inferior, just weird, I was always and forever weird and funny. A joke, an inside joke of an outsider, not be messed with too much though.
+  - I was in the minority of students in my school who were white, sometimes this meant I didn't quite fit in or understand cultural references, but in my experience, skin wasn't a thing people picked out in my school (aside from satirically), it certainly never made me feel lonely.
+  - Even people with the same tastes as you can make you feel lonely if you don't share an attitude to life and approach to those things you 'have in common' 
+  - having stuff in common is so much more about attitude than it is which John Green book is your favourite (I've never read a John Green novel and don't want to)
+  - Hit me with your rhythm stick. Ian Dury, iconic. 
+  - Bowie, Prince, Freddie Mercury, channelling raw, sexual energy through their work still, yes, sadly missed. They are a big part of why I can feel like being a man can be wholesome and beautiful.
+  - As a man, a boy, a human who feels like they are that thing whatever it is, I've often felt like my male peers have been egotistical, closed off idiots. But that's probably because I've known so many more female and other identifying humans who've been much more understanding of how I act. IDK, literally, this has no bearing on you and if you're a man just don't be a dick, same for anyone else tbh. Ugh, it's all a weird mess.
+  - I'm a weird mess, totally random, so edgy, hahahahahahahahahahahahahahahahahahahahahahhahahahaa help
+  - literally OMFG
+  - come back when you've got some clean clothes on and have washed your hair, had a shave, don't smell, cut your nails, brushed your teeth, aren't a spotty gross weirdo... which will be like, never.
+  - I've got nothing to say actually, on most matters.
+  - I hope Theresa May plays this game. But it's more likely that Corbyn will isn't it? I'd love that too. 
+  - I feel like no Tory can or ever will appreciate the sentiment of this experience. No offence lol, if you feel like you are a Tory who has emotionally connected, please get in touch. Why are you wasting your time playing indie games though? Don't you have homeless people, immigrants and nurses to kick?
+  - Leave your politics out of my general gaze pls, I feel bad and don't want to think about it.
+  - Ham, I don't eat it anymore. If it's from pigs. Being a vegetarian or vegan or having any difference can be lonely, if people keep talking about it. Like just shut up, I get it, I'm different, it's not like I'm shoving kale up your arse is it?
+  - Hats make me feel insecure, so if I go into a top hat shop I will say, "Oh no, I could never!"
+  - Gimme gimme gimme all your loving, or some of it, just a bit, like a fraction, a tiny percent, please? x
+  - I genuinely wish you all the best with your life and hope you meet people and do things that make you happy.
+  - This is the last thing I wrote, my back had gone stiff, I had a headache and was thirsty, there's a weird tingling in my arsecheeks, peace and love, peace and love.
+}
+"""
+
+VAR a
+42
+
+

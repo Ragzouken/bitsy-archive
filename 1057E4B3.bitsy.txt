@@ -1,0 +1,944 @@
+
+A room filled with all of your friends.
+
+# BITSY VERSION 4.6
+
+! ROOM_FORMAT 1
+
+PAL 0
+99,148,173
+128,159,255
+227,211,78
+
+PAL 1
+255,224,140
+207,183,121
+247,255,239
+
+PAL 2
+NAME 2
+255,224,140
+207,183,121
+82,169,255
+
+PAL 3
+NAME right
+181,122,85
+255,248,255
+255,209,58
+
+PAL 4
+NAME left
+247,246,248
+255,62,64
+3,3,3
+
+ROOM 0
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+e,0,0,0,0,0,0,c,c,c,c,c,c,c,c,e
+e,0,0,0,0,0,0,0,0,c,c,c,c,c,0,0
+e,0,0,0,0,0,0,0,0,0,0,0,0,c,c,e
+e,c,c,c,c,c,c,c,c,0,0,0,0,0,c,e
+e,0,0,0,c,c,c,c,c,c,c,c,c,c,0,0
+e,0,0,0,0,0,0,0,0,0,0,0,0,0,0,e
+e,0,0,0,0,c,0,0,0,0,0,0,0,0,0,e
+e,c,c,c,c,0,0,0,0,0,0,0,0,0,0,e
+e,0,0,0,0,0,0,0,0,0,0,0,c,c,c,e
+e,0,0,0,0,0,0,c,c,c,c,c,c,0,0,e
+e,0,0,0,0,0,0,0,0,0,0,0,0,0,0,e
+e,0,c,c,c,c,c,c,0,0,0,0,0,0,0,e
+e,c,c,c,c,0,0,0,c,0,0,0,0,0,0,0
+e,0,0,0,c,c,c,c,c,c,c,c,c,c,c,c
+e,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+NAME a
+EXT 15,14 1 0,14
+PAL 0
+
+ROOM 1
+f,f,f,f,f,f,f,f,e,e,e,e,e,e,e,e
+e,0,0,0,0,0,0,0,e,f,f,f,f,e,f,f
+e,c,c,c,c,c,c,c,0,0,0,0,0,e,0,e
+e,0,0,c,c,0,0,0,c,c,c,c,c,0,c,e
+e,0,0,c,0,0,c,c,0,0,0,c,c,c,c,e
+e,0,c,0,0,0,0,0,0,0,c,c,c,c,c,e
+e,0,0,0,0,0,0,c,c,c,0,c,c,0,0,e
+e,0,c,0,0,0,c,c,0,0,c,c,0,0,0,e
+e,c,0,0,0,c,0,0,0,c,c,0,0,0,0,e
+e,0,0,0,c,0,0,c,c,0,0,0,0,0,0,e
+e,0,0,c,c,0,c,c,0,0,0,0,0,0,c,e
+e,0,0,0,0,c,c,0,0,0,0,0,0,0,c,e
+e,0,0,0,c,c,0,0,0,0,c,0,0,0,0,0
+0,0,0,c,c,0,0,0,0,c,c,c,c,0,0,e
+0,c,c,c,0,0,0,c,c,c,c,c,c,c,c,e
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,0,0
+NAME b
+EXT 14,15 2 0,0
+EXT 0,14 0 15,14
+PAL 0
+
+ROOM 2
+0,f,f,f,f,f,f,f,f,f,f,f,f,f,f,e
+0,0,c,c,0,0,0,0,0,0,0,0,0,c,c,e
+0,0,0,c,c,c,c,c,c,c,c,c,0,0,0,e
+0,0,c,0,0,0,0,0,c,c,0,0,0,c,c,e
+0,0,c,c,c,c,0,0,0,0,c,c,c,c,0,e
+0,c,c,c,c,c,0,0,0,0,0,0,0,0,0,e
+0,0,0,0,0,0,0,0,0,0,0,0,c,c,c,e
+f,f,f,f,f,e,0,e,f,f,f,f,f,f,f,f
+n,n,0,0,n,e,0,e,n,n,n,n,n,n,n,n
+n,n,n,n,n,e,0,e,0,0,0,0,n,n,n,n
+n,n,n,n,n,e,0,e,0,0,0,0,0,0,n,n
+0,n,n,0,0,f,0,f,0,0,0,0,0,n,n,n
+0,n,n,0,0,0,0,0,0,0,0,n,n,n,n,0
+b,n,n,0,0,0,0,0,0,0,n,n,n,n,n,b
+b,n,n,n,0,0,0,0,n,n,n,n,n,n,n,b
+b,n,n,n,n,0,0,0,0,n,n,n,n,0,0,b
+NAME c
+EXT 6,15 3 8,0
+EXT 0,0 1 14,15
+PAL 0
+
+ROOM 3
+b,n,n,n,0,0,0,0,0,0,0,n,n,n,n,b
+b,n,n,n,n,n,0,0,0,0,0,n,n,n,n,b
+b,n,n,0,n,n,0,0,0,0,n,n,n,n,n,b
+b,n,n,n,n,n,n,0,0,0,n,n,n,n,n,b
+b,n,n,n,n,n,n,0,0,0,n,n,0,n,n,b
+b,l,l,l,l,0,0,c,c,c,0,l,l,l,l,b
+b,0,0,0,0,c,c,c,c,c,0,0,0,0,0,0
+b,0,0,c,c,c,c,c,c,c,c,c,c,0,0,b
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,b
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,b
+b,0,0,h,i,j,k,0,0,0,0,0,0,g,g,g
+b,0,0,0,0,0,0,0,0,g,g,g,g,g,c,c
+b,0,0,0,0,0,0,0,0,g,c,c,c,c,c,c
+b,0,0,0,0,0,0,g,g,c,c,c,c,c,c,c
+b,0,0,0,g,g,g,g,c,c,c,c,c,c,c,c
+0,0,0,0,g,c,c,c,c,c,c,c,c,c,c,c
+NAME d
+EXT 0,15 4 2,0
+EXT 8,0 2 6,15
+PAL 1
+
+ROOM 4
+b,0,0,0,g,c,c,c,c,c,c,c,c,c,c,c
+b,0,0,0,g,c,c,c,c,c,c,c,c,c,c,0
+b,0,0,0,g,0,c,c,c,c,c,c,c,c,c,c
+b,0,0,0,g,0,0,0,c,c,c,c,c,c,c,c
+0,0,0,0,g,0,c,c,0,0,0,c,c,c,c,0
+b,0,0,0,g,g,c,c,c,c,0,0,c,c,c,0
+b,0,0,0,0,g,g,g,g,g,a,g,g,c,c,c
+b,0,0,0,0,0,0,0,0,0,0,0,g,g,g,g
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,l
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,l
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+l,l,l,l,0,0,0,0,0,l,l,l,l,l,l,0
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+NAME e
+EXT 15,10 6 0,5
+EXT 0,4 5 15,6
+EXT 2,0 3 0,15
+END 0 10,5
+PAL 2
+
+ROOM 5
+e,f,f,f,f,f,f,f,m,m,m,m,m,m,m,0
+e,0,0,0,0,0,0,0,m,0,0,0,0,0,0,m
+e,0,0,0,0,0,0,0,m,0,0,0,0,0,0,m
+e,0,0,0,0,0,0,0,m,0,0,0,0,0,0,m
+e,0,0,0,0,0,0,0,m,0,0,0,0,0,0,0
+e,0,0,0,m,m,m,m,m,0,0,0,0,0,0,0
+e,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,m
+e,0,0,0,0,0,0,0,0,0,0,0,0,0,0,m
+e,0,0,0,0,0,0,0,0,0,0,0,0,0,0,m
+e,0,0,0,m,m,m,m,m,0,0,0,0,0,0,m
+e,0,0,0,0,0,0,0,m,0,0,0,0,0,0,m
+e,0,0,0,0,0,0,0,0,0,0,0,0,0,0,m
+e,0,0,0,0,0,0,0,0,0,0,0,0,0,0,m
+0,0,0,0,0,0,0,0,m,0,0,0,0,0,0,m
+f,f,f,f,f,f,f,f,m,0,0,0,0,0,0,m
+NAME fl
+ITM 1 14,7
+ITM 1 11,9
+ITM 1 10,11
+ITM 1 11,4
+ITM 1 9,1
+ITM 1 6,8
+ITM 1 2,7
+ITM 1 7,7
+ITM 1 11,8
+ITM 1 12,12
+ITM 1 11,14
+ITM 1 9,14
+ITM 1 13,14
+ITM 1 15,11
+ITM 1 12,4
+ITM 1 14,1
+ITM 1 11,2
+ITM 1 9,5
+ITM 1 10,7
+ITM 1 13,13
+ITM 1 15,15
+ITM 1 12,15
+ITM 1 10,15
+ITM 1 9,12
+ITM 1 7,13
+ITM 1 4,12
+ITM 1 3,14
+ITM 1 3,15
+ITM 1 1,13
+ITM 1 0,14
+ITM 1 1,11
+ITM 1 0,11
+ITM 1 2,3
+ITM 1 1,1
+ITM 1 6,1
+ITM 1 5,2
+ITM 1 5,3
+ITM 1 4,1
+ITM 1 6,0
+ITM 1 7,1
+ITM 1 5,4
+ITM 1 7,4
+ITM 1 6,2
+ITM 1 1,3
+ITM 1 1,4
+ITM 1 0,5
+ITM 1 0,7
+ITM 1 15,4
+EXT 15,6 4 0,4
+PAL 4
+
+ROOM 6
+0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+n,n,n,n,n,n,n,n,n,0,n,n,n,n,n,n
+n,n,n,n,n,n,n,0,0,0,0,n,n,n,n,n
+n,0,n,n,0,0,0,0,0,0,0,n,n,n,n,n
+n,0,0,0,0,n,n,0,0,0,n,0,0,n,n,n
+0,0,0,0,0,n,0,0,0,n,n,0,n,n,n,n
+0,0,0,0,n,n,0,0,0,n,0,0,n,n,n,n
+n,0,0,n,n,0,0,0,0,n,0,n,n,n,n,n
+n,0,0,0,n,0,0,0,0,0,0,n,n,n,n,0
+n,0,0,0,n,n,0,0,n,n,n,n,n,n,n,n
+n,n,0,0,n,0,0,n,n,n,n,n,n,n,n,n
+n,0,0,n,n,0,0,n,n,n,n,n,n,n,n,n
+n,0,0,n,0,0,n,n,0,n,n,n,n,n,n,n
+n,0,0,0,0,n,n,0,0,n,n,n,n,n,n,n
+n,0,0,0,0,n,0,n,n,n,0,n,n,n,n,n
+n,n,n,0,0,n,n,0,0,0,0,0,n,n,n,n
+NAME fr
+EXT 4,15 7 4,0
+EXT 0,5 4 15,10
+PAL 3
+
+ROOM 7
+0,n,0,0,0,n,n,n,n,n,n,n,0,0,0,0
+0,n,n,0,0,0,0,0,0,0,0,n,n,0,0,0
+0,0,n,n,0,0,0,0,0,0,0,0,n,0,0,0
+0,0,n,n,0,0,0,0,0,0,0,0,0,n,0,0
+0,0,n,0,0,0,0,0,0,0,0,0,0,n,n,0
+0,n,n,0,0,0,n,n,n,0,0,0,0,0,n,0
+0,n,n,0,0,n,n,0,n,n,0,0,0,0,n,n
+n,n,0,0,0,n,0,0,0,n,n,0,0,0,0,n
+n,0,0,0,n,n,0,0,0,0,n,0,0,0,0,n
+n,0,0,0,n,0,0,0,0,0,n,n,0,0,0,n
+n,0,0,n,n,0,0,0,0,0,0,n,0,0,0,0
+n,0,0,n,0,0,0,0,0,0,0,n,0,0,0,0
+n,0,0,n,0,0,0,0,0,0,0,n,0,0,0,n
+n,0,0,0,n,0,0,0,0,0,n,n,0,0,0,n
+n,0,0,0,0,n,0,0,0,n,n,0,0,n,n,n
+0,n,n,n,0,0,n,n,n,n,0,0,n,n,n,0
+NAME fr2
+EXT 4,0 6 4,15
+EXT 5,15 8 6,0
+EXT 10,15 8 8,0
+PAL 3
+
+ROOM 8
+0,n,n,n,n,0,0,n,0,0,n,n,n,n,n,0
+0,n,0,0,0,0,0,0,0,0,0,0,0,n,n,n
+n,n,0,0,0,0,0,0,0,0,0,0,0,0,n,n
+n,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n
+n,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n
+n,0,0,0,0,0,0,0,0,0,0,0,0,0,n,n
+n,n,0,0,0,0,0,0,0,0,0,0,n,n,n,n
+0,n,n,n,0,0,0,0,0,0,0,n,n,n,n,0
+0,0,n,n,n,0,0,0,0,0,n,n,n,n,0,0
+0,0,0,n,n,0,0,0,0,0,n,n,0,0,0,0
+0,0,0,0,n,0,0,0,0,0,n,0,0,0,0,0
+0,0,0,0,n,n,0,0,0,n,n,0,0,0,0,0
+0,0,0,0,0,n,0,0,0,n,0,0,0,0,0,0
+0,0,0,0,0,n,0,0,0,n,0,0,0,0,0,0
+0,0,0,0,n,n,0,0,0,n,n,0,0,0,0,0
+0,0,0,0,n,0,0,0,0,0,n,0,0,0,0,0
+NAME fr3
+EXT 6,15 9 7,0
+EXT 7,15 9 8,0
+EXT 8,15 9 9,0
+EXT 6,0 7 5,15
+EXT 8,0 7 10,15
+PAL 3
+
+ROOM 9
+g,g,g,g,g,g,g,0,0,0,g,g,g,g,g,0
+g,0,0,g,0,0,0,0,0,0,0,0,0,0,0,g
+g,g,g,g,0,0,0,0,0,0,0,0,0,0,0,g
+g,g,0,g,0,0,0,0,0,0,0,0,0,0,0,g
+g,0,0,g,g,0,0,0,0,0,0,0,0,0,g,g
+g,0,0,0,g,0,0,0,0,0,0,0,0,0,g,g
+g,0,g,0,g,0,0,0,0,0,0,0,0,0,g,g
+g,g,g,0,g,0,0,0,0,0,0,0,0,0,g,g
+g,g,g,0,g,0,0,0,0,0,0,0,0,0,g,g
+g,0,g,0,g,0,0,0,0,0,0,0,0,0,g,g
+g,0,g,0,g,g,g,g,g,0,0,0,0,0,g,g
+g,0,g,0,g,0,0,0,g,0,0,0,0,0,g,g
+g,0,g,0,g,0,0,0,g,g,0,0,0,0,g,g
+g,0,g,0,g,0,0,0,0,0,0,0,0,0,g,g
+g,0,0,0,g,0,0,0,g,g,0,0,0,0,g,g
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g
+ITM 2 7,12
+ITM 2 5,13
+ITM 2 6,13
+ITM 2 6,14
+ITM 2 5,14
+ITM 2 5,11
+ITM 2 5,12
+ITM 2 6,11
+ITM 2 6,12
+ITM 2 7,11
+ITM 2 7,14
+ITM 2 7,13
+ITM 3 10,8
+ITM 3 12,9
+ITM 3 12,11
+ITM 3 7,3
+ITM 3 6,7
+ITM 3 11,3
+ITM 3 12,5
+ITM 3 9,4
+ITM 3 4,3
+ITM 3 14,3
+ITM 3 14,1
+EXT 8,0 8 7,15
+EXT 7,0 8 6,15
+EXT 9,0 8 8,15
+END undefined 6,13
+PAL 0
+
+TIL a
+10000001
+10000001
+11100111
+00000000
+11100111
+10000001
+10000001
+10000001
+
+TIL b
+00010000
+00010000
+00010000
+00101100
+00010100
+00010000
+00010000
+00010000
+WAL true
+
+TIL c
+00000000
+00000000
+00000000
+11000111
+01111100
+00000000
+00001111
+11111000
+NAME wave 1
+
+TIL e
+00000000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+NAME border up
+WAL true
+
+TIL f
+00000000
+00000000
+00000000
+01111110
+01111110
+00000000
+00000000
+00000000
+NAME border side
+WAL true
+
+TIL g
+11011011
+11011011
+00011000
+11011011
+11000011
+11011011
+11011011
+11011011
+NAME brick wall
+WAL true
+
+TIL h
+00000000
+00000000
+00011101
+00111111
+01011111
+01100111
+00111101
+00000000
+NAME head
+WAL true
+
+TIL i
+00000111
+00111100
+11111111
+11100000
+11000000
+01000000
+00111111
+11111110
+NAME body
+WAL true
+
+TIL j
+00000000
+00000000
+11111111
+11111111
+10000000
+11111111
+11111111
+00000000
+NAME legs
+WAL true
+
+TIL k
+00111100
+01111000
+11100000
+10000000
+11100000
+11110000
+01111000
+00001000
+NAME feets
+WAL true
+
+TIL l
+11000011
+11100111
+01111110
+00111100
+00111100
+01100110
+11000011
+10000011
+WAL true
+
+TIL m
+00001110
+00111000
+01100000
+11000000
+01100000
+00110000
+00011000
+00000110
+WAL true
+
+TIL n
+00110000
+00111011
+00100000
+00000000
+00000010
+01100010
+00100011
+00000000
+>
+00000011
+10000011
+00000010
+00000000
+01000000
+01000110
+01100010
+00000000
+WAL true
+
+SPR A
+00000000
+00111100
+01111110
+01100110
+01100110
+01100110
+00111100
+01000010
+POS 0 5,3
+
+SPR b
+00000000
+00000000
+00011000
+00111100
+01111110
+11100111
+00000000
+00000000
+NAME mid
+DLG SPR_2
+POS 0 6,11
+
+SPR c
+00111100
+00100100
+00100100
+00100100
+00100100
+00100100
+00111100
+00000100
+NAME sig
+DLG SPR_3
+POS 0 11,2
+
+SPR d
+00011001
+10111011
+01111110
+00111110
+00111100
+00111000
+00111000
+00011000
+NAME g2
+DLG SPR_4
+POS 2 4,12
+
+SPR f
+00011001
+10111011
+01111110
+00111110
+00111100
+00111000
+00111000
+00011000
+NAME g1
+DLG SPR_5
+POS 2 8,12
+
+SPR g
+01111110
+00000000
+10011001
+10011001
+11011011
+01000010
+01000010
+01100110
+NAME eag
+DLG SPR_0
+POS 3 8,4
+
+SPR h
+00000000
+01100111
+11111100
+10001100
+00111100
+00111110
+00001011
+00110001
+>
+00000000
+00000111
+00011100
+01111100
+11111100
+11111110
+10001011
+10110001
+NAME eagle1
+DLG SPR_1
+POS 3 6,9
+
+SPR i
+00110000
+00010000
+00011000
+11111110
+10111010
+01111000
+01101000
+00011000
+>
+00110000
+00010000
+00011000
+11111110
+10111010
+00111000
+00111000
+00011000
+NAME sb
+DLG SPR_6
+POS 1 12,2
+
+SPR j
+00000000
+00011100
+00011100
+01110100
+11111100
+10000100
+00011111
+00010101
+NAME Wa
+DLG SPR_7
+POS 1 10,6
+
+SPR k
+00000000
+00011100
+00011100
+01110110
+11111100
+10000100
+10011111
+00010101
+NAME wi
+DLG SPR_8
+POS 1 14,12
+
+SPR l
+00000000
+00100000
+01111000
+01001100
+01110110
+11100001
+11110000
+10111100
+NAME Bri
+DLG SPR_9
+POS 1 4,8
+
+SPR m
+00100000
+01110000
+01110000
+01110000
+00101000
+00000100
+00000110
+00000011
+>
+00101100
+01110000
+01111100
+01110111
+11101000
+10000100
+10000110
+10000011
+NAME lightning
+DLG SPR_a
+POS 2 14,6
+
+SPR n
+01111100
+11000110
+10000010
+10000001
+10000001
+10000001
+10000011
+11111111
+NAME scoo
+DLG SPR_b
+POS 2 2,5
+
+SPR o
+00000000
+01111110
+01000010
+01000010
+01111110
+00011000
+00011000
+00011000
+DLG SPR_c
+POS 4 11,7
+
+SPR p
+00000000
+00011000
+01111110
+00100100
+00110100
+00100100
+00111100
+01111110
+DLG SPR_d
+POS 4 1,5
+
+SPR q
+00011000
+00011000
+00111100
+00111100
+00111100
+00111100
+00011000
+00011000
+>
+00011000
+00011000
+00111100
+00111100
+01111110
+00011000
+00011000
+00011000
+DLG SPR_e
+POS 4 14,9
+
+SPR r
+01111110
+01000010
+01000010
+01001010
+01001010
+01000010
+01000010
+01111110
+DLG SPR_f
+POS 5 3,2
+
+SPR s
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+SPR t
+00011001
+10111011
+01111110
+00111110
+00111100
+00111000
+00111000
+00011000
+NAME g3
+DLG SPR_g
+POS 8 6,14
+
+SPR u
+00011001
+10111011
+01111110
+00111110
+00111100
+00111000
+00111000
+00011000
+NAME g4
+DLG SPR_h
+POS 8 8,14
+
+SPR v
+00000000
+00111100
+01111110
+01100110
+01100110
+00100100
+00111100
+01000010
+NAME friend
+DLG SPR_i
+POS 9 10,14
+
+SPR w
+00001000
+11101100
+00111100
+01111100
+10011110
+10000110
+00000011
+00000011
+DLG SPR_j
+POS 0 15,5
+
+ITM 1
+00000000
+00000000
+00000000
+00000000
+00100100
+00100100
+01111110
+00111100
+DLG ITM_1
+
+ITM 2
+00000000
+00000000
+00000011
+00000011
+00000000
+00000000
+11000000
+11000000
+
+ITM 3
+00000000
+00111100
+01111110
+01100110
+01100110
+00100100
+00111100
+01000010
+DLG ITM_0
+
+DLG SPR_0
+is the eagle important? Holy? In this weather, your heat affected mind will see that kind of shit
+
+DLG SPR_1
+EAGLE SPIT, BAPTISED NOW. GO YOUR WAY FEEL BETTER NOW.
+
+DLG SPR_2
+A pile you wish you could crawl into.
+
+DLG SPR_3
+I can tell you you're floating, moving through particles rolling over each other... swimmer, chin up, don't swallow this stuff.
+
+DLG SPR_4
+guess you're the freaky one who fell out of the sky?
+
+DLG SPR_5
+guess you're the creepy one who keeps telling lies?
+
+DLG SPR_6
+No no, salamander boy never tells on his friends! Not even to you! 
+
+DLG SPR_7
+Head of a stork, body of a dork. Look at me, monstrosity.com, am I right. Dammit!
+
+DLG SPR_8
+Hahahahahahahahahaha, and you get a helmet to cover up your ugly face don't you, where was mine when I was flogged in school for being a demon child!? Where the hell!?
+
+DLG SPR_9
+I know the others can get you down, but I think you're great, like a well matured cheese. Mmmm, good enough to eat *salivating*
+
+DLG SPR_a
+Sentient lightning over here, maybe useful info, idk, just cool though isn't it. I'm electrotech, and btw won't tell you anything actually!
+
+DLG SPR_b
+*oopsandscoochy boop*
+
+DLG SPR_c
+YES, it's dangerous, you still want to go in there don't you? Does the danger excite you? Self sacrificing sickness babe.
+
+DLG SPR_d
+Ideally I'd have a light for everyone who wants to set their cigarettes on fire when they ask, but I don't. SO DON'T ASK!!
+
+DLG SPR_e
+Look you might be able to freely roam this shit place but some people have gotta try and fly. Oh and the quicksand kills every one.
+
+DLG ITM_1
+"""
+{shuffle
+  - Tasty bits
+  - Chewy
+  - Yum
+  - Love to eat
+  - Floor bits
+  - Slimy stuff
+  - Big mouth
+  - hungry pig
+  - Hurty hurt
+  - Sweat been
+  - Sweet beans 
+  - Breakfast for dinner
+  - Dinner for tea
+  - Lunch
+  - Salad sludge
+  - yum tastes grey
+  - happy and full
+  - sick in a brick
+  - cell mass
+}
+"""
+
+DLG SPR_f
+was the taste good, i had a good time watching
+
+DLG SPR_g
+through here is a room full of all of your friends!
+
+DLG SPR_h
+woop woop woooooop!
+
+DLG ITM_0
+"""
+{sequence
+  - so happy
+  - you again!
+  - my favourite
+  - I disappear
+  - woop
+  - go see the lights
+  - check out our surprise room
+  - the room of lights is so cool
+  - I'm you're best new friend
+  - Wicked!
+}
+"""
+
+DLG SPR_i
+Goodbye you silver beauty wonder. Honestly, I love you, you were so good to know. I love you. 
+
+DLG SPR_j
+I'm reaching out here, I'm saying "look, I'm an arm stuck in mud and I need your help, pull me out and then we can get a drink and maybe make out later, I don't know, god I'm dying for it. Please. Just pull me out, i... i... help... or whatever." Yeah, ffs. 
+
+END 0
+KILLED BY QUICKSAND, this is not the official ending, you're just in quicksand and can't go anywhere. Sorry.
+
+END undefined
+The room of lights swallows you up whole, gristle and all. Oh sweet release, the love of your friends is warming that spot. You are in a room filled with love.
+
+VAR a
+42
+
+

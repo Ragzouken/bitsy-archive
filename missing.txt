@@ -9,7 +9,6 @@
 4,Saranomy
 4,Casino
 4,Zeego
-4,AfterglowGames
 3,Edited
 3,Jambudd
 3,Shalune
@@ -144,7 +143,6 @@
 1,Ed Naujokas
 1,katanarouge
 1,Anders Christian Larsson
-1,mrainwater
 1,Thayle L
 1,KurtoGaNg
 1,Benal
@@ -241,7 +239,7 @@
 1,popoishere
 1,stuey
 1,RhythmLynx
-1,saucetin
+1,mrainwater
 1,Orikingium Studios
 1,Pokiha
 1,taynull
@@ -410,6 +408,7 @@
 1,ManOoPixels
 1,StoriesWithoutBordersJam
 1,Chad Redden
+1,saucetin
 1,the_dyl_pickle
 1,Beto Raposa
 1,Jamesheg
@@ -481,7 +480,6 @@
 1,rahver
 1,Casey Danger
 1,yxvi
-1,jamesjpk123
 1,ZaqLovesBooks
 1,zzot
 1,dzudza
@@ -521,6 +519,7 @@
 1,Enric Llagostera
 1,erabbit
 1,tktk27
+1,jamesjpk123
 1,Josh Avanier
 1,Ian Burnette
 1,Stavros Skamagkis
