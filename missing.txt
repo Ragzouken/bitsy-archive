@@ -1,4 +1,3 @@
-8,Peter Februar
 6,helloworld_nrw
 5,Inco-Nito
 5,Shadownat3
@@ -24,6 +23,7 @@
 2,mutantcassidy
 2,hardclumping
 2,Paolo Jose Cruz
+2,Adam Saltsman
 2,deepbluezengames
 2,~Jellyfish~
 2,Jess Driscoll
@@ -73,6 +73,7 @@
 2,PixelCod
 2,lordvark
 2,Maÿllis
+2,Damooni
 2,leonie
 2,birdstare
 2,Lvl 14 Bard
@@ -89,6 +90,7 @@
 2,leafykayo
 2,Papercookies
 2,chompicore
+2,Yirggzmb
 2,Nadia Wendt
 2,RogueSquirrel
 2,pine-cone
@@ -113,7 +115,6 @@
 1,Minenik
 1,Batgut
 1,Moss.
-1,Adam Saltsman
 1,Ash Nieman
 1,Plum
 1,Fede Makes Games
@@ -141,11 +142,13 @@
 1,Vidyasaur
 1,joannak
 1,Ed Naujokas
+1,Happykelly
 1,katanarouge
 1,Anders Christian Larsson
 1,Thayle L
 1,KurtoGaNg
 1,Benal
+1,Lorelei Nguyen
 1,Frankiextra
 1,Limonsky
 1,wilcoweb
@@ -156,6 +159,7 @@
 1,ian anders
 1,DGTILL
 1,Mnemogenic
+1,HexaBlu
 1,Kacper Woźniak
 1,Centuria game dev
 1,Enterim
@@ -197,11 +201,13 @@
 1,eli fessler
 1,dfgw
 1,FalsionMono
+1,spacepixelx
 1,lykakspars
 1,banaanzxcvbnm
 1,Tyu
 1,Peckan
 1,HermitLioness730
+1,Dom
 1,Yukon W.
 1,Haché
 1,DGMKPixy
@@ -260,10 +266,12 @@
 1,Cybergnose Café, Spica
 1,Chris Floyd
 1,Salvatore Pane
+1,opri369
 1,gia✦grimoire
 1,SunsetDynamite
 1,ghhghgghghghgh
 1,kagisapa
+1,AquaMeg
 1,WyotJunctor
 1,felitastic
 1,Nathan Altice
@@ -283,6 +291,7 @@
 1,Tinybeegames
 1,bethany
 1,aliabra
+1,danslocombe
 1,alithomas
 1,Gmitchell
 1,secureconnectionboi
@@ -294,7 +303,9 @@
 1,Adeline
 1,James Mackey
 1,ajkolenc
+1,TheDerf010
 1,Jess Gates
+1,alexw248
 1,ererbe
 1,excuseforjuice
 1,Ash
@@ -373,6 +384,7 @@
 1,uururernen
 1,Notanthronee
 1,Jeremiah Watts
+1,gallwey_l
 1,miscslaineous
 1,TheHashSlingingSlasher
 1,Xipher
@@ -398,7 +410,6 @@
 1,Permafried Games
 1,JTHomeslice
 1,roboman
-1,Damooni
 1,carrotchipper
 1,Nash High
 1,justinrunge
@@ -419,6 +430,8 @@
 1,CounterWiddershins
 1,JPLikesGames
 1,Porpentine
+1,Niall_S
+1,Piatt
 1,anegri
 1,Sekamelica
 1,Jordan Oloman
@@ -430,11 +443,13 @@
 1,ayens
 1,Yuwrenn
 1,kalale
+1,ConnorCnroy
 1,Flatfish
 1,Michael Klier
 1,hippietrashcan
 1,thetoolong
 1,sulko
+1,kactomil
 1,Crip
 1,chesse20
 1,wolfcartel
@@ -459,7 +474,6 @@
 1,oblatespheroid
 1,squali
 1,popoplant
-1,Yirggzmb
 1,blazerboy
 1,tom_content
 1,Bea Malsky
@@ -507,6 +521,7 @@
 1,mikeytw
 1,12amstatic
 1,noiseart
+1,Jezer2001
 1,Morakimo
 1,FleshPuzzle
 1,hyper structure
