@@ -1,3 +1,4 @@
+8,David Mowatt
 6,helloworld_nrw
 5,Inco-Nito
 5,Shadownat3
@@ -27,6 +28,7 @@
 2,deepbluezengames
 2,~Jellyfish~
 2,Jess Driscoll
+2,kewbish
 2,pixel games
 2,prep
 2,Limosky
@@ -89,6 +91,7 @@
 2,Nenekiri
 2,leafykayo
 2,Papercookies
+2,FACT Liverpool
 2,chompicore
 2,Yirggzmb
 2,Nadia Wendt
@@ -100,6 +103,7 @@
 2,lunarDust
 2,raulhaagensen
 2,Saida Woolf
+2,FleshPuzzle
 2,creativecomputing
 1,HeskHwis
 1,No Time To Play
@@ -146,7 +150,7 @@
 1,katanarouge
 1,Anders Christian Larsson
 1,Thayle L
-1,KurtoGaNg
+1,partitiongames
 1,Benal
 1,Lorelei Nguyen
 1,Frankiextra
@@ -167,7 +171,6 @@
 1,moraresu
 1,Ali Star 302
 1,whatnot
-1,kewbish
 1,Claire Morley, Ashley Gwinnel
 1,riffsircar
 1,Prototype
@@ -194,6 +197,7 @@
 1,voxeledphoton
 1,Prullansky
 1,ergi
+1,A Little Red Panda
 1,guinevak
 1,Unsteady Butterfly
 1,WingedRobot
@@ -248,6 +252,7 @@
 1,mrainwater
 1,Orikingium Studios
 1,Pokiha
+1,pippinbarr
 1,taynull
 1,Luke Mayo
 1,Ahmed Khalifa (Amidos)
@@ -331,7 +336,7 @@
 1,supiket
 1,Visager
 1,TheoRosen
-1,partitiongames
+1,KurtoGaNg
 1,ComputerJames
 1,himawariness
 1,jam
@@ -389,6 +394,7 @@
 1,TheHashSlingingSlasher
 1,Xipher
 1,Zenuel
+1,nextlevelbanana
 1,BoyzInBlackk
 1,OfficiousBrick
 1,Mysidia (Violet)
@@ -402,6 +408,7 @@
 1,baobab
 1,Vincent Vially
 1,NoRain
+1,enui
 1,machinescreen
 1,lightcastle
 1,remyripple
@@ -446,6 +453,7 @@
 1,ConnorCnroy
 1,Flatfish
 1,Michael Klier
+1,Nick Turner
 1,hippietrashcan
 1,thetoolong
 1,sulko
@@ -492,6 +500,7 @@
 1,gepember
 1,saint_somatic
 1,rahver
+1,HazelRose3637
 1,Casey Danger
 1,yxvi
 1,ZaqLovesBooks
@@ -523,7 +532,6 @@
 1,noiseart
 1,Jezer2001
 1,Morakimo
-1,FleshPuzzle
 1,hyper structure
 1,SmickyG
 1,T. J. Field
