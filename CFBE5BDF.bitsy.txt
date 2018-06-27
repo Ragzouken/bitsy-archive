@@ -1,0 +1,1183 @@
+
+A little turtle has just hatched on a beach in Texas.
+
+# BITSY VERSION 4.8
+
+! ROOM_FORMAT 1
+
+PAL 0
+125,163,155
+84,177,189
+77,82,81
+
+ROOM 0
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,i,j,i,i,i,i,j,j,i,j,f,f,f
+b,b,b,i,i,i,j,j,i,i,i,i,i,b,b,b
+f,f,f,g,g,g,h,g,g,g,h,h,g,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,0,0,0,0,0,0,0,0,0,0,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,0,0,0,0,0,0,0,0,0,0,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,0,0,0,0,0,0,0,0,0,0,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+NAME beach 1
+ITM 1 3,6
+ITM 0 10,10
+ITM 0 3,8
+ITM 0 12,8
+ITM 3 9,8
+ITM 4 8,7
+ITM 4 8,8
+ITM 4 11,6
+ITM 5 10,7
+ITM 8 9,7
+ITM 8 10,6
+ITM b 12,6
+ITM h 5,8
+EXT 3,3 1 3,11
+EXT 4,3 1 4,11
+EXT 6,3 1 6,11
+EXT 5,3 1 5,11
+EXT 7,3 1 7,11
+EXT 8,3 1 8,11
+EXT 9,3 1 9,11
+EXT 10,3 1 10,11
+EXT 11,3 1 11,11
+EXT 12,3 1 12,11
+END 0 5,8
+PAL 0
+
+ROOM 1
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,i,j,i,i,i,i,j,j,i,j,f,f,f
+b,b,b,i,i,i,j,j,i,i,i,i,i,b,b,b
+f,f,f,j,i,i,i,j,i,i,i,i,i,f,f,f
+b,b,b,j,j,i,i,i,i,i,j,j,i,b,b,b
+f,f,f,i,j,i,j,i,i,i,j,j,i,f,f,f
+b,b,b,j,j,i,j,j,i,j,i,i,i,b,b,b
+f,f,f,i,j,j,i,j,j,j,i,i,i,f,f,f
+b,b,b,i,i,j,i,i,i,i,i,i,j,b,b,b
+f,f,f,i,j,j,j,i,j,i,i,j,j,f,f,f
+b,b,b,j,j,j,i,i,j,i,i,i,i,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+NAME ocean surface
+ITM 6 4,6
+ITM 7 4,7
+ITM 2 10,8
+ITM 9 10,4
+EXT 3,3 2 3,12
+EXT 4,3 2 4,12
+EXT 5,3 2 5,12
+EXT 6,3 2 6,12
+EXT 7,3 2 7,12
+EXT 8,3 2 8,12
+EXT 9,3 2 9,12
+EXT 10,3 2 10,12
+EXT 11,3 2 11,12
+EXT 12,3 2 12,12
+PAL 0
+
+ROOM 2
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,i,j,i,i,i,i,j,j,i,j,f,f,f
+b,b,b,k,k,k,k,k,k,k,k,k,k,b,b,b
+f,f,f,0,0,0,0,0,0,0,0,0,0,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,0,0,0,0,0,0,0,0,0,0,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,0,n,0,0,0,0,0,0,m,0,f,f,f
+b,b,b,0,m,0,0,0,0,0,0,0,n,b,b,b
+f,f,f,m,0,0,0,0,0,0,0,0,m,f,f,f
+b,b,b,l,l,l,l,l,l,l,l,l,l,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+NAME undersea 1
+ITM a 4,7
+ITM b 10,11
+ITM 9 8,4
+ITM c 11,8
+ITM d 5,4
+ITM d 11,3
+ITM d 12,9
+ITM f 10,9
+ITM g 10,5
+ITM 2 4,4
+ITM 2 4,9
+ITM 9 3,10
+ITM i 5,6
+ITM j 9,7
+EXT 3,3 3 3,12
+EXT 4,3 3 4,12
+EXT 5,3 3 5,12
+EXT 6,3 3 6,12
+EXT 7,3 3 7,12
+EXT 8,3 3 8,12
+EXT 9,3 3 9,12
+EXT 10,3 3 10,12
+EXT 11,3 3 11,12
+EXT 12,3 3 12,12
+PAL 0
+
+ROOM 3
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,i,j,i,i,i,i,j,j,i,j,f,f,f
+b,b,b,k,k,k,k,k,k,k,k,k,k,b,b,b
+f,f,f,0,0,0,0,0,0,0,0,0,0,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,0,0,0,0,0,0,0,0,0,0,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,0,n,0,0,0,0,0,0,m,0,f,f,f
+b,b,b,0,m,0,0,0,0,0,0,0,n,b,b,b
+f,f,f,m,0,0,0,0,0,0,0,0,m,f,f,f
+b,b,b,l,l,l,l,l,l,l,l,l,l,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+NAME undersea 2
+ITM i 11,6
+ITM j 5,7
+ITM j 10,8
+ITM j 12,9
+ITM k 3,8
+ITM f 11,7
+ITM d 11,8
+ITM e 4,11
+ITM e 11,11
+ITM e 6,10
+ITM a 6,9
+ITM 9 10,6
+ITM 6 5,5
+ITM 7 5,6
+ITM g 9,7
+EXT 3,3 4 3,12
+EXT 4,3 4 4,12
+EXT 5,3 4 5,12
+EXT 6,3 4 6,12
+EXT 7,3 4 7,12
+EXT 8,3 4 8,12
+EXT 9,3 4 9,12
+EXT 10,3 4 10,12
+EXT 11,3 4 11,12
+EXT 12,3 4 12,12
+END 1 3,8
+PAL 0
+
+ROOM 4
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,i,j,i,i,i,i,j,j,i,j,f,f,f
+b,b,b,i,i,i,j,j,i,i,i,i,i,b,b,b
+f,f,f,j,i,i,i,j,i,i,i,i,i,f,f,f
+b,b,b,j,j,i,i,i,i,i,j,j,i,b,b,b
+f,f,f,i,j,i,j,i,i,i,j,j,i,f,f,f
+b,b,b,j,j,i,j,j,i,j,i,i,i,b,b,b
+f,f,f,i,j,j,i,j,j,j,i,i,i,f,f,f
+b,b,b,i,i,j,i,i,i,i,i,i,j,b,b,b
+f,f,f,i,j,j,j,i,j,i,i,j,j,f,f,f
+b,b,b,j,j,j,i,i,j,i,i,i,i,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+NAME ocean surface 2
+ITM c 5,6
+ITM f 11,9
+ITM g 10,5
+ITM d 10,10
+ITM 9 9,7
+ITM 2 4,9
+EXT 3,3 5 3,12
+EXT 4,3 5 4,12
+EXT 5,3 5 5,12
+EXT 6,3 5 6,12
+EXT 7,3 5 7,12
+EXT 8,3 5 8,12
+EXT 9,3 5 9,12
+EXT 10,3 5 10,12
+EXT 11,3 5 11,12
+EXT 12,3 5 12,12
+PAL 0
+
+ROOM 5
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,0,0,0,0,0,0,0,0,0,0,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,0,0,0,0,0,0,0,0,0,0,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,0,0,0,0,0,0,0,0,0,0,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,o,p,p,o,p,o,o,p,o,p,f,f,f
+b,b,b,i,i,j,i,i,i,i,i,i,j,b,b,b
+f,f,f,i,j,j,j,i,j,i,i,j,j,f,f,f
+b,b,b,j,j,j,i,i,j,i,i,i,i,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+NAME last scene beach
+ITM g 4,11
+ITM h 11,8
+ITM d 12,11
+ITM 9 5,10
+ITM 5 5,4
+ITM 2 7,9
+ITM 2 6,10
+ITM 4 7,7
+ITM 4 5,7
+ITM 4 6,7
+ITM b 12,5
+ITM l 3,3
+ITM l 4,3
+ITM l 5,3
+ITM l 6,3
+ITM l 7,3
+ITM l 8,3
+ITM l 9,3
+ITM l 10,3
+ITM l 11,3
+ITM l 12,3
+PAL 0
+
+ROOM 6
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,0,0,0,0,0,0,0,0,0,0,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,0,0,0,0,0,0,0,0,0,0,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,0,0,0,0,0,0,0,0,0,0,f,f,f
+b,b,b,0,0,0,0,0,0,0,0,0,0,b,b,b
+f,f,f,o,p,p,o,p,o,o,p,o,p,f,f,f
+b,b,b,i,i,j,i,i,i,i,i,i,j,b,b,b
+f,f,f,i,j,j,j,i,j,i,i,j,j,f,f,f
+b,b,b,j,j,j,i,i,j,i,i,i,i,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+NAME lastscene
+ITM m 6,6
+ITM n 8,6
+ITM o 10,6
+END 2 10,6
+PAL 0
+
+TIL b
+00000101
+00001010
+00010100
+00101000
+01010000
+10100000
+01000001
+10000010
+WAL true
+
+TIL f
+00000101
+10000010
+01000001
+10100000
+01010000
+00101000
+00010100
+00001010
+WAL true
+
+TIL g
+11111111
+11111111
+11100011
+10011101
+01110010
+11001001
+00000000
+00000000
+>
+11111111
+11100011
+10011101
+01100010
+10010001
+00000000
+01000000
+00000000
+
+TIL h
+11111111
+11111111
+11111111
+11111111
+00111110
+11001101
+01110010
+00011110
+>
+11111111
+11111111
+11111111
+11011110
+00100001
+11011110
+00000001
+00001000
+
+TIL i
+11111111
+11111111
+11110111
+11011101
+01111111
+11111111
+11111111
+11111111
+>
+11111111
+11111111
+11111111
+11111111
+11111111
+10111110
+11111111
+11110111
+
+TIL j
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL k
+01110010
+11011110
+00100100
+00000001
+10000000
+00000000
+00000000
+00000000
+>
+10111101
+00000110
+10000010
+00000000
+00101000
+00000000
+00000000
+00000000
+
+TIL l
+00000000
+00001000
+00000001
+00000000
+01000000
+00000000
+00000000
+00000000
+>
+00000001
+10000000
+00000000
+00010000
+00000000
+00000000
+00000000
+00000000
+
+TIL m
+10000010
+10000010
+10000100
+10001000
+01001000
+01001000
+00101000
+00010000
+>
+01000100
+01000100
+00100100
+00010010
+00010010
+00100100
+00101000
+00010000
+
+TIL n
+00000000
+00000000
+00000100
+01000100
+01000100
+10000100
+10000100
+10001000
+>
+00000000
+00000000
+00001000
+00001000
+00101000
+00101000
+00101000
+01000100
+
+TIL o
+00000000
+00001000
+00000001
+00000100
+01001011
+10010100
+01101111
+10011111
+>
+00000000
+10000000
+00000010
+10010101
+10001010
+01110111
+10001111
+11111111
+
+TIL p
+00000000
+00001000
+00000001
+00000000
+01001110
+00010001
+11101110
+00011111
+>
+00000001
+10000000
+00000000
+00010000
+00000011
+10000100
+01001011
+10110111
+
+SPR A
+00000000
+00011000
+01011010
+00101100
+00110100
+00101100
+01011010
+00000000
+>
+00000000
+00011000
+00011000
+01101110
+00110100
+01101110
+00011000
+00000000
+POS 0 7,12
+
+SPR c
+00000000
+01111110
+10000001
+10101001
+10000001
+01111010
+00000110
+00000001
+>
+00000000
+01111110
+10000001
+10010101
+10000001
+01111010
+00000110
+00000001
+DLG SPR_1
+POS 0 7,10
+
+ITM 0
+00000000
+00000000
+00000000
+00001000
+00010100
+00001100
+00000000
+00000000
+NAME plastic bottle cap
+DLG ITM_0
+
+ITM 1
+00000000
+00000000
+01100000
+01100000
+00111000
+00100110
+00011010
+00000110
+NAME elastic
+DLG ITM_1
+
+ITM 2
+00000001
+00000011
+00001101
+00010111
+00110011
+01101110
+10011000
+01010000
+>
+00000000
+00000000
+00011001
+00110110
+01111100
+11000000
+00101000
+00000000
+NAME sargassum
+DLG ITM_2
+
+ITM 3
+01010000
+10100000
+11100000
+10000000
+00000000
+00000000
+00000000
+00000000
+NAME sargassum corner
+DLG ITM_3
+
+ITM 4
+00011000
+11010110
+10111010
+01000110
+00000001
+00000000
+00000000
+00000000
+DLG ITM_9
+
+ITM 5
+00000000
+00110001
+01001110
+01000100
+01110010
+00111111
+00001110
+00000000
+NAME sneaker
+DLG ITM_4
+
+ITM 6
+00000000
+00010000
+00111000
+00101000
+00111100
+00011110
+00001001
+00010101
+>
+00000000
+00001100
+00011110
+00010010
+00011110
+00001110
+00001010
+00010101
+NAME balloon
+DLG ITM_7
+
+ITM 7
+00100101
+01000010
+01000100
+00100100
+00100100
+01001000
+00000000
+00000000
+>
+00100101
+00101011
+01000010
+00100010
+00100010
+00100010
+00010001
+00000000
+NAME balloon ribbon
+DLG ITM_8
+
+ITM 8
+00000001
+00000011
+00001101
+00010111
+00110011
+01101110
+10011000
+01010000
+NAME sargassum seaweed
+DLG ITM_6
+
+ITM 9
+00000000
+00001110
+00011010
+00110110
+11111100
+10110000
+01100000
+00100000
+>
+00000000
+00011110
+00110110
+00111100
+01110000
+01010000
+01110000
+00000000
+NAME plastic bottle
+DLG ITM_5
+
+ITM a
+00000000
+00000100
+10001000
+01011100
+01110110
+01011100
+10001000
+00000000
+>
+00000000
+00001000
+01000100
+00101110
+00111011
+00101110
+01001000
+00000000
+NAME fish
+DLG ITM_a
+
+ITM b
+00000000
+00000000
+00010100
+00000000
+00111100
+00111100
+01010010
+01010010
+>
+00000000
+00000000
+01010000
+00000000
+01111000
+01111100
+10001010
+01010010
+NAME crab
+DLG ITM_b
+
+ITM c
+00001000
+00110001
+01001110
+01000100
+01110010
+00111111
+00001110
+00000000
+>
+00001000
+00010000
+01100011
+10010100
+10001100
+11000100
+01111110
+00011100
+NAME old shoe
+DLG ITM_c
+
+ITM d
+00000000
+00000000
+00000000
+00001000
+00010100
+00001100
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00010000
+00101000
+00011000
+00000000
+NAME floating bottle cap
+DLG ITM_d
+
+ITM e
+00000000
+00000000
+00000000
+00000000
+00000000
+00011000
+00111100
+00111100
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00110000
+01111000
+01111000
+NAME sea urchin
+DLG ITM_e
+
+ITM f
+00000000
+00000000
+00000000
+00011000
+00111100
+00011000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00001100
+00011110
+00001100
+00000000
+DLG ITM_f
+
+ITM g
+00000000
+00011000
+00100100
+00011000
+00101000
+00101100
+00101010
+01010010
+>
+00011000
+00100100
+00011000
+00110100
+01010010
+01010010
+00101100
+00101000
+NAME jellyfish
+DLG ITM_g
+
+ITM h
+00011000
+00101000
+01110011
+01000110
+11001100
+00011010
+00011110
+00000100
+NAME shredded flip flops
+DLG ITM_h
+
+ITM i
+00000000
+00000000
+00000000
+00110000
+00001100
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00111000
+00000100
+00000000
+NAME crab shell
+
+ITM j
+00000000
+00000000
+00000000
+00110000
+00100000
+00010000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00011000
+00010000
+00001000
+00000000
+NAME shrimp
+DLG ITM_i
+
+ITM k
+00010100
+01101010
+10100110
+01010100
+01001000
+00010000
+01100000
+00000000
+>
+00001000
+00010100
+01100010
+10010010
+10101010
+01000100
+00001000
+00110000
+NAME fishing net
+
+ITM l
+00000000
+00000000
+00000000
+00000000
+00010000
+00000000
+00000000
+00000000
+DLG ITM_j
+
+ITM m
+00000000
+00000000
+00101000
+01111100
+01111100
+00111000
+00010000
+00000000
+NAME 1
+DLG ITM_k
+
+ITM n
+00000000
+00000000
+00101000
+01111100
+01111100
+00111000
+00010000
+00000000
+DLG ITM_l
+
+ITM o
+00000000
+00000000
+00101000
+01010100
+01000100
+00101000
+00010000
+00000000
+
+DLG ITM_0
+"""
+plastic bottle cap
+{trash = trash + 1}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_1
+"""
+old elastic band
+{trash = trash + 1}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_2
+"""
+{
+  - trash > 5 ?
+    stomach full of trash
+  - trash <= 5 ?
+    seaweed
+    {food = food + 1}
+}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_3
+"""
+{
+  - trash > 5 ?
+    stomach full of trash
+  - trash <= 5 ?
+    seaweed
+    {food = food + 1}
+}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_4
+"""
+old sneaker
+{trash = trash + 1}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG SPR_1
+"""
+You are a newly hatched Kemp's Ridley sea turtle. You must enter the sea, find food, avoid predators, and safely make it to the beach on the other side of the cove.
+
+Your diet consists of seaweed, jellyfish, crab, and fish. Eat at least ten food items to survive.
+
+Watch out for trash, fishing nets, and oil spills.
+
+Good luck, little turtle!
+"""
+
+DLG ITM_5
+"""
+plastic bottle
+{trash = trash + 1}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_6
+"""
+{
+  - trash > 5 ?
+    stomach full of trash
+  - trash <= 5 ?
+    seaweed
+    {food = food + 1}
+}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_7
+"""
+deflated latex baloon
+{trash = trash + 1}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_8
+"""
+plastic curling ribbon
+{trash = trash + 1}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_9
+"""
+{
+  - trash >= 5 ?
+    stomach full of trash
+  - trash < 5 ?
+    seaweed
+    {food = food + 1}
+}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_a
+"""
+{
+  - trash > 5 ?
+    stomach full of trash
+  - trash <= 5 ?
+    fish
+    {food = food + 1}
+}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_c
+"""
+old shoe
+{trash = trash + 1}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_d
+"""
+plastic bottle lid
+{trash = trash + 1}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_e
+"""
+{
+  - trash > 5 ?
+    stomach full of trash
+  - trash <= 5 ?
+    sea urchin
+    {food = food + 1}
+}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_g
+"""
+{
+  - trash > 5 ?
+    stomach full of trash
+  - trash <= 5 ?
+    jellyfish
+    {food = food + 1}
+}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_f
+"""
+{
+  - trash > 5 ?
+    stomach full of trash
+  - trash <= 5 ?
+    sea urchin
+    {food = food + 1}
+}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_b
+"""
+{
+  - trash > 5 ?
+    stomach full of trash
+  - trash <= 5 ?
+    crab
+    {food = food + 1}
+}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_h
+shredded flip flops
+
+DLG ITM_i
+"""
+{
+  - trash > 5 ?
+    stomach full of trash
+  - trash <= 5 ?
+    shrimp
+    {food = food + 1}
+}
+eaten {say trash} trash and {say food} food
+"""
+
+DLG ITM_j
+"""
+{
+  - trash > 5 ?
+    You ate too much trash. Your stomach is full of plastic, and some of the trash has punctured your intestines.
+    
+    I'm sorry, little turtle. You did not survive.
+    (end)
+    (end "I'm sorry, little turtle. You did not survive.")
+    (endNow)
+    (endNow "I'm sorry, little turtle. You did not survive.")
+  - else ?
+
+}{
+  - food < 10 ?
+    You did not eat enough food. 
+    
+    (end)
+    (end "I'm sorry, little turtle. You did not survive.")
+}{
+  - food >= 10 ?
+    You ate enough safe food to survive the swim and make it to the cove!
+    (exit "lastscene,5,5")
+  - else ?
+
+}
+"""
+
+DLG ITM_k
+Kemp's Ridley sea turtles are  the most endangered sea turtle species on earth. I live in Southeast Texas, near the Gulf of Mexico. Kemp's Ridley sea turtles nest here, but since they are in danger of extinction the "Turtle Patrol" collects their eggs to incubate, hatch, and release under close supervision.
+
+DLG ITM_l
+Please reduce the amount of single-use plastics that you use. Plastic pollution kills sea life. When you go to the beach, be careful to collect all of your trash and recycle what you can. Stay away from wildlife like nesting birds and turtles. Please read the game description to learn more about Kemp's Ridley sea turtles.
+
+END 0
+You are tangled in the shredded rubber straps of old flip-flops. While you struggle to escape, a ring-billed gull eats you. I'm sorry, little turtle. You did not survive.
+
+END 1
+You become tangled in an fishing net. You drown. I'm sorry, little turtle. You did not survive.
+
+END 2
+You did it, little turtle! You survived!
+
+VAR food
+0
+
+VAR trash
+0
+
+

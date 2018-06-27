@@ -1,0 +1,7657 @@
+
+Far, far away, (music "waves")somewhere out in space....
+
+# BITSY VERSION 4.8
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME beach
+255,235,221
+30,197,255
+247,214,40
+42,178,191
+221,196,253
+0,0,0
+230,212,199
+175,138,120
+219,202,187
+150,12,35
+224,55,49
+252,179,62
+173,173,173
+26,76,140
+
+PAL 1
+NAME town
+219,202,187
+193,170,153
+247,227,45
+142,148,161
+150,12,35
+175,138,120
+237,240,245
+26,76,140
+0,0,0
+
+PAL 2
+NAME underwater
+23,64,112
+28,36,84
+133,123,98
+59,76,125
+193,221,255
+224,224,224
+
+PAL 3
+NAME ship
+239,249,255
+181,194,220
+247,214,40
+42,178,191
+221,196,253
+0,0,0
+30,197,255
+223,237,254
+23,64,112
+
+PAL 4
+NAME underwater2
+23,64,112
+28,36,84
+23,64,112
+59,76,125
+193,221,255
+224,224,224
+
+PAL 5
+NAME light
+193,221,255
+255,255,255
+193,221,255
+
+PAL 6
+NAME space
+31,31,31
+255,255,255
+31,31,31
+30,197,255
+247,214,40
+42,178,191
+
+ROOM 0
+b,n,k,0,0,0,0,0,0,0,0,e,a,b,a,a
+g,k,0,q,0,0,0,0,0,0,0,e,n,g,g,g
+0,q,0,0,p,0,0,0,q,0,0,j,k,0,0,0
+0,0,0,0,0,0,0,0,0,0,p,0,0,0,q,0
+0,0,p,0,0,0,p,0,0,0,0,0,0,0,0,0
+p,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,q,0,0,p,0,0,q,0,i,c
+0,q,0,0,0,0,0,0,0,0,0,0,i,c,l,a
+0,0,0,p,0,0,p,0,0,0,0,0,e,a,a,a
+0,0,0,0,0,0,0,0,q,0,0,i,l,b,a,a
+0,0,0,0,0,q,0,0,0,i,c,l,a,a,a,b
+0,p,0,q,0,0,0,i,c,l,a,b,a,a,a,a
+0,0,0,0,0,0,i,l,a,a,a,a,a,b,a,a
+0,0,0,0,i,c,l,a,a,a,a,a,b,a,b,a
+0,q,q,i,l,a,a,b,a,a,a,a,a,b,a,a
+0,0,0,e,b,a,a,a,a,b,a,a,b,a,b,a
+NAME start
+ITM 1 6,3
+ITM 2 8,4
+ITM 3 7,1
+ITM 4 9,1
+ITM 0 5,4
+ITM 0 6,4
+ITM 0 5,5
+ITM 0 4,4
+ITM 0 5,3
+PAL 0
+
+ROOM 1
+b,n,k,0,0,0,0,0,0,0,0,e,a,b,a,a
+g,k,0,q,0,0,0,0,0,0,0,e,n,g,g,g
+0,q,0,0,p,0,0,0,q,0,0,j,k,0,0,0
+0,0,0,0,0,0,0,0,0,0,p,0,0,0,q,0
+0,0,p,0,0,0,0,0,0,0,0,0,0,0,0,0
+p,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,q,0,0,p,0,0,q,0,i,c
+0,q,0,0,0,0,0,0,0,0,0,0,i,c,l,a
+0,0,0,p,0,0,p,0,0,0,0,0,e,a,a,a
+0,0,0,0,0,0,0,0,q,0,0,i,l,b,a,a
+0,0,0,0,0,q,0,0,0,i,c,l,a,a,a,b
+0,p,0,q,0,0,0,i,c,l,a,b,a,a,a,a
+0,0,0,0,0,0,i,l,a,a,a,a,a,b,a,a
+0,0,0,0,i,c,l,a,a,a,a,a,b,a,b,a
+0,q,q,i,l,a,a,b,a,a,a,a,a,b,a,a
+0,0,0,e,b,a,a,a,a,b,a,a,b,a,b,a
+NAME beachintro
+EXT 15,2 3 1,2
+EXT 15,3 3 1,3
+EXT 15,4 3 1,4
+EXT 15,5 3 1,5
+EXT 15,6 3 1,6
+EXT 3,15 5 3,1
+EXT 2,15 5 2,1
+EXT 1,15 5 1,1
+EXT 15,1 3 1,1
+EXT 0,1 9 14,1
+EXT 0,2 9 14,2
+EXT 0,3 9 14,3
+EXT 0,4 9 14,4
+EXT 0,5 9 14,5
+EXT 0,6 9 14,6
+EXT 0,7 9 14,7
+EXT 0,8 9 14,8
+EXT 0,9 9 14,9
+EXT 0,10 9 14,10
+EXT 0,11 9 14,11
+EXT 0,12 9 14,12
+EXT 0,13 9 14,13
+EXT 0,14 9 14,14
+EXT 11,0 4 11,14
+EXT 10,0 4 10,14
+EXT 9,0 4 9,14
+EXT 8,0 4 8,14
+EXT 6,0 4 6,14
+EXT 7,0 4 7,14
+EXT 5,0 4 5,14
+EXT 4,0 4 4,14
+EXT 3,0 4 3,14
+EXT 2,0 4 2,14
+PAL 0
+
+ROOM 2
+b,n,k,0,0,0,0,0,0,0,0,e,a,b,a,a
+g,k,0,q,0,0,0,0,0,0,0,e,n,g,g,g
+0,q,0,0,p,0,0,0,q,0,0,j,k,0,0,0
+0,0,0,0,0,0,0,0,0,0,p,0,0,0,q,0
+0,0,p,0,0,0,0,0,0,0,0,0,0,0,0,0
+p,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,q,0,0,p,0,0,q,0,i,c
+0,q,0,0,0,0,0,0,0,0,0,0,i,c,l,a
+0,0,0,p,0,0,p,0,0,0,0,0,e,a,a,a
+0,0,0,0,0,0,0,0,q,0,0,i,l,b,a,a
+0,0,0,0,0,q,0,0,0,i,c,l,a,a,a,b
+0,p,0,q,0,0,0,i,c,l,a,b,a,a,a,a
+0,0,0,0,0,0,i,l,a,a,a,a,a,b,a,a
+0,0,0,0,i,c,l,a,a,a,a,a,b,a,b,a
+0,q,q,i,l,a,a,b,a,a,a,a,a,b,a,a
+0,0,0,e,b,a,a,a,a,b,a,a,b,a,b,a
+NAME beach1
+EXT 15,2 3 1,2
+EXT 15,3 3 1,3
+EXT 15,4 3 1,4
+EXT 15,5 3 1,5
+EXT 15,6 3 1,6
+EXT 3,15 5 3,1
+EXT 2,15 5 2,1
+EXT 1,15 5 1,1
+EXT 15,1 3 1,1
+EXT 0,1 9 14,1
+EXT 0,2 9 14,2
+EXT 0,3 9 14,3
+EXT 0,4 9 14,4
+EXT 0,5 9 14,5
+EXT 0,6 9 14,6
+EXT 0,8 9 14,8
+EXT 0,7 9 14,7
+EXT 0,9 9 14,9
+EXT 0,10 9 14,10
+EXT 0,11 9 14,11
+EXT 0,12 9 14,12
+EXT 0,13 9 14,13
+EXT 0,14 9 14,14
+EXT 2,0 4 2,14
+EXT 3,0 4 3,14
+EXT 4,0 4 4,14
+EXT 5,0 4 5,14
+EXT 6,0 4 6,14
+EXT 7,0 4 7,14
+EXT 8,0 4 8,14
+EXT 9,0 4 9,14
+EXT 10,0 4 10,14
+EXT 11,0 4 11,14
+PAL 0
+
+ROOM 3
+b,a,a,a,b,a,a,a,a,a,a,a,a,a,a,a
+g,g,o,a,a,a,n,g,g,g,o,a,a,a,a,b
+0,q,j,g,g,g,k,0,q,0,j,o,b,a,a,a
+0,0,0,0,0,0,0,0,0,0,0,e,a,a,a,a
+p,0,0,0,q,p,0,0,p,0,0,e,a,a,b,a
+0,0,0,0,0,0,0,0,0,0,0,e,a,a,a,a
+c,c,c,c,h,0,0,q,0,0,p,e,a,a,b,a
+a,a,a,a,m,c,c,h,0,0,0,e,a,a,a,a
+a,a,a,b,a,a,a,m,c,h,0,e,b,a,a,a
+a,a,a,a,a,b,a,a,a,f,0,e,a,a,a,a
+a,a,a,a,a,a,b,a,a,f,q,j,o,a,b,a
+a,a,a,b,a,a,a,a,a,f,0,0,e,a,a,b
+a,a,a,a,a,b,a,a,a,m,h,0,j,g,o,a
+a,a,a,a,b,a,a,a,b,a,f,0,q,0,e,a
+a,a,b,a,a,a,b,a,a,a,m,c,c,c,l,a
+b,a,a,a,a,b,a,a,a,a,a,a,a,a,b,a
+NAME beach2
+EXT 0,2 2 14,2
+EXT 0,3 2 14,3
+EXT 0,4 2 14,4
+EXT 0,5 2 14,5
+EXT 0,6 2 14,6
+EXT 0,1 2 14,1
+PAL 0
+
+ROOM 4
+a,f,0,0,0,0,p,0,0,0,0,0,e,b,a,a
+a,f,0,0,0,0,0,0,0,q,q,0,e,a,a,a
+a,m,h,0,0,0,0,0,0,0,0,i,l,a,a,b
+a,b,m,h,0,0,0,0,0,0,0,j,o,a,a,a
+a,a,b,f,0,0,0,p,0,0,0,0,e,a,b,a
+a,a,n,k,0,0,0,0,p,0,0,i,l,b,a,a
+a,n,k,48,46,47,0,0,q,0,i,l,a,a,a,a
+b,f,0,4a,4i,49,0,0,0,0,e,a,a,a,a,a
+a,f,0,4c,4j,4b,0,0,0,0,e,a,b,a,a,b
+b,f,0,4c,4j,4b,0,0,0,0,j,o,a,a,a,a
+a,f,0,4c,4j,4b,0,0,p,0,0,j,o,a,a,a
+a,f,4l,4e,4j,4d,4k,0,0,0,0,0,e,a,b,a
+a,f,4n,4g,4h,4f,4m,0,0,0,0,0,e,a,a,a
+a,m,h,0,0,0,0,0,0,p,0,0,e,b,a,a
+b,a,f,0,0,q,0,0,0,0,0,i,l,a,b,a
+a,a,f,0,0,0,0,0,0,q,0,e,a,a,a,a
+NAME spaceship
+EXT 2,15 2 2,1
+EXT 3,15 2 3,1
+EXT 4,15 2 4,1
+EXT 11,15 2 11,1
+EXT 10,15 2 10,1
+EXT 5,15 2 5,1
+EXT 9,15 2 9,1
+EXT 7,15 2 7,1
+EXT 6,15 2 6,1
+EXT 8,15 2 8,1
+EXT 1,0 a 1,14
+EXT 2,0 a 2,14
+EXT 3,0 a 3,14
+EXT 4,0 a 4,14
+EXT 5,0 a 5,14
+EXT 6,0 a 6,14
+EXT 7,0 a 7,14
+EXT 8,0 a 8,14
+EXT 9,0 a 9,14
+EXT 10,0 a 10,14
+EXT 11,0 a 11,14
+EXT 12,0 a 12,14
+PAL 0
+
+ROOM 5
+p,0,0,j,o,a,b,a,a,a,a,a,a,a,a,b
+0,0,p,0,j,o,a,a,a,n,o,a,a,b,a,a
+0,p,0,0,0,j,g,g,g,k,j,o,a,a,b,a
+0,0,0,0,0,0,0,0,0,0,0,e,b,a,a,b
+0,0,0,p,0,0,0,0,q,0,0,e,a,a,a,a
+0,q,0,0,0,0,0,0,0,0,0,e,a,a,a,a
+0,0,0,i,c,h,0,0,0,0,0,j,o,a,b,a
+0,0,0,e,r,f,0,0,q,0,0,0,e,a,a,a
+0,0,0,j,g,k,0,0,p,q,0,q,e,a,b,a
+0,p,0,0,0,0,0,0,p,0,0,0,e,a,a,a
+0,0,0,0,0,0,0,0,0,0,0,0,e,b,a,a
+0,0,0,0,0,0,0,0,0,0,0,0,j,o,a,b
+0,0,q,0,0,q,0,0,0,0,0,q,0,e,a,a
+0,p,0,0,0,0,0,0,0,q,0,0,0,e,a,a
+0,0,p,0,0,0,0,0,0,0,0,q,0,j,o,b
+0,0,0,0,0,q,q,0,0,0,0,0,0,0,e,a
+NAME beach3
+EXT 3,0 2 3,14
+EXT 2,0 2 2,14
+EXT 1,0 2 1,14
+EXT 13,15 6 13,1
+EXT 12,15 6 12,1
+EXT 11,15 6 11,1
+EXT 10,15 6 10,1
+EXT 9,15 6 9,1
+EXT 8,15 6 8,1
+EXT 7,15 6 7,1
+EXT 6,15 6 6,1
+EXT 5,15 6 5,1
+EXT 4,15 6 4,1
+EXT 3,15 6 3,1
+EXT 2,15 6 2,1
+EXT 1,15 6 1,1
+EXT 0,14 8 14,14
+EXT 0,13 8 14,13
+EXT 0,12 8 14,12
+EXT 0,11 8 14,11
+EXT 0,10 8 14,10
+EXT 0,9 8 14,9
+EXT 0,8 8 14,8
+EXT 0,7 8 14,7
+EXT 0,6 8 14,6
+EXT 0,5 8 14,5
+EXT 0,4 8 14,4
+EXT 0,3 8 14,3
+EXT 0,2 8 14,2
+EXT 0,1 8 14,1
+EXT 4,7 q 7,1
+PAL 0
+
+ROOM 6
+0,0,q,0,0,0,0,0,0,0,0,p,0,0,e,a
+0,0,p,0,0,q,0,0,0,0,0,0,0,0,e,b
+0,0,0,0,0,q,0,0,0,q,0,0,0,i,l,a
+0,0,0,0,0,0,0,p,0,0,0,0,0,j,o,a
+q,0,i,c,h,0,0,0,0,0,0,q,0,i,l,a
+0,0,e,r,f,0,0,p,0,0,0,0,i,l,a,a
+0,0,j,g,k,0,0,0,0,0,0,0,e,b,a,a
+0,0,0,0,0,0,0,0,i,c,h,0,e,a,a,b
+0,0,p,0,0,0,0,0,e,r,f,0,e,a,a,a
+0,q,0,0,0,0,0,p,j,g,k,0,e,a,a,a
+0,0,0,0,i,h,0,0,q,0,0,0,e,b,a,a
+h,0,i,c,l,m,h,0,0,0,i,c,l,a,b,a
+m,c,l,a,a,a,m,c,h,i,l,a,a,a,a,a
+a,a,b,a,a,a,a,a,m,l,a,a,a,a,a,a
+a,a,a,a,b,a,a,a,a,a,a,b,a,a,a,a
+a,a,b,a,a,b,a,a,a,a,a,a,a,a,b,a
+NAME beach4
+EXT 13,0 5 13,14
+EXT 12,0 5 12,14
+EXT 11,0 5 11,14
+EXT 10,0 5 10,14
+EXT 9,0 5 9,14
+EXT 8,0 5 8,14
+EXT 7,0 5 7,14
+EXT 6,0 5 6,14
+EXT 5,0 5 5,14
+EXT 4,0 5 4,14
+EXT 3,0 5 3,14
+EXT 2,0 5 2,14
+EXT 1,0 5 1,14
+EXT 0,1 7 14,1
+EXT 0,2 7 14,2
+EXT 0,3 7 14,3
+EXT 0,4 7 14,4
+EXT 0,5 7 14,5
+EXT 0,6 7 14,6
+EXT 0,7 7 14,7
+EXT 0,8 7 14,8
+EXT 0,9 7 14,9
+EXT 0,10 7 14,10
+EXT 0,11 7 14,11
+EXT 3,5 r 7,1
+EXT 9,8 s 7,1
+PAL 0
+
+ROOM 7
+a,b,a,a,a,a,a,b,a,a,a,f,0,p,0,0
+a,a,a,a,a,a,a,a,a,a,a,f,0,0,0,0
+a,a,b,a,b,a,a,a,b,a,a,m,h,0,q,0
+a,a,a,b,a,a,a,b,a,a,a,a,f,0,0,0
+b,a,a,a,a,a,a,a,a,a,b,n,k,0,0,0
+a,a,a,a,b,a,a,a,a,a,a,f,0,0,q,p
+a,a,a,a,a,a,a,a,a,a,a,f,p,0,0,0
+a,a,a,b,a,a,a,a,a,b,n,k,0,0,0,0
+a,a,a,a,a,a,a,a,a,a,f,0,0,q,0,p
+a,a,a,a,a,a,a,n,o,n,k,0,0,p,0,0
+a,b,a,a,a,a,n,k,j,k,0,0,0,0,0,0
+a,a,a,a,a,a,f,q,0,p,0,i,c,c,c,c
+a,a,a,b,a,a,m,h,0,i,c,l,a,a,a,a
+a,a,a,a,a,a,a,f,0,e,a,a,a,a,b,a
+a,b,a,a,a,b,a,f,q,e,a,a,b,a,a,a
+a,a,b,a,b,a,a,f,0,e,a,a,a,b,a,a
+NAME beach5
+EXT 15,1 6 1,1
+EXT 15,2 6 1,2
+EXT 15,3 6 1,3
+EXT 15,4 6 1,4
+EXT 15,5 6 1,5
+EXT 15,6 6 1,6
+EXT 15,7 6 1,7
+EXT 15,8 6 1,8
+EXT 15,9 6 1,9
+EXT 15,10 6 1,10
+EXT 15,11 6 1,11
+EXT 14,0 8 14,14
+EXT 13,0 8 13,14
+EXT 12,0 8 12,14
+EXT 11,0 8 11,14
+EXT 7,15 n 7,1
+EXT 8,15 n 8,1
+EXT 9,15 n 9,1
+PAL 0
+
+ROOM 8
+b,a,a,a,a,a,a,a,a,a,a,f,0,0,0,0
+a,n,g,g,g,g,o,a,a,a,a,f,0,p,0,0
+a,f,0,q,0,0,j,o,b,a,a,f,0,0,0,q
+a,f,0,0,0,0,0,e,a,a,a,f,0,0,0,0
+a,m,h,0,0,0,0,e,a,b,a,m,h,0,0,0
+a,a,f,0,0,q,0,e,a,a,a,n,k,0,0,0
+b,n,k,0,0,0,0,e,a,a,a,f,p,0,q,0
+a,f,q,i,c,h,0,e,a,a,b,f,0,0,0,0
+a,f,p,e,r,f,0,e,a,a,n,k,0,0,0,0
+a,f,0,j,g,k,0,e,b,a,f,0,0,q,0,p
+a,f,0,0,0,0,p,e,a,a,f,0,p,0,0,0
+a,m,c,c,c,c,c,l,a,a,f,0,0,0,0,0
+a,a,b,a,a,a,a,b,a,a,m,h,0,0,0,0
+b,a,a,b,a,a,a,a,a,a,a,f,0,0,q,0
+a,b,a,a,b,a,a,a,a,a,a,f,q,0,0,0
+a,a,a,a,a,a,a,a,a,b,a,f,0,p,0,0
+NAME beach6
+ITM 7 4,3
+EXT 14,15 7 14,1
+EXT 13,15 7 13,1
+EXT 12,15 7 12,1
+EXT 15,14 5 1,14
+EXT 15,13 5 1,13
+EXT 15,12 5 1,12
+EXT 15,11 5 1,11
+EXT 15,10 5 1,10
+EXT 15,9 5 1,9
+EXT 15,8 5 1,8
+EXT 15,7 5 1,7
+EXT 15,6 5 1,6
+EXT 15,5 5 1,5
+EXT 15,4 5 1,4
+EXT 15,3 5 1,3
+EXT 15,2 5 1,2
+EXT 15,1 5 1,1
+EXT 11,15 7 11,1
+EXT 11,0 9 11,14
+EXT 12,0 9 12,14
+EXT 13,0 9 13,14
+EXT 14,0 9 14,14
+EXT 4,8 u 13,1
+PAL 0
+
+ROOM 9
+b,a,a,a,a,b,a,a,a,a,a,a,b,a,a,a
+a,a,a,b,a,a,a,a,a,a,a,a,a,n,g,g
+a,a,a,a,b,a,a,b,a,a,n,g,g,k,0,0
+a,a,b,a,a,a,a,a,a,a,f,0,0,p,q,0
+a,a,a,a,a,b,a,a,a,n,k,0,0,0,0,0
+g,g,g,g,g,g,g,g,g,k,p,0,0,0,0,0
+0,0,0,0,0,0,p,0,0,0,0,0,q,0,0,0
+0,q,0,0,0,0,q,0,0,0,0,0,0,0,q,0
+0,0,p,0,0,0,0,0,0,0,p,0,0,0,0,p
+c,c,c,c,c,c,c,c,c,h,0,0,0,0,0,0
+a,a,a,a,b,a,a,a,a,f,0,p,q,0,0,0
+b,a,a,a,a,a,a,a,n,k,0,0,0,0,0,0
+a,a,a,a,a,b,a,b,f,0,p,0,0,0,0,0
+a,a,a,a,a,a,b,a,m,c,h,0,q,0,q,0
+b,a,a,b,a,a,a,b,a,a,m,h,0,0,0,0
+a,a,a,a,a,b,a,a,a,b,a,f,0,0,0,0
+NAME beach7
+EXT 11,15 8 11,1
+EXT 12,15 8 12,1
+EXT 13,15 8 13,1
+EXT 14,15 8 14,1
+EXT 15,2 2 1,2
+EXT 15,3 2 1,3
+EXT 15,4 2 1,4
+EXT 15,5 2 1,5
+EXT 15,6 2 1,6
+EXT 15,7 2 1,7
+EXT 15,8 2 1,8
+EXT 15,9 2 1,9
+EXT 15,10 2 1,10
+EXT 15,11 2 1,11
+EXT 15,12 2 1,12
+EXT 15,13 2 1,13
+EXT 15,14 2 1,14
+EXT 15,1 2 1,1
+EXT 0,5 d 14,5
+EXT 0,6 d 14,6
+EXT 0,7 d 14,7
+EXT 0,8 d 14,8
+EXT 0,9 d 14,9
+PAL 0
+
+ROOM 10
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,54,55,55,55,55,51,a,a,a,a,a
+a,a,a,a,a,53,59,59,59,59,50,a,a,a,a,a
+a,a,a,a,a,52,56,56,56,56,4z,a,a,a,a,a
+a,a,a,4s,4r,4y,4x,4x,4x,4x,4w,4r,4t,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4v,4q,4q,4q,4q,4q,4q,4q,4q,4u,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME final2
+ITM 4 10,8
+ITM 3 9,9
+ITM 2 7,5
+ITM a 5,7
+PAL 3
+
+ROOM 12
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,54,55,55,55,55,51,a,a,a,a,a
+a,a,a,a,a,53,59,59,59,59,50,a,a,a,a,a
+a,a,a,a,a,52,56,56,56,56,4z,a,a,a,a,a
+a,a,a,4s,4r,4y,4x,4x,4x,4x,4w,4r,4t,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4v,4q,4q,4q,4q,4q,4q,4q,4q,4u,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME final3
+ITM 2 7,5
+ITM 3 9,9
+ITM a 5,7
+ITM 4 10,8
+ITM c 7,9
+PAL 3
+
+ROOM 13
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,54,55,55,55,5a,51,a,a,a,a,a
+a,a,a,a,a,53,59,59,59,59,50,a,a,a,a,a
+a,a,a,a,a,52,5b,56,56,56,4z,a,a,a,a,a
+a,a,a,4s,4r,4y,4x,4x,4x,4x,4w,4r,4t,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4v,4q,4q,4q,4q,4q,4q,4q,4q,4u,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME final4
+ITM 2 7,6
+ITM 3 9,10
+ITM a 6,7
+ITM 4 11,8
+ITM c 7,9
+PAL 3
+
+ROOM 14
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,54,55,5f,5e,5a,51,a,a,a,a,a
+a,a,a,a,a,53,59,5d,5c,59,50,a,a,a,a,a
+a,a,a,a,a,52,5b,5h,5g,56,4z,a,a,a,a,a
+a,a,a,4s,4r,4y,4x,4x,4x,4x,4w,4r,4t,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4v,4q,4q,4q,4q,4q,4q,4q,4q,4u,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME final5
+ITM 2 7,6
+ITM 3 9,10
+ITM a 6,7
+ITM 4 11,8
+ITM c 7,9
+PAL 3
+
+ROOM 15
+r,a,r,a,a,r,a,a,r,a,a,a,a,r,r,a
+a,a,a,r,a,a,a,a,a,a,a,r,a,a,a,a
+a,n,g,g,g,g,g,g,g,g,g,g,g,g,o,a
+n,k,0,2o,0,0,0,0,0,0,0,0,0,0,j,o
+k,0,0,0,0,0,0,0,0,0,0,0,0,85,0,j
+0,0,0,0,0,0,0,0,2o,0,7b,7m,7u,84,0,0
+0,2o,0,0,6q,6k,6a,60,5m,71,7a,7l,0,83,0,0
+0,0,0,0,6p,6j,69,5z,5l,70,79,7k,0,82,8b,2o
+0,0,2o,0,6o,6i,68,5y,5k,6z,78,7j,7t,81,8a,0
+0,0,0,0,0,6h,67,5x,5j,a,a,7i,7s,80,89,0
+0,0,0,0,0,6g,66,0,5i,6y,77,7h,7r,7z,0,0
+0,0,0,0,0,6f,65,5w,5n,6x,76,7g,0,2o,0,0
+2o,0,0,0,0,6e,64,5v,5o,6w,75,7f,7q,7y,0,0
+0,0,0,2o,6n,6d,63,5u,5p,6v,74,7e,7p,7x,88,0
+0,0,0,6s,6m,6c,62,5t,5q,6u,73,7d,7o,7w,87,0
+0,8d,8c,6r,6l,6b,61,5s,5r,6t,72,7c,7n,7v,86,0
+NAME final6
+PAL 4
+
+ROOM 16
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,54,55,5f,5e,5a,51,a,a,a,a,a
+a,a,a,a,a,53,59,5d,5c,59,50,a,a,a,a,a
+a,a,a,a,a,52,5b,5h,5g,56,4z,a,a,a,a,a
+a,a,a,4s,4r,4y,4x,4x,4x,4x,4w,4r,4t,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4v,4q,4q,4q,4q,4q,4q,4q,4q,4u,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME final7
+ITM c 7,9
+PAL 3
+
+ROOM 17
+r,a,r,a,a,r,a,a,r,a,a,a,a,r,r,a
+a,a,a,r,a,a,a,a,a,a,a,r,a,a,a,a
+a,n,g,g,g,g,g,g,g,g,g,g,g,g,o,a
+n,k,0,2o,0,0,0,0,0,0,0,0,0,0,j,o
+k,0,0,0,0,0,0,0,0,0,0,0,0,85,0,j
+0,0,0,0,0,0,0,0,2o,0,7b,7m,7u,84,0,0
+0,2o,0,0,6q,6k,6a,60,5m,71,7a,7l,0,83,0,0
+0,0,0,0,6p,6j,8e,5z,5l,70,79,7k,0,82,8b,2o
+0,0,2o,0,6o,6i,68,5y,5k,6z,78,7j,7t,81,8a,0
+0,0,0,0,0,6h,67,5x,5j,a,a,7i,7s,80,89,0
+0,0,0,0,0,6g,66,0,5i,6y,77,7h,7r,7z,0,0
+0,0,0,0,0,6f,65,5w,5n,6x,76,7g,0,2o,0,0
+2o,0,0,0,0,6e,64,5v,5o,6w,75,7f,7q,7y,0,0
+0,0,0,2o,6n,6d,63,5u,5p,6v,74,7e,7p,7x,88,0
+0,0,0,6s,6m,6c,62,5t,5q,6u,73,7d,7o,7w,87,0
+0,8d,8c,6r,6l,6b,61,5s,5r,6t,72,7c,7n,7v,86,0
+NAME final8
+PAL 4
+
+ROOM 18
+r,a,r,a,a,r,a,a,r,a,a,a,a,r,r,a
+a,a,a,r,a,a,a,a,a,a,a,r,a,a,a,a
+a,n,g,g,g,g,g,g,g,g,g,g,g,g,o,a
+n,k,0,2o,0,0,0,0,0,0,0,0,0,0,j,o
+k,0,0,0,8k,8h,8h,8h,8l,0,0,0,0,85,0,j
+0,0,0,8k,8p,8f,8f,8f,8o,8l,7b,7m,7u,84,0,0
+0,2o,0,8j,8f,8f,8f,8f,8f,8i,7a,7l,0,83,0,0
+0,0,0,8j,8f,8f,8f,8f,8f,8i,79,7k,0,82,8b,2o
+0,0,2o,8j,8f,8f,8f,8f,8f,8i,78,7j,7t,81,8a,0
+0,0,0,8j,8f,8f,8f,8f,8f,8i,a,7i,7s,80,89,0
+0,0,0,8n,8r,8f,8f,8f,8q,8m,77,7h,7r,7z,0,0
+0,0,0,0,8n,8g,8g,8g,8m,6x,76,7g,0,2o,0,0
+2o,0,0,0,0,6e,64,5v,5o,6w,75,7f,7q,7y,0,0
+0,0,0,2o,6n,6d,63,5u,5p,6v,74,7e,7p,7x,88,0
+0,0,0,6s,6m,6c,62,5t,5q,6u,73,7d,7o,7w,87,0
+0,8d,8c,6r,6l,6b,61,5s,5r,6t,72,7c,7n,7v,86,0
+NAME final9
+PAL 4
+
+ROOM 19
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME final10
+PAL 5
+
+ROOM a
+b,a,a,a,a,a,a,b,a,a,a,a,b,a,a,a
+a,a,a,b,a,n,g,g,o,a,n,o,a,a,b,a
+a,a,b,a,a,f,0,0,j,g,k,j,o,a,a,a
+b,a,a,b,n,k,0,0,0,0,0,0,j,o,a,a
+a,b,a,n,k,q,0,0,0,0,0,q,0,j,o,a
+a,a,n,k,0,0,0,q,0,0,0,0,0,0,e,a
+g,g,k,0,0,0,0,0,0,0,0,0,0,0,e,a
+q,p,0,0,0,0,0,0,p,0,0,0,p,0,j,g
+0,0,0,0,q,0,0,0,0,0,0,0,0,q,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c,c,h,0,0,p,0,0,0,q,q,0,0,0,0,p
+b,a,m,h,0,0,0,0,0,0,0,0,0,0,0,0
+a,b,n,k,0,0,0,0,0,0,0,0,q,0,0,0
+a,n,k,0,p,0,q,0,0,0,0,p,0,i,c,c
+a,f,0,0,0,0,0,0,0,0,0,0,i,l,a,a
+b,f,q,0,0,0,0,0,0,q,0,0,e,a,b,a
+NAME beach8
+EXT 1,15 4 1,1
+EXT 2,15 4 2,1
+EXT 3,15 4 3,1
+EXT 4,15 4 4,1
+EXT 5,15 4 5,1
+EXT 6,15 4 6,1
+EXT 7,15 4 7,1
+EXT 8,15 4 8,1
+EXT 9,15 4 9,1
+EXT 10,15 4 10,1
+EXT 11,15 4 11,1
+EXT 12,15 4 12,1
+EXT 0,6 b 14,6
+EXT 0,7 b 14,7
+EXT 0,8 b 14,8
+EXT 0,9 b 14,9
+EXT 0,10 b 14,10
+EXT 15,7 c 1,7
+EXT 15,8 c 1,8
+EXT 15,9 c 1,9
+EXT 15,10 c 1,10
+EXT 15,11 c 1,11
+EXT 15,12 c 1,12
+EXT 15,13 c 1,13
+PAL 0
+
+ROOM b
+a,b,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,b,a,a,a,a,a,a,b,a,a,a,a,b
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,a,n,g,g,o,b,a,a,a,a,a,a,a,b,a
+a,n,k,0,0,j,o,a,a,a,b,a,a,a,a,a
+a,f,0,0,0,p,e,a,a,a,a,n,g,o,a,a
+a,f,0,q,0,0,j,g,g,g,g,k,0,j,g,g
+a,f,0,0,0,0,0,0,0,0,0,0,p,0,0,0
+a,f,0,0,0,0,q,0,0,0,0,p,0,0,q,0
+b,f,0,0,p,0,0,p,0,i,h,0,0,0,0,0
+a,f,p,0,0,0,0,0,i,l,m,c,c,c,c,c
+a,f,0,0,q,0,i,c,l,a,b,a,a,a,a,a
+a,m,h,0,0,i,l,a,a,a,a,a,a,b,a,a
+a,a,m,c,c,l,a,a,a,a,a,b,a,a,a,a
+a,a,b,a,a,a,a,a,a,a,b,a,b,a,a,a
+a,a,a,a,a,a,a,a,b,a,a,a,a,a,a,a
+NAME beach9
+EXT 15,6 a 1,6
+EXT 15,7 a 1,7
+EXT 15,8 a 1,8
+EXT 15,9 a 1,9
+EXT 15,10 a 1,10
+PAL 0
+
+ROOM c
+b,a,a,a,a,a,a,a,b,a,a,a,a,b,a,a
+a,n,g,o,a,a,a,a,a,b,a,b,a,a,a,a
+a,f,q,e,a,a,b,a,a,a,a,a,a,a,b,a
+a,m,c,l,a,a,n,g,g,g,g,o,a,a,a,a
+a,a,a,a,a,n,k,0,0,0,0,j,g,o,a,a
+b,a,n,g,g,k,0,p,0,0,0,0,q,e,a,a
+a,n,k,0,0,0,0,0,0,0,0,0,0,e,b,a
+g,k,0,0,q,0,0,0,0,0,p,0,0,j,o,a
+0,0,0,0,0,0,0,0,q,0,0,0,0,0,e,a
+p,q,0,0,0,0,0,0,0,0,q,p,0,0,e,a
+0,0,0,0,0,p,0,q,0,0,0,0,0,i,l,a
+0,p,0,q,0,0,0,0,0,0,0,0,i,l,a,a
+0,0,0,0,0,0,0,0,0,0,i,c,l,a,a,a
+c,c,c,c,h,0,0,p,0,i,l,a,a,a,a,b
+a,a,b,a,m,c,c,c,c,l,a,a,b,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,b,a,a,b,a
+NAME beach10
+EXT 0,7 a 14,7
+EXT 0,8 a 14,8
+EXT 0,9 a 14,9
+EXT 0,10 a 14,10
+EXT 0,11 a 14,11
+EXT 0,12 a 14,12
+EXT 0,13 a 14,13
+PAL 0
+
+ROOM d
+b,a,a,a,a,a,a,a,a,a,a,a,a,a,b,a
+a,a,a,a,a,b,a,a,a,a,a,b,a,a,a,a
+a,a,a,a,a,a,b,a,a,a,a,a,a,a,b,a
+a,a,a,b,a,a,a,a,a,a,b,a,a,a,a,a
+b,a,a,a,a,a,a,n,o,a,a,a,a,a,a,a
+s,s,s,s,s,s,s,t,j,g,g,g,g,g,g,g
+s,s,s,s,s,s,s,t,q,0,0,0,q,0,p,0
+s,s,s,s,s,s,s,t,q,0,0,0,0,0,0,0
+s,s,s,s,s,s,s,t,0,0,q,0,p,0,0,q
+s,s,s,s,s,s,s,t,i,c,c,c,c,c,c,c
+a,a,a,a,b,a,a,m,l,a,a,a,a,b,a,a
+b,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,b,a,a,a,a,a,b,a,a,a,b,a,a
+a,a,a,a,b,a,a,a,a,a,a,a,a,a,a,a
+a,b,a,b,a,a,a,a,a,a,a,a,b,a,a,a
+a,a,a,a,a,a,a,b,a,a,a,a,a,a,a,a
+NAME bridge
+EXT 15,5 9 1,5
+EXT 15,6 9 1,6
+EXT 15,7 9 1,7
+EXT 15,8 9 1,8
+EXT 15,9 9 1,9
+EXT 0,5 e 14,5
+EXT 0,6 e 14,6
+EXT 0,7 e 14,7
+EXT 0,8 e 14,8
+EXT 0,9 e 14,9
+PAL 0
+
+ROOM e
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,b,a,a,b,a,a,a,a,a,b,a,a,b,a
+a,a,a,a,a,a,a,a,a,b,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,b,a,a,a,a,a
+a,a,a,a,b,a,a,a,a,a,a,b,a,a,a,a
+s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,b,a,a,a,a,a,a,a,a,a,b,a
+a,a,a,a,a,a,a,a,a,a,b,a,a,a,a,a
+a,a,b,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,b,a,a,a,a,a,b,a
+a,a,a,a,a,b,a,a,a,a,a,b,a,a,a,a
+NAME bridge2
+EXT 15,5 d 1,5
+EXT 15,6 d 1,6
+EXT 15,7 d 1,7
+EXT 15,8 d 1,8
+EXT 15,9 d 1,9
+EXT 0,5 f 14,5
+EXT 0,6 f 14,6
+EXT 0,7 f 14,7
+EXT 0,8 f 14,8
+EXT 0,9 f 14,9
+PAL 0
+
+ROOM f
+a,a,a,a,a,b,a,a,a,a,a,a,a,a,a,a
+a,a,a,b,a,a,a,a,a,a,a,b,a,a,b,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,n,g,g,g,o,a,a,b,a,a,a,b,a,a,a
+g,k,0,0,0,j,o,a,n,o,a,a,a,b,a,a
+v,0,0,q,q,0,j,g,k,u,s,s,s,s,s,s
+v,q,0,0,0,0,0,0,0,u,s,s,s,s,s,s
+v,0,0,0,0,0,0,q,0,u,s,s,s,s,s,s
+v,0,0,0,q,0,0,0,p,u,s,s,s,s,s,s
+c,c,c,c,c,c,c,c,h,u,s,s,s,s,s,s
+a,a,a,a,a,a,a,a,m,l,a,a,a,a,a,a
+a,a,b,a,a,a,b,a,a,a,a,a,a,a,a,a
+a,a,a,b,a,a,a,a,a,a,a,a,b,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,b,a,a,a,a
+a,b,a,a,a,a,b,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,b
+NAME town1
+EXT 15,5 e 1,5
+EXT 15,6 e 1,6
+EXT 15,7 e 1,7
+EXT 15,8 e 1,8
+EXT 15,9 e 1,9
+EXT 0,5 g 14,5
+EXT 0,6 g 14,6
+EXT 0,7 g 14,7
+EXT 0,4 g 14,4
+EXT 0,8 g 14,8
+EXT 0,9 g 14,9
+PAL 0
+
+ROOM g
+1e,1e,1e,1e,15,16,17,1e,15,16,17,1e,15,16,17,1g
+x,w,w,w,14,13,12,w,14,13,14,w,14,13,12,1g
+w,w,w,w,10,11,z,w,10,11,z,w,10,11,z,1e
+x,w,w,w,w,w,w,w,w,w,w,w,w,w,w,x
+1g,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w
+1g,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w
+1g,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w
+1g,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w
+1g,w,w,w,w,w,w,w,w,1d,w,w,w,w,w,w
+1g,w,w,w,w,w,w,w,w,0,w,w,w,w,w,w
+1g,w,w,w,w,w,w,w,w,w,w,w,w,w,w,x
+1g,w,w,w,w,w,w,w,w,w,w,w,w,w,w,1g
+1g,w,w,1b,1a,w,w,w,w,w,w,w,w,w,w,1g
+1g,w,w,19,18,w,w,w,w,w,w,w,w,w,w,1g
+1g,w,w,w,w,w,w,w,w,w,w,w,w,w,w,1g
+1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e
+NAME town2
+EXT 15,4 f 1,4
+EXT 15,5 f 1,5
+EXT 15,6 f 1,6
+EXT 15,7 f 1,7
+EXT 15,8 f 1,8
+EXT 15,9 f 1,9
+EXT 5,2 h 7,14
+EXT 9,2 i 8,14
+EXT 13,2 k 7,14
+PAL 1
+
+ROOM h
+1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h
+1h,1m,1q,1q,1q,1q,1q,1q,1q,1q,1q,1q,1q,1q,1p,1h
+1h,1k,0,0,23,24,23,24,23,24,23,24,23,24,1l,1h
+1h,1k,0,0,22,25,22,25,22,25,22,25,22,25,1l,1h
+1h,1k,0,0,0,0,0,0,0,0,0,0,0,0,1l,1h
+1h,1k,21,21,21,21,20,0,0,0,0,0,0,0,1l,1h
+1h,1k,0,0,0,0,26,2a,0,0,0,0,0,0,1l,1h
+1h,1k,0,0,0,0,27,29,1r,1t,1t,1t,1s,0,1l,1h
+1h,1k,0,0,0,0,28,0,1x,1z,1z,1z,1y,0,1l,1h
+1h,1k,0,0,0,0,0,0,1x,1z,1z,1z,1y,0,1l,1h
+1h,1k,0,0,0,0,0,0,1x,1z,1z,1z,1y,0,1l,1h
+1h,1k,0,0,0,0,0,0,1v,1w,1w,1w,1u,0,1l,1h
+1h,1k,0,0,0,0,0,0,0,0,0,0,0,0,1l,1h
+1h,1n,1j,1j,1j,1j,1j,1i,1j,1j,1j,1j,1j,1j,1o,1h
+1h,1h,1h,1h,1h,1h,1h,1i,1h,1h,1h,1h,1h,1h,1h,1h
+NAME bookstore
+EXT 7,15 g 5,3
+PAL 1
+
+ROOM i
+1h,1h,1h,1h,1k,2b,0,0,0,0,0,2b,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,2b,0,0,0,0,0,2b,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,2b,0,0,0,0,0,2b,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,2b,0,0,0,0,0,2b,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,2b,0,0,0,0,0,2b,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1n,1j,1j,1j,1i,1j,1j,1j,1o,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1i,1h,1h,1h,1h,1h,1h,1h
+NAME cityhall1
+EXT 8,15 g 9,3
+EXT 6,0 j 6,14
+EXT 7,0 j 7,14
+EXT 8,0 j 8,14
+EXT 9,0 j 9,14
+EXT 10,0 j 10,14
+PAL 1
+
+ROOM j
+1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1m,1q,1q,1q,1q,1q,1q,1q,1p,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,2b,0,0,0,0,0,2b,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,2b,2c,21,20,2b,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,1r,1t,1s,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,1x,1z,1y,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,1x,1z,1y,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,1x,1z,1y,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,1x,1z,1y,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,1v,1w,1u,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,2b,0,0,0,0,0,2b,1l,1h,1h,1h
+NAME cityhall2
+EXT 10,15 i 10,1
+EXT 9,15 i 9,1
+EXT 8,15 i 8,1
+EXT 7,15 i 7,1
+EXT 6,15 i 6,1
+PAL 1
+
+ROOM k
+1m,1q,1q,1q,1q,1q,1q,1q,1q,1q,1q,1q,1q,1q,1q,1p
+1k,0,0,0,0,0,0,0,0,0,2f,2g,0,0,0,1l
+1k,0,1r,1t,1t,1t,1t,1s,0,0,2d,2e,0,0,0,1l
+1k,0,1x,1z,1z,1z,1z,1y,0,0,0,0,0,0,0,1l
+1k,0,1x,1z,1z,1z,1z,1y,0,0,0,0,0,0,0,1l
+1k,0,1x,1z,1z,1z,1z,1y,1r,1t,1s,0,0,0,0,1l
+1k,0,1x,1z,1z,1z,1z,1y,1v,1w,1u,1r,1t,1s,0,1l
+1k,0,1v,1w,1w,1w,1w,1u,0,1r,1s,1x,1z,1y,0,1l
+1k,0,0,0,0,0,0,0,0,1v,1u,1v,1w,1u,0,1l
+1k,1r,1t,1t,1s,1r,1t,1t,1t,1t,1s,1r,1t,1t,1s,1l
+1k,1v,1w,1w,1u,1x,1z,1z,1z,1z,1y,1x,1z,1z,1y,1l
+1k,0,1r,1s,0,1x,1z,1z,1z,1z,1y,1x,1z,1z,1y,1l
+1k,0,1x,1y,0,1x,1z,1z,1z,1z,1y,1v,1w,1w,1u,1l
+1k,0,1v,1u,0,1v,1w,1w,1w,1w,1u,0,0,0,0,1l
+1k,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1l
+1n,1j,1j,1j,1j,1j,1j,1i,1j,1j,1j,1j,1j,1j,1j,1o
+NAME weavehouse
+EXT 7,15 g 13,3
+PAL 1
+
+ROOM l
+1g,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e
+1g,w,15,16,17,w,15,16,17,w,w,w,w,w,w,x
+1g,w,14,13,12,w,14,13,12,w,w,w,w,w,w,w
+1g,w,10,11,z,w,10,11,z,w,w,w,w,w,w,x
+x,w,w,w,w,w,w,w,w,w,w,w,w,w,w,1g
+w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,1g
+w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,1g
+w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,1g
+w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,1g
+x,w,w,w,w,w,w,w,w,w,w,w,w,w,w,1g
+1g,w,w,w,w,w,w,w,w,w,w,w,w,w,w,1g
+1g,15,16,17,w,w,w,w,w,w,w,w,w,w,w,1g
+1g,14,13,12,w,w,w,w,w,w,w,w,w,w,w,1g
+1g,10,11,z,w,w,w,w,w,w,w,w,w,w,w,1g
+1g,w,w,w,w,w,w,w,w,w,w,w,w,w,w,1g
+1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e,1e
+NAME town3
+EXT 15,2 g 1,2
+EXT 0,5 m 14,5
+EXT 0,6 m 14,6
+EXT 0,7 m 14,7
+EXT 0,8 m 14,8
+EXT 2,13 w 8,14
+EXT 7,3 x 8,14
+PAL 1
+
+ROOM m
+b,a,a,a,a,a,n,k,0,0,0,p,0,0,j,o
+a,a,a,a,b,a,f,0,0,0,0,q,0,0,0,j
+a,b,a,a,a,a,f,p,0,0,0,0,0,0,0,0
+a,a,b,a,a,a,m,h,0,0,0,0,0,0,q,0
+a,b,a,a,a,a,a,f,0,0,p,0,0,0,0,0
+a,a,a,a,a,a,b,f,0,0,0,0,0,0,0,2h
+a,b,a,a,a,a,n,k,0,0,0,0,0,0,0,2h
+a,a,a,b,a,a,f,0,0,p,0,0,0,0,0,2h
+a,a,a,a,a,n,k,0,0,0,0,0,0,0,0,2h
+a,a,a,a,a,f,p,0,0,q,0,0,0,q,0,0
+a,b,a,a,a,f,0,0,0,0,0,0,0,0,0,0
+a,a,a,a,b,m,h,0,0,0,0,0,0,0,0,0
+a,a,b,a,a,n,k,0,0,0,0,0,0,0,0,0
+a,a,a,a,a,f,0,q,0,0,q,0,0,0,0,0
+b,a,a,a,a,m,h,0,0,0,0,0,0,0,0,i
+a,a,a,b,a,a,m,h,0,p,0,0,0,p,i,l
+NAME backbeach1
+EXT 15,5 l 1,5
+EXT 15,6 l 1,6
+EXT 15,7 l 1,7
+EXT 15,8 l 1,8
+EXT 14,0 p 14,14
+EXT 13,0 p 13,14
+EXT 11,0 p 11,14
+EXT 12,0 p 12,14
+EXT 10,0 p 10,14
+EXT 9,0 p 9,14
+EXT 8,0 p 8,14
+EXT 7,0 p 7,14
+EXT 14,15 o 14,1
+EXT 13,15 o 13,1
+EXT 12,15 o 12,1
+EXT 11,15 o 11,1
+EXT 10,15 o 10,1
+EXT 9,15 o 9,1
+EXT 8,15 o 8,1
+EXT 7,15 o 7,1
+PAL 0
+
+ROOM n
+a,a,a,a,a,a,a,f,0,e,a,b,a,a,a,a
+a,a,a,a,a,a,a,f,0,e,a,a,a,a,a,a
+a,a,a,a,a,b,a,f,0,e,a,a,a,a,a,a
+a,b,a,a,a,a,n,k,0,e,a,a,b,a,a,a
+a,a,a,a,a,a,f,0,i,l,a,a,a,a,b,a
+a,a,b,a,a,n,k,0,e,a,b,a,a,a,a,a
+b,a,a,a,a,f,0,0,j,o,a,a,a,a,a,a
+a,a,a,a,b,m,h,0,0,j,o,a,a,a,a,a
+a,a,b,a,a,n,k,0,0,0,e,a,a,a,a,a
+a,a,a,a,n,k,0,0,0,0,e,a,a,a,b,a
+a,a,a,a,f,0,i,c,h,0,e,a,a,b,a,a
+a,a,a,a,f,0,e,r,f,0,e,a,a,a,b,a
+a,b,a,a,f,0,j,g,k,0,e,a,b,a,a,a
+a,a,a,a,m,h,0,0,0,i,l,a,a,a,a,a
+a,a,a,a,b,m,c,c,c,l,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,b,a,a,a,a,a
+NAME beach11
+EXT 7,0 7 7,14
+EXT 8,0 7 8,14
+EXT 9,0 7 9,14
+EXT 7,11 t 7,1
+PAL 0
+
+ROOM o
+a,a,a,a,a,a,a,f,0,0,0,p,0,0,e,a
+b,a,a,b,a,n,g,k,0,0,0,0,0,0,e,a
+a,a,a,a,n,k,0,0,0,0,0,0,0,i,l,a
+a,a,a,a,f,0,0,0,0,q,p,0,i,l,a,b
+a,a,b,a,f,0,0,0,0,0,0,0,e,a,b,a
+a,b,a,a,f,q,0,0,0,0,0,0,e,a,a,a
+a,a,a,n,k,0,0,0,0,q,0,i,l,a,a,a
+a,a,n,k,p,0,0,0,0,0,0,e,a,a,b,a
+a,a,f,q,0,0,q,0,0,0,0,j,o,a,a,a
+a,a,f,0,i,c,h,0,0,0,q,0,e,a,a,b
+a,a,f,0,e,r,f,0,0,q,0,0,e,a,a,a
+a,n,k,0,j,g,k,0,0,p,0,i,l,a,a,a
+a,f,q,0,0,0,0,0,0,0,0,e,a,b,a,a
+a,m,h,0,p,0,i,c,h,0,i,l,a,a,a,a
+b,a,m,c,c,c,l,b,m,c,l,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,b,a
+NAME backbeach2
+EXT 7,0 m 7,14
+EXT 8,0 m 8,14
+EXT 9,0 m 9,14
+EXT 10,0 m 10,14
+EXT 11,0 m 11,14
+EXT 12,0 m 12,14
+EXT 13,0 m 13,14
+EXT 14,0 m 14,14
+EXT 5,10 u 2,1
+PAL 0
+
+ROOM p
+a,a,a,b,a,a,a,a,a,a,a,a,b,a,a,a
+b,a,n,g,g,o,n,g,o,b,n,g,o,a,a,a
+a,n,k,q,0,j,k,0,j,g,k,0,j,o,a,a
+a,f,0,0,0,0,0,0,0,0,0,0,0,e,b,a
+a,f,0,0,0,0,0,0,0,0,q,0,0,j,o,b
+a,f,0,0,0,0,0,p,0,0,0,0,0,0,e,a
+a,m,h,p,0,0,p,0,0,0,0,0,0,0,e,a
+a,a,m,c,h,0,0,0,0,0,p,q,0,0,e,a
+a,a,a,a,m,h,0,0,0,0,0,0,0,0,e,a
+a,a,a,a,a,f,0,q,0,0,0,0,0,0,e,a
+a,b,a,a,a,f,0,0,0,0,0,0,0,0,e,b
+b,a,a,a,a,m,h,0,0,0,0,0,0,i,l,a
+a,a,a,a,a,a,f,0,0,p,0,0,0,e,a,a
+a,a,a,a,a,b,f,0,0,0,0,0,0,j,o,a
+a,a,a,b,a,a,m,h,0,0,0,q,0,p,e,a
+a,a,a,a,a,a,a,f,0,q,0,0,0,0,e,b
+NAME backbeach3
+ITM 5 2,5
+EXT 14,15 m 14,1
+EXT 13,15 m 13,1
+EXT 12,15 m 12,1
+EXT 11,15 m 11,1
+EXT 10,15 m 10,1
+EXT 9,15 m 9,1
+EXT 8,15 m 8,1
+EXT 7,15 m 7,1
+PAL 0
+
+ROOM q
+r,a,r,a,r,a,n,2p,2q,o,a,r,a,r,a,r
+a,r,a,r,a,n,k,0,0,j,o,a,a,a,r,r
+a,a,a,a,n,k,0,0,0,2o,j,o,a,a,a,a
+a,a,a,a,f,0,0,0,0,0,0,e,a,a,a,a
+a,a,a,a,f,0,2o,0,0,0,0,e,a,a,a,a
+a,a,a,n,k,0,0,0,0,0,0,j,o,a,a,a
+a,a,a,f,0,0,0,0,0,0,0,0,e,a,a,a
+a,a,n,k,0,0,0,2o,0,0,0,0,j,o,a,a
+a,a,f,0,0,0,0,0,0,0,0,0,0,e,a,a
+a,n,k,0,0,0,0,0,0,0,0,0,0,j,o,a
+a,f,0,2o,0,0,0,0,0,0,0,0,0,0,e,a
+a,f,0,0,0,2n,0,0,0,0,0,0,0,0,e,a
+a,f,0,0,2j,2l,0,0,0,0,0,2o,0,0,e,a
+a,m,h,0,2i,2k,0,0,0,0,0,0,0,i,l,a
+a,a,m,c,c,c,c,c,c,c,c,c,c,l,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME underw1
+ITM 6 9,13
+EXT 7,0 5 4,6
+EXT 8,0 5 4,6
+PAL 2
+
+ROOM r
+r,a,r,a,r,a,n,2p,2q,o,a,r,a,r,a,r
+a,r,a,r,a,n,k,0,0,j,o,a,a,a,r,r
+a,a,a,a,n,k,0,0,0,0,j,o,a,a,a,a
+a,a,a,a,f,0,2o,0,0,0,0,e,a,a,a,a
+a,a,a,a,f,0,0,0,0,0,0,e,a,a,a,a
+a,a,a,n,k,0,0,2o,0,0,0,j,o,a,a,a
+a,a,a,f,0,0,0,0,0,0,0,0,e,a,a,a
+a,a,n,k,0,0,0,0,0,0,0,2o,j,o,a,a
+a,a,f,0,0,0,0,0,0,0,0,0,0,e,a,a
+a,n,k,0,0,2o,0,0,0,0,0,0,0,j,o,a
+a,f,0,0,0,0,0,0,0,0,0,0,0,0,e,a
+a,f,0,0,0,0,0,0,0,0,2n,0,0,0,e,a
+a,f,0,0,0,0,0,2o,0,2j,2l,0,0,0,e,a
+a,m,h,0,0,0,0,0,0,2i,2k,0,0,i,l,a
+a,a,m,c,c,c,c,c,c,c,c,c,c,l,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME underw2
+ITM 8 3,12
+EXT 7,0 6 3,4
+EXT 8,0 6 3,4
+PAL 2
+
+ROOM s
+r,a,r,a,r,a,n,2p,2q,o,a,r,a,r,a,r
+a,r,a,r,a,n,k,0,0,j,o,a,a,a,r,r
+a,a,a,a,n,k,0,0,2o,0,j,o,a,a,a,a
+a,a,a,a,f,0,0,0,0,0,0,e,a,a,a,a
+a,a,a,a,f,0,0,0,0,0,0,e,a,a,a,a
+a,a,a,n,k,0,0,0,0,0,0,j,o,a,a,a
+a,a,a,f,0,0,2o,0,0,0,0,0,e,a,a,a
+a,a,n,k,0,0,0,0,0,0,0,0,j,o,a,a
+a,a,f,0,0,0,0,0,0,2o,0,0,0,e,a,a
+a,n,k,0,0,2o,0,0,0,0,0,0,0,j,o,a
+a,f,0,0,0,0,0,0,0,0,0,0,0,2o,e,a
+a,f,0,0,2o,0,0,0,2n,0,2n,0,0,0,e,a
+a,f,0,0,0,0,0,2j,2l,2j,2l,0,0,0,e,a
+a,m,h,0,0,0,0,2i,2k,2i,2k,0,0,i,l,a
+a,a,m,c,c,c,c,c,c,c,c,c,c,l,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME underw3
+EXT 7,0 6 9,7
+EXT 8,0 6 9,7
+PAL 2
+
+ROOM t
+r,a,r,a,r,a,n,2p,2q,o,a,r,r,a,r,r
+a,r,a,a,a,n,k,0,0,j,o,a,a,r,a,a
+a,a,a,a,n,k,0,0,2o,0,j,o,a,a,a,a
+a,a,a,n,k,0,0,0,0,0,0,j,o,a,a,a
+n,g,g,k,0,0,0,0,0,0,0,0,j,g,g,o
+k,0,0,0,0,0,0,0,0,2o,0,0,0,0,0,j
+0,2o,0,0,0,0,0,0,0,0,0,2o,0,0,2o,0
+0,3g,3q,3y,0,2o,0,0,0,0,0,0,3z,3r,3h,0
+0,3e,3o,0,0,0,0,0,0,0,0,0,0,3p,3f,0
+38,a,3m,0,0,0,0,0,0,0,0,0,0,3n,a,39
+36,a,3k,0,0,0,0,0,0,0,0,0,0,3l,a,37
+34,3c,3i,3w,0,0,2o,0,0,0,0,0,3x,3j,3d,35
+32,3a,3a,3u,0,0,0,0,0,0,0,0,3v,3b,3b,33
+30,0,0,3s,43,0,0,0,0,0,0,44,3t,0,0,31
+2r,2s,2t,2u,a,a,a,a,a,a,a,a,2w,2x,2y,2z
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME underw4
+EXT 7,0 n 7,10
+EXT 8,0 n 7,10
+PAL 2
+
+ROOM u
+a,n,93,o,a,r,a,r,a,a,r,a,n,93,o,a
+a,f,0,e,a,a,r,a,r,a,a,a,f,0,e,a
+a,f,0,e,a,a,a,a,a,a,a,a,f,2o,e,a
+a,f,0,e,a,a,a,a,a,a,a,a,f,0,e,a
+a,f,0,e,a,n,g,g,g,g,g,g,k,0,e,a
+a,f,0,e,a,f,0,0,0,0,0,0,2o,0,e,a
+a,f,2o,e,a,f,0,i,c,c,c,c,c,c,l,a
+a,f,0,e,a,f,0,e,a,a,a,a,a,a,a,a
+a,f,0,e,a,f,0,j,g,g,g,g,g,g,o,a
+a,f,0,e,a,f,2o,0,0,0,0,0,0,0,e,a
+a,f,0,e,a,m,c,c,c,c,c,c,h,0,e,a
+a,f,0,e,a,a,a,a,a,a,a,a,f,0,e,a
+a,f,0,j,g,g,g,g,g,g,g,g,k,0,e,a
+a,f,0,0,0,0,0,2o,0,0,0,0,0,0,e,a
+a,m,c,c,c,c,c,c,c,c,c,c,c,c,l,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME underw5
+EXT 2,0 o 5,9
+EXT 13,0 8 4,7
+PAL 2
+
+ROOM v
+b,a,a,a,b,a,a,a,a,a,a,a,a,a,a,a
+g,g,o,a,a,a,n,g,g,g,o,a,a,a,a,b
+0,q,j,g,g,g,k,0,q,0,j,o,b,a,a,a
+0,0,0,0,0,0,0,0,0,0,0,e,a,a,a,a
+p,0,0,0,q,p,0,0,p,0,0,e,a,a,b,a
+0,0,0,0,0,0,0,0,0,0,0,e,a,a,a,a
+c,c,c,c,h,0,0,q,0,0,p,e,a,a,b,a
+a,a,a,a,m,c,c,h,0,0,0,e,a,a,a,a
+a,a,a,b,a,a,a,m,c,h,0,e,b,a,a,a
+a,a,a,a,a,b,a,a,a,f,0,e,a,a,a,a
+a,a,a,a,a,a,b,a,a,f,q,j,o,a,b,a
+a,a,a,b,a,a,a,a,a,f,0,0,e,a,a,b
+a,a,a,a,a,b,a,a,a,m,h,0,j,g,o,a
+a,a,a,a,b,a,a,a,b,a,f,0,q,0,e,45
+a,a,b,a,a,a,b,a,a,a,m,c,c,c,l,a
+b,a,a,a,a,b,a,a,a,a,a,a,a,a,b,a
+NAME beach12
+EXT 0,2 2 14,2
+EXT 0,3 2 14,3
+EXT 0,4 2 14,4
+EXT 0,5 2 14,5
+EXT 0,6 2 14,6
+EXT 0,1 2 14,1
+PAL 0
+
+ROOM w
+1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1m,1q,1q,1q,1q,1q,1q,1q,1p,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,42,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,41,40,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,1r,1t,1s,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,1x,1z,1y,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,1v,1w,1u,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1n,1j,1j,1j,1i,1j,1j,1j,1o,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1i,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1i,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1i,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1i,1h,1h,1h,1h,1h,1h,1h
+NAME residence1
+EXT 8,15 l 2,14
+PAL 1
+
+ROOM x
+1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1m,1q,1q,1q,1q,1q,1q,1q,1p,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,42,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,1r,1t,1t,1s,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,1v,1w,1w,1u,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,41,40,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1k,0,0,0,0,0,0,0,1l,1h,1h,1h
+1h,1h,1h,1h,1n,1j,1j,1j,1i,1j,1j,1j,1o,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1i,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1i,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1i,1h,1h,1h,1h,1h,1h,1h
+1h,1h,1h,1h,1h,1h,1h,1h,1i,1h,1h,1h,1h,1h,1h,1h
+NAME residence2
+ITM 9 9,5
+EXT 8,15 l 7,4
+PAL 1
+
+ROOM y
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,54,55,55,55,55,51,a,a,a,a,a
+a,a,a,a,a,53,59,59,59,59,50,a,a,a,a,a
+a,a,a,a,a,52,56,56,56,56,4z,a,a,a,a,a
+a,a,a,4s,4r,4y,4x,4x,4x,4x,4w,4r,4t,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4v,4q,4q,4q,4q,4q,4q,4q,4q,4u,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME final1
+ITM a 5,7
+ITM 3 9,9
+ITM 2 7,5
+ITM 4 10,8
+ITM b 10,5
+ITM b 9,6
+ITM b 11,6
+ITM b 10,7
+PAL 3
+
+ROOM 1a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,54,55,55,55,5a,51,a,a,a,a,a
+a,a,a,a,a,53,59,59,59,59,50,a,a,a,a,a
+a,a,a,a,a,52,5b,56,56,56,4z,a,a,a,a,a
+a,a,a,4s,4r,4y,4x,4x,4x,4x,4w,4r,4t,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4p,58,58,58,58,58,58,58,58,4o,a,a,a
+a,a,a,4v,4q,4q,4q,4q,4q,4q,4q,4q,4u,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME final11
+ITM a 6,7
+ITM 2 7,5
+ITM 4 11,8
+ITM 3 9,10
+PAL 3
+
+ROOM 1b
+0,0,0,0,0,8u,0,0,0,92,8t,0,0,0,0,0
+8v,0,8s,8s,0,0,8t,8t,0,8t,0,0,0,8s,8s,0
+8s,0,92,0,0,0,92,0,8s,0,8s,0,0,0,92,0
+8s,0,0,0,0,0,8s,0,0,0,0,8v,0,0,0,0
+0,0,0,0,0,0,0,0,0,8t,0,0,0,0,0,0
+0,8t,0,0,0,0,8s,0,8s,0,0,0,8s,0,92,0
+8t,0,0,8t,0,8u,0,0,0,0,0,0,0,8s,8v,0
+0,0,92,0,0,0,0,0,0,8t,0,8s,8v,0,0,8t
+8s,8s,0,8t,0,0,8t,0,0,0,0,0,0,8t,0,0
+0,0,0,0,0,92,0,0,90,0,0,92,0,8s,8s,0
+0,8u,0,0,0,0,0,91,0,8s,0,0,0,0,8s,0
+0,0,0,8x,8w,0,0,0,8s,0,0,92,8t,8u,0,8s
+8t,0,0,8y,8z,0,0,0,0,8t,0,0,92,0,0,0
+0,8t,0,0,8v,0,8s,8s,0,0,0,0,8s,0,0,8s
+0,0,8t,0,0,0,0,0,92,8t,8s,0,0,0,0,0
+0,92,0,0,0,8t,8t,0,8t,0,0,8u,0,8s,0,92
+NAME space
+ITM d 14,15
+ITM d 13,14
+ITM d 15,14
+ITM d 14,13
+ITM 0 7,8
+PAL 6
+
+TIL 10
+11111111
+11001111
+11111111
+11111001
+10011111
+11111111
+10000000
+11111111
+NAME building1b
+WAL true
+COL 4
+
+TIL 11
+10000001
+10000001
+10000001
+10000001
+10000101
+10000001
+00000000
+11111111
+NAME building1c
+COL 4
+
+TIL 12
+00111111
+11111001
+11111111
+10011111
+11111001
+11111111
+11001111
+11111111
+NAME building1d
+WAL true
+COL 4
+
+TIL 13
+11111111
+11111111
+10011111
+11110011
+11111111
+10011100
+11111111
+11000011
+NAME building1e
+WAL true
+COL 4
+
+TIL 14
+11111111
+10011111
+11111001
+11111111
+11001111
+11111111
+11111001
+11111111
+NAME building1f
+WAL true
+COL 4
+
+TIL 15
+11111111
+10000000
+11111111
+11111001
+11111111
+11001111
+11111111
+11111001
+NAME building1g
+WAL true
+COL 4
+
+TIL 16
+11111111
+00000000
+11111111
+10011111
+11110011
+11111111
+10011111
+11111001
+NAME building1h
+WAL true
+COL 4
+
+TIL 17
+11111111
+00000001
+11111111
+11111001
+00111111
+11111111
+11100111
+11111111
+NAME building1i
+WAL true
+COL 4
+
+TIL 18
+00101101
+01101101
+11111111
+00110011
+11111111
+10011101
+01100011
+11111111
+NAME stand1
+WAL true
+COL 5
+
+TIL 19
+10001011
+10011011
+11111111
+10011110
+11101001
+11111111
+11001100
+11111111
+NAME stand2
+WAL true
+COL 5
+
+TIL 20
+00000000
+11111111
+00000001
+00000001
+11111111
+10101101
+10101101
+11111111
+NAME desk1
+WAL true
+COL 5
+
+TIL 21
+00000000
+11111111
+00000000
+00000000
+11111111
+10101101
+10101101
+11111111
+NAME desk2
+WAL true
+COL 5
+
+TIL 22
+11010010
+11010010
+11010010
+11111111
+11001001
+11001001
+11001001
+11111111
+NAME bookshelf1
+WAL true
+COL 3
+
+TIL 23
+11111111
+11111111
+11001010
+11001010
+11001010
+11001010
+11111111
+11010010
+NAME bookshelf2
+WAL true
+COL 3
+
+TIL 24
+11111111
+11111111
+01001011
+01001011
+01001011
+01001011
+11111111
+10010011
+NAME bookshelf3
+WAL true
+COL 3
+
+TIL 25
+10010011
+10010011
+10010011
+11111111
+00101011
+00101011
+00101011
+11111111
+NAME bookshelf4
+WAL true
+COL 3
+
+TIL 26
+00000000
+00111110
+00100010
+10100010
+00111110
+00111000
+01111100
+00111110
+NAME boook1
+WAL true
+COL 3
+
+TIL 27
+01011100
+00011001
+00101000
+01000100
+10000010
+01000001
+00100010
+10010111
+NAME boook2
+WAL true
+COL 3
+
+TIL 28
+00001111
+00000111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME boook3
+WAL false
+COL 3
+
+TIL 29
+01100000
+01100000
+00010000
+00101000
+01000100
+01000010
+10011100
+01100000
+NAME boook4
+WAL true
+COL 3
+
+TIL 30
+01000000
+01000000
+01000000
+01000000
+01000000
+01000000
+01000000
+01000000
+NAME devil9
+WAL true
+
+TIL 31
+00000010
+00000010
+00000010
+00000010
+00000010
+00000010
+00000010
+00000010
+NAME devil10
+WAL true
+
+TIL 32
+01111010
+01010001
+01101000
+01010101
+01001000
+01100000
+01000000
+01000000
+NAME devil11
+
+TIL 33
+01011110
+10101010
+00010110
+10101010
+00010010
+00000110
+00000010
+00000010
+NAME devil12
+
+TIL 34
+00111111
+00111111
+00111111
+00111111
+01111111
+01111111
+01111010
+01101111
+NAME devil13
+WAL true
+
+TIL 35
+11111100
+11111100
+11111100
+11111100
+11111110
+11111110
+01011110
+11110110
+NAME devil14
+WAL true
+
+TIL 36
+00001111
+00011111
+00011111
+00011111
+00011111
+00111111
+00111111
+00111111
+NAME devil15
+WAL true
+
+TIL 37
+11110000
+11111000
+11111000
+11111000
+11111000
+11111100
+11111100
+11111100
+NAME devil16
+WAL true
+
+TIL 38
+00000001
+00000001
+00000011
+00000011
+00000111
+00000111
+00001111
+00001111
+NAME devil17
+WAL true
+
+TIL 39
+10000000
+10000000
+11000000
+11000000
+11100000
+11100000
+11110000
+11110000
+NAME devil18
+WAL true
+
+TIL 40
+11110000
+00001000
+00001000
+11111000
+11111000
+11111000
+11111000
+00001000
+NAME bed1
+WAL true
+COL 5
+
+TIL 41
+11111111
+00100000
+00100000
+11111111
+11111111
+11111111
+11111111
+10000000
+NAME bed 2
+WAL true
+COL 5
+
+TIL 42
+00110100
+00101100
+00110100
+01000010
+10010001
+10011001
+10011001
+11111111
+>
+00110100
+00101100
+00110100
+01000010
+10001001
+10011001
+10011001
+11111111
+NAME fireplace
+WAL true
+COL 4
+
+TIL 43
+00000000
+00000000
+10000000
+01000000
+00100000
+00010000
+00001000
+00000100
+NAME devil 45
+WAL true
+
+TIL 44
+00000000
+00000000
+00000001
+00000010
+00000100
+00001000
+00010000
+00100000
+NAME devil46
+WAL true
+
+TIL 45
+11001111
+11100111
+11110011
+11110011
+11110011
+11110011
+11100111
+11000011
+>
+11100111
+11110011
+11110011
+11100111
+11100111
+11001111
+11100111
+11000011
+NAME tentacle
+
+TIL 46
+00000000
+00011000
+00111100
+01111110
+10111101
+00011000
+10000001
+11111111
+NAME ship1
+WAL true
+COL 13
+
+TIL 47
+00000000
+00000000
+00000000
+00000000
+00000000
+10000000
+11000000
+01000000
+NAME ship2
+COL 13
+
+TIL 48
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+00000011
+00000010
+NAME ship3
+COL 13
+
+TIL 49
+00100000
+00100000
+01110000
+11110000
+11111000
+11111000
+11111000
+11111000
+NAME ship4
+WAL true
+COL 13
+
+TIL 50
+11111110
+11111110
+11111110
+11111110
+11111110
+11111110
+11111110
+11111110
+NAME window2
+WAL true
+COL 8
+
+TIL 51
+00000000
+11111110
+11111110
+11111110
+11111110
+11111110
+11111110
+11111110
+NAME window3
+WAL true
+COL 8
+
+TIL 52
+01111111
+01111111
+01111111
+01111111
+01111111
+01111111
+01111111
+00000000
+NAME window4
+WAL true
+COL 8
+
+TIL 53
+01111111
+01111111
+01111111
+01111111
+01111111
+01111111
+01111111
+01111111
+NAME window5
+WAL true
+COL 8
+
+TIL 54
+00000000
+01111111
+01111111
+01111110
+01111101
+01111011
+01110110
+01101101
+NAME window6
+WAL true
+COL 8
+
+TIL 55
+00000000
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME window7
+WAL true
+COL 8
+
+TIL 56
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+00000000
+NAME window8
+WAL true
+COL 8
+
+TIL 58
+01000000
+10000000
+00000001
+00000010
+00000100
+00001000
+00010000
+00100000
+NAME shipfloor
+COL 7
+
+TIL 59
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME window9
+WAL true
+COL 8
+
+TIL 60
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+10000000
+NAME squid19
+
+TIL 61
+00000001
+00000001
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000100
+00001000
+00001000
+00010000
+00010000
+00010000
+00100000
+00100000
+NAME squid20
+
+TIL 62
+00000000
+00000000
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+>
+01000000
+10000000
+10000000
+00000000
+00000001
+00000010
+00000010
+00000100
+NAME squid21
+
+TIL 63
+00000000
+00000001
+00001110
+00110000
+11000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000001
+00000010
+00000100
+00001000
+01110000
+10100000
+NAME squid22
+
+TIL 64
+00000000
+00000000
+00000000
+00000000
+11111111
+01000000
+10000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+11111111
+00011000
+01100000
+10000000
+NAME squid23
+
+TIL 65
+00100000
+00100000
+00100000
+00010000
+00001100
+00000011
+00000000
+00000000
+NAME squid24
+
+TIL 66
+00000010
+00000100
+00000100
+00001000
+00001000
+00010000
+00010000
+00100000
+NAME squid25
+
+TIL 67
+01000000
+10000000
+10000000
+00000000
+00000000
+00000001
+00000001
+00000010
+NAME squid26
+
+TIL 68
+11111111
+00000001
+00000010
+00000100
+00001000
+00010000
+11100000
+01000000
+NAME squid27
+
+TIL 69
+00100000
+01010000
+10001000
+10101000
+10101000
+10001000
+10101000
+10001100
+NAME squid28
+COL 4
+
+TIL 70
+00001000
+00010000
+00010000
+00100000
+00100001
+00000001
+00000011
+00000110
+NAME squid55
+
+TIL 71
+00000000
+00000011
+00001100
+00110000
+01000000
+10000001
+00000010
+00000100
+NAME squid56
+
+TIL 72
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00001000
+00001000
+00001000
+00001000
+00010000
+00010000
+00010000
+00010000
+NAME squid57
+
+TIL 73
+00100000
+00010000
+00001000
+00000100
+00000010
+00000001
+00000000
+00000000
+>
+01000000
+01000000
+00100000
+00100000
+00010000
+00010000
+00001000
+00001000
+NAME squid58
+
+TIL 74
+00000101
+00000100
+00000010
+00000010
+00000001
+00000000
+10000000
+01000000
+>
+00000100
+00000100
+00000100
+00000010
+00000010
+00000001
+10000000
+10000000
+NAME squid59
+
+TIL 75
+00000010
+00000010
+00000100
+00000100
+00000100
+00000100
+00000100
+00000110
+>
+00000010
+00000010
+00000100
+00000100
+00000100
+00000100
+00000110
+00000101
+NAME squid60
+
+TIL 76
+00000011
+00000111
+00001100
+00001000
+00011000
+00011001
+00011111
+00001110
+NAME squid51
+COL 4
+
+TIL 77
+11111111
+11111111
+11111111
+01111111
+00011111
+00000111
+00000011
+00000001
+NAME squid52
+
+TIL 78
+01010100
+11101010
+11110101
+11111110
+11111111
+11111111
+11111111
+11111111
+NAME squid53
+
+TIL 79
+00010000
+00100000
+01000000
+10101000
+00000000
+10101010
+01000000
+10101010
+NAME squid54
+
+TIL 80
+00010000
+00010000
+00100000
+00000000
+00000000
+00000001
+00000010
+00011100
+NAME squid81
+
+TIL 81
+10000100
+10000100
+00000100
+00000100
+00000100
+00000100
+00001000
+00001000
+NAME squid82
+
+TIL 82
+00010001
+00010001
+00100001
+00100000
+00100000
+00100000
+01000000
+01000100
+NAME squid83
+
+TIL 83
+00000010
+00000010
+00000010
+00000010
+00010010
+00010001
+00010001
+00010001
+NAME squid84
+
+TIL 84
+00011000
+00000100
+00000100
+00000100
+00000100
+00000100
+00000010
+00000010
+NAME squid85
+
+TIL 85
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11100000
+NAME squid86
+
+TIL 86
+00000000
+00000000
+00000000
+00000000
+10000000
+10000000
+01000000
+01000000
+>
+00000010
+00000010
+00000010
+00000010
+00000010
+00000001
+00000001
+00000000
+NAME squid87
+
+TIL 87
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00010000
+00010000
+00010000
+00001000
+00001000
+00000100
+00000100
+00000100
+NAME squid88
+
+TIL 88
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+10000000
+01000000
+01000000
+00100000
+NAME squid89
+
+TIL 89
+01000000
+01000000
+01000000
+10000000
+10000000
+10000000
+00000000
+00000000
+NAME squid90
+
+TIL 90
+00000000
+00000110
+00011110
+00110100
+11101100
+01111000
+01110000
+00010000
+>
+00000110
+00011110
+00110100
+11101100
+01111000
+01110000
+00010000
+00000000
+NAME spaceship1
+COL 5
+
+TIL 91
+00000000
+00001000
+00110001
+11000010
+00000010
+00000100
+00001000
+00110000
+>
+00001000
+00110001
+11000010
+00000010
+00000100
+00001000
+00110000
+00000000
+NAME spaceship2
+
+TIL 92
+00000000
+00000000
+00010000
+00000000
+00000001
+00000000
+01000000
+00000000
+NAME star5
+COL 4
+
+TIL 93
+11111111
+01111110
+10000011
+01101100
+00010001
+01000000
+00000000
+00000000
+>
+11111111
+01111110
+01001100
+00110110
+00000000
+10010001
+00000000
+00000000
+NAME light3
+COL 4
+
+TIL a
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME sea
+WAL true
+
+TIL b
+11111111
+11100111
+11011001
+11111111
+11111111
+11100111
+10011011
+11111111
+>
+11111111
+11001111
+10110011
+11111111
+11111111
+11110011
+11001101
+11111111
+NAME sea2
+WAL true
+
+TIL c
+00000000
+10101010
+00000000
+10101010
+01010101
+11111111
+01010101
+11111111
+NAME shore1
+WAL false
+
+TIL e
+00001111
+01010101
+00001111
+01010101
+00001111
+01010101
+00001111
+01010101
+NAME shore2
+
+TIL f
+10101010
+11110000
+10101010
+11110000
+10101010
+11110000
+10101010
+11110000
+NAME shore3
+
+TIL g
+11111111
+10101010
+11111111
+10101010
+01010101
+00000000
+01010101
+00000000
+NAME shore4
+
+TIL h
+00000000
+10100000
+00001000
+10100000
+00001010
+10100000
+10001010
+11100000
+NAME shore5
+
+TIL i
+00000000
+00001010
+00000000
+00101010
+00000000
+01010101
+00000001
+01010111
+NAME shore6
+
+TIL j
+00000111
+01010001
+00000101
+01010000
+00000101
+00010000
+00000101
+00000000
+NAME shore7
+
+TIL k
+11101010
+10000000
+10101010
+00000000
+01010100
+00000000
+01010000
+00000000
+NAME shore8
+
+TIL l
+00001111
+10100101
+00011111
+10101011
+01111111
+10101111
+01111111
+11111111
+NAME shore9
+WAL true
+
+TIL m
+10101010
+11010000
+11111010
+11010100
+11111101
+11110111
+11111101
+11111111
+NAME shore10
+WAL true
+
+TIL n
+11111111
+11111110
+11110101
+11111110
+11010101
+11111000
+10100101
+11110000
+NAME shore11
+WAL true
+
+TIL o
+11111111
+10111111
+11101111
+10111111
+00101011
+01011111
+00001011
+01010101
+NAME shore12
+WAL true
+
+TIL p
+10000000
+00000000
+00000010
+00000000
+00100000
+00000010
+00000000
+00001000
+NAME sand1
+COL 6
+
+TIL q
+00000000
+00000010
+00100000
+00000000
+00000100
+00100000
+10000000
+00000010
+NAME sand2
+COL 6
+
+TIL r
+11111111
+11100111
+11111111
+10000111
+11111111
+11111111
+11111001
+11111111
+>
+11111111
+11001111
+11111111
+11000011
+11111111
+11111111
+11110011
+11111111
+NAME divepoint
+
+TIL s
+00000000
+10111111
+10111011
+10111011
+10101011
+11101111
+11101101
+00000000
+NAME bridge1
+COL 7
+
+TIL t
+00000100
+10111000
+10110010
+10011000
+10110101
+11101000
+11110101
+00000000
+NAME bridge2
+COL 7
+
+TIL u
+00000000
+10101111
+00011011
+10101011
+00010011
+01011111
+00101101
+01000000
+NAME bridge3
+COL 7
+
+TIL v
+10001000
+11010000
+10101010
+01000001
+10101000
+11010010
+10000000
+01010100
+NAME pavemt1
+COL 8
+
+TIL w
+01010101
+00100010
+01010001
+10001000
+01000101
+00100010
+01010101
+10001000
+NAME pavemt2
+
+TIL x
+00011000
+00111100
+00111100
+00011000
+00011000
+00011000
+00011000
+00111100
+NAME pole
+WAL true
+COL 5
+
+TIL z
+10011111
+11111111
+11110011
+11111111
+10011111
+11111111
+00000001
+11111111
+NAME building1a
+WAL true
+COL 4
+
+TIL 1a
+11111111
+11111111
+00100001
+11100001
+00000001
+00000001
+00000001
+00000001
+NAME stand3
+WAL true
+COL 5
+
+TIL 1b
+11111111
+11111111
+10000100
+10000111
+10000000
+10000000
+10000011
+10011011
+NAME stand4
+WAL true
+COL 5
+
+TIL 1d
+00011000
+00111100
+01111110
+11111111
+11111111
+01000010
+01111110
+01001010
+NAME welltop
+WAL true
+COL 6
+
+TIL 1e
+11111111
+10000001
+10000001
+11111111
+10011001
+11111111
+11001111
+11111001
+NAME wall1
+WAL true
+
+TIL 1g
+11111111
+10000001
+10000001
+11111111
+11111111
+10000001
+10000001
+11111111
+NAME wall2
+WAL true
+
+TIL 1h
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME inside1
+WAL true
+COL 4
+
+TIL 1i
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+NAME inside2
+COL 4
+
+TIL 1j
+11111111
+00000000
+00110011
+00000000
+11111111
+11111111
+11111111
+11111111
+NAME inside3
+WAL true
+COL 4
+
+TIL 1k
+11110101
+11110001
+11110001
+11110101
+11110101
+11110001
+11110001
+11110101
+NAME inside4
+WAL true
+COL 4
+
+TIL 1l
+10001111
+10101111
+10101111
+10001111
+10001111
+10101111
+10101111
+10001111
+NAME inside6
+WAL true
+COL 4
+
+TIL 1m
+11111111
+11111111
+11111111
+11111111
+11110000
+11110011
+11110000
+11110101
+NAME inside7
+WAL true
+COL 4
+
+TIL 1n
+11110101
+11110000
+11110011
+11110000
+11111111
+11111111
+11111111
+11111111
+NAME inside8
+WAL true
+COL 4
+
+TIL 1o
+10001111
+00101111
+00101111
+00001111
+11111111
+11111111
+11111111
+11111111
+NAME inside9
+WAL true
+COL 4
+
+TIL 1p
+11111111
+11111111
+11111111
+11111111
+00001111
+00101111
+00101111
+10001111
+NAME inside10
+WAL true
+COL 4
+
+TIL 1q
+11111111
+11111111
+11111111
+11111111
+00000000
+00110011
+00000000
+11111111
+NAME inside5
+WAL true
+COL 4
+
+TIL 1r
+00010101
+00111111
+11100000
+01001111
+11010000
+01010111
+11010111
+01010110
+NAME rug1
+
+TIL 1s
+01010100
+11111100
+00000110
+11110011
+00001010
+11101011
+11101010
+01101011
+NAME rug2
+
+TIL 1t
+01010101
+11111111
+00000000
+11111111
+00000000
+11111111
+11100111
+11000011
+NAME rug3
+
+TIL 1u
+01101010
+11101011
+11101010
+00001011
+11110010
+00000111
+11111100
+10101000
+NAME rug4
+
+TIL 1v
+11010110
+01010111
+11010111
+01010000
+11001111
+01100000
+00111111
+00101010
+NAME rug5
+
+TIL 1w
+11000011
+11100111
+11111111
+00000000
+11111111
+00000000
+11111111
+10101010
+NAME rug6
+
+TIL 1x
+11010110
+01010110
+11010111
+01010111
+11010111
+01010111
+11010110
+01010110
+NAME rug7
+
+TIL 1y
+01101010
+01101011
+11101010
+11101011
+11101010
+11101011
+01101010
+01101011
+NAME rug8
+
+TIL 1z
+11000011
+11100111
+11111111
+01111110
+01111110
+11111111
+11100111
+11000011
+NAME rug9
+
+TIL 2a
+00111110
+01000001
+01010111
+01101101
+01000001
+01111111
+01001010
+00111111
+
+TIL 2b
+00000100
+00101010
+01011000
+00011000
+01111110
+00111100
+00111100
+00000000
+NAME plant
+WAL true
+COL 3
+
+TIL 2c
+00000000
+11111111
+10000000
+10000000
+11111111
+10101101
+10101101
+11111111
+NAME desk3
+WAL true
+COL 5
+
+TIL 2d
+00101010
+00111101
+01000011
+10000101
+10001001
+10001011
+10001101
+11111001
+NAME loom1
+WAL true
+COL 5
+
+TIL 2e
+10011000
+01011100
+11111110
+00000010
+11111110
+01010100
+01010100
+01010100
+NAME loom2
+WAL true
+COL 5
+
+TIL 2f
+00000000
+00000000
+00000000
+00000000
+00000000
+11111100
+10000010
+01010101
+NAME loom3
+WAL true
+COL 5
+
+TIL 2g
+00000000
+00000000
+00000000
+00000000
+00011000
+00111000
+01011000
+10011000
+NAME loom4
+WAL true
+COL 5
+
+TIL 2h
+00010001
+00001011
+01010101
+10000010
+00010101
+01001011
+00000001
+00101010
+NAME pavemt3
+COL 8
+
+TIL 2i
+00011011
+00011011
+00111011
+01110011
+01100001
+01100001
+01110011
+00110011
+>
+00110001
+00110001
+00110001
+01110001
+01100001
+01110001
+00110001
+00110011
+NAME weed1
+COL 3
+
+TIL 2j
+00011000
+00011101
+00001101
+00011100
+00011000
+00011101
+00001101
+00001101
+>
+00110001
+01110011
+01100011
+01110001
+00110011
+01100011
+01110001
+00110001
+NAME weed2
+COL 3
+
+TIL 2k
+10011000
+00011100
+00001110
+00000110
+10000110
+10001110
+10011100
+00011000
+>
+10111000
+10011000
+10111000
+10110000
+10110000
+10111000
+10011000
+00011000
+NAME weed3
+COL 3
+
+TIL 2l
+11000000
+10000000
+11001000
+11011000
+11011100
+10001100
+10001100
+10011100
+>
+11000000
+10000000
+00000100
+10001100
+10001100
+00011100
+10111000
+10110000
+NAME weed4
+COL 3
+
+TIL 2n
+00000000
+00000000
+00000000
+00000000
+00000000
+10000000
+01000000
+11000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+01000000
+10000000
+11000000
+NAME weed5
+COL 3
+
+TIL 2o
+00000000
+00010000
+00000110
+00000110
+00011000
+00100100
+00100100
+00011000
+>
+00001000
+00000000
+00010000
+00000000
+00001000
+00010100
+00001000
+00000000
+NAME bubble
+COL 3
+
+TIL 2p
+11111111
+01111111
+00100010
+00011000
+00000011
+01000000
+00001100
+00000001
+>
+11111111
+01111111
+00100010
+00001100
+01000001
+00000000
+00011000
+00000010
+NAME light1
+COL 4
+
+TIL 2q
+11111111
+11111110
+01000100
+10011000
+00000000
+11000100
+00000000
+00001000
+>
+11111111
+11111110
+01000100
+10110000
+10000100
+01100000
+00000000
+00100000
+NAME light2
+COL 4
+
+TIL 2r
+00100000
+00100000
+00100000
+00100000
+00100000
+00100000
+00101111
+11111111
+NAME devil1
+WAL true
+
+TIL 2s
+00000000
+00000000
+00000000
+00000000
+00001111
+11111111
+11111111
+11111111
+NAME devil2
+WAL true
+
+TIL 2t
+00000000
+00000000
+00001111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME devil3
+WAL true
+
+TIL 2u
+00000111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME devil4
+WAL true
+
+TIL 2w
+11110000
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME devil5
+WAL true
+
+TIL 2x
+00000000
+00000000
+11110000
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME devil6
+WAL true
+
+TIL 2y
+00000000
+00000000
+00000000
+00000000
+11110000
+11111111
+11111111
+11111111
+NAME devil7
+WAL true
+
+TIL 2z
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+11110100
+11111111
+NAME devil8
+WAL true
+
+TIL 3a
+11111111
+10101010
+01010101
+00000000
+01010101
+00000000
+00000000
+00000000
+NAME devil19
+WAL true
+
+TIL 3b
+11111111
+01010101
+10101010
+00000000
+10101010
+00000000
+00000000
+00000000
+NAME devil20
+WAL true
+
+TIL 3c
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+10101010
+NAME devil21
+WAL true
+
+TIL 3d
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+01010101
+NAME devil22
+WAL true
+
+TIL 3e
+00000011
+00000111
+00001111
+00011111
+00111111
+00111111
+01111111
+11111111
+NAME devil23
+WAL true
+
+TIL 3f
+11000000
+11100000
+11110000
+11111000
+11111100
+11111100
+11111110
+11111111
+NAME devil24
+WAL true
+
+TIL 3g
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+NAME devil25
+
+TIL 3h
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+10000000
+NAME devil26
+
+TIL 3i
+11111110
+11111110
+11111110
+11111111
+11111111
+11111111
+11111111
+10101010
+NAME devil27
+WAL true
+
+TIL 3j
+01111111
+01111111
+01111111
+11111111
+11111111
+11111111
+11111111
+01010101
+NAME devil28
+WAL true
+
+TIL 3k
+11111000
+11111000
+11111000
+11111000
+11111000
+11111100
+11111100
+11111100
+NAME devil29
+WAL true
+
+TIL 3l
+00011111
+00011111
+00011111
+00011111
+00011111
+00111111
+00111111
+00111111
+NAME devil30
+WAL true
+
+TIL 3m
+11111000
+11111000
+11111000
+11111000
+11111000
+11111000
+11111000
+11111000
+NAME devil31
+WAL true
+
+TIL 3n
+00011111
+00011111
+00011111
+00011111
+00011111
+00011111
+00011111
+00011111
+NAME devil32
+WAL true
+
+TIL 3o
+11111100
+11111100
+11111100
+11111000
+11111000
+11111000
+11111000
+11111000
+NAME devil33
+WAL true
+
+TIL 3p
+00111111
+00111111
+00111111
+00011111
+00011111
+00011111
+00011111
+00011111
+NAME devil34
+WAL true
+
+TIL 3q
+00000000
+00000000
+00000111
+00011111
+00111111
+01111111
+11111110
+11111110
+NAME devil35
+WAL true
+
+TIL 3r
+00000000
+00000000
+11100000
+11111000
+11111100
+11111110
+01111111
+01111111
+NAME devil36
+WAL true
+
+TIL 3s
+00000010
+00000001
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME devil37
+WAL true
+
+TIL 3t
+01000000
+10000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME devil38
+WAL true
+
+TIL 3u
+11000000
+11100000
+01100000
+00010000
+01010000
+00001000
+00001000
+00000100
+NAME devil39
+WAL true
+
+TIL 3v
+00000011
+00000111
+00000110
+00001000
+00001010
+00010000
+00010000
+00100000
+NAME devil40
+WAL true
+
+TIL 3w
+00000000
+00000000
+00000000
+00000000
+00000000
+10000000
+10000000
+11000000
+NAME devil41
+
+TIL 3x
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+00000001
+00000011
+NAME devil42
+
+TIL 3y
+00100000
+11000000
+10000000
+10000000
+00000000
+00000000
+00000000
+00000000
+NAME devil43
+WAL true
+
+TIL 3z
+00000100
+00000011
+00000001
+00000001
+00000000
+00000000
+00000000
+00000000
+NAME devil44
+WAL true
+
+TIL 4a
+00000100
+00000100
+00001110
+00001111
+00011111
+00011111
+00011111
+00011111
+NAME ship5
+WAL true
+COL 13
+
+TIL 4b
+11111000
+11111000
+11111100
+11111010
+11111001
+11111110
+11111000
+11111000
+NAME ship6
+WAL true
+COL 13
+
+TIL 4c
+00011111
+00011111
+00111111
+01011111
+10011111
+01111111
+00011111
+00011111
+NAME ship7
+WAL true
+COL 13
+
+TIL 4d
+11111100
+11111010
+11111001
+11111000
+11111000
+11111000
+11111000
+11110000
+NAME ship8
+WAL true
+COL 13
+
+TIL 4e
+00111111
+01011111
+10011111
+00011111
+00011111
+00011111
+00011111
+00001111
+NAME ship9
+WAL true
+COL 13
+
+TIL 4f
+11110000
+11100000
+11000000
+00100000
+00011111
+00000000
+00000000
+00000000
+NAME ship10
+WAL true
+COL 13
+
+TIL 4g
+00001111
+00000111
+00000011
+00000100
+11111000
+00000000
+00000000
+00000000
+NAME ship11
+WAL true
+COL 13
+
+TIL 4h
+11111111
+11111111
+11111111
+11111111
+00000000
+00000000
+00000000
+00000000
+NAME ship12
+WAL true
+COL 13
+
+TIL 4i
+01111110
+00000000
+00000000
+10000001
+11111111
+11111111
+11111111
+11111111
+NAME ship13
+WAL true
+COL 13
+
+TIL 4j
+11111111
+11100111
+11000011
+10011001
+10011001
+11000011
+11100111
+11111111
+NAME ship14
+WAL true
+COL 13
+
+TIL 4k
+00000000
+00000000
+00000000
+10000000
+01000000
+00100000
+00010000
+00001000
+NAME ship15
+WAL true
+COL 13
+
+TIL 4l
+00000000
+00000000
+00000000
+00000001
+00000010
+00000100
+00001000
+00010000
+NAME ship16
+WAL true
+COL 13
+
+TIL 4m
+00001000
+00000100
+00000010
+00000001
+00000001
+11111110
+00000000
+00000000
+NAME ship17
+WAL true
+COL 13
+
+TIL 4n
+00010000
+00100000
+01000000
+10000000
+10000000
+01111111
+00000000
+00000000
+NAME ship18
+WAL true
+COL 13
+
+TIL 4o
+10011111
+11001111
+10011111
+11001111
+10011111
+11001111
+10011111
+11001111
+NAME control4
+WAL true
+
+TIL 4p
+11110011
+11111001
+11110011
+11111001
+11110011
+11111001
+11110011
+11111001
+NAME control5
+WAL true
+
+TIL 4q
+11111111
+10101010
+00000000
+01010101
+11111111
+11111111
+11111111
+11111111
+NAME control6
+WAL true
+
+TIL 4r
+11111111
+11111111
+11111111
+11111111
+10101010
+00000000
+01010101
+11111111
+NAME control7
+WAL true
+
+TIL 4s
+11111111
+11111111
+11111111
+11110011
+11100001
+11100000
+11110001
+11111011
+NAME control8
+WAL true
+
+TIL 4t
+11111111
+11111111
+11111111
+11001111
+10000111
+00000111
+10001111
+11011111
+NAME control9
+WAL true
+
+TIL 4u
+11011111
+10001111
+00000111
+10000111
+11001111
+11111111
+11111111
+11111111
+NAME control10
+WAL true
+
+TIL 4v
+11111011
+11110001
+11100000
+11100001
+11110011
+11111111
+11111111
+11111111
+NAME control11
+WAL true
+
+TIL 4w
+11111111
+00010001
+00000000
+11111100
+01010111
+10111110
+11111110
+11111111
+>
+11111111
+00010001
+00000000
+11111100
+10101111
+11111110
+11111110
+11111111
+NAME control12
+WAL true
+
+TIL 4x
+11111111
+00010001
+00000000
+11111111
+11101111
+10110101
+11111111
+11111111
+>
+11111111
+00010001
+00000000
+11111111
+10111011
+11101101
+11111111
+11111111
+NAME control13
+WAL true
+
+TIL 4y
+11111111
+10010001
+00000000
+00111111
+11011011
+01101110
+01111111
+11111111
+>
+11111111
+10010001
+00000000
+00111111
+11110111
+01011011
+01111111
+11111111
+NAME control14
+WAL true
+
+TIL 4z
+11111110
+11111110
+11111110
+11111110
+11111110
+11111110
+11111110
+00000000
+NAME window1
+WAL true
+COL 8
+
+TIL 5a
+00000000
+11111011
+11111011
+11110111
+11101111
+10010111
+01110111
+10111011
+NAME window10
+WAL true
+COL 8
+
+TIL 5b
+11110111
+11101111
+11101111
+11011111
+11101011
+11110101
+11110111
+00000000
+NAME window11
+COL 8
+
+TIL 5c
+11111111
+11111111
+11111111
+11111110
+11111101
+00000011
+11111111
+11111111
+>
+11000001
+10000001
+00010000
+00110000
+11110000
+11110000
+11100001
+11000001
+NAME eye1
+COL 8
+
+TIL 5d
+11111111
+11111111
+11111111
+01111111
+10111111
+11000000
+01111111
+10111111
+>
+10000011
+10000111
+00001111
+00001111
+00001111
+00001111
+10000111
+10000011
+NAME eye2
+COL 8
+
+TIL 5e
+00000000
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+>
+00000000
+11111111
+11111111
+11111111
+00111111
+00001111
+00000111
+00000011
+NAME eye3
+COL 8
+
+TIL 5f
+00000000
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+>
+00000000
+11111111
+11111111
+11111111
+11111100
+11110000
+11100000
+11000000
+NAME eye4
+COL 8
+
+TIL 5g
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+00000000
+>
+00000011
+00000111
+00001111
+00111111
+11111111
+11111111
+11111111
+00000000
+NAME eye5
+COL 8
+
+TIL 5h
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+00000000
+>
+11000000
+11100000
+11110000
+11111100
+11111111
+11111111
+11111111
+00000000
+NAME eye6
+COL 8
+
+TIL 5i
+00001110
+00011111
+00110011
+00100011
+01100011
+01100110
+01111100
+00111000
+NAME squid1
+COL 4
+
+TIL 5j
+00000000
+00000000
+00000001
+00000001
+00000011
+00000011
+00000011
+00000001
+NAME squid2
+
+TIL 5k
+00000010
+00000010
+00000001
+00000001
+00000000
+00000000
+00000000
+00000000
+NAME squid3
+
+TIL 5l
+00000010
+00000010
+00000100
+00000100
+00000100
+00000100
+00000100
+00000010
+NAME squid4
+
+TIL 5m
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+00000001
+NAME squid5
+
+TIL 5n
+01000000
+10000000
+00000000
+00000000
+00000100
+00000000
+00000000
+00000000
+NAME squid6
+
+TIL 5o
+00000000
+00000000
+00000000
+00000000
+00000000
+00010000
+00101000
+00101000
+NAME squid7
+
+TIL 5p
+01001000
+01000100
+01000100
+10000100
+10000100
+10000010
+00000010
+00000010
+>
+01001000
+01001000
+10001000
+10001000
+00001000
+00001000
+00001000
+00001000
+NAME squid8
+
+TIL 5q
+00000010
+00000010
+00000010
+00000001
+00000001
+00000001
+00000001
+00000001
+>
+00001000
+00010000
+00010000
+00100000
+00100000
+00100000
+01000000
+01000000
+NAME squid9
+
+TIL 5r
+00000001
+00000001
+10000001
+10000001
+01000001
+01000001
+00100001
+00100001
+>
+01000000
+01000000
+01000000
+10000000
+10000000
+10000000
+00000001
+00000001
+NAME squid10
+
+TIL 5s
+00000001
+00000001
+10000000
+10000000
+10000000
+10000000
+01000000
+01000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+00000001
+NAME squid11
+
+TIL 5t
+10000001
+10000001
+00000001
+00000010
+00000010
+00000010
+00000010
+00000010
+>
+00010000
+00100000
+01000000
+10000000
+00000000
+00000000
+00000000
+00000000
+NAME squid12
+
+TIL 5u
+00100000
+11100000
+00100000
+01000000
+01000000
+10000000
+10000001
+10000001
+>
+01000000
+10000000
+00000000
+00000000
+00000001
+00000010
+00000100
+00001000
+NAME squid13
+
+TIL 5v
+00000000
+00000010
+00000100
+00011000
+11101000
+00001000
+00010000
+00010000
+>
+00000000
+00000010
+00000100
+00011100
+11101000
+00010000
+00100000
+00100000
+NAME squid14
+
+TIL 5w
+00000000
+00000000
+00000001
+00000010
+00001100
+11110000
+00000000
+00000000
+NAME squid15
+
+TIL 5x
+00100000
+00100000
+01000000
+10000000
+10000000
+00000000
+00000000
+00000000
+NAME squid16
+
+TIL 5y
+00001000
+00001000
+00001000
+00001000
+00010000
+00010000
+00010000
+00010000
+NAME squid17
+
+TIL 5z
+01000000
+01000000
+00100000
+00100000
+00010000
+00010000
+00001000
+00001000
+NAME squid18
+
+TIL 6a
+00000000
+00000000
+00000000
+11110000
+00001100
+00000010
+00000001
+00000000
+NAME squid29
+
+TIL 6b
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+>
+10000100
+00001000
+00001000
+00010000
+00010000
+00100000
+00100000
+00100000
+NAME squid30
+
+TIL 6c
+00010000
+00010000
+00100000
+00100000
+01000000
+01000000
+10000000
+10000000
+>
+00000110
+00001000
+00010000
+00100000
+00100001
+01000010
+01000010
+10000100
+NAME squid31
+
+TIL 6d
+00110000
+11000000
+00000000
+00000000
+00000000
+00000011
+00000100
+00001000
+>
+00000110
+00011000
+01100000
+10000000
+00000000
+00000000
+00000000
+00000001
+NAME squid32
+
+TIL 6e
+00001000
+00001000
+00000100
+00000011
+00000000
+00000000
+00000011
+00001100
+>
+00001000
+00001000
+00000100
+00000011
+00000000
+00000000
+00000000
+00000001
+NAME squid33
+
+TIL 6f
+00100000
+00100000
+00100000
+00100000
+00100000
+00100000
+00010000
+00010000
+NAME squid34
+
+TIL 6g
+00000100
+00001000
+00001000
+00010000
+00010000
+00010000
+00100000
+00100000
+NAME squid35
+
+TIL 6h
+00000000
+00000000
+00000000
+00000001
+00000001
+00000010
+00000010
+00000100
+NAME squid36
+
+TIL 6i
+00000000
+00000000
+00000000
+10000000
+01000000
+00111000
+00000111
+00000000
+NAME squid37
+
+TIL 6j
+00000000
+00000001
+00000010
+00000100
+00000100
+00000010
+00000010
+00000001
+NAME squid38
+
+TIL 6k
+00000000
+00000000
+00000000
+00001111
+00110000
+11000000
+00000000
+00000000
+NAME squid39
+
+TIL 6l
+01000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+10000000
+>
+00000000
+00000001
+00000010
+00000100
+00011000
+01100000
+10000000
+00000000
+NAME squid40
+
+TIL 6m
+00010000
+00100000
+00100000
+00100000
+01000000
+01000000
+01000000
+01000000
+>
+00000100
+00001000
+00010000
+00100000
+01000000
+10000000
+00000000
+00000000
+NAME squid41
+
+TIL 6n
+00000000
+00000000
+00000001
+00000010
+00000100
+00001000
+00001000
+00010000
+>
+00000000
+00000000
+00000000
+00000000
+00000001
+00000010
+00000010
+00000100
+NAME squid42
+
+TIL 6o
+00000010
+00000010
+00000001
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME squid43
+
+TIL 6p
+00000010
+00000100
+00000100
+00000100
+00000100
+00000100
+00000100
+00000010
+NAME squid44
+
+TIL 6q
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000001
+00000010
+NAME squid45
+
+TIL 6r
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+11110000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000011
+11111100
+NAME squid46
+
+TIL 6s
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000011
+00001100
+NAME squid47
+
+TIL 6t
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+>
+01000000
+01000000
+10000000
+10000000
+10000000
+10000000
+00000000
+00000000
+NAME squid48
+
+TIL 6u
+00000010
+00000010
+00000010
+00000010
+00000001
+00000001
+00000001
+00000001
+>
+00010000
+00100000
+00100000
+00100000
+00100000
+00100000
+01000000
+01000000
+NAME squid49
+
+TIL 6v
+00001000
+00001000
+00000100
+00000100
+00000100
+00000101
+00000010
+00000010
+>
+00010000
+00011000
+00010100
+00010010
+00010010
+00010001
+00010000
+00010000
+NAME squid50
+
+TIL 6w
+00001000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00010000
+NAME squid51
+
+TIL 6x
+00000000
+00000000
+00000000
+01000000
+00000000
+00000000
+00100010
+00000000
+NAME squid52
+
+TIL 6y
+00001111
+00000011
+00000001
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME squid53
+
+TIL 6z
+00000111
+00001111
+00011111
+00011111
+10111111
+10111111
+01111111
+01111111
+NAME squid54
+
+TIL 7a
+11100000
+00000000
+00000000
+00000000
+01100001
+10000010
+00000100
+00001000
+NAME squid55
+
+TIL 7b
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000011
+00011100
+NAME squid56
+
+TIL 7c
+01000000
+01000000
+01000000
+00100000
+00100000
+00100000
+00010000
+00010000
+>
+00010000
+00010000
+00010000
+00010000
+00010000
+00010000
+00100000
+00100000
+NAME squid57
+
+TIL 7d
+00010000
+00001000
+00000111
+00000010
+00000010
+00000001
+10000001
+10000000
+>
+01000000
+01000000
+01000000
+00100000
+00100000
+00100000
+00100000
+00010000
+NAME squid58
+
+TIL 7e
+00000000
+11111100
+00000011
+00000000
+00000000
+10000000
+01000000
+00100000
+>
+00111000
+00000000
+00000000
+00000000
+00000000
+00000000
+11001111
+10110000
+NAME squid59
+
+TIL 7f
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11000111
+NAME squid60
+
+TIL 7g
+10000000
+11000000
+11000000
+11000000
+11000000
+10000000
+00000000
+00000000
+NAME squid61
+COL 4
+
+TIL 7h
+11111111
+11111111
+11111111
+11111111
+11111110
+11111100
+11111000
+11110000
+NAME squid62
+
+TIL 7i
+11111101
+11111110
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME squid63
+
+TIL 7j
+00000000
+10101010
+01000000
+10101010
+11010100
+11101010
+11110101
+11111110
+NAME squid64
+
+TIL 7k
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+10100000
+NAME squid65
+
+TIL 7l
+00010000
+00100000
+01000000
+10000000
+00000000
+00000000
+00000000
+00000000
+NAME squid66
+
+TIL 7m
+00000000
+00000000
+00000000
+00000011
+00001100
+01110000
+10000000
+00001000
+NAME squid67
+
+TIL 7n
+10000001
+01000001
+01000000
+00100000
+00100000
+00010000
+00010000
+00010000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME squid68
+
+TIL 7o
+00000000
+00000000
+00000000
+11000000
+00110000
+00001000
+00000100
+00000010
+>
+00000001
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME squid69
+
+TIL 7p
+00000000
+00000000
+11000000
+00110000
+00001100
+00000010
+00000001
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111000
+00000110
+NAME squid70
+
+TIL 7q
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+01111111
+10000000
+NAME squid71
+
+TIL 7r
+11000011
+10111100
+10000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME squid72
+
+TIL 7s
+01000100
+10101000
+01011000
+10110000
+11110000
+11100000
+11100000
+11000000
+NAME squid73
+
+TIL 7t
+00000000
+00000000
+00000001
+10000001
+00000001
+10100010
+00000010
+10101100
+NAME squid74
+
+TIL 7u
+00000111
+00111000
+11000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME squid75
+
+TIL 7v
+00000010
+00000001
+10000001
+10000000
+01000000
+01000000
+00100000
+00100000
+>
+00000001
+00000001
+00000001
+00000001
+00000001
+00000001
+00000000
+00000000
+NAME squid76
+
+TIL 7w
+01000000
+00100000
+00010000
+00001000
+00001000
+00000100
+00000100
+00000010
+>
+10000000
+01100000
+00010000
+00001000
+00001000
+00000100
+00000010
+00000010
+NAME squid77
+
+TIL 7x
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+10000000
+>
+00011000
+00000110
+00000001
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME squid78
+
+TIL 7y
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11100000
+NAME squid79
+
+TIL 7z
+11100000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME squid80
+
+TIL 8a
+10000000
+10000000
+10000000
+01000000
+01000000
+01000000
+01000000
+01000000
+NAME squid91
+
+TIL 8b
+00000000
+00000000
+00000000
+10000000
+10000000
+10000000
+10000000
+10000000
+NAME squid92
+
+TIL 8c
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000111
+00011000
+01100000
+10000000
+00000000
+00000000
+00000000
+00000000
+NAME squid93
+
+TIL 8d
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00000001
+00000010
+00000100
+00001000
+00001000
+NAME squid94
+
+TIL 8e
+00000000
+00101000
+01010100
+00111010
+01011100
+00101000
+00010100
+00000000
+>
+00101010
+00010100
+10111110
+01111101
+10111110
+01111101
+10010100
+00101010
+NAME shine1
+COL 4
+
+TIL 8f
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME shine2
+COL 4
+
+TIL 8g
+11111111
+11111111
+11111111
+01010101
+10101010
+00000000
+00000000
+00000000
+>
+11111111
+11111111
+11111111
+11111111
+01010101
+10101010
+00000000
+10101010
+NAME shine3
+COL 4
+
+TIL 8h
+00000000
+00000000
+00000000
+01010101
+10101010
+11111111
+11111111
+11111111
+>
+01010101
+00000000
+01010101
+10101010
+11111111
+11111111
+11111111
+11111111
+NAME shine4
+COL 4
+
+TIL 8i
+11110000
+11101000
+11110000
+11101000
+11110000
+11101000
+11110000
+11101000
+>
+11111000
+11110101
+11111000
+11110101
+11111000
+11110101
+11111000
+11110101
+NAME shine5
+COL 4
+
+TIL 8j
+00010111
+00001111
+00010111
+00001111
+00010111
+00001111
+00010111
+00001111
+>
+10101111
+00011111
+10101111
+00011111
+10101111
+00011111
+10101111
+00011111
+NAME shine6
+COL 4
+
+TIL 8k
+00000000
+00000000
+00000100
+00000001
+00010100
+00000011
+00010111
+00001111
+>
+00000101
+01010000
+00000010
+00101000
+10000111
+00101111
+00001111
+01011111
+NAME shine7
+COL 4
+
+TIL 8l
+00000000
+00000000
+00000000
+01010000
+10000000
+11010100
+11100000
+11101000
+>
+00010000
+10000010
+00101000
+10000010
+11101000
+11110001
+11110100
+11110001
+NAME shine8
+COL 4
+
+TIL 8m
+11110000
+11101000
+11000000
+00101000
+10000000
+00100000
+00000000
+00000000
+>
+11111010
+11110000
+11110100
+11100001
+00010100
+01000000
+00001010
+10100000
+NAME shine9
+COL 4
+
+TIL 8n
+00010111
+00000111
+00101011
+00000001
+00001010
+00000000
+00000000
+00000000
+>
+10001111
+00101111
+10001111
+00010111
+01000001
+00010100
+01000001
+00001000
+NAME shine10
+COL 4
+
+TIL 8o
+11110101
+11111000
+11111101
+11111110
+11111111
+11111111
+11111111
+11111111
+>
+11111110
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME shine11
+COL 4
+
+TIL 8p
+10101111
+00011111
+10111111
+01111111
+11111111
+11111111
+11111111
+11111111
+>
+01111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME shine12
+COL 4
+
+TIL 8q
+11111111
+11111111
+11111111
+11111111
+11111110
+11111101
+11111000
+11110101
+>
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111110
+NAME shine13
+COL 4
+
+TIL 8r
+11111111
+11111111
+11111111
+11111111
+01111111
+10111111
+00011111
+10101111
+>
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+01111111
+NAME shine14
+COL 4
+
+TIL 8s
+00000000
+00001000
+00000001
+00000000
+00000000
+01000000
+00000010
+00000000
+NAME star1
+
+TIL 8t
+00000001
+00000000
+00100100
+00000000
+00000000
+00000000
+00100000
+00000000
+NAME star2
+
+TIL 8u
+00000000
+00000000
+00100000
+00000000
+00000000
+00000100
+00001110
+00000100
+>
+00000000
+00000000
+00100000
+00000000
+00000000
+00000000
+00000100
+00000000
+NAME star3
+
+TIL 8v
+00000001
+00000000
+00100000
+00000000
+00000000
+00000000
+00000100
+00000000
+>
+00000001
+00100000
+01110000
+00100000
+00000000
+00000000
+00000100
+00000000
+NAME star4
+
+TIL 8w
+11000000
+11110000
+11111000
+11111100
+11111110
+11111110
+11111111
+11111111
+NAME planet1
+COL 3
+
+TIL 8x
+00000011
+00001111
+00011111
+00111111
+01111111
+01111111
+11111111
+11111111
+NAME planet2
+COL 3
+
+TIL 8y
+11111111
+11111111
+01111111
+01111111
+00111111
+00011111
+00001111
+00000011
+NAME planet3
+COL 3
+
+TIL 8z
+11111111
+11111111
+11111110
+11111110
+11111100
+11111000
+11110000
+11000000
+NAME planet4
+COL 3
+
+SPR 10
+00011000
+00111100
+00000001
+00111101
+01011011
+00011001
+00100101
+00100100
+NAME Nyx2
+DLG SPR_j
+POS m 9,5
+COL 4
+
+SPR 11
+00000000
+00100000
+00011000
+00111100
+01011010
+01111110
+00111100
+00000000
+>
+00000000
+00100000
+00011000
+00111100
+01111110
+00010010
+00111100
+00000000
+NAME onion
+DLG SPR_k
+POS p 2,4
+COL 11
+
+SPR 12
+00111000
+01000100
+10000100
+10000100
+10000100
+01010110
+00100110
+00000100
+NAME fishpole
+DLG SPR_q
+POS p 2,3
+COL 7
+
+SPR 13
+00000000
+00000000
+00000000
+00000000
+00000000
+00101010
+01001101
+10010010
+NAME woodpile1
+DLG SPR_v
+POS 3 13,13
+COL 7
+
+SPR 15
+00001000
+00010100
+00100010
+00010100
+00000000
+00101010
+01001101
+10010010
+>
+00010100
+00101010
+00100010
+00010100
+00000000
+00101010
+01001101
+10010010
+NAME woodpile2
+POS v 13,13
+COL 10
+
+SPR 16
+00100100
+00011000
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+>
+00100100
+00011000
+00011000
+01000010
+00111100
+00011000
+00011000
+00100100
+NAME townsfolk4
+DLG SPR_s
+POS g 4,7
+COL 3
+
+SPR 17
+10000001
+10000001
+10000001
+10000001
+10000101
+10000001
+00000000
+11111111
+NAME lockeddoor
+DLG SPR_p
+POS l 3,3
+COL 4
+
+SPR 18
+00100000
+01011000
+01011000
+00000000
+00111100
+01011010
+00100100
+00100100
+NAME townsfolk5
+DLG SPR_t
+POS w 7,7
+COL 3
+
+SPR 19
+00000100
+00011000
+00111000
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME townsfolk6
+DLG SPR_12
+POS x 11,6
+COL 3
+
+SPR A
+00000000
+00000000
+00000000
+00000000
+01100110
+01011010
+00111100
+00100100
+>
+00000000
+00000000
+00000000
+01000010
+01100110
+01011010
+00111100
+00100100
+DLG SPR_a
+POS 0 5,4
+
+SPR a
+00100100
+01011010
+01011010
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME Payzlee
+DLG SPR_0
+POS 1 6,3
+COL 1
+
+SPR b
+00111000
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+00100100
+NAME Sam
+DLG SPR_1
+POS 1 8,4
+COL 3
+
+SPR c
+00011000
+00111100
+00000001
+00111101
+01011011
+00011001
+00100101
+00100100
+NAME Nyx
+DLG SPR_2
+POS 1 7,1
+COL 4
+
+SPR d
+00100100
+00111100
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME Alexandra
+DLG SPR_3
+POS 1 9,1
+COL 5
+
+SPR e
+00100100
+01011010
+01011010
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME Payzlee2
+DLG SPR_5
+POS 4 6,7
+COL 1
+
+SPR f
+00111000
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+00100100
+NAME Sam2
+DLG SPR_4
+POS 5 5,5
+COL 3
+
+SPR g
+00100100
+00111100
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME Alexandra2
+DLG SPR_6
+POS c 10,6
+COL 5
+
+SPR h
+00000000
+01111110
+10000001
+10110101
+10000001
+01111110
+00011000
+00011000
+NAME sign
+DLG SPR_7
+POS f 3,4
+COL 7
+
+SPR i
+00011000
+00011000
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME townsfolk1
+DLG SPR_c
+POS l 11,12
+COL 3
+
+SPR j
+00011000
+00111100
+00000000
+00111100
+01011010
+00011000
+00100100
+00100100
+NAME botanist
+DLG SPR_r
+POS g 11,12
+COL 3
+
+SPR k
+00001100
+00011100
+00000000
+00011110
+00101101
+00001100
+00010010
+00010010
+NAME townsfolk2
+DLG SPR_9
+POS g 11,5
+COL 5
+
+SPR l
+00000000
+00000000
+00000000
+00110000
+00110000
+11001100
+00110000
+00110000
+>
+00000000
+00000000
+00000000
+00110000
+00110000
+11001000
+00110100
+00110000
+NAME townsfolk3
+DLG SPR_8
+POS g 12,5
+COL 6
+
+SPR m
+00011000
+00111100
+00100100
+00111100
+01011010
+00011000
+00100100
+00100100
+>
+00011000
+00111100
+00100100
+00111110
+01011000
+00011000
+00100100
+00100100
+NAME Marina
+DLG SPR_d
+POS g 2,13
+COL 4
+
+SPR n
+00011000
+10111100
+10011000
+10000000
+10111100
+11011010
+10011000
+10100100
+NAME guard
+DLG SPR_b
+POS g 1,1
+COL 7
+
+SPR o
+11000011
+11000011
+10111101
+11111111
+01111110
+01111110
+00111100
+01000010
+>
+10000001
+11000011
+10111101
+11111111
+01111110
+01111110
+00111100
+01000010
+NAME bigcrab
+DLG SPR_m
+POS b 2,8
+COL 9
+
+SPR p
+00000000
+00000000
+10100101
+01000010
+01000010
+00111100
+00111100
+01000010
+>
+00000000
+00000000
+00000000
+10100101
+01000010
+01000010
+00111100
+01111110
+NAME crab1
+DLG SPR_n
+POS b 3,6
+COL 10
+
+SPR q
+00000000
+00000101
+10100010
+01000010
+01000010
+00111100
+00111100
+01000010
+>
+00000000
+10100000
+01000101
+01000010
+01000010
+00111100
+00111100
+01000010
+NAME crab2
+DLG SPR_w
+POS b 3,11
+COL 10
+
+SPR r
+00000000
+11000011
+11000011
+10000001
+10111101
+01111110
+01111110
+00100010
+>
+00000000
+11000011
+11000011
+10000001
+10111101
+01111110
+01111110
+01000100
+NAME crab3
+DLG SPR_x
+POS b 4,5
+COL 10
+
+SPR s
+00000000
+00000000
+01100110
+01000010
+01000010
+00111100
+00111100
+00100100
+>
+00000000
+00000000
+00000000
+01100110
+01000010
+00111100
+00111100
+00100100
+NAME crab4
+DLG SPR_y
+POS b 5,10
+COL 10
+
+SPR t
+01010101
+00100010
+01010001
+10001000
+01000101
+10100010
+00010101
+10101000
+NAME barricade
+DLG SPR_l
+POS g 0,2
+COL 1
+
+SPR u
+01111110
+10010101
+10101001
+10010101
+10101001
+11111111
+10010101
+01111110
+NAME news
+DLG SPR_e
+POS h 7,7
+COL 8
+
+SPR v
+00011000
+00111100
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+>
+00011000
+00111100
+00011000
+00000000
+00111110
+00111000
+00011000
+00100100
+NAME bookshop
+DLG SPR_f
+POS h 5,8
+COL 4
+
+SPR w
+00000000
+00011000
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME mayor
+DLG SPR_o
+POS j 8,6
+COL 6
+
+SPR x
+00000000
+00111100
+00111100
+00000000
+01111110
+10111101
+10111101
+00100100
+NAME tourist1
+DLG SPR_h
+POS k 5,8
+COL 3
+
+SPR y
+01100110
+00111100
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME tourist2
+DLG SPR_i
+POS k 6,8
+COL 4
+
+SPR z
+00011000
+00111100
+00000000
+00111100
+01011010
+00011000
+00100100
+00100100
+>
+00011000
+00111100
+00000010
+00111100
+01011000
+00011000
+00100100
+00100100
+NAME weaver
+DLG SPR_g
+POS k 9,2
+COL 6
+
+SPR 1a
+00111100
+00011000
+00000000
+00111100
+01011010
+01011010
+00011000
+00100100
+>
+00111100
+00011000
+00000000
+11111111
+00011000
+00011000
+00011000
+00100100
+NAME townsfolk7
+DLG SPR_u
+POS l 6,8
+COL 6
+
+SPR 1b
+10001001
+11000011
+10111101
+10000001
+10000001
+10000001
+01000010
+00111100
+NAME sWell
+DLG SPR_10
+POS g 9,9
+COL 6
+
+SPR 1c
+00000000
+00011000
+00111100
+01111101
+11011111
+01111101
+00111100
+00011000
+>
+00011000
+00111100
+01111101
+11011111
+01111101
+00111100
+00011000
+00000000
+NAME fish
+DLG SPR_z
+POS s 10,9
+
+SPR 1d
+11111111
+10000001
+11001011
+10010011
+11001001
+11010011
+10000001
+11111111
+NAME sigil
+DLG SPR_11
+POS t 8,14
+COL 1
+
+SPR 1e
+00100100
+01011010
+01011010
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME Payzlee3
+DLG SPR_13
+POS 16 6,7
+COL 6
+
+SPR 1f
+00111000
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+00100100
+NAME Sam3
+DLG SPR_15
+POS 16 7,5
+COL 3
+
+SPR 1g
+00011000
+00111100
+00000001
+00111101
+01011011
+00011001
+00100101
+00100100
+NAME Nyx3
+DLG SPR_16
+POS 16 9,10
+COL 4
+
+SPR 1h
+00100100
+00111100
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME Alexandra3
+DLG SPR_14
+POS 16 11,8
+COL 5
+
+ITM 0
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME intro
+DLG ITM_0
+
+ITM 1
+00100100
+01011010
+01011010
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME iPayz
+COL 1
+
+ITM 2
+00111000
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+00100100
+NAME iSam
+COL 3
+
+ITM 3
+00011000
+00111100
+00000001
+00111101
+01011011
+00011001
+00100101
+00100100
+NAME iNyx
+COL 4
+
+ITM 4
+00100100
+00111100
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME iAlex
+COL 5
+
+ITM 5
+00000000
+00000000
+00000100
+00111000
+00111000
+00111000
+00111000
+00000000
+NAME worms
+DLG ITM_6
+COL 5
+
+ITM 6
+00000100
+00001110
+01000100
+00000000
+00111100
+01111000
+00000000
+00000000
+>
+00000000
+01000100
+11100000
+01000000
+00111100
+01111000
+00000000
+00000000
+NAME silver
+DLG ITM_2
+COL 5
+
+ITM 7
+00000000
+01001100
+00001100
+00011110
+00001100
+00101100
+00111100
+00000001
+>
+01000000
+11101100
+01001100
+00011110
+10001100
+00101100
+00111100
+00000000
+NAME sister
+DLG ITM_3
+COL 12
+
+ITM 8
+00011000
+00100100
+01100110
+10011001
+10011001
+01100110
+00100100
+00011000
+NAME seashell
+DLG ITM_4
+COL 5
+
+ITM 9
+00000000
+00000000
+01111110
+01001010
+01001110
+01001010
+01111110
+00000000
+NAME matches
+DLG ITM_5
+COL 8
+
+ITM a
+00100100
+01011010
+01011010
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME iPayz2
+COL 6
+
+ITM b
+01000000
+10000000
+00000001
+00000010
+00000100
+00001000
+00010000
+00100000
+NAME outro1
+DLG ITM_7
+COL 7
+
+ITM c
+01100000
+10010010
+10001000
+10001000
+01001000
+00110110
+00001110
+01001110
+>
+01100010
+10010111
+10001010
+10001000
+01001001
+00110110
+00001110
+00001110
+NAME pendant
+DLG ITM_8
+COL 8
+
+ITM d
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME outro2
+DLG ITM_9
+
+DLG SPR_0
+"""
+{payzcolor}Payzlee:{payzcolor} Okay, Randy G., the pendant we're looking for is a blue gem on a silver chain. The gem is shaped like a seashell. It's known as the Heart of Sanri. You think you can keep an eye out for it?
+
+{rgcolor}Randy G.:{rgcolor} *snip snip*
+
+{payzcolor}Payzlee:{payzcolor} Ow! My nose! Hee hee! I know I can count on you!
+"""
+
+DLG SPR_1
+{samcolor}Sam:{samcolor} *grumble grumble*
+
+DLG SPR_2
+{nyxcolor}Nyx:{nyxcolor} I'm already getting sweaty under my armor. :'(
+
+DLG SPR_3
+{alexcolor}Alexandra:{alexcolor} ...
+
+DLG ITM_1
+convo1
+
+DLG ITM_0
+"""
+(exitNow "beachintro,5,4"){samcolor}Sam:{samcolor} Welp. Here we are.
+
+{payzcolor}Payzlee:{payzcolor} Oooooh! A pretty beach! You picked a great place to land the ship, Sam!
+
+{samcolor}Sam:{samcolor} This planet is almost entirely ocean. I didn't have much solid ground to choose from.
+{alexcolor}Alexandra:{alexcolor} I. Hate this. All this sand is going to get in my clothes.
+
+{samcolor}Sam:{samcolor} Well, we're on a mission to get this "pendant" or whatever for Lael, and this is where she sent us to look for it. The sooner we find it, the sooner we can get out of here.
+{payzcolor}Payzlee:{payzcolor} Plus, if we take too long, she's gonna get {wvy}reeeally{wvy} mad at us! The Little Lady waits for no one!
+{samcolor}Sam:{samcolor} Exactly. I'd rather not have my ass handed to me by a powerful gang leader. Again.
+
+{nyxcolor}Nyx:{nyxcolor} Guys...? On account of this whole planet being ocean...how likely do you think it is that the pendant is somewhere deep underwater?
+
+{samcolor}Sam:{samcolor} Oh my {shk}GOD{shk} how are we supposed to find it if it is? I'm not spending five thousand goddamned years here, or however long it will take to scuba-dive the ENTIRE PLANET
+{payzcolor}Payzlee:{payzcolor} I can't even swim! :D
+
+{samcolor}Sam:{samcolor} PAYZLEE YOU'RE NOT HELPING
+
+{payzcolor}Payzlee:{payzcolor} Don't worry, guys! We happen to have one party member who is perfectly designed to find shiny things on land AND sea!
+
+{alexcolor}Alexandra:{alexcolor} Who.
+
+{payzcolor}Payzlee:{payzcolor} Why, {rbw}RANDY G.{rbw} of course!!!
+{rgcolor}Randy G.:{rgcolor} *snip snip*
+
+{samcolor}Sam:{samcolor} ...
+
+{alexcolor}Alexandra:{alexcolor} ...
+
+{nyxcolor}Nyx:{nyxcolor} ...
+
+{samcolor}Sam:{samcolor} Yeah, I don't think your robot crab with an Intelligence of -5 is going to be any help in this search.
+{payzcolor}Payzlee:{payzcolor} Aww! Why you gotta hurt his feelings like that!
+{nyxcolor}Nyx:{nyxcolor} He DID help us that one time. He's the one who found that magic dagger I have.
+
+{samcolor}Sam:{samcolor} That dagger is definitely cursed. I keep telling you to pitch it.
+
+{nyxcolor}Nyx:{nyxcolor} Nooooooo..I like it...
+
+{payzcolor}Payzlee:{payzcolor} There is a possibility I could tweak some things on the ship to make it able to travel underwater.
+{samcolor}Sam:{samcolor} Really?
+
+{payzcolor}Payzlee:{payzcolor} Yeah! It would take a little bit, but the modifications shouldn't be too hard. Traveling through outer space is BASICALLY the same as travelling underwater!
+{samcolor}Sam:{samcolor} That sounds so untrue, but I'm not the mechanic here, so.
+{nyxcolor}Nyx:{nyxcolor} There seems to be a town in the distance. I could walk over there and gather information about the pendant while Payzlee works on the ship.
+
+{samcolor}Sam:{samcolor} Sounds great! As long as we don't do anything dumb, I don't think there's any combat threat here, so splitting up won't be an issue. Alexandra, maybe we could comb the beach together?
+{alexcolor}Alexandra:{alexcolor} No.
+
+{samcolor}Sam:{samcolor} Well...then...what will you go off to do?
+{alexcolor}Alexandra:{alexcolor} My own thing.
+
+{samcolor}Sam:{samcolor} All...all right.(musicEnd "crabaguey")
+"""
+
+DLG SPR_4
+"""
+{cycle
+  - {rgcolor}Randy G.:{rgcolor} *snip snip*
+    
+    {samcolor}Sam:{samcolor} Why aren't you with Payzlee?
+  - {samcolor}Sam:{samcolor} You probably don't want to swim out in the open ocean right now. The waves are too strong for a tiny little crab.
+  - {samcolor}Sam:{samcolor} There seem to be a lot of these little pools around. I suspect they're deeper than they look. You'd probably fit perfectly right in there, huh?
+  - {samcolor}Sam:{samcolor} Payzlee better not ruin my ship with her tinkering, or I swear to Space God I will chop off those cute little blue pigtails of hers.
+  - {samcolor}Sam:{samcolor} The sand is starting to mess up the joints in my metal arm. >:(
+}
+"""
+
+DLG SPR_5
+"""
+{
+  - open == 0 ?
+    {
+      - snack == 1 ?
+        {rgcolor}Randy G.:{rgcolor} *snip snip*
+        
+        {payzcolor}Payzlee:{payzcolor} *gasp* Randy G., did you know I was hungry from working on the spaceship, so you brought me a seaweed snack?
+        {rgcolor}Randy G.:{rgcolor} *snip snip*
+        
+        {payzcolor}Payzlee:{payzcolor} THANK YOU SO MUCH!! You're the bestest buddy eve-
+        {rgcolor}Randy G.:{rgcolor} {shk}*SNIP*{shk}
+        
+        {payzcolor}Payzlee:{payzcolor} OUCH! My finger! Hee hee! I guess you want something in return, huh?
+        
+        Here, you can borrow my wrench! You always look so cute when you hold it with your little claws!
+        
+        {rgcolor}Randy G.:{rgcolor} *snip snip*
+        
+        (Payzlee devours the snack and continues working on the ship.)
+        <{rgcolor}RANDY G.{rgcolor} got a WRENCH!>{wrench = 1}
+        {snack = 0}
+      - else ?
+        {rgcolor}Randy G.:{rgcolor} *snip snip*
+        
+        {payzcolor}Payzlee:{payzcolor} Randy G.! How goes the mission?
+        {rgcolor}Randy G.:{rgcolor} *snip snip*
+        
+        {payzcolor}Payzlee:{payzcolor} Keep up the good work!
+    }
+  - else ?
+    {payzcolor}Payzlee:{payzcolor} Aaaaall done! The ship is ready to go underwater!
+    {rgcolor}Randy G.:{rgcolor} *snip snip*
+    
+    {payzcolor}Payzlee:{payzcolor} Randy G.? What's wrong?
+    
+    {rgcolor}Randy G.:{rgcolor} *snipsnipsnipsnipsnip snipsnipsnispnsipsnipsnipsnip*
+    {payzcolor}Payzlee:{payzcolor} !!!
+    
+    Let's get everyone back together on the ship and then you can lead the way!
+    
+    <(exitNow "final1,10,6")SEVERAL MINUTES LATER>
+}
+"""
+
+DLG SPR_7
+"""
+(The sign says: {gencolor}"Welcome to Seahaven, the only town on planet Lakuna!"{gencolor})
+
+(However, you don't know this, because you can't read.)
+"""
+
+DLG SPR_8
+{gencolor}Child:{gencolor} Look, mommy! That crab is all shiny!
+
+DLG SPR_9
+{gencolor}Mother:{gencolor} Don't touch the crab, sweetie, it's bad luck.
+
+DLG SPR_a
+{gencolor}Guard:{gencolor} {shk}HALT, CRUSTACEAN!{shk}
+
+DLG SPR_b
+"""
+{
+  - guardpermit == 1 ?
+    (The guard regards you fondly.)
+  - else ?
+    (The guard eyes you suspiciously.)
+}
+"""
+
+DLG SPR_c
+"""
+{rgcolor}Randy G.:{rgcolor} *snip snip*
+
+{gencolor}Townsfolk:{gencolor} Crabs? In the town? I thought we got rid of all of them.
+"""
+
+DLG SPR_d
+"""
+{maricolor}Marina:{maricolor} {wvy}SEAWEED SNACKS!{wvy} Get your seaweed snacks right here! Only one silver!
+
+{rgcolor}Randy G.:{rgcolor} *snip snip*
+
+{maricolor}Marina:{maricolor} You look oddly familiar, little buddy. {
+  - hasmoney == 1 ?
+    Would you like to buy a seaweed snack?
+    
+    (You hand the silver piece over to Marina.)
+    {maricolor}Marina:{maricolor} Pleasure doing business with ya, small friend.
+    <{rgcolor}RANDY G.{rgcolor} got a SEAWEED SNACK!>{snack = 1}
+    {hasmoney = 0}
+  - else ?
+
+}
+"""
+
+DLG SPR_e
+"""
+(A pile of old newspapers sits on the floor. The front-page story tells about a horrible crab infestation that happened in Seahaven half a year ago.)
+
+(However, you can't read, so you start to snip at the papers until the bookshop owner shoos you away.)
+"""
+
+DLG SPR_f
+{gencolor}Bookshop owner:{gencolor} That purple-haired elf dashed so fast out of here that she knocked this pile of books over!
+
+DLG SPR_g
+"""
+{
+  - weave == 0 ?
+     {
+      - tune == 0 ?
+        {gencolor}Weaver:{gencolor} These two chatterboxes need to either buy a rug or get out so I can concentrate on my loom.
+      - else ?
+        {rgcolor}Randy G.:{rgcolor} *snip snip*
+        
+        (You playback the nautical tune that you recorded from the fish.)
+        
+        {gencolor}Weaver:{gencolor} Oh, what a lovely melody. So catchy. If I sing this to myself I think I can block out the incessant chatter of those two.
+        
+        Thank you. I will give you one of my threads as payment.
+        <{rgcolor}RANDY G.{rgcolor} got a PIECE OF STRING!>{string = 1}{weave = 1}
+    }
+  - else ?
+    (The weaver hums to herself happily as she works, drowning out the loudly-talking customers.)
+}
+"""
+
+DLG SPR_h
+"""
+{cycle
+  - {gencolor}Tourist 1:{gencolor} You would think a planet that's entirely ocean would depend solely on the export of fish for profit, but Seahaven also has a booming textile industry.
+    {gencolor}Tourist 2:{gencolor} That's incredible! Where do they get the fibers used to make fabric? Surely you can't raise livestock out in the sands...
+    
+    {gencolor}Tourist 1:{gencolor} Crazy thing is, there's a special kind of fish that's native to this planet called the Fisheep. It's a fish that produces wool!
+    
+    {gencolor}Tourist 2:{gencolor} Impossible!
+    
+    {gencolor}Tourist 1:{gencolor} No, it's true! The people of Seahaven literally fish for wool. It's a long, tedious process to dry out and cure the wool for fabric, which is why the rugs are so expensive.
+  - {gencolor}Tourist 1:{gencolor} I hear the northwest side of the island is a good fishing spot. You can catch a lot of space anchovy there.{gencolor}Tourist 2:{gencolor} Really? I've always preferred space tuna myself.
+    {gencolor}Tourist 1:{gencolor} That's because no one ever prepares space anchovy right. You have to marinate them overnight with garlic and space thyme to bring out the flavor.
+    
+    {gencolor}Tourist 2:{gencolor} Okay, Mr. Fancypants, not all of us can just schlep on over to the 58th sector to buy some overpriced space thyme.
+    {gencolor}Tourist 1:{gencolor} Good space thyme is worth the trip!
+}
+"""
+
+DLG SPR_i
+"""
+{cycle
+  - {gencolor}Tourist 2:{gencolor} Did you hear about the crab problem Seahaven had a couple seasons ago?
+    
+    {gencolor}Tourist 1:{gencolor} Yeah, I heard it was bad. I guess something upset the ecosystem and all the crabs responded by overrunning the city. {wvy}"Crabpocalypse"{wvy} they called it.
+  - {gencolor}Tourist 2:{gencolor} The people of Seahaven live modest lives, and mostly keep to themselves.
+    
+    {gencolor}Tourist 1:{gencolor} Yeah, well you would too if all your technology kept getting ruined by the sea and the sand.
+    {gencolor}Tourist 2:{gencolor} Wasn't there a stand-up comedian who turned out to be from here? You know, that one bard...
+    {gencolor}Tourist 1:{gencolor} Oh, you know what, you're right, what was her name...Ma...Mar-something.
+    
+    {gencolor}Tourist 2:{gencolor} Ugh, it's gonna be one of those things that bugs me all day, and then I'll be lying in bed in the middle of the night when it will come to me.
+    
+    {gencolor}Tourist 1:{gencolor} Oh, that's the worst.
+}
+"""
+
+DLG SPR_j
+"""
+{sequence
+  - {nyxcolor}Nyx:{nyxcolor} The books that the shop-owner gave me were useful, but all signs point to the pendant being lost somewhere on the ocean floor.
+    
+    *sigh* We're definitely going to be here awhile, aren't we?
+    (Nyx looks pensively at the sea.)
+    {nyxcolor}Nyx:{nyxcolor} I guess...it wouldn't hurt to...try and get some "help".
+    (Nyx pulls out a gleaming silver dagger and stares at it intently.)
+    
+    {nyxcolor}Nyx:{nyxcolor} Can you tell me how to find the Heart of Sanri?
+    {daggercolor}Dagger:{daggercolor} {wvy}You know the rules{wvy}
+    
+    (Nyx pauses for a moment and then slices the palm of her hand.)
+    
+    <{nyxcolor}NYX{nyxcolor} takes 2 damage!>
+    
+    {daggercolor}Dagger:{daggercolor} {wvy}To find what you seek, reunite the four sisters at the devil's horns{wvy}
+    
+    {nyxcolor}Nyx:{nyxcolor} ...
+    
+    That tells me {shk}nothing!{shk}
+  - {rgcolor}Randy G.:{rgcolor} *snip snip*
+    
+    {nyxcolor}Nyx:{nyxcolor} Oh, Randy G., did you follow me here?
+  - {nyxcolor}Nyx:{nyxcolor} "Reunite the four sisters at the devil's horns"...what on earth could that be referring to?
+}
+"""
+
+DLG SPR_k
+"""
+{cycle
+  - (An odd-looking alien seems to have fallen asleep while fishing.)
+  - {onioncolor}onion:{onioncolor} zzz...mysteries... zzz...I'll solve it this time...
+  - {onioncolor}onion:{onioncolor} zzz...don't worry, anchovies... zzz...onion detective is on the...case...zzz
+}
+"""
+
+DLG SPR_l
+"""
+{
+  - permit == 1 ?
+    {
+      - guardpermit == 0 ?
+        {gencolor}Guard:{gencolor} {shk}HALT, CRUSTACE{shk}-!
+        
+        {rgcolor}Randy G.:{rgcolor} *snip snip*
+        
+        {gencolor}Guard:{gencolor} What say you? Thou hast permission from the mayor to pass?
+        
+        (You show your permit to the guard.)
+        {gencolor}Guard:{gencolor} Forsooth! Thou art a crab of the people! Mine blade will swing true for thee!
+        
+        Also, thou art permitted to pass through the town.{guardpermit = 1}(exit "town3,14,2")
+      - else ?
+        (exitNow "town3,14,2")
+    }
+  - else ?
+    {gencolor}Guard:{gencolor} {shk}HALT, CRUSTACEAN!{shk} Dare not take another step, lest thou want to taste mine blade!
+    
+    {rgcolor}Randy G.:{rgcolor} *snip snip*
+    
+    {gencolor}Guard:{gencolor} I hath risked mine life and limb for Seahaven in the Crabpocalypse and I will heartily do it again!
+    (You decide not to push the matter.)
+}
+"""
+
+DLG ITM_2
+<{rgcolor}RANDY G.{rgcolor} got a SILVER COIN!> {hasmoney = 1}
+
+DLG SPR_m
+"""
+{
+  - crableg == 0 ?
+    <{rgcolor}RANDY G.{rgcolor} enters combat with {crabcolor}BIG CRAB{crabcolor}!>
+    <Roll for INITIATIVE!>
+    {rgcolor}RG:{rgcolor} 13   {crabcolor}BC:{crabcolor} 10
+    {
+      - wrench == 1 ?
+        <{rgcolor}RANDY G.{rgcolor} attacks with WRENCH!>
+        
+        <{shk}CRIT!{shk} {crabcolor}BIG CRAB{crabcolor} takes 18 damage!>
+        <{crabcolor}BIG CRAB{crabcolor} retreats!>
+        
+        <{rbw}YOU WON!{rbw} {rgcolor}RANDY G.{rgcolor} gains 9 EXP!>
+        
+        <{rgcolor}RANDY G.{rgcolor} got a CRAB LEG!>{crableg = 1}
+      - else ?
+        <{rgcolor}RANDY G.{rgcolor} attacks with CLAW!>
+        
+        <{crabcolor}BIG CRAB{crabcolor} takes 3 damage!>
+        
+        <{crabcolor}BIG CRAB{crabcolor} attacks with CLAW!>
+        
+        <{shk}CRIT!{shk} {rgcolor}RANDY G.{rgcolor} takes 11 damage!>
+        <{rgcolor}RANDY G.{rgcolor} retreats!>
+    }
+  - else ?
+    (The big crab looks forlorn in defeat, now missing one of his legs.)
+}
+"""
+
+DLG SPR_n
+"""
+{
+  - crableg == 1 ?
+    (The crabs rejoice now that you have defeated the big crab!)
+  - else ?
+    (The crabs cower in fear from the very big crab.)
+}
+"""
+
+DLG SPR_o
+"""
+{rgcolor}Randy G.:{rgcolor} *snip snip*
+{
+  - crableg == 1 ?
+    {
+     - permit == 0 ?
+       
+       {gencolor}Mayor:{gencolor} Hoo hoo! It's the little crab from before! What's that you've got there?
+       
+       (You brandish the crab leg at the mayor.)
+       {gencolor}Mayor:{gencolor} Oh my, my! It seems that you have bested a very large crab in combat and claimed its leg as a trophy!
+       I would say that is solid proof of your allegiance to the town!
+       {rgcolor}Randy G.:{rgcolor} *snip snip*
+
+       {gencolor}Mayor:{gencolor} Yes, yes! For your extraordinary act of bravery in the name of Seahaven, I, the mayor, bestow upon you this permit to reside in Seahaven! Hoo hoo!
+<{rgcolor}RANDY G.{rgcolor} got a PERMIT!>{permit = 1}
+     - else ?
+
+       {gencolor}Mayor:{gencolor} Hoo hoo! It is the Seahaven resident crab!
+    }
+  - else ?
+    
+    {gencolor}Mayor:{gencolor} {shk}Eep!{shk} It's a crab!
+    
+    (The mayor tries to climb up on his desk to get away from you.)
+    {gencolor}Mayor:{gencolor} To be honest, I am quite frightened of crabs, ever since they attacked our town! But you're not attacking me, you're just...sitting there.
+    
+    {rgcolor}Randy G:{rgcolor} *snip snip*
+    
+    {gencolor}Mayor:{gencolor} Could you perhaps be...a good crab?
+    {rgcolor}Randy G:{rgcolor} *snip snip*
+    
+    {gencolor}Mayor:{gencolor} Well, I'm going to need more proof than that. If you can somehow show me that you're on Seahaven's side against the crabs, I will give you your own permit to come and go from the town as you please!
+    
+    {rgcolor}Randy G:{rgcolor} *snip snip*
+    
+    {gencolor}Mayor:{gencolor} Hoo hoo! Godspeed, little crab!
+}
+"""
+
+DLG SPR_p
+(The door appears to be locked. Probably to keep out nosy, little crabs.)
+
+DLG ITM_3
+<{rgcolor}RANDY G.{rgcolor} got a MERMAID-SHAPED STONE!>{sisters = sisters + 1}
+
+DLG SPR_q
+(It's a plain-looking fishing pole.)
+
+DLG ITM_4
+<{rgcolor}RANDY G.{rgcolor} got a FLOWER-SHAPED SEASHELL!>{shell = 1}
+
+DLG SPR_r
+"""
+{gencolor}Botanist:{gencolor} I travel from planet to planet in search of interesting plant specimens. I'm willing to trade if you bring me an interesting plant.{
+  - shell == 1 ?
+    
+    
+    {rgcolor}Randy G.:{rgcolor} *snip snip*
+    
+    (You hand her a seashell shaped like a flower.)
+    {gencolor}Botanist:{gencolor} That's not really...a plant...oh well, it's interesting, I'll give you that.
+    
+    In return, I'll give you this flower. They're a popular gift from where I'm from.
+    
+    <{rgcolor}RANDY G.{rgcolor} got a SPACE CROCUS!>{flower = 1}
+    {shell = 0}
+  - else ?
+
+}
+"""
+
+DLG SPR_s
+"""
+{
+  - flower == 1 ?
+    {
+      - letter == 0 ?
+        {rgcolor}Randy G.:{rgcolor} *snip snip*
+        
+        {gencolor}Townsfolk:{gencolor} Oh? This crab has brought me a flower?
+        It's gorgeous! A beauty unlike anything I have ever seen! It's a perfect gift for my wife!
+        
+        Will you please deliver this flower to her, along with this letter? She lives in the house at the southwest edge of town.
+        I'd do it myself, but I just remembered I have to go get the ingredients for her birthday cake!
+        <{rgcolor}RANDY G.{rgcolor} got a LETTER!>{letter = 1}
+      - else ?
+        (The townsfolk hums a tune while going about business.)
+    }
+  - else ?
+    {gencolor}Townsfolk:{gencolor} Oh woe is me! My darling wife's birthday is today, and I can't for the life of me find anything to give her!
+    It has to be something special! She deserves the universe!
+    {rgcolor}Randy G.:{rgcolor} *snip snip*
+    
+    {gencolor}Townsfolk:{gencolor} Even the crabs have come to mourn with me!
+}
+"""
+
+DLG SPR_t
+"""
+{
+  - letter == 1 ?
+    {
+      - lover == 0 ?
+        {rgcolor}Randy G.:{rgcolor} *snip snip*
+        
+        {gencolor}Townsfolk:{gencolor} Oh? What's this?
+        
+        (You hand the townsfolk the space crocus and the letter.)
+        {gencolor}Townsfolk:{gencolor} A beautiful flower? And a letter from Avery?
+        (The townsfolk takes a moment to read the letter.)
+        {gencolor}Townsfolk:{gencolor} Oh! What an amazing birthday gift! Thank you so much for delivering it, little crab!
+        
+        {rgcolor}Randy G.:{rgcolor} *snip snip*
+        
+        {gencolor}Townsfolk:{gencolor} I should give you something as thanks. How about this mermaid trinket I have? It's been in my family for generations, but it's not much use to me except as a paperweight.
+        
+        <{rgcolor}RANDY G.{rgcolor} got a MERMAID-SHAPED STONE!>{sisters = sisters + 1}{lover = 1}
+      - else ?
+        (The townsfolk reads the letter over and over again, beaming.)
+    }
+  - else ?
+    (The townsfolk sighs and stares wistfully into the distance.)
+}
+"""
+
+DLG ITM_5
+"""
+(A box of matches sits on the ground. You decide to take one.)
+<{rgcolor}RANDY G.{rgcolor} got an UNLIT MATCH!>{match = 1}
+"""
+
+DLG SPR_6
+"""
+(Alexandra has found a flat, relatively sand-free stone to sit on. She faces the waves, eyes closed, medititating.)
+{alexcolor}Alexandra:{alexcolor} ...My fire magic is pretty much useless on a planet full of water, huh.{
+  - match == 1 ?
+    {
+      - lit == 0 ?
+        
+        
+        {rgcolor}Randy G.:{rgcolor} *snip snip*
+        
+        {alexcolor}Alexandra:{alexcolor} ...
+        
+        (You wave your match at Alexandra.)
+        {alexcolor}Alexandra:{alexcolor} ...You want me to light it.
+        {rgcolor}Randy G.:{rgcolor} *snip snip*
+        
+        {alexcolor}Alexandra:{alexcolor} ...
+        
+        <{alexcolor}ALEXANDRA{alexcolor} casts {wvy}PRESTIDIGITAION!{wvy}>
+        (With a flick of her wrist, Alexandra sets the match on fire.)
+        
+        <{rgcolor}RANDY G.{rgcolor} got a LIT MATCH!>
+        
+        {alexcolor}Alexandra:{alexcolor} Please don't wave that so close to my hair.{lit = 1}
+      - else ?
+
+    }
+  - else ?
+
+}
+"""
+
+DLG SPR_u
+"""
+{rgcolor}Randy G.:{rgcolor} *snip snip*
+
+{gencolor}Townsfolk:{gencolor} {shk}CRAB!{shk} CATCH IT! CATCH IT!
+(You nimbly dodge out of the way of the townsfolk's grasping hands.)
+"""
+
+DLG SPR_v
+"""
+{
+  - pyre == 0 ?
+    (A pile of wood sits by the shore.) {
+      - match == 1 ?
+        {
+          - lit == 0 ?
+            
+            (You could probably light it on fire with your match, if the match was lit.)
+          - else ?
+            
+            (You light it on fire with your match!)
+            (exitNow "beach12,12,13")(The fire burns brightly, illuminating the beach.)
+            (A tentacle pops up out of the water, disturbed by the light!)
+            (The tentacle hands you a stone relic!)
+            <{rgcolor}RANDY G.{rgcolor} got a MERMAID-SHAPED STONE!>
+            (As the tentacle leaves, the fire slowly dies.)(exit "beach2,12,13"){pyre = 1}{sisters = sisters + 1}
+        }
+      - else ?
+
+    }
+  - else ?
+    (A pile of charred wood sits by the shore.)
+}
+"""
+
+DLG SPR_w
+"""
+{
+  - crableg == 1 ?
+    (The crabs rejoice now that you have defeated the big crab!)
+  - else ?
+    (The crabs cower in fear from the very big crab.)
+}
+"""
+
+DLG SPR_x
+"""
+{
+  - crableg == 1 ?
+    (The crabs rejoice now that you have defeated the big crab!)
+  - else ?
+    (The crabs cower in fear from the very big crab.)
+}
+"""
+
+DLG SPR_y
+"""
+{
+  - crableg == 1 ?
+    (The crabs rejoice now that you have defeated the big crab!)
+  - else ?
+    (The crabs cower in fear from the very big crab.)
+}
+"""
+
+DLG SPR_z
+"""
+{rgcolor}Randy G:{rgcolor} *snip snip*
+
+{fishcolor}Fish:{fishcolor} *blub blub*{
+  - fish == 0 ?
+
+
+    (The fish looks hungry.) {
+    - worms == 1 ?
+      
+
+(You feed the fish some worms.)
+      
+{fishcolor}Fish:{fishcolor} *blub blub blubbb*
+      
+(The fish sings a beautiful nautical tune. You record it with your robot mechanisms.)
+
+      <{rgcolor}RANDY G.{rgcolor} got a NAUTICAL TUNE!>{fish = 1}{tune = 1}
+    - else ?{
+      - snack == 1 ?
+        
+
+(You offer it a seaweed snack, but the fish doesn't seem to like the taste.)
+      - else ?}}
+  - else ?
+
+
+    (The fish seems content.)
+
+}
+"""
+
+DLG ITM_6
+<{rgcolor}RANDY G.{rgcolor} got a CAN OF WORMS!>{worms = 1}
+
+DLG SPR_10
+"""
+{
+  - string == 1 ?
+(You climb up the side of the well using the string.) {
+- well == 0 ?
+
+(Inside the well is...a funny-shaped piece of stone!)
+<{rgcolor}RANDY G.{rgcolor} got a MERMAID-SHAPED STONE!>{sisters = sisters + 1}{well = 1}
+- else ?
+
+(Inside is...just water!)
+}
+  - else ?
+    (It's a well. You could probably climb inside it if you had something to help you scale the walls.)
+}
+"""
+
+DLG SPR_11
+"""
+{
+- open == 0?
+{
+  - sisters == 4 ?
+    (You take the four stone mermaids that you have collected and gently place them in the four slots.)
+    {shk}*creeeeeeak*{shk}
+    
+    (An opening has revealed itself!)
+    (You try to venture forth, but the pressure of the depths starts to strain your small, metal body.)
+    (You better not venture any further without the rest of your crew.){open = 1}
+  - else ?
+    (A strange symbol is carved into the large, stone structure beneath you. There seem to be four indentations in the stone, as if something could be placed inside.)
+}
+- else ?
+(The pressure is too great on your small frame to swim any deeper.)
+}
+"""
+
+DLG SPR_12
+{gencolor}Townsfolk:{gencolor} Ah! Nothing like a big helping of fresh seafood stew after a hard day's work!
+
+DLG ITM_7
+"""
+(exitNow "final2,10,6"){samcolor}Sam:{samcolor} I cannot believe we're listening to a CRAB on where to go.
+
+{payzcolor}Payzlee:{payzcolor} I believe him! Why would he steer us wrong?
+{samcolor}Sam:{samcolor} The thing pinches you every time you go to talk to him!
+{payzcolor}Payzlee:{payzcolor} That's just how he shows love!
+{samcolor}Sam:{samcolor} ...Hang on, we're coming up on something...
+{alexcolor}Alexandra:{alexcolor} It's...huge.
+
+{samcolor}Sam:{samcolor} So this giant stone structure was just sitting here south of the island this whole time?
+{payzcolor}Payzlee:{payzcolor} {wvy}Whoaaaaa!{wvy} Look at those two big pointy things!
+{nyxcolor}Nyx:{nyxcolor} ...The devil's horns...!
+
+{samcolor}Sam:{samcolor} All right, I'm going further down inside.
+..........
+
+{nyxcolor}Nyx:{nyxcolor} There! A light!
+
+{samcolor}Sam:{samcolor} I see, it, I see it!
+
+{payzcolor}Payzlee:{payzcolor} Could it be...?
+
+{samcolor}Sam:{samcolor} I'm reaching in with the external arm and extracting it now.
+
+Easy...easy...
+
+G(exitNow "final3,10,6")ot it!
+
+{nyxcolor}Nyx:{nyxcolor} It's the Heart of Sanri!
+
+{payzcolor}Payzlee:{payzcolor} Yippeeeee! Pew-pew-pew!!
+{alexcolor}Alexandra:{alexcolor} ...
+
+{samcolor}Sam:{samcolor} Something wrong, Alexandra?
+
+{alexcolor}Alexandra:{alexcolor} That was too easy.
+
+{shk}*(music "crash")CRASHHH(exitNow "final4,10,6")HHHHHHHHH*{shk}
+
+{samcolor}Sam:{samcolor} ALEXANDRA YOU JYNXED US
+
+{payzcolor}Payzlee:{payzcolor} What happened? What did we run into?
+{samcolor}Sam:{samcolor} I don't know! I wasn't even moving the shi-
+.(music "fight")........(exitNow "final5,10,6").
+
+{samcolor}Sam:{samcolor} {shk}AAAAAAAAAAAAAAAAH!!{shk}
+
+{payzcolor}Payzlee:{payzcolor} {shk}AAAAAAAAAAAAAAAAH!!{shk}
+
+{nyxcolor}Nyx:{nyxcolor} {shk}AAAAAAAAAAAAAAAAH!!{shk}
+
+{alexcolor}Alexandra:{alexcolor} {shk}AAAAAAAAAAAAAAAAH!!{shk}
+
+<(exitNow "final6,0,15"){squidcolor}SPACE GIANT SQUID{squidcolor} enters combat with {gencolor}THE PARTY!{gencolor}>
+{payzcolor}Payzlee:{payzcolor} {shk}THAT THING'S GONNA KILL US!!{shk}
+<Roll for INITIATIVE!>
+{samcolor}SM:{samcolor} 12  {payzcolor}PZ:{payzcolor} 17  {alexcolor}AX:{alexcolor} 11
+{nyxcolor}NX:{nyxcolor} 04  {rgcolor}RG:{rgcolor} 18  {squidcolor}SQ:{squidcolor} 19
+
+<{squidcolor}SPACE GIANT SQUID{squidcolor} attacks with TENTACLE!>
+<THE SHIP takes 14 damage!>
+
+{samcolor}Sam:{samcolor} {shk}IF YOU WRECK MY SHIP I WILL PERSONALLY TURN YOU INTO SPACE SUSHI!{shk}
+
+{nyxcolor}Nyx:{nyxcolor} {shk}JUST EXACTLY HOW WILL YOU GO ABOUT DOING THAT, SMARTASS?{shk}
+{samcolor}Sam:{samcolor} {shk}I DON'T KNOW! OH GOD WHAT DO WE DO!?{shk}(exit "final7,10,6")
+"""
+
+DLG SPR_13
+{payzcolor}Payzlee:{payzcolor} {shk}WILL THE LASERS FIRE UNDERWATER!? I DIDN'T THINK TO MODIFY THEM DURING THE TWEAKS!{shk}
+
+DLG SPR_14
+{alexcolor}Alexandra:{alexcolor} {shk}SHOOT IT SHOOT IT SHOOT IT SHOOT IT SHOOT IT{shk}
+
+DLG SPR_15
+{samcolor}Sam:{samcolor} {shk}HE'S GOT US GOOD I CAN'T GET AWAY{shk}
+
+DLG SPR_16
+{nyxcolor}Nyx:{nyxcolor} {shk}Well this is the end of everything goodbye{shk}
+
+DLG ITM_8
+"""
+<{rgcolor}RANDY G.{rgcolor} got the HEART OF SANRI!>
+(The pendant seems to grow brighter as you hold it up with your claws...)
+
+.(exitNow "final8,0,15").........
+
+{shk}*(exitNow "final9,0,15")(music "explode")KABOOOOOOOOOOOOOOOOOM*{shk}
+
+.(exitNow "final10,0,0").........
+
+<{squidcolor}SPACE GIANT SQUID{squidcolor} takes 113 damage!>
+<{squidcolor}SPACE GIANT SQUID{squidcolor} is defeated!>
+
+<{rbw}YOU WON!{rbw} {gencolor}THE PARTY{gencolor} gains 487 EXP!>
+.(exitNow "final11,7,9").........
+
+{samcolor}Sam:{samcolor} We're...alive!
+
+{payzcolor}Payzlee:{payzcolor} That was {wvy}AMAZING{wvy}, Randy G.! You saved us!
+{nyxcolor}Nyx:{nyxcolor} Uh, I think it was more the pendant that save-
+{payzcolor}Payzlee:{payzcolor} WOOHOO! YEAH! PEW-PEW-PEW-PEW!!
+{rgcolor}Randy G.:{rgcolor} *snip snip*
+
+((exitNow "final11,7,7")You scuttle over to Payzlee and hand her the pendant.)
+{samcolor}Sam:{samcolor} I still...can't believe we're alive! And we have the pendant! That means we can {wvy}(music "end")LEAVE!{wvy} 
+{alexcolor}Alexandra:{alexcolor} About time.
+
+{samcolor}Sam:{samcolor} All right, everyone, strap in and prepare for liftoff!(exit "space,14,14")
+"""
+
+DLG ITM_9
+"""
+{samcolor}Sam:{samcolor} Another mission completed without a hitch!
+{nyxcolor}Nyx:{nyxcolor} You know? If we were in some sort of space anime, this adventure would probably be our beach episode.
+{samcolor}Sam:{samcolor} I...honestly don't like the sound of that.
+{alexcolor}Alexandra:{alexcolor} Let's just get this pendant to Lael and be done with it.
+
+{samcolor}Sam:{samcolor} Yes!! Let's not waste any time! Off we go!
+{rgcolor}Randy G.:{rgcolor} *snip snip*
+
+{payzcolor}Payzlee:{payzcolor} Good work today, Randy G.! You really did your best out there!
+
+{rgcolor}Randy G.:{rgcolor} *snip*
+
+{payzcolor}Payzlee:{payzcolor} Ow! Hee hee! You're the best crab in all the universe!(end "===========THE END!=========== ============================== In loving memory of Randy G. (7/24/2017 - 5/18/2018)")
+"""
+
+VAR hasmoney
+0
+
+VAR snack
+0
+
+VAR wrench
+0
+
+VAR crableg
+0
+
+VAR permit
+0
+
+VAR guardpermit
+0
+
+VAR sisters
+0
+
+VAR shell
+0
+
+VAR flower
+0
+
+VAR letter
+0
+
+VAR lover
+0
+
+VAR match
+0
+
+VAR lit
+0
+
+VAR pyre
+0
+
+VAR fish
+0
+
+VAR worms
+0
+
+VAR tune
+0
+
+VAR weave
+0
+
+VAR string
+0
+
+VAR well
+0
+
+VAR open
+0
+
+

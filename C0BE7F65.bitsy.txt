@@ -1,0 +1,2564 @@
+
+I Would Buy My Friends All Castles
+
+# BITSY VERSION 4.8
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME town
+208,240,255
+255,189,206
+181,181,181
+
+PAL 1
+NAME candle
+255,227,241
+187,198,255
+213,254,242
+
+PAL 2
+NAME ledoux
+201,219,247
+245,245,245
+255,237,124
+
+PAL 3
+NAME freya
+251,199,241
+254,170,213
+255,255,255
+
+PAL 4
+NAME bard
+204,204,204
+255,249,198
+255,221,251
+
+PAL 5
+NAME onion
+144,183,235
+255,222,187
+252,198,151
+
+PAL 6
+NAME lenny
+255,250,215
+150,222,235
+255,207,201
+
+PAL 7
+NAME sean
+179,254,190
+123,219,149
+216,189,255
+
+PAL 8
+NAME ayo
+185,252,248
+222,195,255
+254,200,207
+176,240,236
+
+PAL 9
+NAME god
+255,255,255
+245,245,245
+251,240,168
+
+PAL a
+NAME onion2
+144,183,235
+255,222,187
+144,183,235
+252,198,151
+
+ROOM 0
+0,0,0,0,0,0,l,0,0,0,0,k,0,0,0,0
+0,f,h,g,k,k,0,f,h,g,k,0,f,h,g,0
+k,e,i,d,0,0,0,e,i,d,0,0,e,i,d,0
+k,c,a,b,0,0,0,c,a,b,0,0,c,a,b,0
+0,0,j,0,0,k,0,0,j,0,0,0,0,j,k,0
+0,0,j,0,l,l,k,0,j,0,l,k,l,j,0,k
+l,0,j,0,0,0,0,0,j,0,0,0,0,j,0,0
+0,0,j,j,j,j,j,j,j,j,j,j,j,j,j,j
+0,k,0,0,0,0,0,0,j,0,0,0,0,0,k,0
+0,0,0,k,0,k,0,0,j,0,l,0,k,k,0,k
+0,0,k,k,0,0,k,0,j,0,0,0,0,0,l,0
+l,f,h,g,0,0,0,0,j,0,0,0,f,h,g,0
+0,e,i,d,0,0,l,0,j,k,0,0,e,i,d,0
+0,c,a,b,0,0,0,0,j,0,0,0,c,a,b,0
+k,0,j,j,j,j,j,j,j,j,j,j,j,j,0,0
+k,0,0,0,0,0,0,0,0,0,k,0,0,0,k,0
+NAME town1
+EXT 15,7 1 1,7
+EXT 2,13 2 7,14
+EXT 13,13 3 7,14
+EXT 2,3 4 7,14
+EXT 8,3 5 7,14
+EXT 13,3 6 7,14
+PAL 0
+
+ROOM 1
+k,0,0,0,0,k,0,0,0,0,0,0,0,0,0,l
+0,f,h,g,k,0,0,f,h,g,k,l,f,h,g,0
+0,e,i,d,0,l,l,e,i,d,0,0,e,i,d,0
+0,c,a,b,l,0,0,c,a,b,0,0,c,a,b,0
+k,0,j,0,0,0,0,0,j,0,0,k,0,j,0,0
+k,0,j,0,k,k,0,0,j,0,0,l,k,j,l,0
+0,0,j,0,0,0,0,0,j,0,0,0,0,j,0,0
+j,j,j,j,j,j,j,j,j,j,j,j,j,j,0,0
+0,0,0,0,0,0,0,0,j,0,0,0,0,0,k,0
+k,k,k,0,k,0,l,0,j,0,0,0,k,l,0,l
+0,k,0,0,l,0,0,0,j,0,0,0,0,0,0,0
+0,f,h,g,0,0,0,0,j,k,l,0,f,h,g,0
+0,e,i,d,0,0,k,0,j,l,0,0,e,i,d,0
+0,c,a,b,0,0,0,0,j,0,0,0,c,a,b,0
+0,0,j,j,j,j,j,j,j,j,j,j,j,j,0,0
+k,l,0,k,0,0,0,0,0,l,l,0,0,0,k,0
+NAME town2
+EXT 0,7 0 14,7
+EXT 2,3 7 7,14
+EXT 8,3 9 7,14
+EXT 13,3 a 7,14
+EXT 2,13 b 7,14
+EXT 13,13 c 7,14
+PAL 0
+
+ROOM 2
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,r,o,o,o,o,o,o,o,o,o,o,o,o,s,v
+v,p,0,0,0,0,15,14,13,0,0,0,0,0,n,v
+v,p,0,0,0,0,12,10,11,2y,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,2y,0,0,0,0,0,0,2y,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,2y,0,0,0,0,0,0,2y,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,2y,0,0,0,0,0,0,2y,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,2y,0,0,0,0,0,0,2y,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,q,m,m,m,m,m,u,m,m,m,m,m,m,t,v
+v,v,v,v,v,v,v,u,v,v,v,v,v,v,v,v
+NAME yourcastle
+EXT 7,15 0 2,14
+PAL 0
+
+ROOM 3
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,r,o,o,o,o,o,o,o,o,o,o,o,o,s,v
+v,p,0,x,0,0,15,14,13,0,0,0,0,0,n,v
+v,p,w,0,x,0,12,10,11,0,y,0,0,y,n,v
+v,p,0,z,0,0,0,0,0,0,0,0,z,x,n,v
+v,p,x,0,w,0,x,0,x,0,z,x,0,0,n,v
+v,p,0,0,0,0,w,0,w,0,0,w,0,z,n,v
+v,p,z,0,y,0,x,0,x,0,y,0,0,0,n,v
+v,p,0,z,0,0,w,0,w,0,0,x,0,y,n,v
+v,p,0,w,0,0,x,0,x,0,0,y,0,w,n,v
+v,p,0,y,z,0,w,0,w,0,0,z,x,0,n,v
+v,p,x,0,0,0,x,0,x,0,y,0,0,0,n,v
+v,p,w,x,y,0,w,0,w,0,0,x,z,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,q,m,m,m,m,m,u,m,m,m,m,m,m,t,v
+v,v,v,v,v,v,v,u,v,v,v,v,v,v,v,v
+NAME candlecastle
+EXT 7,15 0 13,14
+PAL 1
+
+ROOM 4
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,r,o,o,o,o,o,o,o,o,o,o,o,o,s,v
+v,p,0,0,0,0,15,14,13,0,0,0,0,0,n,v
+v,p,0,0,0,0,12,10,11,0,0,0,1d,0,n,v
+v,p,0,0,0,0,0,0,0,1c,0,0,0,0,n,v
+v,p,0,0,1b,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,16,0,0,0,n,v
+v,p,0,18,0,0,0,0,0,0,0,0,1a,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,17,0,0,0,1d,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,16,0,0,n,v
+v,p,0,19,1c,0,1b,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,q,m,m,m,m,m,u,m,m,m,m,m,m,t,v
+v,v,v,v,v,v,v,u,v,v,v,v,v,v,v,v
+NAME catcastle
+EXT 7,15 0 2,4
+PAL 2
+
+ROOM 5
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,r,o,o,o,o,o,o,o,o,o,o,o,o,s,v
+v,p,1j,0,0,1e,15,14,13,0,0,0,1f,0,n,v
+v,p,0,1g,0,0,12,10,11,0,1h,0,0,0,n,v
+v,p,0,0,1f,0,0,0,0,0,0,1e,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,1i,0,1e,0,0,0,0,0,0,1g,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,1e,0,0,n,v
+v,p,0,1e,0,0,1g,0,0,1g,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,1g,0,n,v
+v,p,0,0,0,0,0,0,0,0,1e,0,0,0,n,v
+v,p,0,1e,0,0,0,0,0,0,0,0,1f,0,n,v
+v,p,1e,0,0,1f,0,0,0,0,0,1e,0,0,n,v
+v,p,0,0,0,0,0,0,0,1g,0,0,1h,1k,n,v
+v,q,m,m,m,m,m,u,m,m,m,m,m,m,t,v
+v,v,v,v,v,v,v,u,v,v,v,v,v,v,v,v
+NAME spidercastle
+EXT 7,15 0 8,4
+PAL 3
+
+ROOM 6
+1u,1s,1s,1s,1s,1s,1s,1s,1s,1s,1s,1s,1s,1s,1s,1v
+1q,1l,1m,1m,1m,1m,1m,1m,1m,1m,1m,1m,1m,1m,1n,1o
+1q,1o,0,0,0,0,15,14,13,0,0,0,0,0,1q,1o
+1q,1o,0,0,0,0,12,10,11,0,0,0,0,0,1q,1o
+1q,1o,1z,0,0,0,0,0,0,0,0,0,21,0,1q,1o
+1q,1o,0,0,0,0,0,0,0,0,22,0,0,0,1q,1o
+1q,1o,0,0,25,0,0,0,0,0,0,0,0,0,1q,1o
+1q,1o,0,20,0,0,0,0,0,0,0,1y,0,0,1q,1o
+1q,1o,0,0,0,0,0,0,0,0,23,0,0,0,1q,1o
+1q,1o,0,0,0,24,0,0,0,0,0,0,0,0,1q,1o
+1q,1o,0,0,0,0,0,0,0,0,0,0,0,0,1q,1o
+1q,1o,0,0,1z,0,0,0,0,21,0,0,0,0,1q,1o
+1q,1o,0,0,0,0,0,0,0,0,0,0,23,0,1q,1o
+1q,1o,0,0,0,0,0,0,0,0,0,0,0,0,1q,1o
+1q,1r,1s,1s,1s,1s,1v,0,1u,1s,1s,1s,1s,1s,1t,1o
+1w,1m,1m,1m,1m,1m,1x,0,1w,1m,1m,1m,1m,1m,1m,1x
+NAME questcastle
+EXT 7,15 0 13,4
+PAL 4
+
+ROOM 7
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,r,o,o,o,o,o,o,o,o,o,o,o,o,s,v
+v,p,0,0,0,0,15,14,13,0,0,0,0,0,n,v
+v,p,0,0,0,0,12,10,11,29,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,2b,2a,0,n,v
+v,p,0,0,0,26,0,0,0,26,0,0,0,0,n,v
+v,p,0,0,0,28,0,0,0,28,0,0,0,0,n,v
+v,p,0,0,0,27,0,0,0,27,0,0,0,0,n,v
+v,p,0,0,0,26,0,0,0,26,0,0,0,0,n,v
+v,p,0,0,0,28,0,0,0,28,0,0,0,0,n,v
+v,p,0,0,0,27,0,0,0,27,0,0,0,0,n,v
+v,p,0,0,0,26,0,0,0,26,0,0,0,0,n,v
+v,p,0,0,0,28,0,0,0,28,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,q,m,m,m,m,m,u,m,m,m,m,m,m,t,v
+v,v,v,v,v,v,v,u,v,v,v,v,v,v,v,v
+NAME onioncastle
+EXT 7,15 1 2,4
+PAL 5
+
+ROOM 8
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,r,o,o,o,o,o,o,o,o,o,o,o,o,s,v
+v,p,0,0,0,0,15,14,13,0,0,0,0,0,n,v
+v,p,0,0,0,0,12,10,11,29,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,2b,2a,0,n,v
+v,p,0,0,0,26,0,0,0,26,0,0,0,0,n,v
+v,p,0,0,0,28,0,0,0,28,0,0,0,0,n,v
+v,p,0,0,0,27,0,0,0,27,0,0,0,0,n,v
+v,p,0,0,0,26,0,0,0,26,0,0,0,0,n,v
+v,p,0,0,0,28,0,0,0,28,0,0,0,0,n,v
+v,p,0,0,0,27,0,0,0,27,0,0,0,0,n,v
+v,p,0,0,0,26,0,0,0,26,0,0,0,0,n,v
+v,p,0,0,0,28,0,0,0,28,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,q,m,m,m,m,m,u,m,m,m,m,m,m,t,v
+v,v,v,v,v,v,v,u,v,v,v,v,v,v,v,v
+NAME onioncastle2
+PAL a
+
+ROOM 9
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,r,o,o,o,o,o,o,o,o,o,o,o,o,s,v
+v,p,0,0,0,0,15,14,13,0,0,0,0,0,n,v
+v,p,0,2c,2c,0,12,10,11,2d,2d,2d,2c,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,2c,0,0,0,0,0,2c,2c,0,0,n,v
+v,p,0,2c,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,2c,0,n,v
+v,p,0,2c,0,0,0,0,0,2c,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,2c,0,0,n,v
+v,p,0,0,2c,2c,0,0,0,0,2c,0,2c,0,n,v
+v,p,0,2c,0,0,0,0,0,0,0,2c,0,0,n,v
+v,p,0,0,2c,0,2c,0,0,0,0,0,2c,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,q,m,m,m,m,m,u,m,m,m,m,m,m,t,v
+v,v,v,v,v,v,v,u,v,v,v,v,v,v,v,v
+NAME picklecastle
+EXT 7,15 1 8,4
+PAL 6
+
+ROOM a
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,r,o,o,o,o,o,o,o,o,o,o,o,o,s,v
+v,p,0,2f,2f,0,15,14,13,2f,0,0,0,0,n,v
+v,p,0,2f,2f,0,12,10,11,2f,2f,2e,2e,0,n,v
+v,p,2f,2f,0,0,0,0,0,0,2e,2g,2e,0,n,v
+v,p,2f,2f,0,0,0,0,0,0,2e,2e,2f,0,n,v
+v,p,2g,2e,0,0,0,0,0,0,0,2e,2f,0,n,v
+v,p,0,2f,2f,0,0,0,0,0,2f,2f,2e,2f,n,v
+v,p,2f,2e,2f,0,0,0,0,0,0,2f,2e,2f,n,v
+v,p,2f,2f,2f,2f,0,0,0,0,0,2f,2e,2f,n,v
+v,p,2f,2e,2e,0,0,0,0,0,2f,2f,2e,2f,n,v
+v,p,0,2e,2g,0,0,0,0,0,2f,2e,2f,0,n,v
+v,p,0,2f,2f,2e,2e,0,0,2e,2f,2f,2e,2e,n,v
+v,p,0,2f,2f,2f,2e,0,0,0,0,2e,2e,2f,n,v
+v,q,m,m,m,m,m,u,m,m,m,m,m,m,t,v
+v,v,v,v,v,v,v,u,v,v,v,v,v,v,v,v
+NAME hackcastle
+EXT 7,15 1 13,4
+PAL 7
+
+ROOM b
+2j,2j,2j,2j,2j,2j,2j,2j,2j,2j,2j,2j,2j,2j,2j,2j
+2j,2s,2h,2h,2h,2h,2h,2h,2h,2h,2h,2h,2h,2h,2m,2j
+2j,2r,0,0,0,0,15,14,13,0,0,0,0,0,2l,2j
+2j,2r,0,0,0,2x,12,10,11,2x,0,0,0,0,2l,2j
+2j,2r,0,0,0,0,0,0,0,0,0,2z,0,0,2l,2j
+2j,2r,0,0,0,0,0,0,0,2v,2v,0,0,0,2l,2j
+2j,2r,0,2w,2v,0,2v,2w,0,0,0,2w,0,0,2l,2j
+2j,2r,0,0,2w,2w,0,2v,0,0,2w,0,0,0,2l,2j
+2j,2r,0,0,0,2v,2w,0,2w,2v,0,2v,2w,0,2l,2j
+2j,2r,0,0,0,2w,2w,2v,0,2w,2v,2v,0,0,2l,2j
+2j,2r,0,0,2w,2w,0,2v,2w,0,2v,0,0,0,2l,2j
+2j,2r,0,0,0,2w,2v,2w,0,2w,2w,0,0,0,2l,2j
+2j,2r,0,0,0,0,0,0,0,0,0,0,0,0,2l,2j
+2j,2r,0,0,0,0,0,0,0,0,0,0,0,0,2l,2j
+2j,2u,2o,2o,2o,2o,2t,0,2n,2o,2o,2o,2o,2o,2p,2j
+2j,2j,2j,2j,2j,2j,2r,0,2l,2j,2j,2j,2j,2j,2j,2j
+NAME wizardcastle
+EXT 7,15 1 2,14
+PAL 8
+
+ROOM c
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,r,o,o,o,o,o,o,o,o,o,o,o,o,s,v
+v,p,0,0,0,0,15,14,13,0,0,0,0,0,n,v
+v,p,0,0,0,0,12,10,11,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,q,m,m,m,m,m,u,m,m,m,m,m,m,t,v
+v,v,v,v,v,v,v,u,v,v,v,v,v,v,v,v
+NAME questionroom
+EXT 7,15 1 13,14
+PAL 9
+
+ROOM d
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,r,o,o,o,o,o,o,o,o,o,o,o,o,s,v
+v,p,0,0,0,0,15,14,13,0,0,0,0,0,n,v
+v,p,0,0,0,0,12,10,11,2y,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,2y,0,0,0,0,0,0,2y,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,2y,0,0,0,0,0,0,2y,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,2y,0,0,0,0,0,0,2y,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,p,0,0,2y,0,0,0,0,0,0,2y,0,0,n,v
+v,p,0,0,0,0,0,0,0,0,0,0,0,0,n,v
+v,q,m,m,m,m,m,u,m,m,m,m,m,m,t,v
+v,v,v,v,v,v,v,u,v,v,v,v,v,v,v,v
+NAME ending
+EXT 7,15 0 2,14
+END 0 7,14
+PAL 0
+
+ROOM e
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+v,r,o,o,o,o,o,o,o,o,o,o,o,o,s,v
+v,p,0,2f,2f,0,15,14,13,2f,0,0,0,0,n,v
+v,p,0,2f,2f,0,12,10,11,2f,2f,2e,2e,0,n,v
+v,p,2f,2f,0,0,0,0,0,0,2e,2g,2e,0,n,v
+v,p,2f,2f,0,0,0,0,0,0,2e,2e,2f,0,n,v
+v,p,2g,2e,0,0,0,0,0,0,0,2e,2f,0,n,v
+v,p,0,2f,2f,0,0,0,0,0,2f,2f,2e,2f,n,v
+v,p,2f,2e,2f,0,0,0,0,0,0,2f,2e,2f,n,v
+v,p,2f,2f,2f,2f,0,0,0,0,0,2f,2e,2f,n,v
+v,p,2f,2e,2e,0,0,0,0,0,2f,2f,2e,2f,n,v
+v,p,0,2e,2g,0,0,0,0,0,2f,2e,2f,0,n,v
+v,p,0,2f,2f,2e,2e,0,0,2e,2f,2f,2e,2e,n,v
+v,p,0,2f,2f,2f,2e,0,0,0,0,2e,2e,2f,n,v
+v,q,m,m,m,m,m,u,m,m,m,m,m,m,t,v
+v,v,v,v,v,v,v,u,v,v,v,v,v,v,v,v
+NAME hackcastle2
+ITM 0 5,5
+ITM 0 6,7
+ITM 0 9,6
+ITM 0 13,4
+ITM 0 12,2
+ITM 0 8,10
+ITM 0 5,10
+ITM 0 2,12
+ITM 0 8,13
+ITM 0 10,13
+ITM 0 13,11
+ITM 0 2,3
+ITM 0 8,8
+ITM 0 9,8
+ITM 0 6,11
+ITM 0 9,13
+EXT 7,15 1 13,4
+PAL 7
+
+TIL 10
+00000000
+11111111
+00000000
+11111111
+11111111
+00100100
+00100100
+11111111
+NAME throne1
+WAL true
+
+TIL 11
+00110100
+11100100
+00101100
+11110100
+11100100
+10101100
+10110100
+11100100
+NAME throne2
+WAL true
+
+TIL 12
+00110100
+00100111
+00101100
+00110111
+00100111
+00101101
+00110101
+00100111
+NAME throne3
+WAL true
+
+TIL 13
+00000000
+01111110
+01111110
+10111100
+10101100
+01110100
+01100100
+00101100
+NAME throne4
+WAL true
+
+TIL 14
+00000000
+01111110
+10000001
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME throne5
+WAL true
+
+TIL 15
+00000000
+01111110
+01111110
+00111101
+00101101
+00110110
+00100110
+00101100
+NAME throne6
+WAL true
+
+TIL 16
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+>
+00000000
+00000000
+01010010
+01110010
+01110010
+01111100
+00111100
+00100100
+NAME cat1
+WAL true
+
+TIL 17
+00000000
+00000000
+10001010
+10001110
+01001110
+00111110
+00111100
+00100100
+NAME cat2
+WAL true
+
+TIL 18
+00000000
+00000000
+10001010
+10001110
+01001110
+00111110
+00111111
+00100100
+>
+00000000
+00000000
+10001010
+10001110
+01001110
+00111111
+00111110
+00100100
+NAME cat3
+WAL true
+
+TIL 19
+00000000
+00000000
+01000000
+01001010
+10001110
+10001110
+01111110
+01111100
+>
+00000000
+00000000
+10000000
+10001010
+10001110
+10001110
+01111110
+01111100
+NAME cat4
+WAL true
+
+TIL 20
+10111101
+01111110
+01010110
+11110011
+10011101
+10010101
+01111111
+00110110
+>
+10111101
+01111110
+01010111
+01000011
+11111101
+10010111
+10011100
+01110110
+NAME warrior
+WAL true
+
+TIL 21
+00111000
+00100100
+00111100
+11101010
+01000010
+10111100
+11100010
+10111111
+>
+00111000
+00100100
+10111100
+01101010
+11000010
+11111100
+10100010
+00111111
+NAME cleric
+WAL true
+
+TIL 22
+01011010
+10111101
+01010111
+00111011
+11110011
+10010100
+10011100
+01100110
+>
+01011010
+10111101
+01010110
+11111011
+10010011
+10010111
+01111100
+01100110
+NAME pachy
+WAL true
+
+TIL 23
+00111100
+00000000
+11111111
+01101010
+01000010
+10111100
+00101001
+00111100
+>
+00111100
+00000000
+11111111
+01101010
+01000010
+00111101
+10101000
+00111100
+NAME merchant
+WAL true
+
+TIL 24
+10100101
+01100110
+00111100
+01010110
+01000010
+00111101
+00100111
+01000101
+>
+10100101
+01100110
+00111100
+01010110
+01000011
+00111111
+00100101
+01000100
+NAME druid
+WAL true
+
+TIL 25
+00011100
+00111101
+11111110
+01010110
+01000010
+00111101
+10111100
+01100110
+>
+00011100
+00111101
+11111110
+01010110
+01000010
+10111100
+00111101
+01100110
+
+TIL 26
+00101000
+00011100
+01111110
+00011000
+11111111
+01000010
+01000010
+00111100
+NAME plant1
+WAL true
+
+TIL 27
+00001010
+01010100
+00100010
+00010000
+00111100
+00100100
+00111100
+00000000
+NAME plant2
+WAL true
+
+TIL 28
+00000000
+01011000
+00111010
+00011100
+00011000
+01111110
+01111110
+00000000
+NAME plant3
+WAL true
+
+TIL 29
+00111000
+01001100
+01000100
+01000100
+00111000
+00010000
+00010000
+00010000
+NAME glass
+WAL true
+
+TIL a
+11111111
+11000011
+10000001
+10000001
+10000101
+10000001
+10000001
+11111111
+NAME door
+
+TIL b
+11110010
+00111110
+11100110
+10011110
+11111110
+11110010
+10011110
+11111110
+NAME castle1
+WAL true
+
+TIL c
+01111111
+01110011
+01111111
+01001100
+01111111
+01110011
+01001111
+01111111
+NAME castle2
+WAL true
+
+TIL d
+11001110
+01111110
+11110010
+00111110
+11110010
+11111110
+11001110
+11111110
+NAME castle3
+WAL true
+
+TIL e
+01111001
+01111111
+01110011
+01111110
+01001111
+01111001
+01111111
+01001111
+NAME castle4
+WAL true
+
+TIL f
+00000000
+11101110
+10101010
+10111011
+10000000
+10000000
+10000000
+11111111
+NAME castle5
+WAL true
+
+TIL g
+00000000
+01110111
+01010101
+11011101
+00000001
+00000001
+00000001
+11111111
+NAME castle6
+WAL true
+
+TIL h
+00000000
+11100111
+10100101
+10100101
+00100100
+00100100
+00100100
+11100111
+NAME castle7
+WAL true
+
+TIL i
+11000011
+11000010
+11000011
+01111111
+11110011
+11111111
+00111100
+11100111
+NAME castle8
+WAL true
+
+TIL j
+00000000
+00000000
+00111100
+00100100
+00100100
+00111100
+00000000
+00000000
+NAME road
+
+TIL k
+00000010
+00100010
+00101000
+00001001
+01000001
+01010000
+00010100
+00000100
+>
+00000010
+00010010
+00101000
+00001001
+01000001
+01010000
+00010010
+00000100
+NAME grass1
+
+TIL l
+00100000
+01010000
+00100000
+00001000
+00001000
+01000010
+01000010
+00000000
+>
+00100000
+01010000
+00100000
+00001000
+00001000
+01000001
+01000010
+00000000
+NAME grass2
+
+TIL m
+11111111
+10101010
+01010101
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME wall1
+WAL true
+
+TIL n
+10111111
+11011111
+10111111
+11011111
+10111111
+11011111
+10111111
+11011111
+NAME wall2
+WAL true
+
+TIL o
+11111111
+11111111
+11111111
+11111111
+11111111
+10101010
+01010101
+11111111
+NAME wall3
+WAL true
+
+TIL p
+11111011
+11111101
+11111011
+11111101
+11111011
+11111101
+11111011
+11111101
+NAME wall4
+WAL true
+
+TIL q
+11111111
+11110101
+11111011
+11110101
+11111111
+11111111
+11111111
+11111111
+NAME corner1
+WAL true
+
+TIL r
+11111111
+11111111
+11111111
+11111111
+11110101
+11111011
+11110101
+11111111
+NAME corner2
+WAL true
+
+TIL s
+11111111
+11111111
+11111111
+11111111
+10101111
+11011111
+10101111
+11111111
+NAME corner3
+WAL true
+
+TIL t
+11111111
+10101111
+11011111
+10101111
+11111111
+11111111
+11111111
+11111111
+NAME corner4
+WAL true
+
+TIL u
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+NAME hall
+WAL false
+
+TIL v
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME void
+WAL true
+
+TIL w
+00000100
+00001000
+00010000
+00011000
+00011000
+00011000
+00100100
+00011000
+>
+00001000
+00010000
+00001000
+00011000
+00011000
+00011000
+00100100
+00011000
+NAME candle1
+WAL true
+
+TIL x
+00000000
+00000100
+00001000
+01001010
+01001010
+01000010
+01000000
+00000000
+>
+00000000
+00001000
+00001000
+00101001
+01001010
+01000010
+01000000
+00000000
+NAME candle2
+
+TIL y
+00000000
+00000000
+01000000
+01000000
+00010010
+00010010
+00000000
+00000000
+NAME candle3
+
+TIL z
+00001000
+00001000
+00000000
+01000000
+01000000
+00000100
+00000100
+00000000
+NAME candle4
+
+TIL 1a
+00000000
+00000000
+01001000
+01111000
+11111000
+11100100
+11100010
+10100100
+>
+00000000
+00000000
+00101000
+01111000
+11111000
+11100100
+11101000
+10100100
+NAME cat5
+WAL true
+
+TIL 1b
+00000000
+00000000
+10001010
+10001110
+01001110
+00111110
+00111100
+00100100
+>
+00000000
+00001010
+00001110
+10001110
+10011110
+10111100
+01110010
+00100000
+NAME cat6
+WAL true
+
+TIL 1c
+00000000
+00000000
+00000010
+10100010
+11100010
+11100010
+11111100
+01111100
+>
+00000000
+00000000
+00000100
+10100100
+11100010
+11100010
+11111100
+01111100
+NAME cat7
+WAL true
+
+TIL 1d
+00000000
+00000000
+10100010
+11100010
+11100100
+11111000
+01111000
+01001000
+NAME cat8
+WAL true
+
+TIL 1e
+00000000
+00000000
+00000000
+00000000
+00011100
+00011100
+00101010
+00101010
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00011100
+00011100
+00101010
+NAME spider1
+WAL true
+
+TIL 1f
+00000000
+00000000
+00000000
+00000000
+01110000
+01110000
+10101000
+10101000
+>
+00000000
+00000000
+00000000
+00000000
+01110000
+01110000
+01010000
+01010000
+NAME spider2
+WAL true
+
+TIL 1g
+00000000
+00000000
+00101000
+00011100
+00111000
+00010100
+00000000
+00000000
+>
+00000000
+00000000
+00010100
+00111000
+00011100
+00101000
+00000000
+00000000
+NAME spider3
+WAL true
+
+TIL 1h
+00000000
+00011100
+00111110
+00111110
+11111110
+11111110
+00101010
+00101010
+>
+00000000
+00000000
+00011100
+00111110
+00111110
+11111110
+11111110
+00101010
+NAME spider4
+WAL true
+
+TIL 1i
+00000000
+00000000
+00111000
+01111100
+01111100
+01111111
+01111111
+01010100
+>
+00000000
+00111000
+01111100
+01111100
+01111111
+01111111
+01010100
+01010100
+NAME spider5
+WAL true
+
+TIL 1j
+11111111
+11010101
+10101010
+11010010
+10101100
+11001000
+10110000
+11000000
+NAME web1
+WAL true
+
+TIL 1k
+00000011
+00001101
+00010011
+00110101
+01001011
+01010101
+10101011
+11111111
+NAME web2
+WAL true
+
+TIL 1l
+11111110
+11111110
+11111110
+00000000
+11101111
+11101111
+11101100
+00000001
+NAME Brick 1
+WAL true
+
+TIL 1m
+11111110
+11111110
+11111110
+00000000
+11101111
+11101111
+00000000
+11111111
+NAME Brick 2
+WAL true
+
+TIL 1n
+11111110
+11111110
+11111110
+00000000
+11101111
+11101111
+00101111
+10000000
+NAME Brick 3
+WAL true
+
+TIL 1o
+11111101
+11111101
+11111101
+00000001
+11101101
+11101101
+11101101
+00000001
+NAME Brick 4
+WAL true
+
+TIL 1p
+11111110
+11111110
+11111110
+00000000
+11101111
+11101111
+11101111
+00000000
+NAME Brick 5
+WAL true
+
+TIL 1q
+10111110
+10111110
+10111110
+10000000
+10101111
+10101111
+10101111
+10000000
+NAME Brick 6
+WAL true
+
+TIL 1r
+11111101
+11111100
+11111110
+00000000
+11101111
+11101111
+11101111
+00000000
+NAME Brick 7
+WAL true
+
+TIL 1s
+11111111
+00000000
+11111110
+00000000
+11101111
+11101111
+11101111
+00000000
+NAME Brick 8
+WAL true
+
+TIL 1t
+10111110
+00111110
+11111110
+00000000
+11101111
+11101111
+11101111
+00000000
+NAME Brick 9
+WAL true
+
+TIL 1u
+11111111
+10000000
+10111110
+10000000
+10101111
+10101111
+10101111
+10000000
+NAME Brick A
+WAL true
+
+TIL 1v
+11111111
+00000001
+11111101
+00000001
+11101101
+11101101
+11101101
+00000001
+NAME Brick B
+WAL true
+
+TIL 1w
+10111110
+10111110
+10111110
+10000000
+10101111
+10101111
+10000000
+11111111
+NAME Brick C
+WAL true
+
+TIL 1x
+11111101
+11111101
+11111101
+00000001
+11101101
+11101101
+00000001
+11111111
+NAME Brick D
+WAL true
+
+TIL 1y
+00000010
+01001100
+10011110
+10110101
+10100001
+11100110
+10011110
+01010010
+>
+00000010
+01001100
+10011110
+10110101
+10100001
+11100011
+10011110
+01010010
+NAME archer
+WAL true
+
+TIL 1z
+01111000
+00011100
+11111111
+01010110
+01000010
+00111101
+01000111
+10000101
+>
+01111000
+00011100
+11111111
+01010110
+01000011
+00111111
+01000101
+10000100
+NAME wizard
+WAL true
+
+TIL 2a
+00000000
+01111010
+11111111
+00000001
+11111111
+00000010
+00000010
+00000010
+NAME desk1
+WAL true
+
+TIL 2b
+00000000
+00010011
+11111111
+10000000
+11111111
+01000000
+01000000
+01000000
+NAME desk2
+WAL true
+
+TIL 2c
+00111100
+01111110
+01011010
+01000010
+01100110
+01011010
+01000010
+00111100
+NAME barrel
+WAL true
+
+TIL 2d
+11111111
+10011101
+10011101
+11111111
+10101001
+10101111
+10101001
+11111111
+NAME bookshelf
+WAL true
+
+TIL 2e
+10000100
+10000101
+11110101
+00001001
+01001001
+01001010
+11111100
+10100000
+NAME wires1
+WAL true
+
+TIL 2f
+10000001
+01100011
+00010100
+00101000
+01000100
+10011000
+10100110
+10100000
+NAME wires2
+WAL true
+
+TIL 2g
+11111111
+10100001
+11111111
+11001001
+11111111
+10100001
+11111111
+11111111
+>
+11111111
+10001011
+11111111
+10100101
+11111111
+10000101
+11111011
+11111111
+NAME computer
+WAL true
+
+TIL 2h
+11111111
+10001000
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME wall 01
+WAL true
+
+TIL 2j
+11011111
+11011111
+11011111
+00000000
+11111101
+11111101
+11111101
+00000000
+NAME brick 01
+WAL true
+
+TIL 2k
+11111111
+11111110
+11111111
+11111111
+01111111
+01111111
+00111111
+00001111
+NAME wall 02
+WAL true
+
+TIL 2l
+11111111
+11111101
+11111101
+11111101
+11111111
+11111101
+11111101
+11111101
+NAME wall 03
+WAL true
+
+TIL 2m
+11110011
+10011101
+11100110
+11111010
+11111011
+11111101
+11111101
+11111101
+NAME wall 04
+WAL true
+
+TIL 2n
+00001111
+00111111
+01111111
+01111111
+11111111
+11111111
+11111111
+11111101
+NAME wall 05
+WAL true
+
+TIL 2o
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+00010001
+11111111
+NAME wall 06
+WAL true
+
+TIL 2p
+11111101
+11111101
+11111101
+11111011
+11111010
+11100110
+00011101
+11110000
+NAME wall 07
+WAL true
+
+TIL 2q
+10111111
+11111111
+11111111
+11111111
+11111110
+11111110
+11111100
+11110000
+NAME wall 08
+WAL true
+
+TIL 2r
+10111111
+10111111
+10111111
+11111111
+10111111
+10111111
+10111111
+11111111
+NAME wall 09
+WAL true
+
+TIL 2s
+10001111
+00111000
+01100111
+01011111
+11011111
+10111111
+10111111
+10111111
+NAME wall 10
+WAL true
+
+TIL 2t
+11110000
+11111100
+11111110
+11111110
+11111111
+11111111
+01111111
+11111111
+NAME wall 11
+WAL true
+
+TIL 2u
+10111111
+10111111
+10111111
+11011111
+01011111
+01100111
+10111000
+00001111
+NAME wall 12
+WAL true
+
+TIL 2v
+11011111
+11011111
+11011111
+00000000
+11101101
+11101101
+11101101
+00000000
+NAME floor1
+COL 3
+
+TIL 2w
+01111011
+01111011
+01111011
+00000000
+01111100
+01111100
+01111100
+00000000
+NAME floor2
+COL 3
+
+TIL 2x
+00010000
+00001000
+00011000
+00111100
+00100100
+00011000
+00011000
+00011000
+>
+00001000
+00010000
+00011000
+00111100
+00100100
+00011000
+00011000
+00011000
+NAME torch
+WAL true
+
+TIL 2y
+11111111
+01001010
+01001010
+01010010
+01010010
+01001010
+11111111
+00000000
+NAME pedestal
+WAL true
+
+TIL 2z
+00001000
+11111000
+11101000
+11111000
+00111000
+01111010
+01111010
+11111100
+>
+11001000
+11111000
+00101000
+11111000
+00111000
+01111001
+01111010
+11111100
+NAME bork
+WAL true
+
+SPR 10
+00000000
+00000000
+00001000
+00000110
+00110010
+01111110
+01111110
+00111100
+>
+00000000
+00000000
+01000000
+00000011
+01011100
+01111010
+11001101
+00111000
+NAME eggplant
+DLG SPR_o
+POS d 4,11
+
+SPR 11
+00010000
+00001000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+>
+00001000
+00010000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG SPR_r
+POS d 11,5
+
+SPR 12
+00011000
+00011000
+00011000
+00111100
+01111110
+10111101
+00111100
+00100100
+>
+00001100
+00110000
+00011000
+01111000
+01111110
+00011110
+00111000
+00100100
+NAME sean2
+POS e 7,4
+
+SPR 13
+00000000
+00100000
+00011000
+00111100
+01011010
+01111110
+00111100
+00000000
+>
+00100000
+00011000
+00111100
+01011010
+01111110
+00111100
+00000000
+00000000
+NAME onion2
+POS 8 7,4
+COL 3
+
+SPR 14
+00000000
+00000000
+00000000
+00000000
+00001000
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00001000
+00010100
+00001000
+00000000
+00000000
+NAME wish
+DLG SPR_s
+POS d 9,2
+
+SPR A
+00000000
+00011000
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+POS 2 7,4
+
+SPR a
+00000000
+01111110
+10000001
+10110101
+10000001
+01111110
+00011000
+00011000
+NAME signa
+DLG SPR_0
+POS 0 4,13
+
+SPR b
+00000000
+01111110
+10000001
+10110101
+10000001
+01111110
+00011000
+00011000
+NAME signb
+DLG SPR_1
+POS 0 11,13
+
+SPR c
+00000000
+01111110
+10000001
+10110101
+10000001
+01111110
+00011000
+00011000
+NAME signc
+DLG SPR_3
+POS 0 4,3
+
+SPR d
+00000000
+01111110
+10000001
+10110101
+10000001
+01111110
+00011000
+00011000
+NAME signd
+DLG SPR_2
+POS 0 6,3
+
+SPR e
+00000000
+01111110
+10000001
+10110101
+10000001
+01111110
+00011000
+00011000
+NAME signe
+DLG SPR_4
+POS 0 11,3
+
+SPR f
+00000000
+01111110
+10000001
+10110101
+10000001
+01111110
+00011000
+00011000
+NAME signf
+DLG SPR_5
+POS 1 4,3
+
+SPR g
+00000000
+01111110
+10000001
+10110101
+10000001
+01111110
+00011000
+00011000
+NAME signg
+DLG SPR_6
+POS 1 6,3
+
+SPR h
+00000000
+01111110
+10000001
+10110101
+10000001
+01111110
+00011000
+00011000
+NAME signh
+DLG SPR_7
+POS 1 11,3
+
+SPR i
+00000000
+01111110
+10000001
+10110101
+10000001
+01111110
+00011000
+00011000
+NAME signi
+DLG SPR_8
+POS 1 4,13
+
+SPR j
+00000000
+01111110
+10000001
+10110101
+10000001
+01111110
+00011000
+00011000
+NAME signj
+DLG SPR_9
+POS 1 11,13
+
+SPR k
+00011000
+00011000
+00011000
+00111100
+01111110
+10111101
+00111100
+00100100
+NAME candle
+DLG SPR_b
+POS 3 7,4
+
+SPR l
+00011000
+00011000
+00011000
+00111100
+01011010
+01011010
+00011000
+00100100
+NAME ledoux
+DLG SPR_c
+POS 4 7,4
+
+SPR m
+00000000
+00011000
+00011000
+00100100
+00111100
+01011010
+00011000
+00100100
+>
+00000000
+00011000
+00011000
+00100100
+00111110
+01011000
+00011000
+00100100
+NAME freya
+DLG SPR_d
+POS 5 7,4
+
+SPR n
+10111000
+01111110
+01010110
+01000010
+00111101
+01100111
+00111101
+01100110
+>
+10111000
+01111110
+01010110
+01000011
+00111111
+01100101
+00111100
+01100110
+NAME bard
+DLG SPR_e
+POS 6 7,4
+
+SPR o
+00000000
+00100000
+00011000
+00111100
+01011010
+01111110
+00111100
+00000000
+>
+00100000
+00011000
+00111100
+01011010
+01111110
+00111100
+00000000
+00000000
+NAME onion
+DLG SPR_f
+POS 7 7,4
+
+SPR p
+00010100
+00011100
+00010100
+00111110
+00111110
+00011100
+00010100
+00010100
+NAME lenny
+DLG SPR_g
+POS 9 7,4
+
+SPR q
+00011000
+00011000
+00011000
+00111100
+01111110
+10111101
+00111100
+00100100
+>
+00001100
+00110000
+00011000
+01111000
+01111110
+00011110
+00111000
+00100100
+NAME sean
+DLG SPR_m
+POS a 7,4
+
+SPR r
+00001100
+00011000
+11111111
+00011000
+10111101
+01100110
+01111110
+01111110
+>
+00110000
+00011000
+11111111
+00011000
+00111100
+11100111
+01111110
+01111110
+NAME ayo
+DLG SPR_p
+POS b 7,4
+
+SPR s
+00011000
+10011010
+01011100
+00111111
+01111110
+11111100
+00101010
+00001000
+>
+00000000
+00001000
+00011000
+11111110
+01111111
+00011000
+00010000
+00000000
+NAME godmaybe
+DLG SPR_q
+POS c 7,4
+
+SPR t
+00000000
+11111111
+00000000
+11111111
+11111111
+00100100
+00100100
+11111111
+NAME throne
+DLG SPR_a
+POS 2 7,3
+
+SPR u
+00000000
+00000000
+10100010
+11100010
+11100100
+11111000
+01111000
+01001000
+>
+00000000
+00000000
+10100100
+11100100
+11100100
+11111000
+01111000
+01001000
+NAME cat
+DLG SPR_j
+POS d 11,9
+
+SPR v
+00000000
+11111111
+11111111
+10011001
+10011001
+11111111
+11000011
+00000000
+>
+00000000
+00000000
+11111111
+11111111
+10011001
+10011001
+11111111
+11000011
+NAME mixtape
+DLG SPR_i
+POS d 4,9
+
+SPR w
+00001000
+00010000
+00001000
+00011000
+00011000
+00011000
+00100100
+00011000
+>
+00000100
+00001000
+00010000
+00011000
+00011000
+00011000
+00100100
+00011000
+NAME candle
+DLG SPR_h
+POS d 4,5
+
+SPR x
+00000000
+00000000
+00011100
+00101110
+01111110
+01111110
+01000010
+01111110
+>
+00000000
+00011100
+00101110
+01111110
+01111110
+01000010
+01111110
+00000000
+NAME cake
+DLG SPR_k
+POS d 11,7
+
+SPR y
+00101000
+00011100
+01111110
+00011000
+11111111
+01000010
+01000010
+00111100
+NAME plant
+DLG SPR_l
+POS d 11,11
+
+SPR z
+00000000
+00111100
+01111110
+10111101
+10010001
+10100101
+01001010
+00111100
+>
+00000000
+00111100
+01111110
+10111101
+10100101
+10010001
+01001010
+00111100
+NAME pickles
+DLG SPR_n
+POS d 4,7
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG ITM_0
+
+DLG SPR_0
+"Your Castle"
+
+DLG ITM_0
+You found a nice warm cup of tea
+
+DLG SPR_1
+"Candle Castle"
+
+DLG SPR_2
+"Spider Castle"
+
+DLG SPR_3
+"Cat Castle"
+
+DLG SPR_4
+"Quest Castle"
+
+DLG SPR_5
+"Onion Castle"
+
+DLG SPR_6
+"Pickle Castle"
+
+DLG SPR_7
+"Hack Castle"
+
+DLG SPR_8
+"Wizard Castle"
+
+DLG SPR_9
+"?????"
+
+DLG SPR_a
+"""
+{
+  - neighbors == 9 ?
+    Having finally met all your neighbors, you start to decorate your castle.{br}{br}..........{br}{br}Y(exitNow "ending,7,5")ou decide to place the gifts your friends gave you around the room.
+  - else ?
+    It's very sparse in here, save for the complimentary throne that came with the castle.{br}{br}You would get to decorating your new home, but you've met only {say neighbors} of your new neighbors. It would be polite to stop by and introduce yourself.
+}
+"""
+
+DLG SPR_b
+"""
+{sequence
+  - {clr3}My castle is filled with nothing but candles.{br}You'd think by now I would have learned to budget more wisely.{clr3}
+  - {clr3}I can't help it. It's too tempting to buy them.{br}But at least it gives my castle a nice glow.{clr3}
+  - {clr3}I have this recurring dream where it rains so hard that my castle gets flooded. I wonder what it could mean...{br}I hope it doesn't actually happen.{clr3}
+  - {clr3}I also keep having this dream where my castle is haunted af. That's actually pretty cool.{clr3}
+  - {clr3}Surprisingly enough, the castle was given to me by a friend.{br}It looks expensive, but I didn't have to pay a cent.{br}I guess you could say it's....{br}{br}.......................{br}{br}........free real estate{clr3}
+  - {clr3}It was nice to meet you. Here, you can take one of my candles as a welcome gift.{clr3}{br}{br}They give you a candle.{neighbors = neighbors + 1}{br}{br}(Neighbors met: {say neighbors}/9)
+  - {clr3}Stop by any time.{clr3}
+}
+"""
+
+DLG SPR_c
+"""
+{sequence
+  - {clr3}Hey, there! Welcome to the neighborhood!{br}This is the Cat Castle, where all the stray cats like to hang out.{clr3}
+  - {clr3}I don't know what it is, but there is never a moment where there aren't cats in this place.{br}{br}I don't do anything to bring them here, they just show up for some reason.{br}{br}But I don't mind, I really like cats.{br}Maybe this castle holds a secret that only cats know about.{br}Who do I talk to to find out about secrets in castles & ruins? Someone in archaeology? Probably not...{clr3}
+  - {clr3}Breakfast with the cats is probably my favorite.{br}I like to make pancakes, and all the cats gather around my feet and meow.{br}{br}If I ever spill some batter, they all lick it up immediately. Oh no!{clr3}
+  - {clr3}More cats seem to hide out here in the winter. I guess it's tough out in the snow if you're a stray.{br}I like the quiet, snowy nights...{br}Midnight, snow falling outside, complete radio silence over the town, cats cuddled and sleeping together...it's very peaceful.{clr3}
+  - {clr3}The ocean is not too far from here. Sometimes I daydream about taking the cats to the ocean.{br}{br}There's some train tracks not far from here as well. Sometimes I worry about cats getting too close...{clr3}
+  - {clr3}I have to be careful when leaving out trinkets and other bric-a-brac because the cats will play with anything.{br}You should've seen them when a moth got in the castle the other day! Complete havoc!{clr3}
+  - {clr3}Anyway, thanks for stopping by! Oh, this cat seems to have taken a shine to you! Why don't you bring him home with you?{clr3}{br}He gives you a cat.{neighbors = neighbors + 1}{br}{br}(Neighbors met: {say neighbors}/9)
+  - {clr3}Come by and say hi to the cats whenever you want!{clr3}
+}
+"""
+
+DLG SPR_d
+"""
+{sequence
+  - {clr3}Hi! Welcome to the Spider Castle!{br}I guess that makes me the Spider queen?{clr3}
+  - {clr3}None of the spiders will harm you. They're all friendly!{clr3}
+  - {clr3}The great thing about having a castle full of spiders is that they decorate it with their webs!{br}Oooh, so pretty!{clr3}
+  - {clr3}I'm a writer! I love to write sci-fi and romance.{br}Sometimes I write about spiders. Sometimes I write about girls.{br}Maybe next I should write about...spider-girls??{clr3}
+  - {clr3}Do you play an instrument? I'd love to get a band together. Writing music is so much fun.{clr3}
+  - {clr3}Here, I'll give you a mixtape I made. I hope you like it!{clr3}{br}She gives you a mixtape.{neighbors = neighbors + 1}{br}{br}(Neighbors met: {say neighbors}/9)
+  - {clr3}Welcome to the neighborhood!{clr3}
+}
+"""
+
+DLG SPR_e
+"""
+{sequence
+  - {clr3}Hey. This is the Quest Castle. Adventurers come here from all over to give out and take quests.{clr3}
+  - {clr3}Yeah, sometimes I go on quests too. But I thought it'd be fun to set up a place where we could all hang out.{br}A castle is the best place for it, don't you think? {clr3}
+  - {clr3}Have you seen the Wizard's castle yet? It's decorated so nicely! How does he doooooo thaaaaat!{br}Well, it's no use focusing on that too hard. I just have to keep working on my decorating skills, and keep improving!{clr3}
+  - {clr3}Make sure to visit Onion Castle over to the east. Onion's a good friend of mine.{clr3}
+  - {clr3}Thanks for stopping by, it's great to get to know you. Here, I baked a really nice cake this morning, you can have a slice!{clr3}{br}He gives you cake.{neighbors = neighbors + 1}{br}{br}(Neighbors met: {say neighbors}/9)
+  - {clr3}Come on by if you want to do any quests!{clr3}
+}
+"""
+
+DLG SPR_f
+"""
+{sequence
+  - {clr3}ah heck new people!! hi! how are you!! nice to meet you!!!{clr3}
+  - {clr3}i'm the village's resident detective. i know all about the mysteries, man!{br}{br}...well, there aren't many mysteries that happen in this small castle town to be honest, but i keep my wits sharp by reading poirot!{clr3}
+  - {clr3}i decided to decorate my home with a bunch of plants. they look nice, huh?{br}{br}i don't really know how to take care of plants but i try my best!!{clr3}
+  - {clr3}hm? you think you've seen me around before? that's possible. as a detective, i tend to get around a lot.{clr3}
+  - {clr3}my biggest dream is to be the top detective in the country! i'd win all the trophies and everything!{br}my other biggest dream is to be a sea witch!!{clr3}
+  - {clr3}aaaah it's great to have new friends! i feel like i should give you something...{br}{br}here, how about a plant! plants are a great symbol of friendship!{clr3}{br}{br}They give you a plant.{neighbors = neighbors + 1}{br}{br}(Neighbors met: {say neighbors}/9)
+  - {clr3}don't be a stranger!!{clr3}
+}
+"""
+
+DLG SPR_g
+"""
+{sequence
+  - {clr3}Oh, hello! Welcome to the pickle castle!{br}Yeah, this place is full of....pickles...{br}Listen, it's a fun hobby.{clr3}
+  - {clr3}Pickling vegetables takes a lot of time, and it's a difficult skill to master.{br}{br}But it's also super fun! And you get to eat your end result, which is always great!{clr3}
+  - {clr3}Half of the battle is just waiting for veggies to pickle. I usually take to sitting down with a good book.{br}Those shelves? Most of the books on there I get from the library in the next town over.{clr3}
+  - {clr3}Don't...look too closely at them...some are...very overdue...{clr3}
+  - {clr3}I don't just make pickles. You can pickle all sort of vegetables. Pickled cabbage! Pickled carrot! Pickled onion!{br}{clr3}{onion}h(exitNow "onioncastle2,2,2")hhh{shk}hjkkl{shk}{br}{br}.........{br}{br}i just got the shivers all of a sudden...(exit "picklecastle,7,5"){onion}
+  - {clr3}Hey, I just finished a fresh batch of pickles, why don't you take a jar? Welcome to the neighborhood!{clr3}{br}She gives you some pickles.{neighbors = neighbors + 1}{br}{br}(Neighbors met: {say neighbors}/9)
+  - {clr3}I hope we become good friends!{clr3}
+}
+"""
+
+DLG SPR_h
+A glowing candle.
+
+DLG SPR_i
+A catchy mixtape.
+
+DLG SPR_j
+An affectionate cat.
+
+DLG SPR_k
+A tasty cake.
+
+DLG SPR_l
+A cool plant.
+
+DLG SPR_m
+"""
+{sequence
+  - {clr3}Hey. This is the Hack Castle.{br}{br}Sorry with all the wires and computer parts. You know how it is with hacking.{clr3}
+  - {clr3}I'll show you some cool things I can do. Watch...{br}.............{br}{br}B(exitNow "hackcastle2,7,5")oom. Look at all that tea.{br}{br}O(exitNow "hackcastle,7,5")ops now it's gone.{br}{br}Sometimes things can get a little buggy.{clr3}
+  - {clr3}I can teach you how to hack your castle as well. It's pretty simple.{br}{br}Plus it's super fun.{clr3}
+  - {clr3}Here, for now, I'll hack you this cool souvenir.{clr3}{br}He hacks you an eggplant.{neighbors = neighbors + 1}{br}{br}(Neighbors met: {say neighbors}/9)
+  - {clr3}Nothing's impossible through hacks.{clr3}
+}
+"""
+
+DLG SPR_n
+A fresh jar of pickles.
+
+DLG SPR_o
+A hacked eggplant.
+
+DLG SPR_p
+"""
+{sequence
+  - {clr3}Ah yes! You have entered the home of the {wvy}WIZARD!{wvy}{br}Haha, it's just fun to use that voice. Welcome!{clr3}
+  - {clr3}People come to my castle to admire the decorations a lot. I just love working on the art, you know?{br}It takes a long time, but it's worth it.{clr3}
+  - {clr3}It also helps to know a little bit of hacking. I'm fortunate to live close enough to the Hack Castle to be asking for advice. All the time.{br}{br}I hope he doesn't get too annoyed...{clr3}
+  - {clr3}Do you like my dog? His name is Borsky!{clr3}
+  - {clr3}So nice of you to stop by. Why don't you have a cup of tea before you go?{clr3}{br}{br}He gives you some tea.{neighbors = neighbors + 1}{br}{br}(Neighbors met: {say neighbors}/9)
+  - {clr3}{wvy}COME BACK SOOOOON!{wvy}{clr3}
+}
+"""
+
+DLG SPR_q
+"""
+{sequence
+  - {clr3}Ah, yes. I've been expecting you.{clr3}
+  - {clr3}Welcome to this village of castles. I'm sure you will feel right at home here.{br}{br}In fact, I know it to be true.{clr3}
+  - {clr3}Life takes us many strange places, it seems, and along the way, we meet many different people.{br}It's wonderful how we can all connect.{clr3}
+  - {clr3}What you have here now are some wonderful friends. Please hold on to those people in your life as long as you can.{clr3}
+  - {clr3}Oh, I also have something for you.{clr3}{br}??? gives you a Wish.{neighbors = neighbors + 1}{br}{br}(Neighbors met: {say neighbors}/9)
+  - {clr3}Use it wisely.{clr3}
+}
+"""
+
+DLG SPR_r
+A warm cup of tea.
+
+DLG SPR_s
+What do you wish for?
+
+END 0
+It's a beautiful day in this neighborhood.
+
+VAR neighbors
+0
+
+

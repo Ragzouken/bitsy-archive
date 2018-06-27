@@ -1,0 +1,4617 @@
+
+The last pawn had been eaten but the war was not over yet.
+
+# BITSY VERSION 4.6
+
+! ROOM_FORMAT 1
+
+PAL 0
+207,206,255
+6,0,31
+6,0,31
+
+ROOM 0
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,b,a,b,a,b,a,b,a,d,e,e,e
+e,e,e,c,a,b,a,b,a,1i,a,b,d,e,e,e
+e,e,e,c,b,a,b,a,b,a,b,a,d,e,e,e
+e,e,e,c,a,b,a,b,a,b,a,b,d,e,e,e
+e,e,e,c,b,a,b,a,b,a,b,a,d,e,e,e
+e,e,e,c,a,b,0,b,a,b,a,b,d,e,e,e
+e,e,e,c,b,w,b,w,b,a,b,a,d,e,e,e
+e,e,e,c,a,b,w,b,a,b,a,b,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME DÃ©but
+ITM 0 6,9
+EXT 6,9 3 6,9
+PAL 0
+
+ROOM 1
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,1a,b,b,b,b,19,1a,d,e,e,e
+e,e,e,c,1a,b,b,1b,18,b,b,1b,d,e,e,e
+e,e,e,c,19,b,1b,1c,1f,1a,b,1a,d,e,e,e
+e,e,e,c,b,b,1a,1f,1e,1d,b,19,d,e,e,e
+e,e,e,c,b,1g,b,1a,1d,1c,b,b,d,e,e,e
+e,e,e,c,b,b,b,b,b,1b,18,b,d,e,e,e
+e,e,e,c,1b,1a,b,1g,b,b,b,b,d,e,e,e
+e,e,e,c,1a,1b,b,b,b,b,b,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME Base
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM 3
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,b,a,b,a,b,a,b,a,d,e,e,e
+e,e,e,c,a,b,a,b,a,1i,a,b,d,e,e,e
+e,e,e,c,b,a,b,a,b,a,b,a,d,e,e,e
+e,e,e,c,a,b,a,b,a,b,a,b,d,e,e,e
+e,e,e,c,b,1g,1d,1a,b,a,b,a,d,e,e,e
+e,e,e,c,a,1b,e,1b,a,b,a,b,d,e,e,e
+e,e,e,c,b,1a,1b,1g,b,a,b,a,d,e,e,e
+e,e,e,c,a,b,a,b,a,b,a,b,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME Chemin 0
+EXT 6,8 y 6,8
+EXT 5,9 4 5,9
+EXT 7,9 m 7,9
+EXT 6,10 g 6,10
+EXT 6,7 10 7,6
+EXT 5,8 0 0,0
+END 0 4,10
+END 0 5,11
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM 4
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 1a
+ITM 1 6,4
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 7,5
+ITM 1 11,5
+ITM 1 10,6
+ITM 1 8,6
+ITM 1 6,6
+ITM 1 4,6
+ITM 1 5,7
+ITM 1 7,7
+ITM 1 9,7
+ITM 1 11,7
+ITM 1 10,8
+ITM 1 8,8
+ITM 1 5,11
+ITM 1 7,9
+ITM 1 7,11
+ITM 1 8,10
+ITM 1 9,9
+ITM 1 9,11
+ITM 1 10,10
+ITM 1 11,11
+ITM 1 11,9
+ITM 2 5,4
+ITM 2 7,4
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 10,5
+ITM 2 8,5
+ITM 2 6,5
+ITM 2 4,5
+ITM 2 5,6
+ITM 2 7,6
+ITM 2 9,6
+ITM 2 11,6
+ITM 2 10,7
+ITM 2 11,8
+ITM 2 9,8
+ITM 2 8,7
+ITM 2 6,7
+ITM 2 4,7
+ITM 2 7,8
+ITM 2 4,11
+ITM 2 6,11
+ITM 2 7,10
+ITM 2 8,11
+ITM 2 8,9
+ITM 2 9,10
+ITM 2 10,9
+ITM 2 10,11
+ITM 2 11,10
+EXT 4,9 5 4,9
+EXT 6,9 3 6,9
+EXT 5,8 10 7,6
+EXT 5,10 10 7,6
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM 5
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 1b
+ITM 2 7,4
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 10,5
+ITM 2 8,5
+ITM 2 6,5
+ITM 2 4,5
+ITM 2 5,6
+ITM 2 7,6
+ITM 2 9,6
+ITM 2 11,6
+ITM 2 10,7
+ITM 2 8,7
+ITM 2 4,7
+ITM 2 6,7
+ITM 2 7,8
+ITM 2 9,8
+ITM 2 11,8
+ITM 2 10,9
+ITM 2 11,10
+ITM 2 10,11
+ITM 2 9,10
+ITM 2 8,11
+ITM 2 8,9
+ITM 2 7,10
+ITM 2 6,11
+ITM 2 4,11
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 4,6
+ITM 1 5,7
+ITM 1 6,6
+ITM 1 6,4
+ITM 1 6,8
+ITM 1 6,10
+ITM 1 5,11
+ITM 1 7,11
+ITM 1 7,9
+ITM 1 8,10
+ITM 1 7,7
+ITM 1 7,5
+ITM 1 8,6
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 11,5
+ITM 1 10,6
+ITM 1 9,7
+ITM 1 11,7
+ITM 1 10,8
+ITM 1 8,8
+ITM 1 9,9
+ITM 1 11,9
+ITM 1 10,10
+ITM 1 11,11
+ITM 1 9,11
+ITM 2 6,9
+EXT 5,9 4 5,9
+EXT 4,8 6 4,8
+EXT 4,10 10 7,6
+END 0 5,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM 6
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,1a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 1c
+ITM 2 5,10
+ITM 2 6,9
+ITM 2 6,7
+ITM 2 5,6
+ITM 2 4,5
+ITM 2 4,11
+ITM 2 6,11
+ITM 2 5,4
+ITM 2 7,4
+ITM 2 7,8
+ITM 2 7,10
+ITM 2 8,11
+ITM 2 8,9
+ITM 2 9,10
+ITM 2 10,11
+ITM 2 11,10
+ITM 2 10,9
+ITM 2 11,8
+ITM 2 9,8
+ITM 2 8,7
+ITM 2 10,7
+ITM 2 9,6
+ITM 2 8,5
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 11,6
+ITM 1 4,4
+ITM 1 6,4
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 11,5
+ITM 1 7,5
+ITM 1 5,5
+ITM 1 4,10
+ITM 1 5,11
+ITM 1 4,6
+ITM 1 6,8
+ITM 1 6,6
+ITM 1 7,7
+ITM 1 8,6
+ITM 1 10,6
+ITM 1 11,7
+ITM 2 10,5
+ITM 1 9,7
+ITM 1 10,8
+ITM 1 8,8
+ITM 1 7,9
+ITM 1 6,10
+ITM 1 7,11
+ITM 1 8,10
+ITM 1 9,9
+ITM 1 9,11
+ITM 1 10,10
+ITM 1 11,11
+ITM 1 11,9
+ITM 2 6,5
+ITM 2 7,6
+EXT 4,7 7 4,7
+EXT 4,9 5 4,9
+EXT 5,8 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM 7
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,1a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 1d
+ITM 2 5,4
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 10,5
+ITM 2 6,5
+ITM 2 7,6
+ITM 2 4,5
+ITM 2 4,11
+ITM 2 4,9
+ITM 2 6,7
+ITM 2 11,6
+ITM 2 9,6
+ITM 2 8,7
+ITM 2 10,7
+ITM 2 11,8
+ITM 2 9,8
+ITM 2 7,8
+ITM 2 6,9
+ITM 2 5,10
+ITM 2 6,11
+ITM 2 7,10
+ITM 2 8,9
+ITM 2 9,10
+ITM 2 10,11
+ITM 2 11,10
+ITM 2 10,9
+ITM 1 4,4
+ITM 1 6,4
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 11,5
+ITM 2 8,5
+ITM 2 7,4
+ITM 1 7,5
+ITM 1 10,6
+ITM 1 11,7
+ITM 1 10,8
+ITM 1 11,9
+ITM 1 11,11
+ITM 1 10,10
+ITM 1 9,11
+ITM 1 9,9
+ITM 1 9,7
+ITM 1 8,6
+ITM 1 8,8
+ITM 1 8,10
+ITM 1 7,11
+ITM 2 8,11
+ITM 1 7,9
+ITM 1 6,10
+ITM 1 5,11
+ITM 1 4,10
+ITM 1 5,9
+ITM 1 6,8
+ITM 1 7,7
+ITM 1 6,6
+ITM 1 5,5
+EXT 5,7 8 5,7
+EXT 4,8 6 4,8
+EXT 4,6 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM 8
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,1a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 1e
+ITM 2 4,9
+ITM 2 6,9
+ITM 2 7,8
+ITM 2 7,6
+ITM 2 5,4
+ITM 2 4,11
+ITM 2 5,10
+ITM 2 6,11
+ITM 2 7,10
+ITM 2 8,11
+ITM 2 9,10
+ITM 2 10,11
+ITM 2 10,9
+ITM 2 8,9
+ITM 2 9,8
+ITM 2 11,8
+ITM 2 10,7
+ITM 2 8,7
+ITM 2 9,6
+ITM 2 11,6
+ITM 2 11,4
+ITM 2 10,5
+ITM 2 9,4
+ITM 2 8,5
+ITM 2 7,4
+ITM 2 6,5
+ITM 2 4,5
+ITM 1 4,4
+ITM 1 6,4
+ITM 1 7,5
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 11,5
+ITM 1 11,7
+ITM 1 10,6
+ITM 1 9,7
+ITM 1 8,6
+ITM 1 7,7
+ITM 1 5,9
+ITM 1 4,10
+ITM 1 5,11
+ITM 1 6,10
+ITM 1 7,11
+ITM 1 7,9
+ITM 1 8,8
+ITM 1 8,10
+ITM 1 9,9
+ITM 1 9,11
+ITM 1 10,10
+ITM 1 11,11
+ITM 1 11,9
+ITM 1 10,8
+ITM 2 11,10
+ITM 1 5,5
+EXT 4,7 7 4,7
+EXT 5,6 9 5,6
+EXT 6,7 10 7,6
+EXT 5,8 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM 9
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,1a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 1f
+ITM 1 4,8
+ITM 1 6,8
+ITM 1 6,4
+ITM 1 4,4
+ITM 1 8,4
+ITM 1 7,5
+ITM 1 7,7
+ITM 1 8,6
+ITM 1 10,4
+ITM 1 11,5
+ITM 1 10,6
+ITM 1 11,7
+ITM 1 9,7
+ITM 1 8,8
+ITM 1 7,9
+ITM 1 5,9
+ITM 1 4,10
+ITM 1 5,11
+ITM 1 6,10
+ITM 1 7,11
+ITM 1 9,9
+ITM 1 9,11
+ITM 1 10,10
+ITM 1 10,8
+ITM 1 11,11
+ITM 2 5,4
+ITM 2 7,4
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 10,5
+ITM 2 8,5
+ITM 2 9,6
+ITM 2 11,6
+ITM 2 10,7
+ITM 2 7,6
+ITM 2 8,7
+ITM 2 7,8
+ITM 2 5,8
+ITM 2 4,9
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 6,11
+ITM 2 6,9
+ITM 2 7,10
+ITM 2 8,11
+ITM 2 8,9
+ITM 2 9,8
+ITM 2 10,9
+ITM 2 11,8
+ITM 2 11,10
+ITM 2 10,11
+ITM 2 9,10
+ITM 1 11,9
+ITM 1 8,10
+EXT 5,5 a 5,5
+EXT 5,7 8 5,7
+EXT 4,6 10 7,6
+EXT 6,6 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 5,4
+END 0 6,4
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM 10
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,1t,1r,1s,1t,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+NAME End1
+ITM 1d 7,5
+ITM 1d 6,6
+ITM 1d 8,6
+ITM 1d 7,7
+EXT 6,6 11 7,6
+EXT 7,5 11 7,6
+EXT 7,7 11 7,6
+EXT 8,6 11 7,6
+PAL 0
+
+ROOM 11
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,16,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+NAME end2
+EXT 7,5 3 6,9
+EXT 6,6 3 6,9
+EXT 7,7 3 6,9
+EXT 8,6 3 6,9
+PAL 0
+
+ROOM a
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,1a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 1g
+ITM 2 7,4
+ITM 2 7,6
+ITM 2 8,5
+ITM 2 6,7
+ITM 2 4,7
+ITM 2 5,8
+ITM 2 4,9
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 6,11
+ITM 2 6,9
+ITM 2 7,8
+ITM 2 7,10
+ITM 2 8,11
+ITM 2 9,10
+ITM 2 10,11
+ITM 2 11,10
+ITM 2 10,9
+ITM 2 8,9
+ITM 2 9,8
+ITM 2 8,7
+ITM 2 9,6
+ITM 2 10,5
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 11,6
+ITM 2 10,7
+ITM 2 11,8
+ITM 1 5,7
+ITM 1 7,5
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 11,5
+ITM 1 10,6
+ITM 1 8,6
+ITM 1 9,7
+ITM 1 11,7
+ITM 1 10,8
+ITM 1 7,7
+ITM 1 8,8
+ITM 1 6,8
+ITM 1 4,8
+ITM 1 5,9
+ITM 1 4,10
+ITM 1 6,10
+ITM 1 5,11
+ITM 1 7,11
+ITM 1 7,9
+ITM 1 8,10
+ITM 1 9,11
+ITM 1 9,9
+ITM 1 10,10
+ITM 1 11,9
+ITM 1 11,11
+ITM 4 6,5
+EXT 5,6 9 5,6
+EXT 6,5 b 6,5
+EXT 5,4 10 7,6
+EXT 4,5 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM b
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,1a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 1h
+ITM 1 4,4
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 11,5
+ITM 1 10,6
+ITM 1 8,6
+ITM 1 4,6
+ITM 1 7,7
+ITM 1 9,7
+ITM 1 11,7
+ITM 1 10,8
+ITM 1 8,8
+ITM 1 6,8
+ITM 1 5,9
+ITM 1 4,10
+ITM 1 5,11
+ITM 1 6,10
+ITM 1 7,9
+ITM 1 7,11
+ITM 1 8,10
+ITM 1 9,9
+ITM 1 9,11
+ITM 1 10,10
+ITM 1 11,11
+ITM 2 4,5
+ITM 1 5,7
+ITM 2 11,4
+ITM 2 10,5
+ITM 2 9,4
+ITM 2 8,5
+ITM 2 6,7
+ITM 2 4,7
+ITM 2 5,8
+ITM 2 4,9
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 6,11
+ITM 1 4,8
+ITM 2 11,6
+ITM 2 9,6
+ITM 2 10,7
+ITM 2 8,7
+ITM 2 7,8
+ITM 2 6,9
+ITM 2 7,10
+ITM 2 8,11
+ITM 2 8,9
+ITM 2 9,8
+ITM 2 10,9
+ITM 2 9,10
+ITM 2 10,11
+ITM 2 11,10
+ITM 2 11,8
+ITM 1 11,9
+EXT 5,5 a 5,5
+EXT 7,5 c 7,5
+EXT 6,4 10 7,6
+EXT 6,6 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM c
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,1a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 1i
+ITM 1 4,4
+ITM 1 10,4
+ITM 1 11,5
+ITM 1 5,5
+ITM 1 4,6
+ITM 1 5,7
+ITM 1 7,7
+ITM 1 9,7
+ITM 1 10,6
+ITM 1 11,7
+ITM 1 10,8
+ITM 1 8,8
+ITM 1 6,8
+ITM 1 4,8
+ITM 1 5,9
+ITM 1 4,10
+ITM 1 5,11
+ITM 1 6,10
+ITM 1 7,11
+ITM 1 7,9
+ITM 1 8,10
+ITM 1 9,11
+ITM 1 9,9
+ITM 1 10,10
+ITM 1 11,11
+ITM 1 11,9
+ITM 2 5,4
+ITM 2 4,5
+ITM 2 5,6
+ITM 2 6,7
+ITM 2 8,7
+ITM 2 9,4
+ITM 2 9,6
+ITM 2 10,5
+ITM 2 11,4
+ITM 2 11,6
+ITM 2 10,7
+ITM 2 11,8
+ITM 2 9,8
+ITM 2 7,8
+ITM 2 4,7
+ITM 2 5,8
+ITM 2 4,9
+ITM 2 5,10
+ITM 2 6,9
+ITM 2 6,11
+ITM 2 4,11
+ITM 2 7,10
+ITM 2 8,11
+ITM 2 8,9
+ITM 2 9,10
+ITM 2 10,11
+ITM 2 10,9
+ITM 2 11,10
+EXT 6,5 b 6,5
+EXT 7,4 d 7,4
+EXT 7,6 10 7,6
+EXT 8,5 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM d
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,l,1b,1a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 1j
+ITM 2 5,4
+ITM 2 4,5
+ITM 2 5,6
+ITM 2 7,6
+ITM 2 9,6
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 10,5
+ITM 2 11,6
+ITM 2 10,7
+ITM 2 8,7
+ITM 2 6,7
+ITM 2 4,7
+ITM 2 4,9
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 6,11
+ITM 2 6,9
+ITM 2 7,8
+ITM 2 7,10
+ITM 2 8,9
+ITM 2 8,11
+ITM 2 9,10
+ITM 2 9,8
+ITM 2 10,9
+ITM 2 11,8
+ITM 2 11,10
+ITM 2 10,11
+ITM 1 11,5
+ITM 1 10,4
+ITM 1 10,6
+ITM 1 11,7
+ITM 1 9,7
+ITM 1 10,8
+ITM 1 11,9
+ITM 1 10,10
+ITM 1 11,11
+ITM 1 9,11
+ITM 1 9,9
+ITM 1 8,10
+ITM 1 7,11
+ITM 1 6,10
+ITM 1 5,11
+ITM 1 4,10
+ITM 1 5,9
+ITM 1 4,8
+ITM 1 6,8
+ITM 1 5,7
+ITM 1 7,9
+ITM 1 8,8
+ITM 1 7,7
+ITM 1 8,6
+ITM 1 6,6
+ITM 1 5,5
+ITM 1 4,4
+ITM 1 4,6
+ITM 2 5,8
+EXT 8,4 e 8,4
+EXT 7,5 c 7,5
+EXT 6,4 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,1a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1j,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 1k
+ITM 2 5,4
+ITM 2 7,6
+ITM 2 8,7
+ITM 2 9,6
+ITM 2 10,5
+ITM 2 11,4
+ITM 2 4,5
+ITM 2 5,6
+ITM 2 4,7
+ITM 2 5,8
+ITM 2 6,7
+ITM 2 7,8
+ITM 2 6,9
+ITM 2 4,9
+ITM 2 4,11
+ITM 2 5,10
+ITM 2 6,11
+ITM 2 7,10
+ITM 2 8,9
+ITM 2 9,10
+ITM 2 10,11
+ITM 2 11,10
+ITM 2 10,9
+ITM 2 9,8
+ITM 2 10,7
+ITM 2 11,8
+ITM 2 11,6
+ITM 1 10,4
+ITM 1 6,4
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 6,6
+ITM 1 4,6
+ITM 1 5,7
+ITM 1 6,8
+ITM 1 7,7
+ITM 1 8,6
+ITM 1 9,7
+ITM 1 10,6
+ITM 1 11,5
+ITM 1 11,7
+ITM 1 10,8
+ITM 1 11,9
+ITM 1 8,8
+ITM 1 7,9
+ITM 1 4,8
+ITM 1 5,9
+ITM 1 4,10
+ITM 1 5,11
+ITM 1 6,10
+ITM 1 7,11
+ITM 1 9,11
+ITM 1 9,9
+ITM 1 8,10
+ITM 1 10,10
+ITM 1 11,11
+ITM 2 8,11
+ITM 2 6,5
+ITM 7 9,4
+EXT 7,4 d 7,4
+EXT 9,4 f 9,4
+EXT 8,5 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM f
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,1a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1j,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 1l
+ITM 1 11,5
+ITM 1 7,5
+ITM 1 6,4
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 4,6
+ITM 1 6,6
+ITM 1 5,7
+ITM 1 4,8
+ITM 1 5,9
+ITM 1 4,10
+ITM 1 5,11
+ITM 1 6,10
+ITM 1 7,11
+ITM 1 6,8
+ITM 1 7,7
+ITM 1 7,9
+ITM 1 8,8
+ITM 1 8,6
+ITM 1 9,7
+ITM 1 10,6
+ITM 1 11,7
+ITM 1 10,8
+ITM 1 11,9
+ITM 1 9,9
+ITM 1 8,10
+ITM 1 9,11
+ITM 1 10,10
+ITM 1 11,11
+ITM 2 11,4
+ITM 2 9,6
+ITM 2 11,6
+ITM 2 7,4
+ITM 2 5,4
+ITM 2 4,5
+ITM 2 5,6
+ITM 2 6,5
+ITM 2 7,6
+ITM 2 6,7
+ITM 2 7,8
+ITM 2 8,7
+ITM 2 9,8
+ITM 2 10,7
+ITM 2 11,8
+ITM 2 10,9
+ITM 2 11,10
+ITM 2 10,11
+ITM 2 9,10
+ITM 2 8,11
+ITM 2 7,10
+ITM 2 8,9
+ITM 2 6,11
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 6,9
+ITM 2 5,8
+ITM 2 4,7
+ITM 2 4,9
+EXT 8,4 e 8,4
+EXT 10,4 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+END 1 9,5
+PAL 0
+
+ROOM g
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 2a
+ITM 2 4,11
+ITM 2 7,8
+ITM 2 5,8
+ITM 2 4,9
+ITM 2 8,9
+ITM 2 8,11
+ITM 2 9,10
+ITM 2 10,11
+ITM 2 11,10
+ITM 2 10,9
+ITM 2 11,8
+ITM 2 9,8
+ITM 2 8,7
+ITM 2 10,7
+ITM 2 11,6
+ITM 2 9,6
+ITM 2 7,6
+ITM 2 6,7
+ITM 2 4,7
+ITM 2 4,5
+ITM 2 6,5
+ITM 2 7,4
+ITM 2 8,5
+ITM 2 9,4
+ITM 2 10,5
+ITM 2 11,4
+ITM 1 4,4
+ITM 1 6,4
+ITM 1 5,5
+ITM 1 7,5
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 11,5
+ITM 1 10,6
+ITM 1 8,6
+ITM 1 6,6
+ITM 1 4,6
+ITM 1 5,7
+ITM 1 4,8
+ITM 1 4,10
+ITM 1 6,8
+ITM 1 7,7
+ITM 1 8,8
+ITM 1 8,10
+ITM 1 9,11
+ITM 1 10,10
+ITM 1 11,11
+ITM 1 11,9
+ITM 1 9,9
+ITM 1 10,8
+ITM 1 9,7
+ITM 1 11,7
+ITM 2 5,6
+EXT 6,9 3 6,9
+EXT 6,11 h 6,11
+EXT 5,10 10 7,6
+EXT 7,10 10 7,6
+END 0 4,10
+END 0 5,11
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM h
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 2b
+ITM 1 4,10
+ITM 1 5,9
+ITM 1 7,9
+ITM 1 8,10
+ITM 1 9,9
+ITM 1 9,11
+ITM 1 10,10
+ITM 1 11,11
+ITM 1 11,9
+ITM 1 10,8
+ITM 1 8,8
+ITM 1 6,8
+ITM 1 4,8
+ITM 1 5,7
+ITM 1 4,4
+ITM 1 4,6
+ITM 1 5,5
+ITM 1 6,4
+ITM 1 6,6
+ITM 1 7,5
+ITM 1 7,7
+ITM 1 8,6
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 11,5
+ITM 1 10,6
+ITM 1 11,7
+ITM 1 9,7
+ITM 2 7,4
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 10,5
+ITM 2 11,6
+ITM 2 8,5
+ITM 2 6,5
+ITM 2 4,5
+ITM 2 5,6
+ITM 2 7,6
+ITM 2 9,6
+ITM 2 10,7
+ITM 2 8,7
+ITM 2 6,7
+ITM 2 4,7
+ITM 2 5,8
+ITM 2 4,9
+ITM 2 4,11
+ITM 2 6,9
+ITM 2 8,11
+ITM 2 7,8
+ITM 2 8,9
+ITM 2 9,8
+ITM 2 10,9
+ITM 2 11,8
+ITM 2 11,10
+ITM 2 9,10
+ITM 2 10,11
+EXT 6,10 g 6,10
+EXT 7,11 i 7,11
+EXT 5,11 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM i
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 2c
+ITM 2 7,4
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 10,5
+ITM 2 11,6
+ITM 2 8,5
+ITM 2 6,5
+ITM 2 4,5
+ITM 2 5,6
+ITM 2 7,6
+ITM 2 9,6
+ITM 2 8,7
+ITM 2 10,7
+ITM 2 6,7
+ITM 2 4,7
+ITM 2 5,8
+ITM 2 4,9
+ITM 2 6,9
+ITM 2 7,8
+ITM 2 9,8
+ITM 2 11,8
+ITM 2 10,9
+ITM 2 8,9
+ITM 2 4,11
+ITM 2 5,10
+ITM 2 11,10
+ITM 2 10,11
+ITM 2 9,10
+ITM 1 5,11
+ITM 1 7,9
+ITM 1 9,11
+ITM 1 10,10
+ITM 1 11,11
+ITM 1 11,9
+ITM 1 9,9
+ITM 1 4,10
+ITM 1 5,9
+ITM 1 4,8
+ITM 1 5,7
+ITM 1 6,8
+ITM 1 7,7
+ITM 1 8,8
+ITM 1 9,7
+ITM 1 10,8
+ITM 1 11,7
+ITM 1 10,6
+ITM 1 11,5
+ITM 1 10,4
+ITM 1 8,4
+ITM 1 7,5
+ITM 1 8,6
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 4,6
+ITM 1 6,4
+ITM 1 6,6
+EXT 6,11 h 6,11
+EXT 8,11 j 8,11
+EXT 7,10 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM j
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 2d
+ITM 2 6,11
+ITM 2 8,9
+ITM 2 10,11
+ITM 2 11,10
+ITM 2 10,9
+ITM 2 11,8
+ITM 2 10,7
+ITM 2 9,8
+ITM 2 8,7
+ITM 2 6,9
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 4,9
+ITM 2 5,8
+ITM 2 4,7
+ITM 2 5,6
+ITM 2 4,5
+ITM 2 6,5
+ITM 2 7,4
+ITM 2 8,5
+ITM 2 9,4
+ITM 2 10,5
+ITM 2 11,4
+ITM 2 11,6
+ITM 2 7,6
+ITM 2 6,7
+ITM 2 9,6
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 6,4
+ITM 1 7,5
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 11,5
+ITM 1 10,6
+ITM 1 8,6
+ITM 1 6,6
+ITM 1 4,6
+ITM 1 5,7
+ITM 1 4,8
+ITM 1 5,9
+ITM 1 4,10
+ITM 1 5,11
+ITM 1 6,10
+ITM 1 11,11
+ITM 1 10,10
+ITM 1 11,9
+ITM 1 9,9
+ITM 1 10,8
+ITM 1 11,7
+ITM 1 9,7
+ITM 1 7,7
+ITM 1 6,8
+ITM 1 7,9
+ITM 1 8,8
+ITM 2 7,8
+EXT 7,11 i 7,11
+EXT 9,11 k 9,11
+EXT 8,10 o 8,10
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM k
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 2e
+ITM 1 7,11
+ITM 1 9,9
+ITM 1 11,11
+ITM 1 5,11
+ITM 1 4,10
+ITM 1 6,10
+ITM 1 5,9
+ITM 1 7,9
+ITM 1 11,9
+ITM 1 10,8
+ITM 1 8,8
+ITM 1 6,8
+ITM 1 4,8
+ITM 1 5,7
+ITM 1 4,6
+ITM 1 5,5
+ITM 1 4,4
+ITM 1 6,4
+ITM 1 7,7
+ITM 1 7,5
+ITM 1 8,6
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 10,6
+ITM 1 11,5
+ITM 1 11,7
+ITM 1 9,7
+ITM 2 4,5
+ITM 2 6,5
+ITM 2 7,4
+ITM 2 8,5
+ITM 2 9,4
+ITM 2 10,5
+ITM 2 11,4
+ITM 2 11,6
+ITM 2 9,6
+ITM 2 7,6
+ITM 2 5,6
+ITM 1 6,6
+ITM 2 4,7
+ITM 2 6,7
+ITM 2 8,7
+ITM 2 10,7
+ITM 2 11,8
+ITM 2 9,8
+ITM 2 7,8
+ITM 2 5,8
+ITM 2 4,9
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 6,11
+ITM 2 6,9
+ITM 2 7,10
+ITM 2 8,9
+ITM 2 10,9
+ITM 2 11,10
+EXT 8,11 j 8,11
+EXT 10,11 l 10,11
+EXT 9,10 p 9,10
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM l
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 2f
+ITM 2 8,11
+ITM 2 10,9
+ITM 2 11,8
+ITM 2 9,8
+ITM 2 8,9
+ITM 2 7,10
+ITM 2 6,11
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 4,9
+ITM 2 4,7
+ITM 2 5,8
+ITM 2 6,9
+ITM 2 4,5
+ITM 2 5,4
+ITM 2 5,6
+ITM 2 6,7
+ITM 2 7,8
+ITM 2 8,7
+ITM 2 7,6
+ITM 2 8,5
+ITM 2 7,4
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 10,5
+ITM 2 9,6
+ITM 2 11,6
+ITM 2 10,7
+ITM 1 8,10
+ITM 1 7,11
+ITM 1 9,9
+ITM 1 11,9
+ITM 1 10,8
+ITM 1 7,9
+ITM 1 6,10
+ITM 1 5,11
+ITM 1 4,10
+ITM 1 5,9
+ITM 1 4,8
+ITM 1 5,7
+ITM 1 6,8
+ITM 1 7,7
+ITM 1 8,8
+ITM 1 9,7
+ITM 1 10,6
+ITM 1 11,7
+ITM 1 8,6
+ITM 1 7,5
+ITM 1 6,6
+ITM 1 5,5
+ITM 1 4,6
+ITM 1 4,4
+ITM 1 6,4
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 11,5
+ITM 2 6,5
+ITM 3 10,10
+EXT 9,11 k 9,11
+EXT 10,10 q 10,10
+EXT 11,11 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM m
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 3a
+ITM 1 5,9
+ITM 1 7,7
+ITM 1 9,9
+ITM 1 7,11
+ITM 1 5,11
+ITM 1 4,10
+ITM 1 4,8
+ITM 1 5,7
+ITM 1 4,6
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 6,4
+ITM 1 6,6
+ITM 1 7,5
+ITM 1 8,4
+ITM 1 8,6
+ITM 1 11,5
+ITM 1 10,6
+ITM 1 9,7
+ITM 1 10,8
+ITM 1 11,7
+ITM 1 11,9
+ITM 1 11,11
+ITM 1 10,10
+ITM 1 9,11
+ITM 2 11,4
+ITM 2 9,4
+ITM 2 7,4
+ITM 2 4,5
+ITM 2 5,6
+ITM 2 6,5
+ITM 2 7,6
+ITM 2 9,6
+ITM 2 11,6
+ITM 2 10,5
+ITM 2 8,5
+ITM 2 4,7
+ITM 2 6,7
+ITM 2 5,8
+ITM 2 4,9
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 6,11
+ITM 2 8,7
+ITM 2 8,11
+ITM 2 9,10
+ITM 2 10,11
+ITM 2 11,10
+ITM 2 10,9
+ITM 2 9,8
+ITM 2 10,7
+ITM 2 11,8
+ITM 1 10,4
+EXT 6,9 3 6,9
+EXT 8,9 n 8,9
+EXT 7,8 10 7,6
+EXT 7,10 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM n
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 3b
+ITM 2 6,9
+ITM 2 8,11
+ITM 2 10,9
+ITM 2 8,7
+ITM 2 6,7
+ITM 2 7,6
+ITM 2 8,5
+ITM 2 9,4
+ITM 2 10,5
+ITM 2 9,6
+ITM 2 10,7
+ITM 2 11,6
+ITM 2 11,4
+ITM 2 11,8
+ITM 2 11,10
+ITM 2 10,11
+ITM 2 6,11
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 4,9
+ITM 2 5,8
+ITM 2 4,7
+ITM 2 5,6
+ITM 2 4,5
+ITM 2 6,5
+ITM 2 7,4
+ITM 1 10,4
+ITM 1 8,4
+ITM 1 6,4
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 7,5
+ITM 1 11,5
+ITM 1 10,6
+ITM 1 8,6
+ITM 1 6,6
+ITM 1 4,6
+ITM 1 5,7
+ITM 1 7,7
+ITM 1 9,7
+ITM 1 11,7
+ITM 1 10,8
+ITM 1 11,9
+ITM 1 10,10
+ITM 1 11,11
+ITM 1 9,11
+ITM 1 7,11
+ITM 1 6,10
+ITM 1 5,11
+ITM 1 4,10
+ITM 1 5,9
+ITM 1 6,8
+ITM 1 4,8
+EXT 7,9 m 7,9
+EXT 8,10 o 8,10
+EXT 8,8 10 7,6
+EXT 9,9 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 7,8
+END 0 9,8
+PAL 0
+
+ROOM o
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 3c
+ITM 1 6,10
+ITM 1 8,8
+ITM 1 10,10
+ITM 1 11,11
+ITM 1 5,11
+ITM 1 4,10
+ITM 1 5,9
+ITM 1 4,8
+ITM 1 5,7
+ITM 1 4,6
+ITM 1 4,4
+ITM 1 6,4
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 11,5
+ITM 1 10,6
+ITM 1 11,7
+ITM 1 10,8
+ITM 1 11,9
+ITM 1 8,6
+ITM 1 6,8
+ITM 1 7,7
+ITM 1 6,6
+ITM 1 9,7
+ITM 2 7,4
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 10,5
+ITM 2 8,5
+ITM 2 6,5
+ITM 2 4,5
+ITM 2 5,6
+ITM 2 7,6
+ITM 2 6,7
+ITM 2 4,7
+ITM 2 5,8
+ITM 2 4,9
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 6,11
+ITM 2 6,9
+ITM 2 7,8
+ITM 2 8,7
+ITM 2 9,6
+ITM 2 10,7
+ITM 2 11,6
+ITM 2 11,8
+ITM 2 9,8
+ITM 2 10,9
+ITM 2 11,10
+ITM 2 10,11
+ITM 1 7,5
+ITM 1 5,5
+EXT 8,9 n 8,9
+EXT 9,10 p 9,10
+EXT 8,11 j 8,11
+EXT 7,10 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM p
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 3d
+ITM 2 7,10
+ITM 2 9,8
+ITM 2 11,10
+ITM 2 11,8
+ITM 2 10,7
+ITM 2 9,6
+ITM 2 8,7
+ITM 2 7,8
+ITM 2 6,7
+ITM 2 7,6
+ITM 2 6,5
+ITM 2 5,4
+ITM 2 4,5
+ITM 2 5,6
+ITM 2 4,7
+ITM 2 5,8
+ITM 2 4,9
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 6,9
+ITM 2 6,11
+ITM 2 9,4
+ITM 2 10,5
+ITM 2 11,4
+ITM 2 11,6
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 6,4
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 11,5
+ITM 1 10,6
+ITM 2 7,4
+ITM 2 8,5
+ITM 1 7,5
+ITM 1 6,6
+ITM 1 4,6
+ITM 1 5,7
+ITM 1 7,7
+ITM 1 8,6
+ITM 1 9,7
+ITM 1 11,7
+ITM 1 10,8
+ITM 1 11,9
+ITM 1 11,11
+ITM 1 7,11
+ITM 1 5,11
+ITM 1 4,10
+ITM 1 5,9
+ITM 1 4,8
+ITM 1 6,8
+ITM 1 6,10
+ITM 1 7,9
+ITM 1 8,8
+ITM 3 10,10
+EXT 9,11 k 9,11
+EXT 8,10 o 8,10
+EXT 10,10 q 10,10
+EXT 9,9 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM q
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 3e
+ITM 1 8,10
+ITM 1 10,8
+ITM 1 7,11
+ITM 1 6,10
+ITM 1 5,11
+ITM 1 4,10
+ITM 1 5,9
+ITM 1 6,8
+ITM 1 7,9
+ITM 1 8,8
+ITM 1 9,7
+ITM 1 10,6
+ITM 1 11,5
+ITM 1 10,4
+ITM 1 8,4
+ITM 1 7,5
+ITM 1 6,4
+ITM 1 5,5
+ITM 1 4,4
+ITM 1 4,6
+ITM 1 4,8
+ITM 1 5,7
+ITM 1 6,6
+ITM 1 7,7
+ITM 1 8,6
+ITM 1 11,7
+ITM 2 7,4
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 4,5
+ITM 2 6,5
+ITM 2 8,5
+ITM 2 10,5
+ITM 2 5,6
+ITM 2 7,6
+ITM 2 9,6
+ITM 2 11,6
+ITM 2 4,7
+ITM 2 6,7
+ITM 2 8,7
+ITM 2 10,7
+ITM 2 5,8
+ITM 2 7,8
+ITM 2 9,8
+ITM 2 11,8
+ITM 2 4,9
+ITM 2 6,9
+ITM 2 8,9
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 6,11
+ITM 2 7,10
+ITM 2 8,11
+EXT 9,10 p 9,10
+EXT 11,10 r 11,10
+EXT 10,11 l 10,11
+EXT 10,9 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM r
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 3f
+ITM 2 9,10
+ITM 2 11,8
+ITM 2 10,7
+ITM 2 9,8
+ITM 2 8,9
+ITM 2 7,10
+ITM 2 8,11
+ITM 2 6,11
+ITM 2 4,11
+ITM 2 5,10
+ITM 2 6,9
+ITM 2 7,8
+ITM 2 8,7
+ITM 2 9,6
+ITM 2 11,6
+ITM 2 10,5
+ITM 2 11,4
+ITM 2 9,4
+ITM 2 8,5
+ITM 2 7,6
+ITM 2 6,7
+ITM 2 5,8
+ITM 2 4,9
+ITM 2 4,7
+ITM 2 4,5
+ITM 2 5,6
+ITM 2 7,4
+ITM 2 6,5
+ITM 1 10,4
+ITM 1 8,4
+ITM 1 6,4
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 7,5
+ITM 1 11,5
+ITM 1 10,6
+ITM 1 8,6
+ITM 1 6,6
+ITM 1 4,6
+ITM 1 5,7
+ITM 1 4,8
+ITM 1 7,7
+ITM 1 9,7
+ITM 1 11,7
+ITM 1 10,8
+ITM 1 9,9
+ITM 1 8,8
+ITM 1 6,8
+ITM 1 5,9
+ITM 1 4,10
+ITM 1 5,11
+ITM 1 6,10
+ITM 1 7,9
+ITM 1 8,10
+ITM 1 7,11
+ITM 1 9,11
+EXT 10,10 q 10,10
+EXT 11,9 s 11,9
+EXT 11,11 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM s
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 3g
+ITM 1 11,11
+ITM 1 9,9
+ITM 1 11,7
+ITM 1 10,6
+ITM 1 11,5
+ITM 1 10,4
+ITM 1 8,6
+ITM 1 9,7
+ITM 1 8,8
+ITM 1 7,9
+ITM 1 8,10
+ITM 1 7,11
+ITM 1 6,10
+ITM 1 5,11
+ITM 1 4,10
+ITM 1 5,9
+ITM 1 6,8
+ITM 1 7,7
+ITM 1 6,6
+ITM 1 7,5
+ITM 1 6,4
+ITM 1 5,5
+ITM 1 4,6
+ITM 1 5,7
+ITM 1 4,8
+ITM 1 4,4
+ITM 1 9,11
+ITM 2 11,4
+ITM 2 9,4
+ITM 2 7,4
+ITM 2 4,5
+ITM 2 6,5
+ITM 2 8,5
+ITM 2 10,5
+ITM 2 5,6
+ITM 2 7,6
+ITM 2 9,6
+ITM 2 11,6
+ITM 2 4,7
+ITM 2 6,7
+ITM 2 8,7
+ITM 2 10,7
+ITM 2 5,8
+ITM 2 7,8
+ITM 2 9,8
+ITM 2 4,9
+ITM 2 6,9
+ITM 2 8,9
+ITM 2 5,10
+ITM 2 7,10
+ITM 2 9,10
+ITM 2 4,11
+ITM 2 6,11
+ITM 2 8,11
+ITM 2 10,11
+ITM 1 8,4
+EXT 11,10 r 11,10
+EXT 11,8 t 11,8
+EXT 10,9 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM t
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 3h
+ITM 2 11,10
+ITM 2 9,8
+ITM 2 11,6
+ITM 2 9,4
+ITM 2 8,5
+ITM 2 9,6
+ITM 2 8,7
+ITM 2 7,8
+ITM 2 8,9
+ITM 2 9,10
+ITM 2 8,11
+ITM 2 7,10
+ITM 2 6,11
+ITM 2 5,10
+ITM 2 6,9
+ITM 2 5,8
+ITM 2 4,7
+ITM 2 5,6
+ITM 2 6,7
+ITM 2 7,6
+ITM 2 6,5
+ITM 2 4,5
+ITM 2 7,4
+ITM 2 11,4
+ITM 2 4,9
+ITM 2 4,11
+ITM 2 10,11
+ITM 1 4,4
+ITM 1 6,4
+ITM 1 8,4
+ITM 1 10,4
+ITM 1 5,5
+ITM 1 7,5
+ITM 1 11,5
+ITM 1 4,6
+ITM 1 6,6
+ITM 1 8,6
+ITM 1 10,6
+ITM 1 5,7
+ITM 1 7,7
+ITM 1 9,7
+ITM 1 4,8
+ITM 1 6,8
+ITM 1 8,8
+ITM 1 5,9
+ITM 1 7,9
+ITM 1 9,9
+ITM 1 4,10
+ITM 1 6,10
+ITM 1 8,10
+ITM 1 10,10
+ITM 1 5,11
+ITM 1 7,11
+ITM 1 9,11
+ITM 1 11,11
+ITM 2 10,5
+EXT 11,9 s 11,9
+EXT 10,8 u 10,8
+EXT 11,7 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM u
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 3i
+ITM 1 8,8
+ITM 1 10,10
+ITM 1 10,6
+ITM 1 11,5
+ITM 1 10,4
+ITM 1 8,4
+ITM 1 6,4
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 7,5
+ITM 1 4,6
+ITM 1 6,6
+ITM 1 8,6
+ITM 1 5,7
+ITM 1 7,7
+ITM 1 4,8
+ITM 1 6,8
+ITM 1 5,9
+ITM 1 7,9
+ITM 1 4,10
+ITM 1 6,10
+ITM 1 8,10
+ITM 1 5,11
+ITM 1 7,11
+ITM 1 9,11
+ITM 1 11,11
+ITM 2 7,4
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 10,5
+ITM 2 8,5
+ITM 2 6,5
+ITM 2 4,5
+ITM 2 5,6
+ITM 2 7,6
+ITM 2 9,6
+ITM 2 11,6
+ITM 2 4,7
+ITM 2 6,7
+ITM 2 8,7
+ITM 2 5,8
+ITM 2 7,8
+ITM 2 4,9
+ITM 2 6,9
+ITM 2 8,9
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 6,11
+ITM 2 7,10
+ITM 2 8,11
+ITM 2 9,10
+ITM 2 10,11
+ITM 2 11,10
+ITM 5 10,7
+EXT 11,8 t 11,8
+EXT 10,7 v 10,7
+EXT 9,8 10 7,6
+EXT 10,9 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 9,9
+END 0 7,8
+END 0 8,8
+PAL 0
+
+ROOM v
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 3j
+ITM 2 10,9
+ITM 2 8,7
+ITM 2 10,5
+ITM 2 11,4
+ITM 2 9,4
+ITM 2 7,4
+ITM 2 4,5
+ITM 2 6,5
+ITM 2 8,5
+ITM 2 7,6
+ITM 2 5,6
+ITM 2 4,7
+ITM 2 6,7
+ITM 2 5,8
+ITM 2 7,8
+ITM 2 4,9
+ITM 2 6,9
+ITM 2 8,9
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 6,11
+ITM 2 7,10
+ITM 2 8,11
+ITM 2 9,10
+ITM 2 10,11
+ITM 2 11,10
+ITM 1 10,4
+ITM 1 11,5
+ITM 1 8,4
+ITM 1 7,5
+ITM 1 6,4
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 4,6
+ITM 1 6,6
+ITM 1 8,6
+ITM 1 7,7
+ITM 1 5,7
+ITM 1 4,8
+ITM 1 5,9
+ITM 1 4,10
+ITM 1 5,11
+ITM 1 6,10
+ITM 1 6,8
+ITM 1 7,9
+ITM 1 7,11
+ITM 1 8,10
+ITM 1 8,8
+ITM 1 9,9
+ITM 1 11,9
+ITM 1 10,10
+ITM 1 9,11
+ITM 1 11,11
+EXT 10,8 u 10,8
+EXT 10,6 w 10,6
+EXT 9,7 10 7,6
+EXT 11,7 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,6
+END 0 9,6
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM w
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 3k
+ITM 1 10,8
+ITM 1 8,6
+ITM 1 10,4
+ITM 1 8,4
+ITM 1 7,5
+ITM 1 6,4
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 4,6
+ITM 1 6,6
+ITM 1 5,7
+ITM 1 7,7
+ITM 1 4,8
+ITM 1 6,8
+ITM 1 8,8
+ITM 1 11,9
+ITM 1 9,9
+ITM 1 7,9
+ITM 1 5,9
+ITM 1 4,10
+ITM 1 5,11
+ITM 1 6,10
+ITM 1 7,11
+ITM 1 8,10
+ITM 1 9,11
+ITM 1 10,10
+ITM 1 11,11
+ITM 2 4,5
+ITM 2 6,5
+ITM 2 7,4
+ITM 2 8,5
+ITM 2 9,4
+ITM 2 11,4
+ITM 2 7,6
+ITM 2 5,6
+ITM 2 4,7
+ITM 2 5,8
+ITM 2 6,7
+ITM 2 8,7
+ITM 2 7,8
+ITM 2 9,8
+ITM 2 11,8
+ITM 2 10,9
+ITM 2 8,9
+ITM 2 6,9
+ITM 2 4,9
+ITM 2 5,10
+ITM 2 4,11
+ITM 2 6,11
+ITM 2 7,10
+ITM 2 8,11
+ITM 2 9,10
+ITM 2 10,11
+ITM 2 11,10
+ITM 6 10,5
+EXT 10,7 v 10,7
+EXT 10,5 x 10,5
+EXT 9,6 10 7,6
+EXT 11,6 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM x
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,1b,a,19,18,19,18,19,1a,d,e,e,e
+e,e,e,c,1a,1b,1a,1b,18,1i,1a,1b,d,e,e,e
+e,e,e,c,19,1a,1b,1c,1f,1a,1b,1a,d,e,e,e
+e,e,e,c,18,1b,1a,1f,1e,1d,1a,19,d,e,e,e
+e,e,e,c,19,1g,1d,1a,1d,1c,1b,18,d,e,e,e
+e,e,e,c,18,1b,1g,1b,1a,1b,18,19,d,e,e,e
+e,e,e,c,1b,1a,1b,1g,19,18,19,18,d,e,e,e
+e,e,e,c,1a,1b,18,19,1g,1h,18,1h,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME 3l
+ITM 2 10,7
+ITM 2 7,4
+ITM 2 4,5
+ITM 2 6,5
+ITM 2 8,5
+ITM 2 7,6
+ITM 2 5,6
+ITM 2 4,7
+ITM 2 6,7
+ITM 2 8,7
+ITM 2 9,8
+ITM 2 7,8
+ITM 2 5,8
+ITM 2 4,9
+ITM 2 6,9
+ITM 2 8,9
+ITM 2 11,8
+ITM 2 10,9
+ITM 2 11,10
+ITM 2 10,11
+ITM 2 9,10
+ITM 2 8,11
+ITM 2 7,10
+ITM 2 6,11
+ITM 2 5,10
+ITM 2 4,11
+ITM 1 8,4
+ITM 1 11,7
+ITM 1 9,7
+ITM 1 8,6
+ITM 1 7,5
+ITM 1 6,4
+ITM 1 4,4
+ITM 1 5,5
+ITM 1 4,6
+ITM 1 6,6
+ITM 1 5,7
+ITM 1 7,7
+ITM 1 4,8
+ITM 1 6,8
+ITM 1 8,8
+ITM 1 10,8
+ITM 1 11,9
+ITM 1 9,9
+ITM 1 7,9
+ITM 1 5,9
+ITM 1 4,10
+ITM 1 5,11
+ITM 1 6,10
+ITM 1 7,11
+ITM 1 8,10
+ITM 1 9,11
+ITM 1 10,10
+ITM 1 11,11
+EXT 10,6 w 10,6
+EXT 10,4 10 7,6
+EXT 11,5 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 5,8
+END 0 6,7
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 7,8
+END 0 8,8
+END 0 9,8
+END 1 9,5
+PAL 0
+
+ROOM y
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,h,f,f,f,f,f,f,f,f,i,e,e,e
+e,e,e,c,b,a,b,a,b,a,b,a,d,e,e,e
+e,e,e,c,a,b,a,b,a,1i,a,b,d,e,e,e
+e,e,e,c,b,a,b,a,b,a,b,a,d,e,e,e
+e,e,e,c,a,1h,1a,1b,a,b,a,b,d,e,e,e
+e,e,e,c,b,1g,1d,1a,b,a,b,a,d,e,e,e
+e,e,e,c,a,1b,1g,1h,a,b,a,b,d,e,e,e
+e,e,e,c,b,a,1b,a,b,a,b,a,d,e,e,e
+e,e,e,c,a,b,a,b,a,b,a,b,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+NAME chemin 0a
+ITM 1 6,10
+EXT 6,9 3 6,9
+EXT 6,7 10 7,6
+EXT 5,8 10 7,6
+EXT 7,8 10 7,6
+END 0 5,10
+END 0 4,10
+END 0 5,11
+END 0 7,10
+END 0 4,6
+END 0 4,5
+END 0 5,4
+END 0 6,4
+END 0 6,6
+END 0 10,4
+END 0 8,5
+END 0 8,6
+END 0 7,6
+END 0 11,5
+END 0 11,7
+END 0 11,6
+END 0 9,6
+END 0 9,7
+END 0 11,11
+END 0 10,9
+END 0 9,9
+END 0 8,8
+END 0 9,8
+PAL 0
+
+ROOM z
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,e,e,1k,1l,1m,f,1n,1o,1p,1q,f,i,e,e,e
+e,e,e,c,b,a,b,a,b,a,b,a,d,e,e,e
+e,e,e,c,a,b,a,b,a,0,a,b,d,e,e,e
+e,e,e,c,b,a,b,a,b,a,b,a,d,e,e,e
+e,e,e,c,a,b,a,b,a,b,a,b,d,e,e,e
+e,e,e,c,b,a,b,a,b,a,b,a,d,e,e,e
+e,e,e,c,a,b,0,b,a,b,a,b,d,e,e,e
+e,e,e,c,b,w,b,w,b,a,b,a,d,e,e,e
+e,e,e,c,a,b,w,b,a,b,a,b,d,e,e,e
+e,e,e,j,m,g,g,g,g,g,g,n,k,e,e,e
+e,e,e,l,e,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,v,e,e,e,e,e,e,e,o,e,e,e
+e,e,e,l,q,r,t,r,u,r,t,s,o,e,e,e
+ITM 1 9,5
+ITM 8 1,0
+ITM 9 2,0
+ITM a 3,0
+ITM b 4,0
+ITM c 5,0
+ITM d 6,0
+ITM e 7,0
+ITM g 8,0
+ITM f 9,0
+ITM i 10,0
+ITM h 11,0
+ITM j 12,0
+ITM k 13,0
+ITM l 1,1
+ITM m 2,1
+ITM n 3,1
+ITM o 4,1
+ITM p 5,1
+ITM q 6,1
+ITM r 7,1
+ITM s 8,1
+ITM u 10,1
+ITM t 9,1
+ITM v 11,1
+ITM w 12,1
+ITM x 13,1
+ITM y 1,2
+ITM z 2,2
+ITM 10 3,2
+ITM 11 4,2
+ITM 12 5,2
+ITM 13 7,2
+ITM 14 8,2
+ITM 15 6,2
+ITM 16 9,2
+ITM 17 10,2
+ITM 18 11,2
+ITM 19 12,2
+ITM 1a 13,2
+ITM 1b 1,3
+ITM 1c 2,3
+EXT 6,9 3 6,9
+PAL 0
+
+TIL 16
+11111111
+11010111
+11100101
+10000011
+11000001
+10100111
+11101011
+11111111
+>
+10110111
+11010110
+11111101
+00111111
+11111100
+10111111
+01101011
+11101101
+
+TIL 17
+01001000
+00101001
+00000010
+11000000
+00000011
+01000000
+10010100
+00010010
+WAL false
+
+TIL 18
+00000000
+00000000
+00001000
+00011000
+00001000
+00011100
+00000000
+00000000
+WAL false
+
+TIL 19
+01111110
+11111111
+11110111
+11100111
+11110111
+11100011
+11111111
+01111110
+WAL false
+
+TIL a
+00000000
+00000000
+00000000
+00010000
+00001000
+00000000
+00000000
+00000000
+
+TIL b
+01111110
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+01111110
+
+TIL c
+11111010
+11111010
+11111010
+11111010
+11111010
+11111010
+11111010
+11111010
+WAL true
+
+TIL d
+01011111
+01011111
+01011111
+01011111
+01011111
+01011111
+01011111
+01011111
+WAL true
+
+TIL e
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+TIL f
+11111111
+11111111
+11111111
+11111111
+11111111
+00000000
+11111111
+00000000
+WAL true
+
+TIL g
+00000000
+11111111
+00000000
+11111111
+00000000
+11111111
+11111111
+11111111
+WAL true
+
+TIL h
+11111111
+11111111
+11111111
+11111111
+11111111
+11111000
+11111011
+11111010
+
+TIL i
+11111111
+11111111
+11111111
+11111111
+11111111
+00011111
+11011111
+01011111
+
+TIL j
+11111010
+11111011
+11111000
+11111011
+11111010
+11111010
+11111010
+11111010
+
+TIL k
+01011111
+11011111
+00011111
+11011111
+01011111
+01011111
+01011111
+01011111
+
+TIL l
+11111010
+11111010
+11111010
+11111010
+11111010
+11111010
+11111010
+11111010
+
+TIL m
+00000000
+11111111
+00000000
+11111111
+00000000
+11111111
+10111111
+11011111
+WAL true
+
+TIL n
+00000000
+11111111
+00000000
+11111111
+00000000
+11111111
+11111101
+11111011
+WAL true
+
+TIL o
+01011111
+00011111
+00011111
+01011111
+01011111
+01011111
+01011111
+01011111
+
+TIL p
+11111111
+11111111
+10111111
+11111111
+10111111
+10111111
+11111111
+11111111
+
+TIL q
+10111111
+10101111
+11111011
+10101111
+10101010
+10101111
+10101010
+10101010
+
+TIL r
+11111111
+11111111
+11111111
+11111111
+11111111
+10101010
+11111111
+10101010
+
+TIL s
+11111110
+11111111
+11111010
+11101110
+10111011
+11101110
+10101010
+10101010
+
+TIL t
+11111111
+11111111
+11111111
+11111111
+11111111
+10111010
+11111111
+10101010
+
+TIL u
+11111111
+11111111
+11111111
+11111111
+11111011
+10101110
+11111011
+10101010
+
+TIL v
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+10111111
+11111111
+
+TIL w
+00000000
+00000000
+00000000
+00010000
+00001000
+00000000
+00000000
+00000000
+WAL true
+
+TIL x
+01111110
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+01111110
+WAL true
+
+TIL 1a
+00000000
+00000000
+00011000
+00001000
+00010000
+00011000
+00000000
+00000000
+WAL false
+
+TIL 1b
+01111110
+11111111
+11100111
+11110111
+11101111
+11100111
+11111111
+01111110
+WAL false
+
+TIL 1c
+00000000
+00000000
+00111000
+00011000
+00001000
+00011000
+00000000
+00000000
+WAL false
+
+TIL 1d
+01111110
+11111111
+11000111
+11100111
+11110111
+11100111
+11111111
+01111110
+WAL false
+
+TIL 1e
+00000000
+00000000
+00100000
+00101000
+00111000
+00001000
+00000000
+00000000
+WAL false
+
+TIL 1f
+01111110
+11111111
+11011111
+11010111
+11000111
+11110111
+11111111
+01111110
+WAL false
+
+TIL 1g
+00000000
+00000000
+00111000
+00101000
+00101000
+00111000
+00000000
+00000000
+WAL false
+
+TIL 1h
+01111110
+11111111
+11000111
+11010111
+11010111
+11000111
+11111111
+01111110
+WAL false
+
+TIL 1i
+11000011
+11100111
+11100111
+11000011
+11000011
+11000011
+11000011
+10000001
+>
+11111111
+11000011
+11100111
+11100111
+11000011
+11000011
+10000011
+00000000
+
+TIL 1j
+11000011
+11100111
+11100111
+11000011
+11000011
+11000011
+11000011
+10000001
+>
+11111111
+11111111
+11100111
+11110111
+11101111
+11100111
+11111111
+11111111
+
+TIL 1k
+11101010
+11101010
+11101110
+11100000
+11111111
+11111000
+11111011
+11111010
+
+TIL 1l
+01010011
+00101010
+10101011
+10001000
+11111111
+00000000
+11111111
+00000000
+WAL true
+
+TIL 1m
+00111101
+00101001
+10101011
+00000011
+11111111
+00000000
+11111111
+00000000
+WAL true
+
+TIL 1n
+11101100
+11101101
+11101100
+11111111
+11111111
+00000000
+11111111
+00000000
+WAL true
+
+TIL 1o
+11110111
+11110111
+01110111
+11111111
+11111111
+00000000
+11111111
+00000000
+WAL true
+
+TIL 1p
+11111111
+00010001
+01010101
+00010001
+11111111
+00000000
+11111111
+00000000
+WAL true
+
+TIL 1q
+11111111
+00011111
+01011111
+00011111
+11111111
+00000000
+11111111
+00000000
+WAL true
+
+TIL 1r
+11111111
+00011111
+01111111
+01110110
+01110111
+01110110
+00010010
+11111111
+
+TIL 1s
+11111111
+11111111
+11111111
+10010101
+10110101
+10110011
+10010101
+11111111
+
+TIL 1t
+10101011
+11000111
+10010011
+11000111
+10101011
+11111111
+11111111
+11111111
+
+SPR A
+00011000
+00111100
+00011000
+00111100
+00111100
+00111100
+00111100
+01111110
+>
+00000000
+00011000
+00111100
+00011000
+00111100
+00111100
+00111101
+11111110
+POS 0 6,10
+
+SPR b
+11100111
+11000011
+11100111
+11000011
+11000011
+11000011
+11000011
+10000001
+
+SPR d
+00000000
+00000000
+00000000
+00000000
+00000000
+00100000
+00000000
+00000000
+
+ITM 0
+11111111
+11111111
+11111111
+11100111
+11000011
+11000011
+11100111
+11000011
+DLG ITM_0
+
+ITM 1
+01111110
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+01111110
+NAME 1
+DLG ITM_1
+
+ITM 2
+00000000
+00000000
+00000000
+00010000
+00001000
+00000000
+00000000
+00000000
+
+ITM 3
+01111110
+11111111
+11110111
+11100111
+11110111
+11100011
+11111111
+01111110
+NAME 2f
+DLG ITM_3
+
+ITM 4
+00000000
+00000000
+00011000
+00001000
+00010000
+00011000
+00000000
+00000000
+NAME 1h
+DLG ITM_2
+
+ITM 5
+00000000
+00000000
+00011000
+00001000
+00010000
+00011000
+00000000
+00000000
+NAME 3j
+DLG ITM_4
+
+ITM 6
+00000000
+00000000
+00011000
+00001000
+00010000
+00011000
+00000000
+00000000
+NAME 3k
+DLG ITM_5
+
+ITM 7
+00000000
+00000000
+00001000
+00011000
+00001000
+00011100
+00000000
+00000000
+NAME 1k
+DLG ITM_6
+
+ITM 8
+11111111
+00000001
+11101111
+11101010
+11101010
+11101000
+11101010
+11101010
+
+ITM 9
+11111111
+11111111
+11111111
+10001111
+10111111
+10011111
+10111111
+10001111
+
+ITM 10
+11010100
+00000110
+11111111
+11100000
+11101110
+11101010
+11101010
+11101010
+
+ITM 11
+10111111
+00111111
+11111111
+11111111
+11111111
+00100000
+10001011
+01010010
+
+ITM 12
+00001000
+11111111
+11111111
+11111111
+11111111
+00000011
+10111001
+00100101
+
+ITM 13
+11101001
+11100000
+11111111
+01111101
+10111011
+11010111
+11101100
+11101101
+
+ITM 14
+01011101
+00000001
+11111111
+11111111
+11111111
+11111111
+01000001
+11110111
+
+ITM 15
+11101111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+ITM 16
+11010111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+ITM 17
+01010101
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+ITM 18
+11001010
+11100000
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+ITM 19
+00101011
+10000000
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+ITM a
+00011111
+01011111
+01011000
+01011011
+01011010
+01011010
+01000011
+01110010
+
+ITM b
+11111111
+11111111
+00000000
+10111011
+10100000
+10111010
+10001010
+10111010
+
+ITM c
+11111111
+11111111
+00001111
+11101111
+10001111
+10111111
+10111111
+10111111
+
+ITM d
+11111111
+00001111
+01101111
+01101000
+00001010
+01111010
+01111000
+01111010
+
+ITM e
+11111111
+11111111
+11111111
+10111010
+10111010
+10101010
+10101010
+11010110
+
+ITM f
+00000011
+01001011
+01001000
+01111011
+01001010
+01001010
+01001011
+01001010
+
+ITM g
+11111111
+11111111
+11111111
+11101111
+01101111
+10101111
+11001111
+11101111
+
+ITM h
+11111111
+00111111
+01011111
+01011000
+00001011
+01101001
+01101011
+00001000
+
+ITM i
+11111111
+11111111
+00000111
+10110011
+10101011
+10101011
+10101011
+10111011
+
+ITM j
+11111111
+11111111
+11111111
+10001011
+10111001
+10011010
+10111011
+10001011
+
+ITM k
+11111111
+11111111
+11111111
+10111111
+10111111
+10111111
+00111111
+10111111
+
+ITM l
+11111111
+00000111
+01110111
+01000000
+01000111
+01100101
+01000101
+01000111
+
+ITM m
+11111111
+11111111
+11111111
+00000000
+01111101
+00010001
+01010101
+01010101
+
+ITM n
+00000000
+11111111
+11111111
+00000010
+11011000
+00010100
+10010010
+00010001
+
+ITM o
+00000000
+11111111
+11111111
+00111111
+10111111
+10111111
+10111111
+10111111
+
+ITM p
+00111111
+11111111
+00111111
+01011111
+01011111
+00001010
+01101010
+01101010
+
+ITM q
+11111111
+11111111
+11111111
+11111111
+11111111
+10000011
+11101111
+11101111
+
+ITM r
+11111111
+00000000
+01111111
+00001000
+11101001
+11101001
+11101001
+11101001
+
+ITM s
+11111111
+01111111
+01111111
+00000001
+01011101
+01010001
+11011011
+01010001
+
+ITM t
+00000000
+11111111
+01111101
+01111101
+01111101
+01111101
+01101101
+10101011
+
+ITM u
+00000011
+11111111
+11111111
+11111111
+00010001
+01010110
+01010000
+00010101
+
+ITM v
+11111111
+10001110
+10101110
+10101110
+10101110
+10100000
+10100100
+10010101
+
+ITM w
+11111111
+00111111
+10111111
+10000000
+10111011
+10101010
+10101011
+00111000
+
+ITM x
+11111111
+11111111
+11111111
+00111111
+10111111
+00111111
+10111111
+10111111
+
+ITM y
+01110101
+00000000
+11111111
+01110111
+00110111
+01010111
+01010100
+01100101
+
+ITM z
+01010101
+01000100
+11111111
+11111111
+11111111
+11111111
+01000001
+01110111
+
+ITM 1a
+10111111
+00111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+ITM 1b
+01100101
+01110101
+01110100
+11111111
+11111111
+11111111
+11111111
+11111111
+
+ITM 1c
+01110111
+01110111
+01110111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+ITM 1d
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME Mine
+DLG ITM_7
+
+DLG ITM_0
+"""
+Black King: So.
+It's just us now.
+White King: ...  
+I'm afraid so...
+B.K.: You won't move ?
+Fine, as you wish. Coward.
+W.K.: ... Hehe...
+
+B.K.: Why are you... ? 
+Wait... What's this noise ?
+W.K.: Ho, you have found out about my little traps ? 
+I'm a bit sad I must say...
+ 
+B.K.: It's... Bombs? You laid mines ??
+W.K.: I can't hide anything from you I suppose... 
+Well, good luck getting through the whole board without stepping on one of my little gifts !
+Hehehehehe !
+B.K.: ... Just wait and watch, I'm going to kick your ass, coward !
+
+W.K.: I can't wait hehe.
+
+*B.K: So... At least I can hear them ticking... If I concentrate enough I should at least know how many mines are around each tile...
+
+Alright king, time to show this fool what you can do... !*
+"""
+
+DLG ITM_1
+"""
+{
+  - {item "1"} == 1 ?
+    B.K.: I warn you, don't                              
+    expect any kindness
+    from me.
+    B.K.: You're going to end up
+    just like your people.
+  - {item "0"} == 1 ?
+
+}
+"""
+
+DLG ITM_2
+"""
+W.K.: Ho, you've come pretty far. I'm impressed !
+You really deserve your reputation after all...
+B.K.: I'm not going to die now, all of my men count on me and my dear Queen...
+I owe them your defeat !
+W.K.: How sweet. And what about MY men and MY Queen ?!
+I must admit you are pretty impressive, but you can't do this for ever.
+Surrender or die, there is nothing else !
+
+B.K.: This, we will see...
+"""
+
+DLG ITM_4
+"""
+W.K.: ...
+I have to admit: I'm a little...
+Scared right now...
+
+B.K.: It's about time !
+
+You know, I had expect you to have run away a long time ago.
+
+W.K.: ... To tell the truth... I can't really move.
+B.K.: ... What ?
+
+W.K.: Well... I've set the mines everywhere so I'm not entirely sure of... Where they... Are...
+
+B.K.: ... You are pathetic...
+
+W.K.: Well, come tell it to my face if you dare !
+B.K. I can't wait !
+"""
+
+DLG ITM_5
+"""
+B.K.: Here you are !
+
+W.K.: ...
+
+B.K.: Anything to say before I eat you just like all your former partisans ?
+
+W.K.: ... No.
+Nothing to add.
+B.K.: Well, your board is mine now !
+W.K.: ...
+"""
+
+DLG ITM_6
+"""
+B.K.: What had I told you ?
+The victory is mine !
+W.K.: ...
+
+B.K.: And so is your board ! Another land to add to my kingdom !
+
+W.K.: I've failed... And I've failed my people...
+B.K.: It couldn't had gone any better: a coward like you had no chance to win.
+
+W.K.: ... If you say so...
+
+But trust me, one day, your reign will end. And if it's not by me, it's going to be by someone else.
+You can't invade and rule for ever without payback.
+B.K.: I am waiting for them, let them try !
+You know pretty well how my enemies end.
+Enough talking.
+Prepare to die !
+W.K.: You've been warn...
+"""
+
+DLG ITM_3
+"""
+{
+  - {item "2f"} == 1 ?
+    W.K.: You really think you're going to get me ?!
+    You fool, no one has ever succeeds at such a task, and you're not going to be the first, I can swear it !
+    
+    B.K.: Don't be so sure White King...
+    W.K.: Yeah ?? Well, let's see how it goes !
+}
+"""
+
+DLG ITM_7
+"""
+You hear a scary sound...
+
+W.K.: How sad hehehe...
+I had warned you.
+"""
+
+END 0
+
+
+END 1
+You've eaten the White King. No one is around to celebrate with you, but you've won !
+
+VAR a
+42
+
+
