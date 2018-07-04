@@ -1,22 +1,23 @@
-8,David Mowatt
+9,David Mowatt
+6,adenator
+6,indieo
 6,helloworld_nrw
 5,Inco-Nito
-5,adenator
-5,indieo
+5,Yenoxx
 5,AlaynaMCole
 5,tommakesstuff
 5,Casino
 5,Shadownat3
 5,NicoAndOliver
 4,Jambudd
-4,Yenoxx
+4,kewbish
 4,TheBookOfBrady
 4,Saranomy
 4,JustinAndyReeve
 4,Zeego
 3,Edited
 3,Shalune
-3,kewbish
+3,Vaida
 3,communistsister
 3,JDM23
 3,suger
@@ -31,6 +32,7 @@
 2,Paolo Jose Cruz
 2,Batgut
 2,Adam Saltsman
+2,s. e. s
 2,deepbluezengames
 2,Aden Webb
 2,Soundole
@@ -55,13 +57,14 @@
 2,Su Kızılağaç
 2,roaderful
 2,Calixarene
-2,Vaida
 2,JcupDavis
 2,Slugzzz
 2,JohnLee Cooper
 2,LandOfLincoln
+2,rumpel
 2,AdventurJourney
 2,Ruune
+2,dumplingsquid
 2,PhantomDreamer
 2,sihun
 2,Sophie Houlden
@@ -71,6 +74,7 @@
 2,SOULSKATER
 2,Living meme
 2,Lorenzo Pilia
+2,sam-i-am
 2,MEZZANINE
 2,lajiao
 2,Graic
@@ -82,14 +86,17 @@
 2,Clorotch
 2,Ballad of Song
 2,kungpowpenis
+2,meowchelle
 2,MrTedders
 2,Maxime Monast
 2,thanerose
 2,Tyler Brothers
 2,PixelCod
 2,lordvark
+2,Ellie
 2,remyripple
 2,Maÿllis
+2,Poe Taito
 2,Damooni
 2,leonie
 2,birdstare
@@ -115,6 +122,7 @@
 2,Celia
 2,MifficalDragon
 2,Guided_Elf1
+2,kwisd
 2,Kai20
 2,lunarDust
 2,raulhaagensen
@@ -156,6 +164,7 @@
 1,llove
 1,Infinitestrike
 1,ultrastoic
+1,Justin Tilford
 1,Nifflas
 1,migrafael
 1,ted
@@ -165,6 +174,7 @@
 1,Ed Naujokas
 1,Happykelly
 1,katanarouge
+1,tyedye105
 1,Anders Christian Larsson
 1,Thayle L
 1,partitiongames
@@ -178,6 +188,7 @@
 1,neven
 1,MissShellsGames
 1,ian anders
+1,DeZeroNeuf
 1,DGTILL
 1,Mnemogenic
 1,HexaBlu
@@ -207,6 +218,7 @@
 1,jleen
 1,amithea
 1,Cosi1125
+1,artsybarrels
 1,wolfbox
 1,jojodee
 1,andromedarts
@@ -268,6 +280,7 @@
 1,Punksmurf
 1,icosometrodon
 1,CGALBO1
+1,masterminer176
 1,Mr. Yellow
 1,PedroPetalite
 1,popoishere
@@ -283,7 +296,6 @@
 1,onkelerik
 1,lifeonluna
 1,zemmi
-1,rumpel
 1,TeaAndBiscuits
 1,Santum
 1,Pilchard
@@ -297,7 +309,6 @@
 1,Cybergnose Café, Spica
 1,Chris Floyd
 1,Salvatore Pane
-1,dumplingsquid
 1,opri369
 1,gia✦grimoire
 1,SunsetDynamite
@@ -329,7 +340,6 @@
 1,alithomas
 1,Gmitchell
 1,secureconnectionboi
-1,sam-i-am
 1,southtonk
 1,akaCheezy
 1,Matt Patrick Walsh
@@ -402,11 +412,11 @@
 1,Devin Raposo
 1,CheeseCake
 1,FyEnw
+1,Matías Paredes
 1,Dave2075
 1,ThatUniGuy
 1,darkpony
 1,Adam Saltsman, bexsaltsman
-1,meowchelle
 1,Lychee Games
 1,Rugiku
 1,lex lex
@@ -427,6 +437,7 @@
 1,Jeremiah Watts
 1,gallwey_l
 1,miscslaineous
+1,audre
 1,TheHashSlingingSlasher
 1,Xipher
 1,Zenuel
@@ -447,7 +458,6 @@
 1,Vincent Vially
 1,NoRain
 1,enui
-1,Ellie
 1,machinescreen
 1,Morgan Brown
 1,lightcastle
@@ -456,7 +466,6 @@
 1,st33d
 1,JStP
 1,Permafried Games
-1,Poe Taito
 1,JTHomeslice
 1,roboman
 1,carrotchipper
@@ -497,11 +506,13 @@
 15,Anonymous
 1,ayens
 1,minaheyon
+1,GotGoat
 1,Yuwrenn
 1,kalale
 1,ConnorCnroy
 1,Flatfish
 1,Michael Klier
+1,Tankzbot
 1,Nick Turner
 1,hippietrashcan
 1,thetoolong
@@ -515,6 +526,7 @@
 1,lenarakahn
 1,bloomdaye
 1,Jojums
+1,Dermot
 1,dogucan
 1,LittleGames
 1,BedWords
@@ -545,6 +557,7 @@
 1,mikadointagli
 1,triplefox
 1,leegon
+1,alextomkow
 1,Antoine Clavreul
 1,natnatart
 1,pixelartm
@@ -566,7 +579,6 @@
 1,glim
 1,SnakeSqueaker
 1,screen implosion
-1,kwisd
 1,actioncan
 1,OhLookCake
 1,Olima
@@ -593,6 +605,7 @@
 1,noiseart
 1,Jezer2001
 1,Morakimo
+1,squishyfrogs
 1,hyper structure
 1,SmickyG
 1,T. J. Field
@@ -605,6 +618,7 @@
 1,erabbit
 1,tktk27
 1,jamesjpk123
+1,nilson
 1,Josh Avanier
 1,Ian Burnette
 1,Stavros Skamagkis
