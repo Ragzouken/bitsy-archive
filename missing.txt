@@ -1,4 +1,3 @@
-9,David Mowatt
 7,indieo
 6,adenator
 6,helloworld_nrw
@@ -6,9 +5,9 @@
 5,Yenoxx
 5,AlaynaMCole
 5,tommakesstuff
+5,NicoAndOliver
 5,Casino
 5,Shadownat3
-5,NicoAndOliver
 4,Jambudd
 4,kewbish
 4,TheBookOfBrady
@@ -119,6 +118,7 @@
 2,Nenekiri
 2,leafykayo
 2,Papercookies
+2,David Mowatt‏
 2,chompicore
 2,Yirggzmb
 2,Nadia Wendt
@@ -186,7 +186,7 @@
 1,tyedye105
 1,Anders Christian Larsson
 1,Thayle L
-1,partitiongames
+1,KurtoGaNg
 1,Benal
 1,Lorelei Nguyen
 1,Frankiextra
@@ -393,7 +393,7 @@
 1,DankuMemeu
 1,Visager
 1,TheoRosen
-1,KurtoGaNg
+1,partitiongames
 1,ComputerJames
 1,himawariness
 1,jam
