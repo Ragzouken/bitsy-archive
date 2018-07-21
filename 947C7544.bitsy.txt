@@ -1,0 +1,894 @@
+Arrival At Whitby
+
+# BITSY VERSION 5.1
+
+! ROOM_FORMAT 1
+
+PAL 0
+0,0,0
+99,49,176
+192,0,0
+0,0,255
+192,192,0
+192,192,192
+0,192,0
+255,255,255
+
+PAL 1
+0,0,0
+117,58,207
+117,58,207
+192,0,0
+192,0,0
+192,0,0
+192,0,0
+192,0,0
+
+ROOM 0
+k,j,k,j,k,j,k,j,k,j,k,j,k,j,k,j
+j,i,i,i,i,i,i,i,i,i,i,i,i,i,i,k
+k,i,i,i,i,i,r,i,r,i,i,i,i,19,i,j
+j,s,s,s,s,s,n,i,n,f,f,f,f,i,i,k
+k,s,p,p,s,s,n,i,o,p,p,f,f,s,f,j
+j,m,n,s,s,p,n,i,s,s,o,p,p,s,f,k
+k,m,m,w,m,m,i,i,s,18,y,u,g,t,f,j
+j,m,m,w,m,m,i,s,m,m,y,u,u,0,t,k
+k,13,15,11,15,v,l,l,15,v,x,u,t,t,t,j
+j,13,13,13,13,w,i,s,m,w,m,t,t,t,t,k
+k,t,h,16,13,i,i,i,m,w,m,t,t,t,t,j
+j,t,t,16,13,13,s,i,m,w,m,t,t,t,t,k
+k,t,t,d,e,a,s,i,m,w,13,13,t,12,t,j
+j,t,t,t,a,a,s,i,m,w,m,t,t,t,t,k
+k,t,t,t,a,a,s,i,m,w,m,t,t,t,t,j
+j,k,j,k,j,k,j,k,j,k,j,k,j,k,j,k
+NAME day low tide
+ITM 6 10,8
+ITM 8 12,13
+ITM 4 1,9
+ITM 9 13,4
+ITM 5 13,7
+EXT 13,5 1 13,5
+END 0 4,14
+END 0 5,14
+END 1 9,14
+PAL 0
+
+ROOM 1
+k,j,k,j,k,j,k,j,k,j,k,j,k,j,k,j
+j,i,i,i,i,i,i,i,i,i,i,i,i,i,i,k
+k,i,i,i,i,i,r,i,r,i,i,i,i,19,i,j
+j,s,s,s,s,s,n,i,n,f,f,f,f,i,i,k
+k,s,p,p,s,s,n,i,o,p,p,f,f,s,f,j
+j,m,n,s,s,p,n,i,i,s,o,p,p,s,f,k
+k,m,m,w,m,m,i,i,i,18,y,u,g,t,f,j
+j,m,m,w,m,m,i,i,m,m,y,u,u,t,t,k
+k,13,15,11,15,v,l,l,15,v,x,u,t,t,t,j
+j,13,13,13,13,w,i,s,m,w,m,t,t,t,t,k
+k,t,h,16,13,i,i,i,m,w,m,t,t,t,t,j
+j,t,t,16,13,13,i,i,m,w,m,t,t,t,t,k
+k,t,t,d,e,a,i,i,m,w,13,13,t,12,t,j
+j,t,t,t,a,a,i,i,m,w,m,t,t,t,t,k
+k,t,t,t,a,a,i,i,m,w,m,t,t,t,t,j
+j,k,j,k,j,k,j,k,j,k,j,k,j,k,j,k
+NAME day high tide
+ITM 3 11,11
+ITM 3 12,11
+ITM 3 13,11
+ITM 3 14,11
+ITM b 4,4
+ITM b 2,3
+ITM a 4,9
+ITM b 1,4
+ITM 9 13,4
+EXT 1,3 2 1,3
+END 0 4,14
+END 0 5,14
+END 1 9,14
+PAL 0
+
+ROOM 2
+k,j,k,j,k,j,k,j,k,j,k,j,k,j,k,j
+j,i,i,i,i,i,i,i,i,i,i,i,i,i,i,k
+k,i,i,i,i,i,r,i,r,i,i,i,i,19,i,j
+j,s,s,s,s,s,n,i,n,f,f,f,f,i,i,k
+k,s,p,p,s,s,n,i,o,p,p,f,f,s,f,j
+j,m,n,s,s,p,n,i,s,s,o,p,p,s,f,k
+k,m,m,w,m,m,i,i,s,18,y,u,g,t,f,j
+j,m,m,w,m,m,i,s,m,m,y,u,u,t,t,k
+k,13,15,11,15,v,l,l,15,v,x,u,t,t,t,j
+j,t,13,13,13,w,i,s,m,w,m,t,t,t,t,k
+k,t,h,16,13,i,i,i,m,w,m,t,t,t,t,j
+j,t,t,16,13,13,s,i,m,w,m,t,t,t,t,k
+k,t,t,d,e,a,s,i,m,w,13,13,t,12,t,j
+j,t,t,t,a,a,s,i,m,w,m,t,t,t,t,k
+k,t,t,t,a,a,s,i,m,w,m,t,t,t,t,j
+j,k,j,k,j,k,j,k,j,k,j,k,j,k,j,k
+NAME ominous
+ITM 7 13,4
+ITM b 1,4
+ITM c 9,12
+END 0 4,14
+END 0 5,14
+END 1 9,14
+END 2 2,9
+END 2 1,9
+END 2 3,10
+END 2 3,11
+END 2 2,11
+END 2 1,10
+END 2 1,11
+PAL 1
+
+TIL 10
+00000000
+11111111
+11111111
+11111111
+11111111
+00000000
+10101010
+10101010
+NAME road 6
+COL 5
+
+TIL 11
+00111100
+00111100
+11111111
+11111111
+11111111
+11111111
+00000000
+00000000
+NAME road 7
+WAL false
+COL 5
+
+TIL 12
+00000000
+01001001
+01010101
+01111111
+01010101
+01010101
+01010101
+01111111
+NAME abbey
+WAL true
+
+TIL 13
+00000100
+00100000
+00000000
+10000000
+00001000
+00000000
+00000010
+01000000
+NAME gravel
+COL 5
+
+TIL 14
+00000000
+00000000
+11111000
+11111100
+11111100
+11111100
+00111100
+00111100
+NAME road 8
+COL 5
+
+TIL 15
+00000000
+00000000
+11111111
+11111111
+11111111
+11111111
+00000000
+00000000
+NAME road 9
+WAL false
+COL 5
+
+TIL 16
+01100100
+01101110
+01100100
+01101110
+01100100
+01101110
+01100100
+01101110
+NAME track platform
+COL 5
+
+TIL 17
+01111110
+00000000
+11111111
+11111111
+11111111
+11111111
+00000000
+01111110
+NAME blocked bridge
+WAL true
+COL 3
+
+TIL 18
+11110111
+10111110
+11111010
+11101010
+10101011
+10101111
+10111101
+11110111
+NAME sand steps
+COL 4
+
+TIL 19
+00001000
+10010100
+00100110
+00011100
+00011100
+10000010
+01010101
+00101000
+>
+00001000
+00010100
+10110010
+00011100
+00011100
+00000001
+01001010
+10110100
+NAME water bouy
+COL 3
+
+TIL a
+00000100
+00101110
+00000100
+10001110
+00000100
+00001110
+00100100
+00001110
+NAME track 1
+COL 5
+
+TIL b
+00000100
+00001110
+00010100
+10101000
+11110100
+10100000
+00000000
+00000000
+NAME track 2
+COL 5
+
+TIL c
+00000000
+00000000
+00000000
+10101010
+11111111
+10101010
+00000000
+00000000
+NAME track 3
+COL 5
+
+TIL d
+00000100
+01001110
+00000101
+00000010
+10000101
+00010000
+00000000
+01000100
+NAME track 4
+COL 5
+
+TIL e
+00000000
+00010000
+00000000
+10100000
+11110100
+10101000
+00010100
+00001110
+NAME track 5
+COL 5
+
+TIL f
+00000000
+00000100
+00100100
+00101100
+01010010
+01010110
+11010101
+10010101
+NAME rocks
+WAL true
+COL 7
+
+TIL g
+01000000
+11100000
+01000000
+11100000
+11111100
+10101010
+10101010
+10111110
+NAME church
+WAL true
+
+TIL h
+00000000
+00010000
+00111000
+01111100
+01000100
+01111100
+01010100
+01110111
+NAME station
+WAL true
+COL 5
+
+TIL i
+00000000
+00100010
+01010101
+10010100
+01001000
+10100010
+00011101
+00000000
+>
+00000000
+01000101
+10101010
+00010000
+10100000
+01010101
+00001010
+00000000
+NAME water
+WAL true
+COL 3
+
+TIL j
+00000000
+00000000
+10011001
+00100100
+10000001
+00100100
+10011001
+00000000
+NAME border 1
+WAL true
+COL 2
+
+TIL k
+00000000
+01000010
+00011000
+00100100
+01000010
+00100100
+00011000
+01000010
+NAME border 2
+WAL true
+COL 2
+
+TIL l
+01111110
+00000000
+11111111
+11111111
+11111111
+11111111
+00000000
+01111110
+NAME bridge
+WAL false
+COL 5
+
+TIL m
+00000000
+00010000
+00111100
+01111110
+01111110
+01101010
+01111010
+00000000
+NAME house
+WAL true
+COL 5
+
+TIL n
+01101110
+01101110
+00000000
+01011110
+01011110
+00000000
+01110110
+00000000
+NAME harbour wall 1
+WAL true
+COL 5
+
+TIL o
+01011110
+01011110
+00000001
+01110101
+01110100
+00000001
+01101101
+00000000
+NAME harbour wall 2
+WAL true
+COL 5
+
+TIL p
+00000000
+00000000
+10110101
+10110001
+00110100
+10000101
+10110101
+00000000
+NAME harbour wall 3
+WAL true
+COL 5
+
+TIL r
+00110000
+00000000
+00000000
+00110000
+00110000
+00110000
+01111000
+00000000
+>
+10110100
+01001000
+01001000
+10110100
+00110000
+00110000
+01111000
+00000000
+NAME lighthouse
+WAL true
+COL 4
+
+TIL s
+11110110
+11111111
+10101111
+11111110
+01110111
+11111111
+11011011
+01101111
+NAME sand
+COL 4
+
+TIL t
+00000000
+00001000
+01000000
+00000010
+00010000
+10000000
+00100000
+00000100
+NAME grass
+COL 6
+
+TIL u
+00000000
+00101000
+10101010
+10000010
+00010000
+01010100
+01000100
+00000000
+NAME graves
+WAL true
+COL 5
+
+TIL v
+00000000
+00000000
+11111111
+11111111
+11111111
+11111111
+00111100
+00111100
+NAME road 1
+COL 5
+
+TIL w
+00111100
+00111100
+00111100
+00111100
+00111100
+00111100
+00111100
+00111100
+NAME road 2
+COL 5
+
+TIL x
+00011110
+00011110
+11111110
+11111110
+11111110
+11111100
+00000000
+00000000
+NAME road 3
+COL 5
+
+TIL y
+00011110
+00011110
+01011110
+00011110
+00011110
+10011110
+00011110
+01011110
+NAME road 4
+COL 5
+
+SPR A
+00000000
+00000000
+00110000
+00110000
+01010100
+00111000
+01111100
+00101000
+>
+00000000
+00000000
+00110000
+00110000
+01011000
+00111000
+01111100
+00101000
+POS 0 2,13
+
+SPR a
+00000000
+00011100
+00111000
+00111100
+10010011
+11111111
+01101010
+00111100
+NAME boat
+DLG SPR_0
+POS 1 5,10
+COL 1
+
+SPR b
+00000000
+00010100
+00111000
+00010100
+10010000
+11110011
+01101010
+00111100
+NAME shipwreck
+DLG SPR_1
+POS 2 12,3
+COL 1
+
+ITM 3
+00000000
+00001000
+01000000
+00000010
+00010000
+10000000
+00000100
+00100000
+NAME lucky clover
+DLG ITM_3
+COL 6
+
+ITM 4
+00001000
+01000001
+00010000
+00111000
+00010000
+00010000
+00000010
+00100000
+>
+00001000
+01000001
+00000000
+00000000
+00000000
+00000000
+00000010
+00100000
+NAME station
+DLG ITM_4
+COL 5
+
+ITM 5
+00100000
+00000100
+00010000
+00111010
+00010000
+10010000
+00000100
+00100000
+>
+00100000
+00000100
+00000000
+00000010
+00000000
+10000000
+00000100
+00100000
+NAME church
+DLG ITM_5
+COL 6
+
+ITM 6
+00011110
+00011110
+11101110
+11000110
+11101110
+11101100
+00000000
+00000000
+>
+00011110
+00011110
+11111110
+11111110
+11111110
+11111100
+00000000
+00000000
+NAME harbour
+DLG ITM_6
+COL 5
+
+ITM 7
+11111000
+10000100
+10010000
+10111010
+10010011
+10010001
+10000011
+11111111
+>
+11111000
+10110100
+11111110
+11110110
+11011111
+01111111
+11111101
+11111111
+NAME shipwreck
+DLG ITM_c
+COL 4
+
+ITM 8
+00010000
+00000100
+00010000
+00111010
+00010000
+10010000
+00000100
+00100000
+>
+00010000
+00000100
+00000000
+00000010
+00000000
+10000000
+00000100
+00100000
+NAME abbey
+DLG ITM_7
+COL 6
+
+ITM 9
+11111000
+10000100
+10010000
+10111010
+10010011
+10010001
+10000011
+11111111
+>
+11111000
+10110100
+11111110
+11110110
+11011111
+01111111
+11111101
+11111111
+NAME reef
+DLG ITM_8
+COL 4
+
+ITM a
+00010000
+00000100
+00010000
+00111010
+00010000
+10010000
+00000100
+00100000
+>
+00010000
+00000100
+00000000
+00000010
+00000000
+10000000
+00000100
+00100000
+NAME boat in harbour
+DLG ITM_9
+COL 5
+
+ITM b
+11110111
+10000011
+10010001
+10111001
+10010001
+10010011
+11000111
+11111011
+>
+11110111
+10111111
+11111101
+11011111
+11110111
+11111111
+11011111
+11111011
+NAME Whitby sands
+DLG ITM_a
+COL 4
+
+ITM c
+00111100
+00000100
+00010000
+00111000
+00010000
+00010000
+00000100
+00111100
+>
+00111100
+00111100
+00111100
+00111100
+00111100
+00111100
+00111100
+00111100
+NAME immense dog
+DLG ITM_b
+COL 5
+
+DLG ITM_3
+"""
+{
+  - {item "lucky clover"} == 1 ?
+    I hadn't noticed until I returned from the shoreline that the meadow near the abbey was awash with lucky clover. I wished that I may be {wvy}blessed{wvy} with good fortune & no ill will.
+  - {item "story targets"} > 1 ?
+
+}
+"""
+
+DLG SPR_1
+The ancient and heart-aching force draw me to the new wreck I spotted from across the harbour. I was drawn to its hold & there the only thing I found was a large crate, its unknown scent wanting me to rip it open. I needed a crowbar or tool of some kind. Captain tied to the wheel, and nothing more than a crate containing silver sand and soil.
+
+DLG ITM_4
+24 July. Whitby - Lucy met me at the station, & we drove up to the house in which they have rooms. This is a lovely place. The little river, the Esk, runs through a deep valley, which broadens out as it comes near the harbour.
+
+DLG ITM_5
+Between the abbey & the town there is a church, round which is a big graveyard, all full of tombstones. This is to my mind the nicest spot in Whitby, for it lies right over the town, & has a full view of the harbour & all up the bay to where the headland called Kettleness stretches out into the sea. It descends so steeply over the harbour that part of the bank has fallen away, & some of the graves have been destroyed. In one place part of the stonework of the graves stretches out over the sandy pathway far below.
+
+DLG ITM_6
+The harbour lies below me. It is nice at high water; but when the tide is out it shoals away to nothing, & here is merely the stream of the Esk, running between banks of sand, with rocks here and there.
+
+DLG ITM_7
+Right over the town is the ruin of Whitby Abbey, which was sacked by the Danes, and which is the scene of part of "Marmion", where the girl was built up in the wall. It is a most noble ruin, of immense size, and full of beautiful and romantic bits; there is a legend that a white lady is seen in one of the windows.
+
+DLG ITM_8
+High tide had come by the time I reached rocks of the shoreline. Outside the harbour on this side there rises for about half a mile a great reef, the sharp edge of which runs straight out from behind the south lighthouse. At the end of it is a buoy with a bell, which swings in bad weather, and sends in a mournful sound on the wind. They have a legend here that when a ship is lost bells are heard out at sea.
+
+DLG ITM_9
+Once the tide was in the harbour filled with ships & boats of all sizes. Chatter in both English & languages I didn't understand filled both the quayside & the vessels mooring up.
+
+DLG ITM_a
+"""
+{sequence
+  - I walked a while on the soft Whitby Sands. Scandalously I took off my shoes - {shk}Please do not tell anyone dear reader{shk}, for I shall be locked away in a dungeon or some such place of correctitude for my wanton disregard of civil behaviour befitting a {wvy}lady{wvy}.
+  - I decided to return to the guest rooms in the town as the sky fell heavy over the sea & the stillness of the air on the shore became quite oppressive.
+  - Before I arrived at the guest house the sky had turned an ominous shade of crimson. It was not something I had ever witnessed before & was unsettling in its unnaturalness. That night I watched from my window as the storm raged. The sea, running mountains high, threw skywards with each wave mighty masses of white foam, which the tempest seemed to snatch at and whirl away into space. Late on, as it subsided, I saw lights on the shore near the church across the harbour, & resolved to find out what was happening there.
+}
+"""
+
+DLG ITM_b
+Approaching the abbey by lantern light I was startled by an immense dog that rushed by me and disappeared into the darkness. A little shaken, I continued my walk down to the shore by the church.
+
+DLG ITM_c
+I arrived at the place where I had seen the lights from across the harbour. Here a large group of men were clambering over a ruined schooner caught out in the storm & pitched up unceremoniously on The Sear an hour or so before I arrived. Their looks were confused, & I overheard talk of the dead captain tied to the wheel bearing a crucifix & no-one else aboard. The cargo they mentioned was unusual to me - silver sand and earth. "Where that huge dog is now, & how it survived that ungodly storm I will never no," one of them said with unease in his voice. I stayed until it was light, & then headed to the station to meet my fiance Jonathan, who I was expecting on the early train.
+
+DLG SPR_0
+"""
+A ship, The Ocean Dreamer, bound for the
+South-Easterly Waters. God keep them safe.
+"""
+
+END 0
+{shk}UH-OH! A train{shk}. You didn't see that coming!
+
+END 1
+{shk}UMMMPPPH!{shk} Mown down by the only motorcar in Whitby.
+
+END 2
+As I waited at the station for Jonathan, I could not take my mind off the storm & shipwreck, & it filled me with a great unease. I now know why, but at that time I did not know that it was because Dracula had landed at Whitby on that very night. [THE END] Adapted from Mina Murray's journal.
+
+VAR a
+42
+

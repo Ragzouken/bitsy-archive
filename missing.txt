@@ -1,6 +1,6 @@
 9,David Mowatt
+7,indieo
 6,adenator
-6,indieo
 6,helloworld_nrw
 5,Inco-Nito
 5,Yenoxx
@@ -16,6 +16,7 @@
 4,JustinAndyReeve
 4,Zeego
 3,Edited
+3,Soundole
 3,Shalune
 3,Vaida
 3,communistsister
@@ -23,6 +24,7 @@
 3,suger
 3,0014x
 3,chriskettlefrisby
+3,FuzzyMittens
 3,Red Skald
 3,Erin K. Ahern
 3,VtheWanderer
@@ -35,7 +37,6 @@
 2,s. e. s
 2,deepbluezengames
 2,Aden Webb
-2,Soundole
 2,~Jellyfish~
 2,Jess Driscoll
 2,pixel games
@@ -58,6 +59,7 @@
 2,roaderful
 2,Calixarene
 2,JcupDavis
+2,Monplaisir
 2,Slugzzz
 2,JohnLee Cooper
 2,LandOfLincoln
@@ -82,10 +84,12 @@
 2,Zushi3DHero
 2,Harder You Fools
 2,Jonas Hansen
+2,RoundHouseStudios
 2,Liam Cooke
 2,Clorotch
 2,Ballad of Song
 2,kungpowpenis
+2,SageTheGameMaker136
 2,meowchelle
 2,MrTedders
 2,Maxime Monast
@@ -96,6 +100,7 @@
 2,Ellie
 2,remyripple
 2,Maÿllis
+2,JStP
 2,Poe Taito
 2,Damooni
 2,leonie
@@ -128,6 +133,7 @@
 2,raulhaagensen
 2,Saida Woolf
 2,FleshPuzzle
+2,nilson
 2,creativecomputing
 1,HeskHwis
 1,No Time To Play
@@ -145,6 +151,7 @@
 1,Moss.
 1,Ash Nieman
 1,Plum
+1,ArthurHamer
 1,Fede Makes Games
 1,Sjors Houkes
 1,single_image
@@ -159,6 +166,7 @@
 1,ArtSvetlakov
 1,boudiboudin
 1,Richard Sherriff
+1,Pastell
 1,halkon
 1,ashlow
 1,llove
@@ -172,6 +180,7 @@
 1,Vidyasaur
 1,joannak
 1,Ed Naujokas
+1,GabeD
 1,Happykelly
 1,katanarouge
 1,tyedye105
@@ -204,6 +213,7 @@
 1,riffsircar
 1,John Vanderhoef
 1,Prototype
+1,TsukiUsagi
 1,alligator
 1,EYDAPYHh
 1,Illud
@@ -259,6 +269,7 @@
 1,Opa-Opa
 1,gdcvdqpl
 1,ouroborose
+1,TheBluePineapple
 1,Kurtness
 1,hotelbones
 1,Jean Carlos Leo Garcia
@@ -307,6 +318,7 @@
 1,G.P. Lackey
 1,SirBickle101
 1,Cybergnose Café, Spica
+1,ardydo
 1,Chris Floyd
 1,Salvatore Pane
 1,opri369
@@ -338,6 +350,7 @@
 1,aliabra
 1,danslocombe
 1,alithomas
+1,Fishing Village
 1,Gmitchell
 1,secureconnectionboi
 1,southtonk
@@ -394,6 +407,7 @@
 1,tuckie
 1,IMLXH
 1,JayMFernandes
+1,deserere
 1,cubehero
 1,HabaekJung
 1,EvieEve
@@ -416,6 +430,7 @@
 1,Dave2075
 1,ThatUniGuy
 1,darkpony
+1,CosmicWitchery
 1,Adam Saltsman, bexsaltsman
 1,Lychee Games
 1,Rugiku
@@ -432,6 +447,7 @@
 1,ElectrumCube
 1,cooljpeg
 1,pedro
+1,deerful
 1,uururernen
 1,Notanthronee
 1,Jeremiah Watts
@@ -464,7 +480,7 @@
 1,ig
 1,Middle Mouse
 1,st33d
-1,JStP
+1,BenSabin
 1,Permafried Games
 1,JTHomeslice
 1,roboman
@@ -474,6 +490,7 @@
 1,VugarSevdimaliyev
 1,jbradleywrites
 1,ErgoTM
+1,m58b33
 1,ManOoPixels
 1,StoriesWithoutBordersJam
 1,Chad Redden
@@ -490,6 +507,7 @@
 1,plot hole games
 1,JPLikesGames
 1,Porpentine
+1,blixdeer
 1,saampahlavan
 1,Niall_S
 1,Piatt
@@ -500,6 +518,7 @@
 1,qazlal
 1,Sand Gardeners
 1,Oscar
+1,bithox
 1,wes
 1,RugFlipper
 1,Mago
@@ -541,6 +560,7 @@
 1,LJRadio
 1,Pizza GameDev
 10,FACT Liverpool
+1,cockatootwin
 1,Brando_
 1,Esteban Grine
 1,feelmystach
@@ -550,6 +570,7 @@
 1,squali
 1,popoplant
 1,blazerboy
+1,neilmatthews
 1,tom_content
 1,Bea Malsky
 1,AnitaGZ
@@ -564,7 +585,6 @@
 1,@buggyglitch
 1,ocean-gem
 1,Efergan
-1,FuzzyMittens
 1,dreif
 1,gepember
 1,saint_somatic
@@ -584,11 +604,13 @@
 1,Olima
 1,Robocop
 1,John Bujalski
+1,Bearadox
 1,Diane
 1,gmx0
 1,Seik Sugaloth
 1,StephenTeodoro
 1,AD1Crazy
+1,Rukii
 1,R2F
 1,mogibear
 1,Tuna Pamir
@@ -604,11 +626,13 @@
 1,12amstatic
 1,noiseart
 1,Jezer2001
+1,Chelsea Stearns
 1,Morakimo
 1,squishyfrogs
 1,hyper structure
 1,SmickyG
 1,T. J. Field
+1,Pi_Ninja
 1,astrochili
 1,bitsy
 1,wlsdn347
@@ -618,7 +642,6 @@
 1,erabbit
 1,tktk27
 1,jamesjpk123
-1,nilson
 1,Josh Avanier
 1,Ian Burnette
 1,Stavros Skamagkis
