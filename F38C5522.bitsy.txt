@@ -1,0 +1,391 @@
+man proposes, god disposes
+
+# BITSY VERSION 5.1
+
+! ROOM_FORMAT 1
+
+PAL 0
+29,150,138
+49,138,78
+168,56,86
+
+ROOM 0
+n,n,q,n,n,n,n,n,n,n,i,n,n,q,n,n
+n,n,n,a,h,h,h,h,h,h,g,n,n,n,n,j
+i,n,a,k,0,0,0,0,0,0,m,h,g,n,n,i
+n,i,b,0,l,0,0,0,0,0,0,0,0,g,n,n
+n,n,b,0,0,0,0,0,0,0,0,0,0,k,h,g
+n,q,b,0,0,0,0,0,0,0,0,0,0,0,l,f
+n,n,c,0,0,m,0,0,0,0,0,0,0,0,0,f
+n,i,i,b,0,0,0,0,0,0,0,0,0,0,0,f
+i,p,n,b,0,0,0,0,0,0,0,0,0,0,m,f
+n,a,h,k,0,0,0,0,0,0,0,0,0,k,0,e
+n,b,0,0,0,m,0,0,0,0,0,l,0,0,f,n
+n,b,l,0,0,0,0,0,0,0,d,d,d,d,e,i
+n,c,0,0,0,0,0,l,0,e,n,n,n,n,i,n
+j,n,c,0,0,k,0,0,f,i,n,j,n,n,o,n
+i,n,n,c,d,d,d,d,e,n,n,i,n,n,n,n
+n,q,n,n,n,i,n,n,n,n,n,n,n,n,q,n
+ITM 0 3,3
+ITM 0 13,5
+ITM 0 2,10
+ITM 0 12,9
+ITM 0 6,13
+ITM 0 7,2
+ITM 0 9,10
+ITM 0 6,8
+PAL 0
+
+TIL a
+11111111
+11101111
+11010100
+11100000
+11000000
+11100000
+11000000
+11000000
+NAME corner up left
+WAL true
+
+TIL b
+11000000
+11100000
+11010000
+11100000
+11000000
+11100000
+11010000
+11100000
+NAME wall left
+WAL true
+
+TIL c
+11000000
+11100000
+11000000
+11100000
+11010000
+11101010
+10111111
+11111111
+NAME corner bot left
+WAL true
+
+TIL d
+00000000
+00000000
+00000000
+00000000
+00000000
+10100101
+11111111
+11111111
+NAME bottom wall
+WAL true
+
+TIL e
+00000011
+00000111
+00000011
+00000011
+00000111
+00101011
+11111101
+11111111
+NAME corner bot right
+WAL true
+
+TIL f
+00000111
+00000011
+00000111
+00001011
+00000111
+00000011
+00000111
+00000011
+NAME wall right
+WAL true
+
+TIL g
+11111111
+11111011
+01010101
+00000011
+00000111
+00000011
+00000111
+00000011
+NAME corner up right
+WAL true
+
+TIL h
+11111111
+11111111
+00010001
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME wall top
+WAL true
+
+TIL i
+11111011
+11111011
+01110110
+10110101
+10101101
+10101011
+10101011
+10101011
+NAME bullrush
+
+TIL j
+11111111
+11111111
+11111111
+11111111
+11111111
+11111011
+11110101
+11111011
+>
+11111111
+11111111
+11111111
+11111111
+11111111
+11111101
+11111010
+11111101
+
+TIL k
+00000000
+00000000
+00000000
+01111100
+10000010
+10001100
+10000010
+01111100
+>
+00000000
+00000000
+00000000
+00111110
+01000001
+01000110
+01000001
+00111110
+NAME lilypad1
+
+TIL l
+00000000
+00000000
+00000000
+00111110
+01000001
+01000110
+01000001
+00111110
+>
+00000000
+00000000
+00000000
+01111100
+10000010
+10001100
+10000010
+01111100
+NAME lilypad2
+
+TIL m
+00001000
+00010100
+00001000
+00000000
+00000100
+00010000
+00000000
+00001000
+>
+00000000
+00001000
+00100000
+00000000
+00001000
+00100000
+00000000
+00010000
+
+TIL n
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+WAL true
+
+TIL o
+11111111
+11111111
+11111111
+11000111
+11100011
+11100001
+11110000
+11110111
+>
+11111111
+11111111
+11111111
+11111111
+11000000
+10000011
+10000111
+10110111
+
+TIL p
+11111111
+11111001
+11111011
+11111011
+11000001
+10000001
+10000001
+11111111
+
+TIL q
+11111111
+11111111
+11110111
+11111011
+10111111
+11011111
+11111011
+11111101
+WAL true
+
+SPR A
+00111100
+00011000
+00011000
+10111101
+01111110
+00100100
+00100100
+00011000
+>
+00000000
+00111100
+00011000
+00111100
+11100111
+00100100
+00011000
+00000000
+POS 0 8,7
+
+SPR a
+00000000
+00000000
+00101000
+01111100
+01111110
+01111110
+00101110
+00101110
+>
+00000000
+00000000
+00101000
+01111100
+01111110
+01111110
+00101110
+00101110
+DLG SPR_0
+
+SPR b
+00000000
+00000000
+00111000
+01000100
+01010101
+00100111
+01000110
+11111100
+
+SPR c
+00000000
+00000000
+00000000
+00111000
+00011100
+00011110
+00001111
+00001000
+>
+00000000
+00000000
+00000000
+00000000
+00111110
+01111100
+01111000
+01001000
+NAME raven
+DLG SPR_1
+
+ITM 0
+00000000
+01010010
+01101100
+01010010
+01001010
+10111101
+10000001
+01111110
+>
+01010010
+01101100
+01010010
+01001010
+10110101
+10000001
+01111110
+00000000
+NAME lilypad
+DLG ITM_0
+
+DLG SPR_0
+I'm a cat
+
+DLG ITM_0
+"""
+{sequence
+  - I have studied the sublime and the picturesque. Landscapes were carved, rivers dammed and villages flattened in the pursuit of the sublime, only ever achieving a mortal shadow.  
+  - A rich trader once changed the course of a river so that his political rivals had to look at a perfect swan shaped lake.
+  - The clone shape of our landscape is an artifact of our obsession with assuming a divine will.
+  - The rolling hills and framed views are a sham, the picturesque a mockery of nature. We've fossilised the countryside. 
+  - Where is the country you'd die for? And what is the century?
+  - A painting of a polar bear shredding a corpse at the pole, covered by a flag in case it drives students mad. A warning of man's folly should we aspire too high. 
+  - The bears are now starving, the ice long gone. The sublime has been subjugated and only carefully curated and conserved dust remains.
+  - Like koi in a lily pond we circle, unwilling to contemplate a world outside our control
+    
+    We are stuck. 
+}
+"""
+
+DLG SPR_1
+bitsy culture is putting that one sprite in every one of your games
+
+VAR a
+42
+
