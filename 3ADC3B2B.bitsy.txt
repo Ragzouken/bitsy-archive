@@ -1,0 +1,1205 @@
+A Lazy Wednesday Morning at the Cat Cafe
+
+# BITSY VERSION 5.1
+
+! ROOM_FORMAT 1
+
+PAL 0
+254,203,229
+178,167,255
+255,255,255
+31,31,31
+205,205,205
+141,92,69
+133,133,133
+242,224,142
+242,172,104
+254,181,195
+
+PAL 1
+254,203,229
+254,181,195
+254,203,229
+
+ROOM 0
+h,e,e,e,e,e,e,e,e,e,e,e,e,e,e,j
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d
+b,0,p,q,p,q,p,q,p,q,p,q,p,q,0,d
+b,0,n,o,n,o,n,o,n,o,n,o,n,o,0,d
+b,k,l,m,l,m,l,m,l,m,l,m,l,m,k,d
+b,0,0,r,0,0,0,0,r,0,0,0,0,0,0,d
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d
+b,0,0,0,0,0,v,x,x,w,0,0,0,r,0,d
+b,0,0,0,0,0,1b,1d,1d,1c,0,0,0,0,0,d
+b,0,0,0,r,0,1b,1d,1d,1c,0,0,0,u,0,d
+b,0,0,0,0,0,z,1a,1a,y,0,0,0,t,s,d
+b,0,0,0,0,0,0,0,0,r,0,0,0,0,0,d
+b,r,0,0,0,0,0,0,0,0,0,0,0,0,0,d
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d
+i,c,c,c,c,c,c,c,c,c,c,c,c,c,c,g
+NAME cafe
+ITM 0 11,6
+PAL 0
+
+ROOM 1
+h,e,e,e,e,e,e,e,e,e,e,e,e,e,e,j
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d
+b,0,p,q,p,q,p,q,p,q,p,q,p,q,0,d
+b,0,n,o,n,o,n,o,n,o,n,o,n,o,0,d
+b,k,l,m,l,m,l,m,l,m,l,m,l,m,k,d
+b,0,0,r,0,0,0,0,r,0,0,0,0,0,0,d
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d
+b,0,0,0,0,0,v,x,x,w,0,0,0,r,0,d
+b,0,0,0,0,0,1b,1d,1d,1c,0,0,0,0,0,d
+b,0,0,0,r,0,1b,1d,1d,1c,0,0,0,u,0,d
+b,0,0,0,0,0,z,1a,1a,y,0,0,0,t,s,d
+b,0,0,0,0,0,0,0,0,r,0,0,0,0,0,d
+b,r,0,0,0,0,0,0,0,0,0,0,0,0,0,d
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d
+i,c,c,c,c,c,c,c,c,c,c,c,c,c,c,g
+NAME intro
+ITM 0 11,6
+ITM 1 2,6
+ITM 1 1,5
+EXT 2,6 0 2,5
+EXT 1,5 0 2,5
+PAL 0
+
+TIL a
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME void
+WAL true
+
+TIL b
+11110101
+11111101
+11110101
+11111101
+11110101
+11111101
+11110101
+11111101
+NAME wall1
+WAL true
+
+TIL c
+11111111
+00000000
+11111111
+01010101
+11111111
+11111111
+11111111
+11111111
+NAME wall2
+WAL true
+
+TIL d
+10111111
+10101111
+10111111
+10101111
+10111111
+10101111
+10111111
+10101111
+NAME wall3
+WAL true
+
+TIL e
+11111111
+11111111
+11111111
+11111111
+10101010
+11111111
+00000000
+11111111
+NAME wall4
+WAL true
+
+TIL g
+10111111
+00101111
+11111111
+01011111
+11111111
+11111111
+11111111
+11111111
+NAME wall5
+WAL true
+
+TIL h
+11111111
+11111111
+11111111
+11111111
+11111010
+11111111
+11110100
+11111101
+NAME wall6
+WAL true
+
+TIL i
+11110101
+11111100
+11110111
+11111101
+11111111
+11111111
+11111111
+11111111
+NAME wall7
+WAL true
+
+TIL j
+11111111
+11111111
+11111111
+11111111
+10111111
+11101111
+00111111
+10101111
+NAME wall8
+WAL true
+
+TIL k
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+NAME wall9
+WAL true
+
+TIL l
+10000100
+10000000
+10000000
+11111111
+00000000
+00000000
+00000000
+11111111
+NAME window1
+WAL true
+
+TIL m
+10000001
+10000001
+10000001
+11111111
+00000000
+00000000
+00000000
+11111111
+NAME window2
+WAL true
+
+TIL n
+10000001
+10000001
+11111111
+10000000
+10000000
+10000100
+10001000
+10010010
+NAME window3
+WAL true
+
+TIL o
+00000001
+00000001
+11111111
+10000001
+10000001
+10001001
+10010001
+10000001
+NAME window4
+WAL true
+
+TIL p
+11111111
+10000001
+10000001
+10001001
+10010001
+10100001
+10000001
+10000001
+NAME window5
+WAL true
+
+TIL q
+11111111
+00000001
+00000001
+00010001
+00100101
+00001001
+00010001
+00100001
+NAME window6
+WAL true
+
+TIL r
+00000000
+00000000
+01111110
+11111111
+11111111
+01111110
+00011000
+00100100
+NAME table
+WAL true
+
+TIL s
+11111110
+00000010
+11010010
+00000010
+11111110
+11111110
+11111110
+11111110
+NAME bar1
+WAL true
+COL 9
+
+TIL t
+00001001
+00001000
+00001000
+00001000
+00001111
+00001111
+00001111
+00001111
+NAME bar2
+WAL true
+COL 9
+
+TIL u
+00000000
+00001111
+00001001
+00001001
+00001011
+00001101
+00001001
+00001001
+NAME bar3
+WAL true
+COL 9
+
+TIL v
+00010101
+00111111
+11100000
+01001111
+11010000
+01010111
+11010111
+01010110
+NAME rug1
+COL 9
+
+TIL w
+01010100
+11111100
+00000110
+11110011
+00001010
+11101011
+11101010
+01101011
+NAME rug2
+COL 9
+
+TIL x
+01010101
+11111111
+00000000
+11111111
+00000000
+11111111
+11100111
+11000011
+NAME rug3
+COL 9
+
+TIL y
+01101010
+11101011
+11101010
+00001011
+11110010
+00000111
+11111100
+10101000
+NAME rug4
+COL 9
+
+TIL z
+11010110
+01010111
+11010111
+01010000
+11001111
+01100000
+00111111
+00101010
+NAME rug5
+COL 9
+
+TIL 1a
+11000011
+11100111
+11111111
+00000000
+11111111
+00000000
+11111111
+10101010
+NAME rug6
+COL 9
+
+TIL 1b
+11010110
+01010110
+11010111
+01010111
+11010111
+01010111
+11010110
+01010110
+NAME rug7
+COL 9
+
+TIL 1c
+01101010
+01101011
+11101010
+11101011
+11101010
+11101011
+01101010
+01101011
+NAME rug8
+COL 9
+
+TIL 1d
+11000011
+11100111
+11111111
+01111110
+01111110
+11111111
+11100111
+11000011
+NAME rug9
+COL 9
+
+SPR 10
+00000000
+00011000
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+POS 1 14,9
+
+SPR 11
+00000000
+00000000
+00000101
+00000111
+01100111
+10011111
+01011110
+00010010
+>
+00000000
+00000000
+01000101
+10000111
+01100111
+00011111
+00011110
+00010010
+POS 1 1,13
+
+SPR A
+00100100
+00011000
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+>
+00100100
+00011000
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+POS 1 2,5
+
+SPR a
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+>
+00000000
+00000000
+01010010
+01110010
+01110010
+01111100
+00111100
+00100100
+NAME cat1
+DLG SPR_0
+POS 0 13,12
+
+SPR b
+00000000
+00000000
+00100101
+01010111
+01000111
+00111111
+00111110
+00000000
+>
+00000000
+00000000
+00100000
+01010101
+01000111
+00111111
+00111111
+00000000
+NAME cat2
+DLG SPR_2
+POS 0 4,14
+
+SPR c
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+>
+00000000
+01010000
+01110000
+01110001
+01111001
+00111101
+01001110
+00000100
+NAME cat3
+DLG SPR_3
+POS 0 9,13
+
+SPR d
+00000000
+00000000
+01000101
+01000111
+00100111
+00011111
+00011110
+00010010
+>
+00000000
+00000000
+00010101
+00100111
+00100111
+00011111
+00011110
+00010010
+NAME cat4
+DLG SPR_4
+POS 0 2,10
+
+SPR e
+00000000
+00000000
+01010000
+01110011
+01110010
+01111100
+00111100
+00100100
+NAME cat5
+DLG SPR_5
+POS 0 7,8
+
+SPR f
+00000000
+00000000
+00000000
+00000010
+01010101
+01110001
+01111110
+01111110
+NAME cat6
+DLG SPR_6
+POS 0 11,9
+
+SPR g
+00000000
+00000000
+00000000
+00000000
+01010001
+01110010
+01111100
+00111100
+>
+00000000
+00000000
+00000000
+00000000
+01010010
+01110010
+01111100
+00111100
+NAME cat7
+DLG SPR_7
+POS 0 13,5
+
+SPR h
+00000000
+00100100
+00111100
+00111110
+01001110
+10001110
+01001010
+00000000
+>
+00000000
+01000010
+00111100
+00111110
+01001110
+10001110
+01001010
+00000000
+NAME cat8
+DLG SPR_8
+POS 0 6,11
+
+SPR i
+00000000
+00000000
+00000000
+01001010
+10101110
+10001110
+01111110
+01111100
+>
+00000000
+00000000
+01000000
+10001010
+10001110
+10001110
+01111110
+01111100
+NAME cat9
+DLG SPR_9
+POS 0 14,13
+
+SPR j
+00000000
+00000000
+10001010
+10001110
+01001110
+00111110
+00111100
+00100100
+NAME cat10
+DLG SPR_a
+POS 0 1,9
+
+SPR k
+00000000
+00011000
+00111100
+00100100
+00111100
+01011010
+00011000
+00100100
+>
+00000000
+00011000
+00111100
+00100100
+01111100
+00011010
+00011000
+00100100
+NAME freya
+DLG SPR_e
+POS 0 4,5
+
+SPR l
+00000000
+00000000
+10001010
+10001110
+01001110
+00111110
+00111100
+00100110
+>
+00000000
+00000000
+10001010
+10001110
+01001110
+00111110
+00111111
+00100100
+NAME cat11
+DLG SPR_b
+POS 0 10,6
+
+SPR m
+00000000
+00011000
+00011000
+00000000
+00111100
+01011010
+00011000
+00100100
+NAME barista
+DLG SPR_d
+POS 0 14,9
+
+SPR n
+00000000
+00000000
+00000101
+00000111
+01100111
+10011111
+01011110
+00010010
+>
+00000000
+00000000
+01000101
+10000111
+01100111
+00011111
+00011110
+00010010
+NAME cat12
+DLG SPR_c
+POS 0 1,13
+
+SPR o
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+>
+00000000
+00000000
+01010010
+01110010
+01110010
+01111100
+00111100
+00100100
+POS 1 13,12
+
+SPR p
+00000000
+00000000
+00100101
+01010111
+01000111
+00111111
+00111110
+00000000
+>
+00000000
+00000000
+00100000
+01010101
+01000111
+00111111
+00111111
+00000000
+POS 1 4,14
+
+SPR q
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+>
+00000000
+01010000
+01110000
+01110001
+01111001
+00111101
+01001110
+00000100
+POS 1 9,13
+
+SPR r
+00000000
+00000000
+01000101
+01000111
+00100111
+00011111
+00011110
+00010010
+>
+00000000
+00000000
+00010101
+00100111
+00100111
+00011111
+00011110
+00010010
+POS 1 2,10
+
+SPR s
+00000000
+00000000
+01010000
+01110011
+01110010
+01111100
+00111100
+00100100
+POS 1 7,8
+
+SPR t
+00000000
+00000000
+00000000
+00000010
+01010101
+01110001
+01111110
+01111110
+POS 1 11,9
+
+SPR u
+00000000
+00000000
+00000000
+00000000
+01010001
+01110010
+01111100
+00111100
+>
+00000000
+00000000
+00000000
+00000000
+01010010
+01110010
+01111100
+00111100
+POS 1 13,5
+
+SPR v
+00000000
+00100100
+00111100
+00111110
+01001110
+10001110
+01001010
+00000000
+>
+00000000
+01000010
+00111100
+00111110
+01001110
+10001110
+01001010
+00000000
+POS 1 6,11
+
+SPR w
+00000000
+00000000
+00000000
+01001010
+10101110
+10001110
+01111110
+01111100
+>
+00000000
+00000000
+01000000
+10001010
+10001110
+10001110
+01111110
+01111100
+POS 1 14,13
+
+SPR x
+00000000
+00000000
+10001010
+10001110
+01001110
+00111110
+00111100
+00100100
+POS 1 1,9
+
+SPR y
+00000000
+00000000
+10001010
+10001110
+01001110
+00111110
+00111100
+00100110
+>
+00000000
+00000000
+10001010
+10001110
+01001110
+00111110
+00111111
+00100100
+POS 1 10,6
+
+SPR z
+00000000
+00011000
+00111100
+00100100
+00111100
+01011010
+00011000
+00100100
+>
+00000000
+00011000
+00111100
+00100100
+01111100
+00011010
+00011000
+00100100
+POS 1 4,5
+
+ITM 0
+00000000
+00000001
+00000010
+01110010
+11111010
+11111001
+11111110
+01110000
+NAME yarn
+DLG ITM_0
+COL 6
+
+ITM 1
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME intro
+DLG ITM_1
+
+DLG ITM_0
+You pick up a ball of yarn.
+
+DLG ITM_1
+"""
+{clr2}"Thanks for taking me out here, Emma."{clr2}
+{clr1}"Oh! No problem!! I knew you would like this place."
+"Plus like, this cat cafe's been here for like, a year now? Year and a half? And I still never found time to come here until now, so it was kind of an excuse for me as well, haha."
+"There's a record store down the street if you wanna visit there after we're do-"{br}
+{clr1}
+{clr2}"Hey."{br}
+{clr2}
+{clr1}"...Yeah?"{br}
+{clr1}
+{clr2}"Before that happens..."{br}
+"...I dare you to go around and kiss every cat on the head in this cafe."{br}
+{clr2}
+{clr1}"Wh..."{br}
+"Uhh...hahaha, what? That's so silly."{clr1}
+{clr2}"Yeah, but it'd be cute."{br}
+"I'll tell you what, I'll throw in $10 as well."{clr2}
+{clr1}"Holy shit, really?"{br}
+"I mean, kissing cats for 10 bucks, that's a job I can't refuse..."{clr1}{br}
+{clr2}"You better get to it then, huh?" ;){clr2}
+{clr1}"All right, all right..."{clr1}
+"""
+
+DLG SPR_0
+"""
+{sequence
+  - {clr2}Meow!{clr2}{br}
+    The cat stands in front of you, watching you intently.
+    You lean over and give him a kiss on the head.
+    {clr1}*smooch*{clr1}
+    {br}You've kissed the cat!{kissed = kissed + 1}
+  - {wvy}{clr2}Purrrrrrrrrrrr{clr2}{wvy}
+}
+"""
+
+DLG SPR_1
+"""
+{sequence
+  - {clr2}Meow!{clr2}{br}
+    This cat is curled up nice and cozy.
+  - {wvy}{clr2}Purrrrrrrrrrrr{clr2}{wvy}
+}
+"""
+
+DLG SPR_2
+"""
+{sequence
+  - {clr2}Meow!{clr2}{br}
+    This cat is curled up nice and cozy.
+    You lean over and give him a kiss on the head.
+    {clr1}*smooch*{clr1}
+    {br}You've kissed the cat!{kissed = kissed + 1}
+  - {wvy}{clr2}Purrrrrrrrrrrr{clr2}{wvy}
+}
+"""
+
+DLG SPR_3
+"""
+{sequence
+  - {clr2}Meow!{clr2}{br}
+    The cat is incredibly playful! He paws at your feet.
+    You lean over and give him a kiss on the head.
+    {clr1}*smooch*{clr1}
+    {br}You've kissed the cat!{kissed = kissed + 1}
+  - {wvy}{clr2}Purrrrrrrrrrrr{clr2}{wvy}
+}
+"""
+
+DLG SPR_4
+"""
+{sequence
+  - {clr2}Meow!{clr2}{br}
+    This cat is curious about you.{br}
+    You lean over and give him a kiss on the head.
+    {clr1}*smooch*{clr1}
+    {br}You've kissed the cat!{kissed = kissed + 1}
+  - {wvy}{clr2}Purrrrrrrrrrrr{clr2}{wvy}
+}
+"""
+
+DLG SPR_5
+"""
+{sequence
+  - {clr2}Meow!{clr2}{br}
+    This cat has lovely, long fur and a funny-shaped tail.
+    You lean over and give him a kiss on the head.
+    {clr1}*smooch*{clr1}
+    {br}You've kissed the cat!{kissed = kissed + 1}
+  - {wvy}{clr2}Purrrrrrrrrrrr{clr2}{wvy}
+}
+"""
+
+DLG SPR_6
+"""
+{sequence
+  - {clr2}Mrr...{clr2}{br}
+    This cat looks like she's sleeping, so you make sure you don't wake her.{br}
+    You lean over and give her a kiss on the head.
+    {clr1}*smooch*{clr1}
+    {br}You've kissed the cat!{kissed = kissed + 1}
+  - {wvy}{clr2}Purrrrrrrrrrrr{clr2}{wvy}
+}
+"""
+
+DLG SPR_7
+"""
+{sequence
+  - {clr2}Mew!{clr2}{br}
+    It's a tiny little kitten, basking in the sun!
+    You lean over and give him a kiss on the head.
+    {clr1}*smooch*{clr1}
+    {br}You've kissed the cat!{kissed = kissed + 1}
+  - {wvy}{clr2}Purrrrrrrrrrrr{clr2}{wvy}
+}
+"""
+
+DLG SPR_8
+"""
+{sequence
+  - {clr2}Meow!{clr2}{br}
+    This cat is rolling on the floor, having a grand ol' time
+    You lean over and give her a kiss on the head.
+    {clr1}*smooch*{clr1}
+    {br}You've kissed the cat!{kissed = kissed + 1}
+  - {wvy}{clr2}Purrrrrrrrrrrr{clr2}{wvy}
+}
+"""
+
+DLG SPR_9
+"""
+{sequence
+  - {clr2}Meow!{clr2}{br}
+    The cat has curled up so you can't see his feet.
+    You lean over and give him a kiss on the head.
+    {clr1}*smooch*{clr1}
+    {br}You've kissed the cat!{kissed = kissed + 1}
+  - {wvy}{clr2}Purrrrrrrrrrrr{clr2}{wvy}
+}
+"""
+
+DLG SPR_a
+"""
+{sequence
+  - {clr2}Meow!{clr2}{br}
+    The cat rubs her head on your ankles!
+    You lean over and give her a kiss on the head.
+    {clr1}*smooch*{clr1}
+    {br}You've kissed the cat!{kissed = kissed + 1}
+  - {wvy}{clr2}Purrrrrrrrrrrr{clr2}{wvy}
+}
+"""
+
+DLG SPR_b
+"""
+{sequence
+  - {clr2}Meow!{clr2}{br}
+    This cat is batting some yarn about the cafe.
+    You lean over and give him a kiss on the head.
+    {clr1}*smooch*{clr1}
+    {br}You've kissed the cat!{kissed = kissed + 1}
+  - {wvy}{clr2}Purrrrrrrrrrrr{clr2}{wvy}
+}
+"""
+
+DLG SPR_c
+"""
+{sequence
+  - {clr2}Meow!{clr2}{br}
+    This cat seems shy, so you hold out your hand to let her sniff it, and she warms up to you.{br}
+    You lean over and give her a kiss on the head.
+    {clr1}*smooch*{clr1}
+    {br}You've kissed the cat!{kissed = kissed + 1}
+  - {wvy}{clr2}Purrrrrrrrrrrr{clr2}{wvy}
+}
+"""
+
+DLG SPR_d
+"""
+{sequence
+  - {clr2}"Hello, is there something I can get for you?"{clr2}
+    {clr1}"Oh, yeah, actually, I could use another hot tea, if you could please..."{br}
+    "...Actually, make that two hot teas."{clr1}
+    {clr2}"Coming right up!"{br}
+    ................{br}
+    "Here you go!"{br}{clr2}
+    {clr1}"Ah, thank you so much!"{clr1}
+{freyatea = 1}
+  - {clr2}"Anything else?"{br}{clr2}
+    {clr1}"No, I think I'm good for now. Thank you!"{clr1}
+}
+"""
+
+DLG SPR_e
+"""
+{
+  - freyatea == 1 ?
+    {clr2}"Oh, you got me some more tea? How sweet..."{clr2}
+    {freyatea = 0}
+  - else ?
+
+}{
+  - kissed >= 12 ?
+    {clr1}"There!!! I kissed all the cats!"
+    "My mouth feels...furry now."{clr1}{br}
+    {clr2}"Hahaha, impressive work! And it was fun to watch."
+    "Here's your $10. You've earned it."{clr2}
+    {clr1}"Yaay!"{clr1}{br}
+    {clr2}"Ready to go? You said something about a record store being around here, right?"{clr2}{br}
+    {clr1}"Oh, yeah! I'm ready if you're ready."{clr1}(end "{clr2}I really enjoyed that, Emma. We should go again soon.{clr2}")
+  - else ?
+    {clr2}"You've only kissed {print kissed} cats so far...get back out there and smooch!"{clr2}
+}
+"""
+
+VAR kissed
+0
+
+VAR freyatea
+0
+

@@ -1,0 +1,136 @@
+A Demo of a Slot Machine Made in Bitsy
+
+# BITSY VERSION 4.8
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME fun
+65,204,163
+255,47,163
+255,255,255
+
+PAL 1
+NAME black
+255,255,255
+0,0,0
+0,0,0
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,0,a,0,0,a,0,0,a,0,0,a,0,a,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,0,a,0,0,a,0,0,a,0,0,a,0,a,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAL 0
+
+TIL a
+01100000
+00111000
+00100100
+00100110
+01101111
+11111011
+10110110
+01100000
+
+SPR A
+00011000
+00011000
+00011000
+00111100
+01111110
+10111101
+00100100
+00100100
+POS 0 7,10
+
+SPR a
+00000000
+01111111
+01010101
+01010101
+11111111
+11000101
+01100111
+01111111
+DLG SPR_0
+POS 0 7,5
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG ITM_0
+
+DLG SPR_0
+"""
+{
+  - Bits >= 1 ?
+    You put 1 Bit in the slot machine.{Bits = Bits - 1}{br}The dials whir.{br}{prize = 0}{shuffle
+      - {dial1 = "BAR"}
+      - {dial1 = "Lemon"}
+      - {dial1 = "Cherry"}
+      - {dial1 = "Bell"}
+      - {dial1 = "Grapes"}
+      - {dial1 = "Orange"}
+    }{say dial1} - {shuffle
+      - {dial2 = "BAR"}
+      - {dial2 = "Lemon"}
+      - {dial2 = "Cherry"}
+      - {dial2 = "Bell"}
+      - {dial2 = "Grapes"}
+      - {dial2 = "Orange"}
+    }{say dial2} - {shuffle
+      - {dial3 = "BAR"}
+      - {dial3 = "Lemon"}
+      - {dial3 = "Cherry"}
+      - {dial3 = "Bell"}
+      - {dial3 = "Grapes"}
+      - {dial3 = "Orange"}
+    }{say dial3}{br}{
+      - dial1 == "Cherry" ?
+        {multiplier = 5}{prize = 1}
+      - else ?
+        {multiplier = 1}
+    }{
+      - dial1 == dial2 ?
+        {prize = 10 * multiplier}{
+          - dial2 == dial3 ?
+            {prize = 100 * multiplier}
+        }
+    }{
+      - prize > 0 ?
+        {Bits = Bits + prize}{rbw}You won ${say prize}!!!{rbw}{br}
+    }You now have {say Bits} Bits left.
+  - else ?
+    You don't have any Bits left!
+}
+"""
+
+DLG ITM_0
+You found a nice warm cup of tea
+
+VAR a
+42
+
+VAR Bits
+10
+

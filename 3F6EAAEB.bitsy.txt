@@ -1,0 +1,725 @@
+Feed Me Hot Pink Mixtapes
+
+# BITSY VERSION 5.2
+
+! ROOM_FORMAT 1
+
+PAL 0
+255,220,159
+171,62,49
+255,127,248
+211,211,211
+0,0,0
+
+ROOM 0
+p,f,f,f,f,f,f,f,f,f,f,f,f,f,f,p
+e,0,0,0,0,0,0,0,0,0,0,0,0,0,0,h
+e,0,p,f,f,f,f,f,f,f,f,f,f,p,0,h
+e,0,e,0,0,0,0,0,0,0,0,0,0,h,0,h
+e,0,e,0,p,f,f,f,f,f,f,p,0,h,0,h
+e,0,e,0,e,0,0,0,0,0,0,h,0,h,0,h
+e,0,e,0,e,0,p,f,f,p,0,h,0,h,0,h
+e,0,e,0,e,0,e,0,0,h,0,h,0,h,0,h
+e,0,e,0,e,0,0,0,0,h,0,h,0,h,0,h
+e,0,e,0,p,g,g,g,g,p,0,h,0,h,0,h
+e,0,e,0,0,0,0,0,0,0,0,h,0,h,0,h
+e,0,p,g,g,g,g,g,g,g,g,p,0,h,0,h
+e,0,0,0,0,0,0,0,0,0,0,0,0,h,0,h
+p,f,f,f,f,f,f,f,f,f,f,f,f,p,0,h
+e,0,0,0,0,0,0,0,0,0,0,0,0,0,0,h
+p,g,g,g,0,g,g,g,g,g,g,g,g,g,g,p
+NAME ceiling
+ITM 4 7,7
+PAL 0
+
+ROOM 1
+v,v,v,v,0,v,v,v,v,v,v,v,v,v,v,v
+0,y,z,0,0,0,0,z,y,0,0,0,0,0,z,y
+0,y,z,v,v,v,v,z,y,v,v,v,v,v,z,y
+y,y,z,y,v,y,v,z,z,0,0,v,z,0,z,z
+y,z,z,0,z,0,v,z,z,v,v,v,z,v,v,z
+y,z,v,v,z,v,y,v,z,z,0,0,z,v,y,z
+0,z,v,y,z,0,0,v,v,z,v,v,z,v,0,z
+v,v,v,y,z,v,v,0,0,z,v,v,z,v,v,z
+0,v,0,0,z,v,y,v,v,z,v,0,z,z,v,v
+0,v,v,v,v,0,z,0,0,z,0,v,v,z,y,v
+0,0,0,v,v,v,z,v,v,v,v,v,y,z,0,v
+0,0,0,v,0,0,z,z,v,v,0,v,0,z,v,0
+k,n,n,o,v,v,v,z,v,0,0,v,v,z,y,y
+k,l,m,o,v,y,y,z,y,y,y,v,0,z,y,y
+k,q,r,0,0,0,0,z,0,0,0,v,v,z,0,0
+v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v
+NAME platform 1
+ITM 1 10,9
+ITM 1 7,7
+ITM 1 3,4
+ITM 1 10,3
+ITM 1 14,10
+ITM 1 5,11
+ITM 1 12,13
+ITM 1 14,6
+ITM 1 13,3
+ITM 1 2,8
+ITM 1 0,6
+ITM 2 4,14
+ITM 2 6,14
+ITM 3 15,14
+ITM 1 5,1
+ITM 5 8,9
+END undefined 15,14
+PAL 0
+
+TIL e
+00000101
+00001010
+00001010
+00010100
+00001010
+00001010
+00000101
+00000101
+NAME border 1
+WAL true
+
+TIL f
+00000000
+00000000
+00000000
+00001000
+00110110
+11001001
+00110110
+11000001
+NAME border 2
+WAL true
+
+TIL g
+10000011
+01101100
+10010011
+01101100
+00010000
+00000000
+00000000
+00000000
+NAME border 3
+WAL true
+
+TIL h
+10100000
+10100000
+01010000
+01010000
+00101000
+01010000
+01010000
+10100000
+NAME border 4
+WAL true
+
+TIL k
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+NAME tape rec 1
+WAL true
+COL 4
+
+TIL l
+00111111
+01000100
+10000010
+10111010
+10000010
+01000100
+00111000
+00000000
+>
+00111111
+01000100
+10010010
+10010010
+10010010
+01000100
+00111000
+00000000
+NAME tape spool 1
+COL 4
+
+TIL m
+11111000
+01000100
+10000010
+10111010
+10000010
+01000100
+00111000
+00000000
+>
+11111000
+01000100
+10010010
+10010010
+10010010
+01000100
+00111000
+00000000
+NAME tape spool 2
+COL 4
+
+TIL n
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+00000000
+NAME tape rec 2
+WAL true
+COL 4
+
+TIL o
+10101010
+01010100
+10101010
+01010100
+10101010
+01010100
+10101010
+01010100
+NAME tape rec 3
+WAL true
+COL 4
+
+TIL p
+00100100
+01000010
+10011001
+00101100
+00110100
+10011001
+01000010
+00100100
+>
+00100100
+01000010
+10011001
+00110100
+00101100
+10011001
+01000010
+00100100
+NAME border corner
+WAL true
+
+TIL q
+10101010
+00000000
+01101101
+01001101
+01101001
+01001101
+00000000
+01010101
+>
+10101010
+00000000
+00000001
+00000001
+00000001
+00000001
+00000000
+01010101
+NAME mouth left
+WAL true
+COL 4
+
+TIL r
+10101010
+00000000
+10110000
+10101000
+00101000
+10110000
+00000000
+01010101
+>
+10101010
+00000000
+00010110
+10110110
+01010100
+01010110
+00000000
+01010101
+NAME mouth right
+WAL true
+COL 4
+
+TIL v
+11011111
+10101010
+01010101
+10101010
+11111111
+00001000
+00001000
+00001000
+NAME bricks
+WAL true
+
+TIL x
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME floor
+
+TIL y
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME blank wall
+WAL true
+
+TIL z
+00000000
+01111100
+00000000
+00111110
+00111110
+00000000
+01111100
+01111100
+>
+00000000
+00111110
+00000000
+01111100
+01111100
+00000000
+00111110
+00111110
+NAME cd box sets
+COL 3
+
+SPR A
+11000011
+10111101
+01000010
+01101010
+01010010
+01000010
+00101010
+00001000
+>
+11000011
+10111101
+01000010
+01101010
+01010010
+01000010
+01101000
+00100000
+POS 1 5,14
+
+SPR a
+11111110
+11111110
+11000110
+11010110
+11001110
+11010110
+11111110
+01111100
+NAME record
+DLG SPR_4
+
+SPR b
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME ideas
+DLG SPR_1
+
+SPR c
+11111110
+11111110
+11011010
+10010010
+10010010
+11011010
+11111110
+01111100
+NAME rewind sprite
+DLG SPR_3
+
+SPR d
+11111110
+11111110
+11101110
+11100110
+11100110
+11101110
+11111110
+01111100
+NAME play sprite
+DLG SPR_0
+POS 0 6,8
+
+SPR e
+11111110
+11111110
+10110110
+10010010
+10010010
+10110110
+11111110
+01111100
+NAME f forward sprite
+DLG SPR_2
+
+SPR f
+11111110
+11111110
+11000110
+11000110
+11000110
+11000110
+11111110
+01111100
+NAME stop sprite
+DLG SPR_5
+
+SPR g
+11111110
+11111110
+11010110
+11010110
+11010110
+11010110
+11111110
+01111100
+NAME pause sprite
+
+SPR h
+10101010
+01010100
+10101010
+01000000
+10000000
+01000000
+10101010
+01010100
+>
+10101010
+01010100
+10111110
+01101010
+11000000
+01101010
+10111110
+01010100
+NAME tape mouth
+DLG SPR_6
+POS 1 3,14
+COL 4
+
+SPR i
+10111111
+11011010
+10110101
+10011010
+11011111
+00001000
+00001000
+00001000
+NAME crack sprite
+DLG SPR_7
+POS 1 4,0
+COL 1
+
+ITM 0
+00000000
+00000000
+01111100
+10000010
+10000010
+10000010
+11111110
+00000000
+>
+00000000
+00000000
+01111100
+11111110
+10010110
+11010010
+11111110
+00000000
+>
+00000000
+00000000
+01111100
+11111110
+11010010
+10010110
+11111110
+00000000
+>
+00000000
+00000000
+01111100
+11111110
+10110010
+10011010
+11111110
+00000000
+NAME story ideas
+
+ITM 1
+00000000
+00000000
+01111100
+11111110
+10011010
+10110010
+11111110
+00000000
+>
+00000000
+00000000
+01111100
+11111110
+10010110
+11010010
+11111110
+00000000
+>
+00000000
+00000000
+01111100
+11111110
+11010010
+10010110
+11111110
+00000000
+>
+00000000
+00000000
+01111100
+11111110
+10110010
+10011010
+11111110
+00000000
+NAME tapes
+DLG ITM_1
+
+ITM 2
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME start text
+DLG ITM_0
+
+ITM 3
+11111110
+11111110
+11000110
+11000110
+11000110
+11111110
+11111110
+00000000
+NAME stop item
+
+ITM 4
+11000011
+10111101
+01000010
+01010110
+01001010
+01000010
+00100100
+00100100
+>
+11000011
+10111101
+01000010
+01101010
+01010010
+01000010
+00100100
+00100100
+NAME spirit
+DLG ITM_2
+
+ITM 5
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME moonwalk item
+DLG ITM_3
+
+DLG SPR_1
+"""
+{sequence
+  - Sounds of a hospital
+  - Sounds of a park
+  - Sounds of a school
+  - A cacophony of laughter, anger, fear, sadness, joy
+  - whose tape is this? What story is it telling. Can only play story if pick up tapes and you press tape buttons
+}
+"""
+
+DLG SPR_0
+"""
+{
+  - tapenum == 1 ?
+    BumDa-BumDa-BumDa-BumDa... I love a good 80s octave synth bass line.... & this "That's Exactly What I'm Thinking Of When I Think Of 80s Synth Pop volume 9" has 23 variations of it.
+  - tapenum == 2 ?
+
+}
+"""
+
+DLG SPR_2
+"""
+{sequence
+  - {track = track + 2}
+}
+"""
+
+DLG SPR_3
+{track = track - 2}
+
+DLG SPR_4
+{delete = 1}
+
+DLG SPR_5
+{delete = 0}
+
+DLG ITM_1
+"""
+{shuffle
+  - {tapenum = 1}
+  - {tapenum = 2}
+  - {tapenum = 3}
+  - {tapenum = 4}
+  - {tapenum = 5}
+  - {tapenum = 6}
+  - {tapenum = 7}
+  - {tapenum = 8}
+  - {tapenum = 9}
+  - {tapenum = 10}
+  - {tapenum = 11}
+  - {tapenum = 12}
+}
+"""
+
+DLG SPR_6
+"""
+{
+  - tapenum == 1 ?
+    BumDa-BumDa-BumDa-BumDa... I love a good 80s octave synth bass line.... & this {rbw}"That's Exactly What I'm Thinking Of When I Think Of 80s Synth Pop, Volume 9"{rbw} has 23 variations of it.
+}{
+  - tapenum == 2 ?
+    {shk}SCREEEEEEEEEEEEEEEEEEEEEEE! BOOOOOP! BSCHK! ZZZZZZZZZZZZZZZ! SCREEEEEEEEEEEEEEEEEE!{shk} The therapeutic sound of {shk}BRRRRRRRRRRKKKK! ZZZZZZZZZZ{shk} {rbw}Jet Pac{rbw} loading.
+}{
+  - tapenum == 3 ?
+    Rock music blares! Blares! Blares! Blares! Drums pounding! Guitars shredding! Vocals screech {shk}xxxxxxxxxxxxxxxlkdfhldnvgf vbfjnbglnblktngblgbnkbgbnbndbnbndknbdb{shk} ... but in the background something catches your ear. It drifts away again... what was that? There it is again amongst the noise. Your ear tunes to it through the noise. What is that? Is it words? A human voice? You listen closer, straining. "S-v- -e" is all you can hear. You strain further, listening over & over. Then, startled, you realise you can hear "Save me. Save me please! I am trapped in the cracks in the ceiling."
+}{
+  - tapenum == 4 ?
+    Sounds of background chatter, laughter, adults, children, joking, cheers, cries of joy. A happy time. You take out the tape and look at the cover. {rbw}"Our last family holiday"{rbw}.
+}{
+  - tapenum == 5 ?
+    {shk}Sounds of static!{shk} The red fox flees at dawn. {shk}Sounds of static!{shk} The blue cow will arrive by snow plough. {shk}Sounds of static!{shk} They will meet at the green goat and we will be delivered. {shk}Static fades{shk}
+}{
+  - tapenum == 6 ?
+    {rbw}"Now That's Just Tedious, Volume 42"{rbw}
+}{
+  - tapenum == 7 ?
+    {rbw}"The Best Of Boring Songs For Boring People (re-recorded)"{rbw}
+}{
+  - tapenum == 8 ?
+    {rbw}"Music That Might Give You A Bit Of Wind (double tape pack)"{rbw}
+}{
+  - tapenum == 9 ?
+    {rbw}"Another Christmas Compilation With At Least One Track That Isn't Really A Christmas Song"{rbw}
+}{
+  - tapenum == 10 ?
+    {rbw}"They Sold At Least 5 Copies, Volume 1,000,000"{rbw}
+}{
+  - tapenum == 11 ?
+    {rbw}"Your Favourite Love Songs Played On The Spoons"{rbw}
+}{
+  - tapenum == 12 ?
+    {rbw}"The Ultimate Collection Of People Tooting Down Cardboard Tubes in Caves"{rbw}
+}
+"""
+
+DLG SPR_7
+{clr2}{wvy}Ahhhhhhhhhhh! Releeeeeeeeeeeease, after so many years being a trapped spirit boarded up in the roof. I thank you.... but to appease the gods you must now take my place.{wvy}{clr2}
+
+DLG ITM_0
+"""
+{sequence
+  - Hi, Hungry Opinionated Tape Deck. Let me climb up & down the stacks of CD box sets & 7" singles, & get you some tasty cassettes.
+    
+    {clr3}Thank you. Don't forget to feed them to me one at a time.{clr3}
+  - 
+}
+"""
+
+DLG ITM_2
+Oh. Thank you so much for rescuing my spirit. But to appease the gods you must {shk}NOW TAKE MY PLACE.{shk} *Body swap sounds*
+
+DLG ITM_3
+{wvy}Heeeeeey!{wvy} I didn't know I could moon walk!
+
+END 0
+Clicking STOP & EJECT buttons {shk}flips you{shk} totally out of the game!
+
+END undefined
+Clicking the STOP & EJECT button {shk}flips you{shk} right out of the game!
+
+VAR tapenum
+0
+
+VAR track
+1
+
+VAR delete
+0
+

@@ -1,0 +1,696 @@
+{clr3}Broken Skin and Band-aids{clr3}     TW: Self-harm.
+
+# BITSY VERSION 5.3
+
+! ROOM_FORMAT 1
+
+PAL 0
+182,182,206
+22,27,43
+117,82,83
+
+PAL 1
+206,132,129
+22,27,43
+92,24,27
+
+ROOM 0
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+PAL 0
+
+ROOM 1
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,a,0,a,b,b,b
+b,b,b,a,b,a,b,b,b,b,a,0,a,b,b,b
+b,b,a,a,c,a,a,a,a,a,a,c,a,a,b,b
+b,b,a,0,0,0,m,l,0,0,0,0,0,a,b,b
+b,b,a,0,0,0,j,k,0,0,0,0,0,a,b,b
+b,b,a,g,h,0,0,0,0,0,0,0,n,a,b,b
+b,b,a,e,f,i,0,0,p,q,0,0,o,a,b,b
+b,b,a,a,a,a,a,a,a,a,a,a,a,a,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+NAME bedroom1
+ITM 0 4,9
+ITM 2 6,12
+ITM 3 12,10
+EXT 11,7 2 11,7
+PAL 0
+
+ROOM 2
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,a,a,x,a,a,a,a,b,b
+b,b,b,b,b,b,b,a,v,u,t,0,s,a,b,b
+b,b,b,b,b,b,b,a,w,0,0,0,r,a,b,b
+b,b,b,b,b,b,b,a,d,0,0,0,0,a,b,b
+b,b,b,b,b,b,b,a,a,a,a,0,a,a,b,b
+b,b,b,b,b,b,b,b,b,b,a,0,a,b,b,b
+b,b,b,b,b,b,b,b,b,b,a,c,a,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+NAME bathroom1
+ITM 1 9,4
+EXT 11,7 3 11,7
+PAL 0
+
+ROOM 3
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,a,0,a,b,b,b
+b,b,b,a,b,a,b,b,b,b,a,0,a,b,b,b
+b,b,a,a,c,a,a,a,a,a,a,c,a,a,b,b
+b,b,a,0,0,0,m,l,0,0,0,0,0,a,b,b
+b,b,a,0,0,0,j,k,0,0,0,0,0,a,b,b
+b,b,a,g,h,0,0,0,0,0,0,0,n,a,b,b
+b,b,a,e,f,i,0,0,p,q,0,0,o,a,b,b
+b,b,a,a,a,a,a,a,a,a,a,a,a,a,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+NAME bedroom2
+ITM 4 4,11
+EXT 3,10 4 3,10
+EXT 4,10 4 4,10
+EXT 5,11 4 5,11
+EXT 11,7 2 11,7
+PAL 0
+
+ROOM 4
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,a,0,a,b,b,b
+b,b,b,a,b,a,b,b,b,b,a,0,a,b,b,b
+b,b,a,a,c,a,a,a,a,a,a,c,a,a,b,b
+b,b,a,0,0,0,m,l,0,0,0,0,0,a,b,b
+b,b,a,0,0,0,j,k,0,0,0,0,0,a,b,b
+b,b,a,g,h,0,0,0,0,0,0,0,n,a,b,b
+b,b,a,e,f,i,0,0,p,q,0,0,o,a,b,b
+b,b,a,a,a,a,a,a,a,a,a,a,a,a,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+NAME bedroom3
+ITM 4 4,11
+EXT 11,7 6 11,7
+PAL 1
+
+ROOM 6
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,a,a,x,a,a,a,a,b,b
+b,b,b,b,b,b,b,a,v,u,t,0,s,a,b,b
+b,b,b,b,b,b,b,a,w,0,0,0,r,a,b,b
+b,b,b,b,b,b,b,a,d,0,0,0,0,a,b,b
+b,b,b,b,b,b,b,a,a,a,a,0,a,a,b,b
+b,b,b,b,b,b,b,b,b,b,a,0,a,b,b,b
+b,b,b,b,b,b,b,b,b,b,a,c,a,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+NAME bathroompost
+EXT 11,7 4 11,7
+PAL 0
+
+ROOM 7
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,a,a,x,a,a,a,a,b,b
+b,b,b,b,b,b,b,a,v,u,t,0,s,a,b,b
+b,b,b,b,b,b,b,a,w,0,0,0,r,a,b,b
+b,b,b,b,b,b,b,a,d,0,0,0,0,a,b,b
+b,b,b,b,b,b,b,a,a,a,a,0,a,a,b,b
+b,b,b,b,b,b,b,b,b,b,a,0,a,b,b,b
+b,b,b,b,b,b,b,b,b,b,a,c,a,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+NAME bathroompost2
+END 0 11,7
+PAL 0
+
+TIL a
+00000000
+00011110
+00000000
+01110000
+00000110
+00000000
+01111000
+00000000
+WAL true
+
+TIL b
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+WAL true
+
+TIL c
+00000000
+00000000
+00000000
+00000000
+00000000
+01010100
+10101010
+01010101
+
+TIL d
+10000000
+11100000
+00000000
+11011100
+11100010
+11100010
+11011100
+00000000
+
+TIL e
+00100000
+00100000
+00100000
+00100000
+00111111
+00100001
+00111111
+00000000
+WAL true
+
+TIL f
+00000100
+00000100
+00000100
+00000100
+11111100
+10000100
+11111100
+00000000
+WAL true
+
+TIL g
+00000000
+00000000
+00000000
+00000000
+00111111
+00100000
+00100000
+00100000
+
+TIL h
+00000000
+00000000
+00000000
+00000000
+11111100
+00000100
+00000100
+00000100
+
+TIL i
+00000000
+00000000
+00111100
+01000010
+01001010
+01000010
+00111100
+00000000
+WAL true
+
+TIL j
+01000000
+01000000
+01000000
+00111111
+00000000
+00000000
+00000000
+00000000
+
+TIL k
+01000010
+00100010
+00000010
+11111100
+00000000
+00000000
+00000000
+00000000
+
+TIL l
+00000000
+11111100
+00000010
+00010010
+00101010
+00000010
+00000010
+00000010
+
+TIL m
+00000000
+00111111
+01000000
+01000000
+01000000
+01001000
+01000100
+01001000
+
+TIL n
+00000000
+00000000
+00000011
+00000111
+00000111
+00000011
+00000111
+00000111
+WAL true
+
+TIL o
+00000011
+00000111
+00000111
+00000111
+00000011
+00000111
+00000011
+00000000
+WAL true
+
+TIL p
+00000000
+00000000
+00000000
+00001000
+01111111
+01000000
+01000000
+01111111
+WAL true
+
+TIL q
+00000000
+00000000
+00000000
+00100000
+11111100
+00000100
+00000100
+11111100
+WAL true
+
+TIL r
+00111110
+00100010
+00011100
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL s
+01111111
+01001001
+01001001
+01011101
+01011101
+01001001
+01111111
+00000000
+WAL true
+
+TIL t
+11111110
+11111110
+11111110
+11111110
+11111110
+00010000
+00000000
+00000000
+WAL true
+
+TIL u
+11111111
+10111111
+01100001
+11100001
+11111111
+00000000
+00000000
+00000000
+WAL true
+
+TIL v
+11111111
+11111111
+11111111
+11111111
+11111111
+10111000
+11111100
+11111000
+WAL true
+
+TIL w
+11111000
+10011000
+10011000
+11111100
+11101000
+11111000
+00000000
+00000000
+WAL true
+
+TIL x
+00000000
+00011110
+00000000
+01111110
+01001010
+01010010
+01111110
+00000000
+WAL true
+
+SPR A
+00000000
+00111100
+01111110
+01011010
+01111110
+01100110
+00111100
+00000000
+POS 1 4,8
+
+SPR q
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME barrier1
+DLG SPR_0
+POS 1 4,7
+
+SPR r
+00000000
+00000000
+00000000
+00000000
+00011111
+00010101
+00011111
+00000000
+NAME bookno1
+DLG SPR_1
+POS 1 11,12
+
+SPR s
+00000000
+00000000
+00000000
+00000000
+00011111
+00010101
+00011111
+00000000
+NAME bookno2
+DLG SPR_2
+POS 3 11,12
+
+SPR u
+00000000
+00000000
+00000000
+00000000
+00011111
+00010101
+00011111
+00000000
+NAME bookyes
+DLG SPR_4
+POS 4 11,12
+
+SPR v
+11111111
+10111111
+01100001
+11100001
+11111111
+00000000
+00000000
+00000000
+NAME mirror
+DLG SPR_3
+POS 6 9,3
+
+SPR w
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME barrier2
+DLG SPR_5
+POS 3 4,7
+
+SPR y
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME barrier4
+DLG SPR_7
+POS 4 4,7
+
+SPR z
+11111111
+10111111
+01100001
+11100001
+11111111
+00000000
+00000000
+00000000
+DLG SPR_6
+POS 7 9,3
+
+ITM 0
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME intro
+DLG ITM_0
+
+ITM 1
+00000000
+01000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+01000000
+10100000
+01000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME razor
+DLG ITM_1
+
+ITM 2
+00000000
+01000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+>
+01000000
+10100000
+01000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME matches
+DLG ITM_2
+
+ITM 3
+00000000
+00000000
+00000000
+00000000
+00000000
+00001000
+00010100
+00001000
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00001000
+00000000
+NAME needle
+DLG ITM_3
+
+ITM 4
+00000000
+00000000
+00000000
+00000000
+11111100
+01000100
+00110100
+00001100
+NAME doing
+DLG ITM_4
+
+DLG ITM_0
+"""
+Home.
+
+Sometimes I feel like I have two homes. My house, and my bedroom. Only one lets me be completely myself.
+It's nice to feel like nobody's watching me here.
+"""
+
+DLG SPR_1
+I don't feel like writing about my day yet. And I don't I feel like reading past entries; they're all the same.
+
+DLG ITM_1
+A razor blade.
+
+DLG ITM_2
+A box of matches.
+
+DLG ITM_3
+A sewing needle and a pair of scissors.
+
+DLG SPR_2
+I don't feel like writing about my day yet. And I don't I feel like reading past entries; they're all the same.
+
+DLG SPR_4
+"""
+I mean, I cut myself, but I don't "cut myself", you know?
+Not like on the news.
+I don't want to kill myself, for starters. And I never cut my wrists. Just my fingers.
+I just want to see my skin heal.
+
+Maybe if it can, the rest of me can too.
+"""
+
+DLG SPR_5
+I don't want to go back into the main house with these things.
+
+DLG SPR_0
+I spent all day with people; I think I just want to be alone in my room for a while tonight.
+
+DLG SPR_7
+"""
+{
+  - {item "doing"} == 1 ?
+    I can't go back in the house yet. I need a Band-aid.
+  - else ?
+    I don't want to go back into the main house with these things.
+}
+"""
+
+DLG ITM_4
+"""
+Skin is weird.
+
+It's strange how easily it {shk}yields{shk} under pressure.
+The slightest sting and the wound is reopened.
+A few drops of {clr3}blood{clr3}.
+"""
+
+DLG SPR_3
+Yep, that's still me.
+
+DLG SPR_6
+Yep, that's still me.
+
+END 0
+Ready to face the world again.
+
+VAR a
+42
+
